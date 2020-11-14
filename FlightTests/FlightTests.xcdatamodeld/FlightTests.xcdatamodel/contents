@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Answer" representedClassName="Answer" syncable="YES">
+        <attribute name="isTrue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Question" representedClassName="Question" syncable="YES">
+        <attribute name="asnwers" optional="YES" attributeType="Transformable" customClassName="[Answer]"/>
+        <attribute name="questionName" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Question" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="Answer" positionX="-252.3671875" positionY="-14.59375" width="128" height="73"/>
+    </elements>
 </model>
