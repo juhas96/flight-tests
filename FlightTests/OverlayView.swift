@@ -10,8 +10,22 @@ import UIKit
 class OverlayView: UIViewController {
     var hasSetPointOrigin = false
     var pointOrigin: CGPoint?
+
     
     @IBOutlet weak var questionsNumberTextField: UITextField!
+    
+    @IBAction func onStartTestButtonTapped(_ sender: UIButton) {
+        let mainStoryBoard = UIStoryboard(name: "Main", bundle: Bundle.main)
+        
+        print(mainStoryBoard)
+        
+        guard let destinationVC = mainStoryBoard.instantiateViewController(withIdentifier: "TestViewController") as? TestViewController else {
+            print("Could not find VC")
+            return
+        }
+        
+        navigationController?.pushViewController(destinationVC, animated: true)
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -43,5 +57,10 @@ class OverlayView: UIViewController {
                 }
             }
         }
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let destVC = segue.destination as! TestViewController
+        destVC.numberOfQuestions = self.questionsNumberTextField.text!
     }
 }

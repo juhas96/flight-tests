@@ -50,8 +50,6 @@ class AllTestsTableViewController: UITableViewController {
         return cell
     }
 
-    
-
 }
 
 extension UILabel {

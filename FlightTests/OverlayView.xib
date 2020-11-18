@@ -23,7 +23,7 @@
                     <rect key="frame" x="167.5" y="546" width="79" height="30"/>
                     <state key="normal" title="Spustit test"/>
                     <connections>
-                        <action selector="onStartButtonTapped:" destination="-1" eventType="touchUpInside" id="FGS-xD-qSX"/>
+                        <action selector="onStartTestButtonTapped:" destination="-1" eventType="touchUpInside" id="Zjq-tJ-0OZ"/>
                     </connections>
                 </button>
                 <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MlR-lc-bWA">
