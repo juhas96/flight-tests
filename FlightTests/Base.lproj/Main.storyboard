@@ -42,6 +42,9 @@
                                         <rect key="frame" x="28.5" y="0.0" width="87" height="30"/>
                                         <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="15"/>
                                         <state key="normal" title="Spustit testy"/>
+                                        <connections>
+                                            <action selector="onStartTestsButtonTapped:" destination="B9Z-d8-MgD" eventType="touchUpInside" id="46p-kk-3Wo"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kJS-zO-gQJ">
                                         <rect key="frame" x="0.0" y="55" width="144" height="30"/>
