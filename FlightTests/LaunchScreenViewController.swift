@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  LaunchScreenViewController.swift
 //  FlightTests
 //
-//  Created by Jakub Juh on 14/11/2020.
+//  Created by Jakub Juh on 18/11/2020.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class LaunchScreenViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-

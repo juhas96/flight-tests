@@ -7,4 +7,5 @@ target 'FlightTests' do
 
   # Pods for FlightTests
   pod 'lottie-ios'
+  pod 'SQLite.swift', '~> 0.12.0'
 end
