@@ -110,72 +110,81 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="X5L-OP-X1q">
-                                <rect key="frame" x="10" y="84" width="394" height="250"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="V7d-Q8-d2U">
+                                <rect key="frame" x="10" y="54" width="394" height="798"/>
                                 <subviews>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6gH-hn-nUB">
-                                        <rect key="frame" x="10" y="10" width="374" height="230"/>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                        <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
-                                        <color key="textColor" systemColor="labelColor"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                                    </textView>
-                                </subviews>
-                                <constraints>
-                                    <constraint firstAttribute="bottom" secondItem="6gH-hn-nUB" secondAttribute="bottom" constant="10" id="5U5-4j-YNT"/>
-                                    <constraint firstItem="6gH-hn-nUB" firstAttribute="leading" secondItem="X5L-OP-X1q" secondAttribute="leading" constant="10" id="P4N-ze-BPk"/>
-                                    <constraint firstItem="6gH-hn-nUB" firstAttribute="top" secondItem="X5L-OP-X1q" secondAttribute="top" constant="10" id="aN7-9o-kEd"/>
-                                    <constraint firstAttribute="trailing" secondItem="6gH-hn-nUB" secondAttribute="trailing" constant="10" id="ofy-hk-iSS"/>
-                                    <constraint firstAttribute="height" constant="250" id="xaC-XQ-FnI"/>
-                                </constraints>
-                            </view>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="V7d-Q8-d2U">
-                                <rect key="frame" x="10" y="354" width="394" height="488"/>
-                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zrv-g4-kVS" userLabel="ProgressStatus Label">
+                                        <rect key="frame" x="0.0" y="0.0" width="394" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Question Text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rZ3-Cp-sAe">
+                                        <rect key="frame" x="0.0" y="40.5" width="394" height="307.5"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAR-4o-ZLU" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="0.0" width="394" height="149.5"/>
+                                        <rect key="frame" x="0.0" y="368" width="394" height="120"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="ihv-Iu-N98"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                         <state key="normal" title="Button"/>
                                         <connections>
-                                            <action selector="onFirstChoiceButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="DIG-52-QBh"/>
+                                            <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="3uq-S4-gHh"/>
                                         </connections>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wc0-so-8ho" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="169.5" width="394" height="149"/>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wc0-so-8ho" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="508" width="394" height="120"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="mPv-8h-BDq"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                         <state key="normal" title="Button"/>
                                         <connections>
-                                            <action selector="onSecondChoiceButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="Edo-Yo-gYN"/>
+                                            <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="prF-si-6FR"/>
                                         </connections>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fE6-j0-Pwr" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="338.5" width="394" height="149.5"/>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fE6-j0-Pwr" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="648" width="394" height="120"/>
+                                        <accessibility key="accessibilityConfiguration" identifier="3"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="MWQ-DF-wdN"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                         <state key="normal" title="Button"/>
                                         <connections>
-                                            <action selector="onThirdChoiceButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="taU-zu-2ev"/>
+                                            <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="SPa-wB-399"/>
                                         </connections>
                                     </button>
+                                    <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="djz-Ro-747">
+                                        <rect key="frame" x="0.0" y="788" width="394" height="10"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="10" id="xhO-ms-VfL"/>
+                                        </constraints>
+                                    </progressView>
                                 </subviews>
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hBL-fZ-Xm2"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.20784313725490194" green="0.29019607843137252" blue="0.49803921568627452" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
-                            <constraint firstItem="X5L-OP-X1q" firstAttribute="leading" secondItem="hBL-fZ-Xm2" secondAttribute="leading" constant="10" id="4YO-tN-Ddu"/>
-                            <constraint firstItem="X5L-OP-X1q" firstAttribute="centerX" secondItem="bn1-fA-mMn" secondAttribute="centerX" id="6c5-bZ-hhT"/>
-                            <constraint firstItem="V7d-Q8-d2U" firstAttribute="leading" secondItem="hBL-fZ-Xm2" secondAttribute="leading" constant="10" id="FJg-us-www"/>
-                            <constraint firstItem="hBL-fZ-Xm2" firstAttribute="trailing" secondItem="V7d-Q8-d2U" secondAttribute="trailing" constant="10" id="M0e-qV-NdG"/>
-                            <constraint firstItem="hBL-fZ-Xm2" firstAttribute="trailing" secondItem="X5L-OP-X1q" secondAttribute="trailing" constant="10" id="U1C-xX-b6X"/>
-                            <constraint firstItem="V7d-Q8-d2U" firstAttribute="top" secondItem="X5L-OP-X1q" secondAttribute="bottom" constant="20" id="Ztx-lY-FH2"/>
-                            <constraint firstItem="X5L-OP-X1q" firstAttribute="top" secondItem="hBL-fZ-Xm2" secondAttribute="top" constant="40" id="tzP-Px-gcf"/>
-                            <constraint firstItem="hBL-fZ-Xm2" firstAttribute="bottom" secondItem="V7d-Q8-d2U" secondAttribute="bottom" constant="20" id="vhj-CN-pYe"/>
+                            <constraint firstItem="hBL-fZ-Xm2" firstAttribute="trailing" secondItem="V7d-Q8-d2U" secondAttribute="trailing" constant="10" id="Qjv-Qw-dlG"/>
+                            <constraint firstItem="hBL-fZ-Xm2" firstAttribute="bottom" secondItem="V7d-Q8-d2U" secondAttribute="bottom" constant="10" id="ZpS-ro-Wcw"/>
+                            <constraint firstItem="V7d-Q8-d2U" firstAttribute="leading" secondItem="hBL-fZ-Xm2" secondAttribute="leading" constant="10" id="ouP-eh-HR2"/>
+                            <constraint firstItem="V7d-Q8-d2U" firstAttribute="top" secondItem="hBL-fZ-Xm2" secondAttribute="top" constant="10" id="yGy-7X-zSX"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="GY7-Q0-yb4"/>
                     <connections>
-                        <outlet property="firstChoiceButton" destination="LAR-4o-ZLU" id="h93-13-mCL"/>
-                        <outlet property="questionText" destination="6gH-hn-nUB" id="fHb-Mz-jqo"/>
-                        <outlet property="secondChoiceButton" destination="wc0-so-8ho" id="uEl-di-tvu"/>
-                        <outlet property="thirdChoiceButton" destination="fE6-j0-Pwr" id="WXQ-Um-4aM"/>
+                        <outlet property="firstAnswerButton" destination="LAR-4o-ZLU" id="bWk-oh-j2k"/>
+                        <outlet property="progressBar" destination="djz-Ro-747" id="Yyc-iI-DoZ"/>
+                        <outlet property="progressLabel" destination="Zrv-g4-kVS" id="seM-YD-xWx"/>
+                        <outlet property="questionLabel" destination="rZ3-Cp-sAe" id="sAY-zu-yys"/>
+                        <outlet property="secondAnswerButton" destination="wc0-so-8ho" id="SeN-fl-Rcx"/>
+                        <outlet property="thirdAnswerButton" destination="fE6-j0-Pwr" id="XXW-hd-JoA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="afq-Dr-e5U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -184,9 +193,6 @@
         </scene>
     </scenes>
     <resources>
-        <systemColor name="labelColor">
-            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
