@@ -14,11 +14,9 @@
 		1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1450EC4325600CD900750D03 /* LaunchScreen.storyboard */; };
 		145BC7E92565C7AC00AB9049 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145BC7E82565C7AC00AB9049 /* TestViewController.swift */; };
 		145BC7EC2565D48900AB9049 /* AnswerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145BC7EB2565D48900AB9049 /* AnswerButton.swift */; };
+		149380612571CA4D000B809C /* EvaluateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149380602571CA4D000B809C /* EvaluateViewController.swift */; };
 		14D752C225656AB80033B313 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D752C125656AB80033B313 /* HomeViewController.swift */; };
 		14D752C525657B500033B313 /* AllTestsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D752C425657B500033B313 /* AllTestsTableViewController.swift */; };
-		14D752CC256585790033B313 /* PresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D752CB256585790033B313 /* PresentationController.swift */; };
-		14D752CF256587F40033B313 /* OverlayView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14D752CE256587F40033B313 /* OverlayView.xib */; };
-		14D752D2256588C30033B313 /* OverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D752D1256588C30033B313 /* OverlayView.swift */; };
 		14DB3ED7256910B50044CD35 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DB3ED6256910B50044CD35 /* Question.swift */; };
 		14DB3EDB256911690044CD35 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DB3EDA256911690044CD35 /* Test.swift */; };
 		62B6C31D86917353F5652271 /* Pods_FlightTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */; };
@@ -34,11 +32,9 @@
 		1450EC4625600CD900750D03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		145BC7E82565C7AC00AB9049 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		145BC7EB2565D48900AB9049 /* AnswerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerButton.swift; sourceTree = "<group>"; };
+		149380602571CA4D000B809C /* EvaluateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateViewController.swift; sourceTree = "<group>"; };
 		14D752C125656AB80033B313 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		14D752C425657B500033B313 /* AllTestsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllTestsTableViewController.swift; sourceTree = "<group>"; };
-		14D752CB256585790033B313 /* PresentationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationController.swift; sourceTree = "<group>"; };
-		14D752CE256587F40033B313 /* OverlayView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OverlayView.xib; sourceTree = "<group>"; };
-		14D752D1256588C30033B313 /* OverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayView.swift; sourceTree = "<group>"; };
 		14DB3ED6256910B50044CD35 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		14DB3EDA256911690044CD35 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlightTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -87,21 +83,18 @@
 		1450EC3425600CD800750D03 /* FlightTests */ = {
 			isa = PBXGroup;
 			children = (
-				14DB3EDD256912B90044CD35 /* Controllers */,
+				14DB3EDD256912B90044CD35 /* Controllers  */,
 				14DB3ED5256910AB0044CD35 /* Model */,
 				14D752A8256561B70033B313 /* Assets */,
 				14D752BD2565685C0033B313 /* Splash */,
 				1450EC3525600CD800750D03 /* AppDelegate.swift */,
 				1450EC4625600CD900750D03 /* Info.plist */,
 				1450EC4325600CD900750D03 /* LaunchScreen.storyboard */,
-				14D752D1256588C30033B313 /* OverlayView.swift */,
 				1450EC3B25600CD800750D03 /* Main.storyboard */,
 				145BC7EB2565D48900AB9049 /* AnswerButton.swift */,
 				14D752C425657B500033B313 /* AllTestsTableViewController.swift */,
 				1450EC3725600CD800750D03 /* SceneDelegate.swift */,
 				14D752C125656AB80033B313 /* HomeViewController.swift */,
-				14D752CB256585790033B313 /* PresentationController.swift */,
-				14D752CE256587F40033B313 /* OverlayView.xib */,
 			);
 			path = FlightTests;
 			sourceTree = "<group>";
@@ -130,12 +123,13 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		14DB3EDD256912B90044CD35 /* Controllers */ = {
+		14DB3EDD256912B90044CD35 /* Controllers  */ = {
 			isa = PBXGroup;
 			children = (
 				145BC7E82565C7AC00AB9049 /* TestViewController.swift */,
+				149380602571CA4D000B809C /* EvaluateViewController.swift */,
 			);
-			path = Controllers;
+			path = "Controllers ";
 			sourceTree = "<group>";
 		};
 		7CEB1CFC768B2D2A99C45E93 /* Pods */ = {
@@ -211,7 +205,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */,
-				14D752CF256587F40033B313 /* OverlayView.xib in Resources */,
 				1450EC4225600CD900750D03 /* Assets.xcassets in Resources */,
 				1450EC3D25600CD800750D03 /* Main.storyboard in Resources */,
 			);
@@ -272,10 +265,9 @@
 				14DB3ED7256910B50044CD35 /* Question.swift in Sources */,
 				14D752C525657B500033B313 /* AllTestsTableViewController.swift in Sources */,
 				1450EC3825600CD800750D03 /* SceneDelegate.swift in Sources */,
-				14D752D2256588C30033B313 /* OverlayView.swift in Sources */,
 				14DB3EDB256911690044CD35 /* Test.swift in Sources */,
+				149380612571CA4D000B809C /* EvaluateViewController.swift in Sources */,
 				14D752C225656AB80033B313 /* HomeViewController.swift in Sources */,
-				14D752CC256585790033B313 /* PresentationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
