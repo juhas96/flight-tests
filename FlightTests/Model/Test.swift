@@ -9,7 +9,7 @@ struct Test {
     
     func getQuestionText() -> String {
         if test.count > 0 && questionNumber != test.count {
-            return test[questionNumber].text
+            return test[questionNumber].questionText
         } else {
             return "No questions in test"
         }

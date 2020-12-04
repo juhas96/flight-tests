@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "questionText": "Základnými fyzikálnymi jednotkami podľa SI sú",
+        "answers": ["meter, kilogram, sekunda, ampér, kelvin, mol, kandela", "meter, kilogram, sekunda, kilopond, bar, kalória, gauss", "meter, decimeter, hodina, joule, watt, volt, ohm"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "2",
+        "questionText": "Atmosféra alebo vzdušný obal zeme sa delí na štyri vrstvy. Najnižšia z nich - troposféra dosahuje do výšky asi",
+        "answers": ["8km", "11,5km", "13km"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika",
+        "questionImage": "imagePath"
+    },
+    {
+        "id": "3",
+        "questionText": "Ideálnym plynom rozumieme plyn",
+        "answers": ["nestlačiteľný, s vnútorným trením", "stlačiteľný, s vnútorným trením", "stlačiteľný, bez vnútorného trenia"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "4",
+        "questionText": "Hybnosť hmotného bodu je definovaná",
+        "answers": ["m. v (m. kg. s-1)", "m. a (m. kg. s-2)", "m. t (kg. s)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "5",
+        "questionText": "Moment sily je definovaný",
+        "answers": ["moment M = G. l (kg. m)", "moment M = F. l (N. m)", "moment M = m. l (kg. m)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "6",
+        "questionText": "Mechanická práca je definovaná",
+        "answers": ["práca A = F. s (J)", "práca A = F. t (N. s)", "práca A = F. v (M. n. s-1)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "7",
+        "questionText": "Účinnosť je definovaná ako",
+        "answers": ["pomer príkonu k výkonu", "pomer výkonu k príkonu", "súčin príkonu a výkonu"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "8",
+        "questionText": "Sila je definovaná",
+        "answers": ["sila F = v. t (m)", "sila F = m. a (N)", "sila F = m. g (N)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "9",
+        "questionText": "Tiaž (sila tiaže) je definovaná",
+        "answers": ["G = m. g (N)", "G = m. v (m. kg. s-1)", "G = m.1 (kg. m)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "10",
+        "questionText": "Výkon je definovaný",
+        "answers": ["výkon P = A / t (W)", "výkon P = A. t (m2. kg. s-3)", "výkon P = A. v (m3. kg. s-3)"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    }
+]

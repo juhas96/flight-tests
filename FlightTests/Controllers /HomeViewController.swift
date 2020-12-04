@@ -23,6 +23,9 @@ class HomeViewController: UIViewController {
         super.viewDidLoad()
         navigationController?.navigationBar.prefersLargeTitles = true
         self.connectToDb()
+        let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
+        DataService.data.changeData(data: parsedData)
+//        self.dataService.currentData.subscribe {data in print(data)}
     }
     
     @IBAction func onStartTestsButtonTapped(_ sender: UIButton) {
@@ -66,6 +69,32 @@ class HomeViewController: UIViewController {
         } catch {
             print(error)
         }
+    }
+    
+    private func readLocalFile(forName name: String) -> Data? {
+        do {
+            if let bundlePath = Bundle.main.path(forResource: name,
+                                                 ofType: "json"),
+                let jsonData = try String(contentsOfFile: bundlePath).data(using: .utf8) {
+                return jsonData
+            }
+        } catch {
+            print(error)
+        }
+        
+        return nil
+    }
+    
+    private func parse(jsonData: Data) -> [Question] {
+        do {
+            let decodedData = try JSONDecoder().decode([Question].self,
+                                                       from: jsonData)
+            
+            return decodedData
+        } catch {
+            print(error)
+        }
+        return []
     }
 
 }

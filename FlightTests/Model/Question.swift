@@ -1,15 +1,18 @@
 import Foundation
 
-struct Question {
-    let text: String
+struct Question: Codable {
+    let id, questionText: String
     let answers: [String]
     let correctAnswerPosition: Int
-    let testId: Int
-    
-    init(text: String, answers: [String], correctAnswerPosition: Int, testId: Int) {
-        self.text = text
-        self.answers = answers
-        self.correctAnswerPosition = correctAnswerPosition
-        self.testId = testId
-    }
+    let testName: TestName
+    let categoryName: CategoryName
+    let questionImage: String?
+}
+
+enum CategoryName: String, Codable {
+    case aerodynamika = "Aerodynamika"
+}
+
+enum TestName: String, Codable {
+    case aerodynamikaX63 = "Aerodynamika X63"
 }

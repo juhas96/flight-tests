@@ -8,4 +8,6 @@ target 'FlightTests' do
   # Pods for FlightTests
   pod 'lottie-ios'
   pod 'SQLite.swift', '~> 0.12.0'
+  pod 'RxSwift', '6.0.0-rc.2'
+  pod 'RxCocoa', '6.0.0-rc.2'
 end

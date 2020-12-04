@@ -123,6 +123,95 @@
             </objects>
             <point key="canvasLocation" x="1900" y="645"/>
         </scene>
+        <!--Test Detail View Controller-->
+        <scene sceneID="WOc-f9-P2d">
+            <objects>
+                <viewController storyboardIdentifier="TestDetailViewController" id="FrR-wl-lpZ" customClass="TestDetailViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8py-JI-kch">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="0Ha-wl-r3Y">
+                                <rect key="frame" x="10" y="54" width="394" height="798"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Question Text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YGZ-7d-EyN">
+                                        <rect key="frame" x="0.0" y="0.0" width="394" height="105"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Answer text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1rC-P2-oEp">
+                                        <rect key="frame" x="0.0" y="125" width="394" height="393"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="tTa-4e-qQP">
+                                        <rect key="frame" x="0.0" y="538" width="394" height="120"/>
+                                        <subviews>
+                                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sPF-fP-oPX" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="197" height="120"/>
+                                                <accessibility key="accessibilityConfiguration" identifier="3"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="120" id="vDv-al-Wnm"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                                <state key="normal" title="Predchádzajúca otázka"/>
+                                                <connections>
+                                                    <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="fQj-Gz-HRv"/>
+                                                    <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="QTN-kN-Hz5"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J7w-e8-guP" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="197" y="0.0" width="197" height="120"/>
+                                                <accessibility key="accessibilityConfiguration" identifier="3"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="120" id="8Nq-Lc-AOj"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                                <state key="normal" title="Ďalšia otázka"/>
+                                                <connections>
+                                                    <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="ssr-T1-lhd"/>
+                                                    <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="A89-mb-XfI"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g4j-2f-DbF" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="678" width="394" height="120"/>
+                                        <accessibility key="accessibilityConfiguration" identifier="3"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="A7B-0h-qxA"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                        <state key="normal" title="Zobraziť odpoveď"/>
+                                        <connections>
+                                            <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="5Gk-NS-zHg"/>
+                                            <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="ulc-xV-upG"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Owu-KH-76y"/>
+                        <color key="backgroundColor" red="0.27058823529411763" green="0.37254901960784315" blue="0.5725490196078431" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="0Ha-wl-r3Y" firstAttribute="top" secondItem="Owu-KH-76y" secondAttribute="top" constant="10" id="49S-4G-R8c"/>
+                            <constraint firstItem="0Ha-wl-r3Y" firstAttribute="leading" secondItem="Owu-KH-76y" secondAttribute="leading" constant="10" id="DVt-0w-2VU"/>
+                            <constraint firstItem="Owu-KH-76y" firstAttribute="trailing" secondItem="0Ha-wl-r3Y" secondAttribute="trailing" constant="10" id="Lzl-b7-Ho3"/>
+                            <constraint firstItem="Owu-KH-76y" firstAttribute="bottom" secondItem="0Ha-wl-r3Y" secondAttribute="bottom" constant="10" id="Obv-cb-s4v"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="4gr-0q-Rpd"/>
+                    <connections>
+                        <outlet property="answerTextLabel" destination="1rC-P2-oEp" id="gb8-QW-H1y"/>
+                        <outlet property="questionTextLabel" destination="YGZ-7d-EyN" id="vPP-bg-KKl"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3bZ-9A-pXj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2851" y="645"/>
+        </scene>
         <!--Test View Controller-->
         <scene sceneID="VlB-tH-ZGx">
             <objects>
@@ -190,7 +279,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hBL-fZ-Xm2"/>
-                        <color key="backgroundColor" red="0.20784313725490194" green="0.29803921568627451" blue="0.49803921568627452" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.27058823529411763" green="0.37254901960784315" blue="0.5725490196078431" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="hBL-fZ-Xm2" firstAttribute="trailing" secondItem="V7d-Q8-d2U" secondAttribute="trailing" constant="10" id="Qjv-Qw-dlG"/>
                             <constraint firstItem="hBL-fZ-Xm2" firstAttribute="bottom" secondItem="V7d-Q8-d2U" secondAttribute="bottom" constant="10" id="ZpS-ro-Wcw"/>
