@@ -16,7 +16,6 @@ struct Test {
     
     }
     
-    
     func getProgress() -> Float {
         return Float(questionNumber) / Float(test.count)
     }
@@ -35,6 +34,14 @@ struct Test {
         } else {
         
             questionNumber = test.count
+        }
+    }
+    
+    mutating func previousQuestion() {
+        print("Question number: \(questionNumber)")
+        print(questionNumber - 1 >= 1)
+        if questionNumber != 0 {
+            questionNumber -= 1
         }
     }
     

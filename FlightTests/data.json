@@ -14,7 +14,6 @@
         "correctAnswerPosition": 0,
         "testName": "Aerodynamika X63",
         "categoryName": "Aerodynamika",
-        "questionImage": "imagePath"
     },
     {
         "id": "3",
@@ -79,5 +78,86 @@
         "correctAnswerPosition": 0,
         "testName": "Aerodynamika X63",
         "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "11",
+        "questionText": "Rovnica spojitosti predstavuje určitú formu zákona",
+        "answers": ["zachovania hmoty", "zachovania energie", "akcie a reakcie"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "12",
+        "questionText": "Bernoulliho rovnica vyjadruje zákon",
+        "answers": ["zachovania hmoty", "zachovania energie", "akcie a reakcie"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "13",
+        "questionText": "Správny tvar Bernoulliho rovnice je",
+        "answers": ["p + 1/2 s . v2 = konšt.", "p + 1/2 s . v2.s = konšt.", "p. s + q = konšt."],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "14",
+        "questionText": "Pre rovnicu spojitosti platí výraz",
+        "answers": [" 1. v1. s1 =  2. v2. s2", " 1. v1 =  2. v2", "1. s1 =  2. s2"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "15",
+        "questionText": "Pitot-statická trubica je snímač",
+        "answers": ["statického a dynamického tlaku", "dynamického a celkového tlaku", "statického a celkového tlaku"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "16",
+        "questionText": "Venturiho trubica je snímač",
+        "answers": ["statického tlaku voľného prúdu a statického tlaku v zúženom priereze", "statického tlaku voľného prúdu a dynamického tlaku", "statického tlaku v zúženom priereze a celkového tlaku"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "17",
+        "questionText": "Bod prechodu je bodom, kde dochádza k",
+        "answers": ["zmene laminárneho prúdenia v turbulentne", "odtrhnutiu medznej vrstvy", "rozdeleniu nabiehajúceho prúdu na profil"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "18",
+        "questionText": "Reynoldsovo číslo Re, ktoré vyjadruje pomer zotrvačných a trecích síl vzdušného prúdu vypočítame zo vzorca (v - rýchlosť letu, l - charakteristický rozmer telesa,  - kinematická viskozita vzduchu, a - rýchlosť zvuku)",
+        "answers": ["Re = v/a", "Re = v/v.1", "Re = v.1/v"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "19",
+        "questionText": "Kritické Reynoldsovo číslo určuje polohu",
+        "answers": ["bodu prechodu laminárneho prúdenia na turbulentné", "miesta vzniku rázovej vlny", "aerodynamického stredu krídla"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika"
+    },
+    {
+        "id": "20",
+        "questionText": "Rýchlostný profil laminárnej vrstvy je na obrázku",
+        "answers": ["a", "b", "c"],
+        "correctAnswerPosition": 0,
+        "testName": "Aerodynamika X63",
+        "categoryName": "Aerodynamika",
+        "questionImage": "aerodynamikax63_20.jpg"
     }
 ]

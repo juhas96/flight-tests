@@ -25,6 +25,7 @@ class HomeViewController: UIViewController {
         self.connectToDb()
         let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
         DataService.data.changeData(data: parsedData)
+        print(DataService.data.getData())
 //        self.dataService.currentData.subscribe {data in print(data)}
     }
     

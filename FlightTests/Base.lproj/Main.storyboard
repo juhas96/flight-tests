@@ -146,11 +146,11 @@
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="tTa-4e-qQP">
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="tTa-4e-qQP">
                                         <rect key="frame" x="0.0" y="538" width="394" height="120"/>
                                         <subviews>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sPF-fP-oPX" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="197" height="120"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="187" height="120"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="3"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="120" id="vDv-al-Wnm"/>
@@ -158,12 +158,11 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                                 <state key="normal" title="Predchádzajúca otázka"/>
                                                 <connections>
-                                                    <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="fQj-Gz-HRv"/>
-                                                    <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="QTN-kN-Hz5"/>
+                                                    <action selector="previousButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="NFD-xo-Wie"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J7w-e8-guP" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="197" y="0.0" width="197" height="120"/>
+                                                <rect key="frame" x="207" y="0.0" width="187" height="120"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="3"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="120" id="8Nq-Lc-AOj"/>
@@ -171,8 +170,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                                 <state key="normal" title="Ďalšia otázka"/>
                                                 <connections>
-                                                    <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="ssr-T1-lhd"/>
-                                                    <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="A89-mb-XfI"/>
+                                                    <action selector="nextButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="g05-dO-7Yy"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -186,7 +184,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                         <state key="normal" title="Zobraziť odpoveď"/>
                                         <connections>
-                                            <action selector="onAnswerButtonTapped:" destination="JXb-Lg-B6f" eventType="touchUpInside" id="5Gk-NS-zHg"/>
                                             <action selector="showAnswerButtonTapped:" destination="FrR-wl-lpZ" eventType="touchUpInside" id="ulc-xV-upG"/>
                                         </connections>
                                     </button>

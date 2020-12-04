@@ -61,7 +61,7 @@ class AllTestsTableViewController: UITableViewController {
         let vc = storyboard?.instantiateViewController(withIdentifier: "TestDetailViewController") as? TestDetailViewController
         
         // TODO: send data
-//        vc?.test = allTests[indexPath.row]
+        vc?.testName = allTests[indexPath.section][indexPath.row]
         self.navigationController?.pushViewController(vc!, animated: true)
     }
 
