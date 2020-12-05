@@ -36,7 +36,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="Pem-U9-v57">
-                                <rect key="frame" x="10" y="318" width="394" height="260"/>
+                                <rect key="frame" x="10" y="270.5" width="394" height="355"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fv8-uL-yIO" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="394" height="70"/>
@@ -49,8 +49,15 @@
                                             <action selector="onStartTestsButtonTapped:" destination="B9Z-d8-MgD" eventType="touchUpInside" id="46p-kk-3Wo"/>
                                         </connections>
                                     </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T9u-1Y-2zK" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="138" y="115" width="118" height="30"/>
+                                        <state key="normal" title="Spustiť ostrý test"/>
+                                        <connections>
+                                            <segue destination="OGH-IS-XsT" kind="show" id="y7O-ny-Iqw"/>
+                                        </connections>
+                                    </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kJS-zO-gQJ" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="95" width="394" height="70"/>
+                                        <rect key="frame" x="0.0" y="190" width="394" height="70"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="27n-Vc-HX2"/>
                                         </constraints>
@@ -60,7 +67,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JPN-cZ-8hC" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="190" width="394" height="70"/>
+                                        <rect key="frame" x="0.0" y="285" width="394" height="70"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="Th2-tT-upg"/>
                                         </constraints>
@@ -90,7 +97,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="j1d-Wq-Bpl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1063.768115942029" y="130.58035714285714"/>
+            <point key="canvasLocation" x="1064" y="131"/>
         </scene>
         <!--All Tests Table View Controller-->
         <scene sceneID="xJ3-PC-fsd">
@@ -121,7 +128,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="u1g-4B-GpQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1900" y="645"/>
+            <point key="canvasLocation" x="1910" y="860"/>
         </scene>
         <!--Test Detail View Controller-->
         <scene sceneID="WOc-f9-P2d">
@@ -207,7 +214,93 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3bZ-9A-pXj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2851" y="645"/>
+            <point key="canvasLocation" x="2726" y="860"/>
+        </scene>
+        <!--Normal Test Detail View Controller-->
+        <scene sceneID="43T-LM-ClC">
+            <objects>
+                <viewController storyboardIdentifier="NormalTestDetailViewController" id="OGH-IS-XsT" customClass="NormalTestDetailViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="1F2-WK-cXt">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="21" translatesAutoresizingMaskIntoConstraints="NO" id="HKp-Xa-ndP">
+                                <rect key="frame" x="20" y="108" width="374" height="734"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question 1/10" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hqY-ID-MVZ">
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="67"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="0bh-Hj-CX6">
+                                        <rect key="frame" x="0.0" y="88" width="374" height="98.5"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xbw-fQ-TEA" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="46" height="98.5"/>
+                                                <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="onPreviousButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="pVd-Bn-g5M"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h2s-ce-ZQg" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="328" y="0.0" width="46" height="98.5"/>
+                                                <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="onNextQuestionButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="7zY-f8-pjb"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question Text" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sW8-uF-k9E">
+                                        <rect key="frame" x="0.0" y="207.5" width="374" height="67"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="dfs-iX-Ql3">
+                                        <rect key="frame" x="0.0" y="295.5" width="374" height="438.5"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qit-Ac-a74" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="374" height="146.5"/>
+                                                <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="onFirstButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="Qy5-yK-Xzc"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Nb-hU-D4l" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="146.5" width="374" height="146"/>
+                                                <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="onSecondButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="dAs-lk-qNH"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rLb-jg-Z3C" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="292.5" width="374" height="146"/>
+                                                <state key="normal" title="Button"/>
+                                                <connections>
+                                                    <action selector="onThirdButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="Myt-Sr-02A"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="SZ4-n5-GTr"/>
+                        <color key="backgroundColor" red="0.2445275784" green="0.37015798690000001" blue="0.58826017379999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="HKp-Xa-ndP" firstAttribute="top" secondItem="SZ4-n5-GTr" secondAttribute="top" constant="20" id="Aob-9u-qf4"/>
+                            <constraint firstItem="SZ4-n5-GTr" firstAttribute="trailing" secondItem="HKp-Xa-ndP" secondAttribute="trailing" constant="20" id="FqF-GZ-aYQ"/>
+                            <constraint firstItem="SZ4-n5-GTr" firstAttribute="bottom" secondItem="HKp-Xa-ndP" secondAttribute="bottom" constant="20" id="MKl-A9-cgA"/>
+                            <constraint firstItem="HKp-Xa-ndP" firstAttribute="leading" secondItem="SZ4-n5-GTr" secondAttribute="leading" constant="20" id="b4o-62-R91"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="eR1-a1-5x4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Urt-kU-m3n" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1074" y="860"/>
         </scene>
         <!--Test View Controller-->
         <scene sceneID="VlB-tH-ZGx">
@@ -276,7 +369,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hBL-fZ-Xm2"/>
-                        <color key="backgroundColor" red="0.27058823529411763" green="0.37254901960784315" blue="0.5725490196078431" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.24313725490196078" green="0.37015798690000001" blue="0.58826017379999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="hBL-fZ-Xm2" firstAttribute="trailing" secondItem="V7d-Q8-d2U" secondAttribute="trailing" constant="10" id="Qjv-Qw-dlG"/>
                             <constraint firstItem="hBL-fZ-Xm2" firstAttribute="bottom" secondItem="V7d-Q8-d2U" secondAttribute="bottom" constant="10" id="ZpS-ro-Wcw"/>
@@ -297,7 +390,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="afq-Dr-e5U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1900" y="-90"/>
+            <point key="canvasLocation" x="1900" y="131"/>
         </scene>
         <!--Evaluate View Controller-->
         <scene sceneID="Hmp-w3-fkz">
@@ -359,7 +452,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dyQ-9y-PJl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2852" y="-90"/>
+            <point key="canvasLocation" x="2716" y="131"/>
         </scene>
     </scenes>
     <resources>

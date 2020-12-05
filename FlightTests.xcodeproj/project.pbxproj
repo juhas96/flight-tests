@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		140F6327257B799A00F801B5 /* NormalTestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */; };
+		140F632A257B7AE700F801B5 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6329257B7AE700F801B5 /* CircleButton.swift */; };
 		1450EC3625600CD800750D03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1450EC3525600CD800750D03 /* AppDelegate.swift */; };
 		1450EC3825600CD800750D03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1450EC3725600CD800750D03 /* SceneDelegate.swift */; };
 		1450EC3D25600CD800750D03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1450EC3B25600CD800750D03 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalTestDetailViewController.swift; sourceTree = "<group>"; };
+		140F6329257B7AE700F801B5 /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
 		1450EC3225600CD800750D03 /* FlightTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1450EC3525600CD800750D03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1450EC3725600CD800750D03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +105,7 @@
 				1450EC3B25600CD800750D03 /* Main.storyboard */,
 				1450EC3725600CD800750D03 /* SceneDelegate.swift */,
 				148E2D88257AA0D70027BCF9 /* DataService.swift */,
+				140F6329257B7AE700F801B5 /* CircleButton.swift */,
 			);
 			path = FlightTests;
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 				14D752C125656AB80033B313 /* HomeViewController.swift */,
 				145BC7E82565C7AC00AB9049 /* TestViewController.swift */,
 				148E2D7D257A93D20027BCF9 /* TestDetailViewController.swift */,
+				140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */,
 			);
 			path = "Controllers ";
 			sourceTree = "<group>";
@@ -271,8 +277,10 @@
 			files = (
 				145BC7E92565C7AC00AB9049 /* TestViewController.swift in Sources */,
 				145BC7EC2565D48900AB9049 /* AnswerButton.swift in Sources */,
+				140F6327257B799A00F801B5 /* NormalTestDetailViewController.swift in Sources */,
 				1450EC3625600CD800750D03 /* AppDelegate.swift in Sources */,
 				14DB3ED7256910B50044CD35 /* Question.swift in Sources */,
+				140F632A257B7AE700F801B5 /* CircleButton.swift in Sources */,
 				14D752C525657B500033B313 /* AllTestsTableViewController.swift in Sources */,
 				148E2D89257AA0D70027BCF9 /* DataService.swift in Sources */,
 				1450EC3825600CD800750D03 /* SceneDelegate.swift in Sources */,

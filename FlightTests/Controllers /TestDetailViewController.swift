@@ -19,7 +19,7 @@ class TestDetailViewController: UIViewController {
         super.viewDidLoad()
         var data = DataService.data.getData()
         test.test = data.filter({ (Question) -> Bool in
-            return Question.testName.rawValue == self.testName
+            return Question.testName == self.testName
         })
         self.updateUI()
         print(test.test)

@@ -1,163 +1,466 @@
 [
-    {
-        "id": "1",
-        "questionText": "Základnými fyzikálnymi jednotkami podľa SI sú",
-        "answers": ["meter, kilogram, sekunda, ampér, kelvin, mol, kandela", "meter, kilogram, sekunda, kilopond, bar, kalória, gauss", "meter, decimeter, hodina, joule, watt, volt, ohm"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "2",
-        "questionText": "Atmosféra alebo vzdušný obal zeme sa delí na štyri vrstvy. Najnižšia z nich - troposféra dosahuje do výšky asi",
-        "answers": ["8km", "11,5km", "13km"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika",
-    },
-    {
-        "id": "3",
-        "questionText": "Ideálnym plynom rozumieme plyn",
-        "answers": ["nestlačiteľný, s vnútorným trením", "stlačiteľný, s vnútorným trením", "stlačiteľný, bez vnútorného trenia"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "4",
-        "questionText": "Hybnosť hmotného bodu je definovaná",
-        "answers": ["m. v (m. kg. s-1)", "m. a (m. kg. s-2)", "m. t (kg. s)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "5",
-        "questionText": "Moment sily je definovaný",
-        "answers": ["moment M = G. l (kg. m)", "moment M = F. l (N. m)", "moment M = m. l (kg. m)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "6",
-        "questionText": "Mechanická práca je definovaná",
-        "answers": ["práca A = F. s (J)", "práca A = F. t (N. s)", "práca A = F. v (M. n. s-1)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "7",
-        "questionText": "Účinnosť je definovaná ako",
-        "answers": ["pomer príkonu k výkonu", "pomer výkonu k príkonu", "súčin príkonu a výkonu"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "8",
-        "questionText": "Sila je definovaná",
-        "answers": ["sila F = v. t (m)", "sila F = m. a (N)", "sila F = m. g (N)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "9",
-        "questionText": "Tiaž (sila tiaže) je definovaná",
-        "answers": ["G = m. g (N)", "G = m. v (m. kg. s-1)", "G = m.1 (kg. m)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "10",
-        "questionText": "Výkon je definovaný",
-        "answers": ["výkon P = A / t (W)", "výkon P = A. t (m2. kg. s-3)", "výkon P = A. v (m3. kg. s-3)"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "11",
-        "questionText": "Rovnica spojitosti predstavuje určitú formu zákona",
-        "answers": ["zachovania hmoty", "zachovania energie", "akcie a reakcie"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "12",
-        "questionText": "Bernoulliho rovnica vyjadruje zákon",
-        "answers": ["zachovania hmoty", "zachovania energie", "akcie a reakcie"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "13",
-        "questionText": "Správny tvar Bernoulliho rovnice je",
-        "answers": ["p + 1/2 s . v2 = konšt.", "p + 1/2 s . v2.s = konšt.", "p. s + q = konšt."],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "14",
-        "questionText": "Pre rovnicu spojitosti platí výraz",
-        "answers": [" 1. v1. s1 =  2. v2. s2", " 1. v1 =  2. v2", "1. s1 =  2. s2"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "15",
-        "questionText": "Pitot-statická trubica je snímač",
-        "answers": ["statického a dynamického tlaku", "dynamického a celkového tlaku", "statického a celkového tlaku"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "16",
-        "questionText": "Venturiho trubica je snímač",
-        "answers": ["statického tlaku voľného prúdu a statického tlaku v zúženom priereze", "statického tlaku voľného prúdu a dynamického tlaku", "statického tlaku v zúženom priereze a celkového tlaku"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "17",
-        "questionText": "Bod prechodu je bodom, kde dochádza k",
-        "answers": ["zmene laminárneho prúdenia v turbulentne", "odtrhnutiu medznej vrstvy", "rozdeleniu nabiehajúceho prúdu na profil"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "18",
-        "questionText": "Reynoldsovo číslo Re, ktoré vyjadruje pomer zotrvačných a trecích síl vzdušného prúdu vypočítame zo vzorca (v - rýchlosť letu, l - charakteristický rozmer telesa,  - kinematická viskozita vzduchu, a - rýchlosť zvuku)",
-        "answers": ["Re = v/a", "Re = v/v.1", "Re = v.1/v"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "19",
-        "questionText": "Kritické Reynoldsovo číslo určuje polohu",
-        "answers": ["bodu prechodu laminárneho prúdenia na turbulentné", "miesta vzniku rázovej vlny", "aerodynamického stredu krídla"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika"
-    },
-    {
-        "id": "20",
-        "questionText": "Rýchlostný profil laminárnej vrstvy je na obrázku",
-        "answers": ["a", "b", "c"],
-        "correctAnswerPosition": 0,
-        "testName": "Aerodynamika X63",
-        "categoryName": "Aerodynamika",
-        "questionImage": "aerodynamikax63_20.jpg"
-    }
+  {
+    "id":"1",
+    "questionText":"Základnými fyzikálnymi jednotkami podľa SI sú",
+    "answers":[
+      "meter, kilogram, sekunda, ampér, kelvin, mol, kandela",
+      "meter, kilogram, sekunda, kilopond, bar, kalória, gauss",
+      "meter, decimeter, hodina, joule, watt, volt, ohm"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"2",
+    "questionText":"Atmosféra alebo vzdušný obal zeme sa delí na štyri vrstvy. Najnižšia z nich - troposféra dosahuje do výšky asi",
+    "answers":[
+      "8km",
+      "11,5km",
+      "13km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"3",
+    "questionText":"Ideálnym plynom rozumieme plyn",
+    "answers":[
+      "nestlačiteľný, s vnútorným trením",
+      "stlačiteľný, s vnútorným trením",
+      "stlačiteľný, bez vnútorného trenia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"4",
+    "questionText":"Hybnosť hmotného bodu je definovaná",
+    "answers":[
+      "m. v (m. kg. s-1)",
+      "m. a (m. kg. s-2)",
+      "m. t (kg. s)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"5",
+    "questionText":"Moment sily je definovaný",
+    "answers":[
+      "moment M = G. l (kg. m)",
+      "moment M = F. l (N. m)",
+      "moment M = m. l (kg. m)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"6",
+    "questionText":"Mechanická práca je definovaná",
+    "answers":[
+      "práca A = F. s (J)",
+      "práca A = F. t (N. s)",
+      "práca A = F. v (M. n. s-1)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"7",
+    "questionText":"Účinnosť je definovaná ako",
+    "answers":[
+      "pomer príkonu k výkonu",
+      "pomer výkonu k príkonu",
+      "súčin príkonu a výkonu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"8",
+    "questionText":"Sila je definovaná",
+    "answers":[
+      "sila F = v. t (m)",
+      "sila F = m. a (N)",
+      "sila F = m. g (N)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"9",
+    "questionText":"Tiaž (sila tiaže) je definovaná",
+    "answers":[
+      "G = m. g (N)",
+      "G = m. v (m. kg. s-1)",
+      "G = m.1 (kg. m)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"10",
+    "questionText":"Výkon je definovaný",
+    "answers":[
+      "výkon P = A / t (W)",
+      "výkon P = A. t (m2. kg. s-3)",
+      "výkon P = A. v (m3. kg. s-3)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"11",
+    "questionText":"Rovnica spojitosti predstavuje určitú formu zákona",
+    "answers":[
+      "zachovania hmoty",
+      "zachovania energie",
+      "akcie a reakcie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"12",
+    "questionText":"Bernoulliho rovnica vyjadruje zákon",
+    "answers":[
+      "zachovania hmoty",
+      "zachovania energie",
+      "akcie a reakcie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"13",
+    "questionText":"Správny tvar Bernoulliho rovnice je",
+    "answers":[
+      "p + 1/2 s . v2 = konšt.",
+      "p + 1/2 s . v2.s = konšt.",
+      "p. s + q = konšt."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"14",
+    "questionText":"Pre rovnicu spojitosti platí výraz",
+    "answers":[
+      " 1. v1. s1 =  2. v2. s2",
+      " 1. v1 =  2. v2",
+      "1. s1 =  2. s2"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"15",
+    "questionText":"Pitot-statická trubica je snímač",
+    "answers":[
+      "statického a dynamického tlaku",
+      "dynamického a celkového tlaku",
+      "statického a celkového tlaku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"16",
+    "questionText":"Venturiho trubica je snímač",
+    "answers":[
+      "statického tlaku voľného prúdu a statického tlaku v zúženom priereze",
+      "statického tlaku voľného prúdu a dynamického tlaku",
+      "statického tlaku v zúženom priereze a celkového tlaku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"17",
+    "questionText":"Bod prechodu je bodom, kde dochádza k",
+    "answers":[
+      "zmene laminárneho prúdenia v turbulentne",
+      "odtrhnutiu medznej vrstvy",
+      "rozdeleniu nabiehajúceho prúdu na profil"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"18",
+    "questionText":"Reynoldsovo číslo Re, ktoré vyjadruje pomer zotrvačných a trecích síl vzdušného prúdu vypočítame zo vzorca (v - rýchlosť letu, l - charakteristický rozmer telesa,  - kinematická viskozita vzduchu, a - rýchlosť zvuku)",
+    "answers":[
+      "Re = v/a",
+      "Re = v/v.1",
+      "Re = v.1/v"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"19",
+    "questionText":"Kritické Reynoldsovo číslo určuje polohu",
+    "answers":[
+      "bodu prechodu laminárneho prúdenia na turbulentné",
+      "miesta vzniku rázovej vlny",
+      "aerodynamického stredu krídla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "id":"20",
+    "questionText":"Rýchlostný profil laminárnej vrstvy je na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X63",
+    "categoryName":"Aerodynamika",
+    "questionImage":"aerodynamikax63_20.jpg"
+  },
+  {
+    "questionText":"Geometrickými charakteristikami profilu krídla sú",
+    "answers":[
+      "polomer nábežnej hrany, maximálna hrúbka, maximálne prehnutie, poloha maximálnej hrúbky, poloha maximálneho prehnutia, stredná krivka",
+      "hrúbka profilu, polomer nábežnej hrany, maximálna hrúbka profilu a jej poloha, maximálne prehnutie strednej krivky profilu a jeho poloha, stredná krivka, tetiva profilu",
+      "hrúbka profilu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Základnými aerodynamickými charakteristikami profilu sú",
+    "answers":[
+      "tlakový spád, uhol nábehu, závislosť súčiniteľa odporu od uhla nábehu, maximálna hrúbka profilu",
+      "závislosť súčiniteľa vztlaku od uhla nábehu (vztlaková čiara), závislosť súčiniteľa vztlaku od súčiniteľa odporu s vyznačením hodnôt uhla nábehu (polára), závislosť súčiniteľa klopivého momentu od uhla nábehu (momentová čiara), rozloženie tlaku po hĺbke profilu",
+      "polára, vztlaková čiara, momentová čiara, tlakový spád, uhol nábehu, maximálna hrúbka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Pôsobisko vztlaku profilu je bod",
+    "answers":[
+      "ku ktorému je priložený vztlak profilu",
+      "ku ktorému je súčiniteľ momentu nezávislý na uhle nábehu",
+      "okolo ktorého sa otáča profil pri torznom namáhaní krídla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Odpor, ktorý vzniká pri obtekaní krídla konečného rozpätia delíme na",
+    "answers":[
+      "tvarový, trecí",
+      "tvarový, indukovaný, škodlivý",
+      "tvarový, trecí, indukovaný"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Geometrickými charakteristikami krídla sú",
+    "answers":[
+      "rozpätie, hĺbka, dĺžka strednej aerodynamickej tetivy, štíhlosť, zúženie, uhol šípu, uhol vzopätia a skrútenie krídla, plocha krídla",
+      "uhol nábehu, rozpätie, hĺbka, štíhlosť, šíp, zúženie, uhol vzopätia, plocha",
+      "plocha, uhol šípu, štíhlosť, dĺžka strednej aerodynamickej tetivy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText": "Uhol šípu je znázornený na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText": "Uhol vzopätia je znázornený na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Geometrické skrútenie krídla je dané",
+    "answers":[
+      "uhlom medzi smerom nulového vztlaku v strede a na konci krídla",
+      "uhlom medzi tetivami v strede a na konci krídla",
+      "uhlom medzi danou rovinou a aerodynamickou osou krídla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Aerodynamické skrútenie je dané",
+    "answers":[
+      "uhlom medzi tetivami profilov v strede a na konci krídla",
+      "uhlom medzi priečnou osou a aerodynamickou osou krídla",
+      "uhlom medzi smermi nulového vztlaku v strede a na konci krídla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText": "Správny príklad rozloženia indukovanej rýchlosti po rozpätí obdĺžnikového krídla pri kladnom uhle nábehu je na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+      "questionText": "Rozloženie vztlaku na krídle je závislé od jeho pôdorysného tvaru. Pre obdĺžnikové krídlo je rozloženie na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Prostriedky na zvýšenie vztlaku krídla sú",
+    "answers":[
+      "sloty, vztlakové klapky, interceptory, odsávanie medznej vrstvy",
+      "sloty, vztlakové klapky, odsávanie medznej vrstvy, vyfukovanie medznej vrstvy",
+      "spojlery, vztlakové klapky, sloty, interceptory, odsávanie a vyfukovanie medznej vrstvy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Maximálne prehnutie profilu je maximálna vzdialenosť medzi",
+    "answers":[
+      "tetivou a hornou stranou profilu",
+      "strednou krivkou a hornou stranou profilu",
+      "strednou krivkou a tetivou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Bod najmenšej klesavosti na rýchlostnej poláre leží",
+    "answers":[
+      "mierne pod bodom najlepšej klesavosti",
+      "mierne pred (nad) bodom najlepšej klesavosti",
+      "na dotyčnici k poláre, rovnobežne s osou y"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Najvýhodnejšie rozdelenie miestnych súčiniteľov vztlaku z hľadiska indukovaného odporu má ",
+    "answers":[
+      "obdĺžnikové neskrútené krídlo",
+      "eliptické neskrútené krídlo",
+      "lichobežníkové neskrútené krídlo"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Najvýhodnejšie rozloženie miestnych súčiniteľov vztlaku z hľadiska letových vlastností má",
+    "answers":[
+      "lichobežníkové neskrútené krídlo",
+      "eliptické neskrútené krídlo",
+      "obdĺžnikové neskrútené krídlo"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+      "questionText": "Rozloženie vztlaku pre eliptické krídlo je na obrázku",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Vplyv blízkosti zeme na poláru lietadla je",
+    "answers":[
+      "zanedbateľný",
+      "posúva poláru do oblasti s menšími cx pre dané cy",
+      "posúva poláru do oblasti s väčšími cx pre dané cy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Geometrickým skrútením krídla rozumieme",
+    "answers":[
+      "postupnú zmenu hrúbky profilov od koreňa ku koncu krídla",
+      "postupnú zmenu uhlu nastavenia profilu od koreňa ku koncu krídla",
+      "ohnutie konca krídla smerom nahor"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  },
+  {
+    "questionText":"Zvýšená drsnosť povrchu obtekaného telesa vyvoláva posun bodu prechodu laminárnej medznej vrstvy",
+    "answers":[
+      "dopredu",
+      "dozadu",
+      "nevyvoláva",
+      "polomer nábežnej hrany, maximálna hrúbka, maximálne prehnutie, poloha maximálnej hrúbky, poloha maximálneho prehnutia, stredná krivka",
+      "hrúbka profilu, polomer nábežnej hrany, maximálna hrúbka profilu a jej poloha, maximálne prehnutie strednej krivky profilu a jeho poloha, stredná krivka, tetiva profilu",
+      "hrúbka profilu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Aerodynamika X64",
+    "categoryName":"Aerodynamika"
+  }
 ]
