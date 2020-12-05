@@ -1,4 +1,5 @@
 import UIKit
+import FontAwesome_swift
 
 class NormalTestDetailViewController: UIViewController {
     
@@ -14,9 +15,20 @@ class NormalTestDetailViewController: UIViewController {
     @IBOutlet weak var secondButton: AnswerButton!
     @IBOutlet weak var thirdButton: AnswerButton!
     @IBOutlet weak var questionTextLabel: UILabel!
+    @IBOutlet weak var evaluateButton: AnswerButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.evaluateButton.isHidden = true
+        self.evaluateButton.backgroundColor = UIColor.green
+        navigationController?.navigationBar.prefersLargeTitles = false
+        navigationController?.setNavigationBarHidden(true, animated: true)
+        self.nextButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
+        self.nextButton.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
+        
+        self.backButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
+        self.backButton.setTitle(String.fontAwesomeIcon(name: .arrowLeft), for: .normal)
+        
         self.questions = DataService.data.getData()
         test.test = self.initTest(number: Int(10))
         self.updateUI()
@@ -24,6 +36,12 @@ class NormalTestDetailViewController: UIViewController {
     
     func initTest(number: Int) -> [Question] {
         return Array(questions.choose(number))
+    }
+    @IBAction func evaluateButtonTapped(_ sender: UIButton) {
+        for (questionPosition, answer) in selectedAnswers {
+            self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
+        }
+        self.performSegue(withIdentifier: "ShowEvaluateScreenFromNormalTest", sender: self)
     }
     
     @IBAction func onFirstButtonTapped(_ sender: UIButton) {
@@ -57,6 +75,11 @@ class NormalTestDetailViewController: UIViewController {
     }
     
     func updateUI() {
+        if test.questionNumber + 1 == test.test.count {
+            self.evaluateButton.isHidden = false
+        } else {
+            self.evaluateButton.isHidden = true
+        }
         if test.questionNumber == 0 {
             self.backButton.isEnabled = false
         } else {
@@ -69,7 +92,7 @@ class NormalTestDetailViewController: UIViewController {
             self.nextButton.isEnabled = true
         }
         
-        self.questionNumberLabel.text = "Question \(test.questionNumber + 1) / \(test.test.count)"
+        self.questionNumberLabel.text = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
         questionTextLabel.text = test.getQuestionText()
         
         if let value = selectedAnswers[test.questionNumber] {
@@ -104,6 +127,15 @@ class NormalTestDetailViewController: UIViewController {
             secondButton.backgroundColor = UIColor.white
             thirdButton.backgroundColor = UIColor.white
             break
+        }
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ShowEvaluateScreenFromNormalTest" {
+            let destinationVc = segue.destination as! EvaluateViewController
+            destinationVc.correctAnswers = test.correctAnswers
+            destinationVc.numberOfQuestions = test.test.count
+            destinationVc.modalPresentationStyle = .fullScreen
         }
     }
 

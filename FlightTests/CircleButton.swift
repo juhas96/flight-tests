@@ -7,6 +7,7 @@
 
 import Foundation
 import UIKit
+import FontAwesome_swift
 
 class CircleButton: UIButton {
     override init(frame: CGRect) {
@@ -20,8 +21,7 @@ class CircleButton: UIButton {
     }
     
     func setupButton() {
-        self.frame = CGRect(x: 160, y: 100, width: 50, height: 50)
-        self.layer.cornerRadius = 0.5 * self.bounds.size.width
-        self.clipsToBounds = true
+        self.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .regular)
+        self.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
     }
 }

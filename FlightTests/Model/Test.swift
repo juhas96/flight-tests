@@ -58,4 +58,14 @@ struct Test {
             return false
         }
     }
+    
+    mutating func checkAnswerOnPosition(userAnswer: Int, position: Int) -> Void {
+        if test.count > 0 {
+            if userAnswer == test[position].correctAnswerPosition {
+                correctAnswers += 1
+            } else {
+                wrongAnswers += 1
+            }
+        }
+    }
 }

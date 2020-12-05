@@ -10,4 +10,5 @@ target 'FlightTests' do
   pod 'SQLite.swift', '~> 0.12.0'
   pod 'RxSwift', '6.0.0-rc.2'
   pod 'RxCocoa', '6.0.0-rc.2'
+  pod 'FontAwesome.swift'
 end
