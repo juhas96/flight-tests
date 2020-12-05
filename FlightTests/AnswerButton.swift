@@ -20,6 +20,7 @@ class AnswerButton: UIButton {
         self.layer.shadowOpacity = 1.0
         self.layer.shadowRadius = 10.0
         self.layer.masksToBounds = false
+        self.sizeToFit()
         self.titleLabel?.numberOfLines = 0
         self.titleLabel?.adjustsFontSizeToFitWidth = true
         self.titleLabel?.lineBreakMode = NSLineBreakMode.byWordWrapping

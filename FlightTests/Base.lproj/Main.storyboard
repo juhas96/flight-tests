@@ -225,27 +225,25 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="21" translatesAutoresizingMaskIntoConstraints="NO" id="HKp-Xa-ndP">
-                                <rect key="frame" x="20" y="108" width="374" height="734"/>
+                                <rect key="frame" x="20" y="138" width="374" height="704"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question 1/10" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hqY-ID-MVZ">
-                                        <rect key="frame" x="0.0" y="0.0" width="374" height="67"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="0bh-Hj-CX6">
-                                        <rect key="frame" x="0.0" y="88" width="374" height="98.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="75"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xbw-fQ-TEA" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="46" height="98.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="160" height="75"/>
+                                                <state key="normal" title="Predchádzajúca otázka">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                                 <connections>
                                                     <action selector="onPreviousButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="pVd-Bn-g5M"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h2s-ce-ZQg" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="328" y="0.0" width="46" height="98.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <rect key="frame" x="283" y="0.0" width="91" height="75"/>
+                                                <state key="normal" title="Ďalšia otázka">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                                 <connections>
                                                     <action selector="onNextQuestionButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="7zY-f8-pjb"/>
                                                 </connections>
@@ -253,30 +251,39 @@
                                         </subviews>
                                     </stackView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question Text" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sW8-uF-k9E">
-                                        <rect key="frame" x="0.0" y="207.5" width="374" height="67"/>
+                                        <rect key="frame" x="0.0" y="96" width="374" height="397"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="dfs-iX-Ql3">
-                                        <rect key="frame" x="0.0" y="295.5" width="374" height="438.5"/>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="dfs-iX-Ql3">
+                                        <rect key="frame" x="0.0" y="514" width="374" height="190"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qit-Ac-a74" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="374" height="146.5"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="374" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="Ght-4Y-4Vp"/>
+                                                </constraints>
                                                 <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="onFirstButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="Qy5-yK-Xzc"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Nb-hU-D4l" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="146.5" width="374" height="146"/>
+                                                <rect key="frame" x="0.0" y="70" width="374" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="9Mj-Cs-Izh"/>
+                                                </constraints>
                                                 <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="onSecondButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="dAs-lk-qNH"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rLb-jg-Z3C" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="292.5" width="374" height="146"/>
+                                                <rect key="frame" x="0.0" y="140" width="374" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="8ib-DD-bgM"/>
+                                                </constraints>
                                                 <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="onThirdButtonTapped:" destination="OGH-IS-XsT" eventType="touchUpInside" id="Myt-Sr-02A"/>
@@ -286,21 +293,42 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question 1/10" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hqY-ID-MVZ">
+                                <rect key="frame" x="20" y="108" width="374" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="8kZ-18-KqN"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="SZ4-n5-GTr"/>
                         <color key="backgroundColor" red="0.2445275784" green="0.37015798690000001" blue="0.58826017379999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
-                            <constraint firstItem="HKp-Xa-ndP" firstAttribute="top" secondItem="SZ4-n5-GTr" secondAttribute="top" constant="20" id="Aob-9u-qf4"/>
+                            <constraint firstItem="HKp-Xa-ndP" firstAttribute="top" secondItem="hqY-ID-MVZ" secondAttribute="bottom" constant="10" id="CdO-W0-tfS"/>
                             <constraint firstItem="SZ4-n5-GTr" firstAttribute="trailing" secondItem="HKp-Xa-ndP" secondAttribute="trailing" constant="20" id="FqF-GZ-aYQ"/>
+                            <constraint firstItem="SZ4-n5-GTr" firstAttribute="trailing" secondItem="hqY-ID-MVZ" secondAttribute="trailing" constant="20" id="Hdt-kb-4W5"/>
+                            <constraint firstItem="hqY-ID-MVZ" firstAttribute="top" secondItem="SZ4-n5-GTr" secondAttribute="top" constant="20" id="MF7-rI-IY4"/>
                             <constraint firstItem="SZ4-n5-GTr" firstAttribute="bottom" secondItem="HKp-Xa-ndP" secondAttribute="bottom" constant="20" id="MKl-A9-cgA"/>
                             <constraint firstItem="HKp-Xa-ndP" firstAttribute="leading" secondItem="SZ4-n5-GTr" secondAttribute="leading" constant="20" id="b4o-62-R91"/>
+                            <constraint firstItem="hqY-ID-MVZ" firstAttribute="leading" secondItem="SZ4-n5-GTr" secondAttribute="leading" constant="20" id="tIP-qB-Jg3"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="eR1-a1-5x4"/>
+                    <connections>
+                        <outlet property="backButton" destination="Xbw-fQ-TEA" id="oIt-q4-q8C"/>
+                        <outlet property="firstButton" destination="qit-Ac-a74" id="S2Y-ui-ttF"/>
+                        <outlet property="nextButton" destination="h2s-ce-ZQg" id="uWJ-I0-Dfs"/>
+                        <outlet property="questionNumberLabel" destination="hqY-ID-MVZ" id="6BT-Uf-upk"/>
+                        <outlet property="questionTextLabel" destination="sW8-uF-k9E" id="Nda-Qz-mmL"/>
+                        <outlet property="secondButton" destination="5Nb-hU-D4l" id="Fta-LC-0ph"/>
+                        <outlet property="thirdButton" destination="rLb-jg-Z3C" id="q7d-TI-lRW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Urt-kU-m3n" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1074" y="860"/>
+            <point key="canvasLocation" x="1073.913043478261" y="859.82142857142856"/>
         </scene>
         <!--Test View Controller-->
         <scene sceneID="VlB-tH-ZGx">
