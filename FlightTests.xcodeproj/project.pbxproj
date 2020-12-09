@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1408C5E02580298900F79C0E /* cloud.json in Resources */ = {isa = PBXBuildFile; fileRef = 1408C5DF2580298900F79C0E /* cloud.json */; };
+		1408C5E32580299B00F79C0E /* plane.json in Resources */ = {isa = PBXBuildFile; fileRef = 1408C5E22580299B00F79C0E /* plane.json */; };
+		1408C5E725802C7C00F79C0E /* BreeSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1408C5E625802C7C00F79C0E /* BreeSerif-Regular.ttf */; };
 		140F6327257B799A00F801B5 /* NormalTestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */; };
 		140F632A257B7AE700F801B5 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6329257B7AE700F801B5 /* CircleButton.swift */; };
 		1450EC3625600CD800750D03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1450EC3525600CD800750D03 /* AppDelegate.swift */; };
@@ -28,6 +31,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1408C5DF2580298900F79C0E /* cloud.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cloud.json; sourceTree = "<group>"; };
+		1408C5E22580299B00F79C0E /* plane.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = plane.json; sourceTree = "<group>"; };
+		1408C5E625802C7C00F79C0E /* BreeSerif-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BreeSerif-Regular.ttf"; sourceTree = "<group>"; };
 		140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalTestDetailViewController.swift; sourceTree = "<group>"; };
 		140F6329257B7AE700F801B5 /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
 		1450EC3225600CD800750D03 /* FlightTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,6 +78,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		1408C5E525802C6900F79C0E /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1408C5E625802C7C00F79C0E /* BreeSerif-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
 		1450EC2925600CD800750D03 = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +107,9 @@
 		1450EC3425600CD800750D03 /* FlightTests */ = {
 			isa = PBXGroup;
 			children = (
+				1408C5E525802C6900F79C0E /* fonts */,
+				1408C5E22580299B00F79C0E /* plane.json */,
+				1408C5DF2580298900F79C0E /* cloud.json */,
 				14512F0C2579A5430047FA7D /* data.json */,
 				14D752A8256561B70033B313 /* Assets */,
 				14DB3EDD256912B90044CD35 /* Controllers  */,
@@ -220,8 +237,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */,
+				1408C5E725802C7C00F79C0E /* BreeSerif-Regular.ttf in Resources */,
 				1450EC4225600CD900750D03 /* Assets.xcassets in Resources */,
 				1450EC3D25600CD800750D03 /* Main.storyboard in Resources */,
+				1408C5E02580298900F79C0E /* cloud.json in Resources */,
+				1408C5E32580299B00F79C0E /* plane.json in Resources */,
 				14512F0D2579A5430047FA7D /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

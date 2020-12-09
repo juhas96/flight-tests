@@ -1,5 +1,7 @@
 import UIKit
 import FontAwesome_swift
+import SQLite
+
 
 class NormalTestDetailViewController: UIViewController {
     
@@ -7,6 +9,12 @@ class NormalTestDetailViewController: UIViewController {
     var test = Test()
     var selectedAnswers: [Int: Int] = [:]
     var currentlySelectedButton: Int = -1
+    var database: Connection!
+    let statistics = Table("statistics")
+    let id = Expression<Int64>("id")
+    let correctAnswers = Expression<Int64>("correctAnswers")
+    let wrongAnswers = Expression<Int64>("wrontAnswers")
+
     
     @IBOutlet weak var backButton: CircleButton!
     @IBOutlet weak var questionNumberLabel: UILabel!
@@ -19,6 +27,17 @@ class NormalTestDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.connectToDb()
+        var gradientLayer: CAGradientLayer = {
+            let gradientLayer = CAGradientLayer()
+            gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
+            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
+            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
+            gradientLayer.frame = CGRect.zero
+            return gradientLayer
+        }()
+        self.view.layer.insertSublayer(gradientLayer, at: 0)
+        gradientLayer.frame = self.view.bounds
         self.evaluateButton.isHidden = true
         self.evaluateButton.backgroundColor = UIColor.green
         navigationController?.navigationBar.prefersLargeTitles = false
@@ -41,6 +60,13 @@ class NormalTestDetailViewController: UIViewController {
         for (questionPosition, answer) in selectedAnswers {
             self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
         }
+        
+        do {
+            try self.database.run(statistics.insert(id <- 1, correctAnswers <- 0, wrongAnswers <- 0))
+        } catch {
+            print(error)
+        }
+        
         self.performSegue(withIdentifier: "ShowEvaluateScreenFromNormalTest", sender: self)
     }
     
@@ -108,24 +134,36 @@ class NormalTestDetailViewController: UIViewController {
     func updateButtonsColor() {
         switch currentlySelectedButton {
         case 0:
-            firstButton.backgroundColor = UIColor.green
+            firstButton.backgroundColor = UIColor(rgb: 0x25A4DA)
+            firstButton.setTitleColor(.white, for: .normal)
             secondButton.backgroundColor = UIColor.white
+            secondButton.setTitleColor(.black, for: .normal)
             thirdButton.backgroundColor = UIColor.white
+            thirdButton.setTitleColor(.black, for: .normal)
             break
         case 1:
             firstButton.backgroundColor = UIColor.white
-            secondButton.backgroundColor = UIColor.green
+            firstButton.setTitleColor(.black, for: .normal)
+            secondButton.backgroundColor = UIColor(rgb: 0x25A4DA)
+            secondButton.setTitleColor(.white, for: .normal)
             thirdButton.backgroundColor = UIColor.white
+            thirdButton.setTitleColor(.black, for: .normal)
             break
         case 2:
             firstButton.backgroundColor = UIColor.white
+            firstButton.setTitleColor(.black, for: .normal)
             secondButton.backgroundColor = UIColor.white
-            thirdButton.backgroundColor = UIColor.green
+            secondButton.setTitleColor(.black, for: .normal)
+            thirdButton.backgroundColor = UIColor(rgb: 0x25A4DA)
+            thirdButton.setTitleColor(.white, for: .normal)
             break
         default:
             firstButton.backgroundColor = UIColor.white
             secondButton.backgroundColor = UIColor.white
             thirdButton.backgroundColor = UIColor.white
+            firstButton.setTitleColor(.black, for: .normal)
+            secondButton.setTitleColor(.black, for: .normal)
+            thirdButton.setTitleColor(.black, for: .normal)
             break
         }
     }
@@ -136,6 +174,15 @@ class NormalTestDetailViewController: UIViewController {
             destinationVc.correctAnswers = test.correctAnswers
             destinationVc.numberOfQuestions = test.test.count
             destinationVc.modalPresentationStyle = .fullScreen
+        }
+    }
+    
+    func connectToDb() {
+        do {
+            let path = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
+            self.database = try Connection("\(path)/db.sqlite3")
+        } catch {
+            print(error)
         }
     }
 

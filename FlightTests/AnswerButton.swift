@@ -1,6 +1,13 @@
 import UIKit
 
+enum ButtonState {
+    case normal
+    case selected
+}
+
 class AnswerButton: UIButton {
+    
+    var buttonState: ButtonState = .normal
     
     override init(frame: CGRect) {
         super.init(frame: frame)
@@ -14,7 +21,14 @@ class AnswerButton: UIButton {
     
     func setupButton() {
         setTitleColor(.black, for: .normal)
-        backgroundColor = .white
+        if (buttonState == .normal) {
+            backgroundColor = .white
+            setTitleColor(.black, for: .normal)
+        } else if (buttonState == .selected) {
+            backgroundColor = UIColor(rgb: 0x25A4DA)
+            setTitleColor(.white, for: .normal)
+        }
+        
         self.layer.shadowColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.25).cgColor
         self.layer.shadowOffset = CGSize(width: 0, height: 3)
         self.layer.shadowOpacity = 1.0
@@ -27,6 +41,6 @@ class AnswerButton: UIButton {
         self.contentEdgeInsets = UIEdgeInsets(top: 5,left: 5,bottom: 5,right: 5)
     
         titleLabel?.font = UIFont(name: "Arial", size: 24)
-        layer.cornerRadius = 15
+        layer.cornerRadius = 20
     }
 }

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="t78-lm-BTe">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="retina6_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="BreeSerif-Regular.ttf">
+            <string>BreeSerif-Regular</string>
+        </array>
+    </customFonts>
     <scenes>
         <!--Navigation Controller-->
         <scene sceneID="rMT-Ez-7vz">
             <objects>
                 <navigationController interfaceStyle="light" id="t78-lm-BTe" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="iJ3-ay-1GN">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <rect key="frame" x="0.0" y="44" width="428" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="e4Y-el-DyO">
@@ -32,94 +37,116 @@
             <objects>
                 <viewController storyboardIdentifier="HomeViewController" title="Flight Tests" interfaceStyle="light" id="B9Z-d8-MgD" customClass="HomeViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zEZ-9l-eoQ">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="Pem-U9-v57">
-                                <rect key="frame" x="10" y="243.5" width="394" height="355"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Pem-U9-v57">
+                                <rect key="frame" x="10" y="98" width="408" height="784"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fv8-uL-yIO" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="0.0" width="394" height="70"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LETECKÉ TESTY" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="32" translatesAutoresizingMaskIntoConstraints="NO" id="yqJ-hZ-WIN">
+                                        <rect key="frame" x="0.0" y="0.0" width="408" height="200"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="70" id="03s-9L-qBE"/>
+                                            <constraint firstAttribute="height" constant="200" id="Tk8-vB-iqG"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="15"/>
-                                        <state key="normal" title="Spustit testy"/>
-                                        <connections>
-                                            <action selector="onStartTestsButtonTapped:" destination="B9Z-d8-MgD" eventType="touchUpInside" id="46p-kk-3Wo"/>
-                                        </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T9u-1Y-2zK" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="95" width="394" height="70"/>
+                                        <fontDescription key="fontDescription" name="BreeSerif-Regular" family="Bree Serif" pointSize="64"/>
+                                        <color key="textColor" red="0.98039215686274506" green="0.98039215686274506" blue="0.98039215686274506" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <view contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="f6g-dI-WUS" customClass="AnimationView" customModule="Lottie">
+                                        <rect key="frame" x="0.0" y="210" width="408" height="324"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </view>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" translatesAutoresizingMaskIntoConstraints="NO" id="CmR-bC-7kI">
+                                        <rect key="frame" x="0.0" y="544" width="408" height="240"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T9u-1Y-2zK" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="408" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="nKv-2D-06I"/>
+                                                </constraints>
+                                                <state key="normal" title="Spustiť ostrý test"/>
+                                                <connections>
+                                                    <segue destination="OGH-IS-XsT" kind="show" id="y7O-ny-Iqw"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fv8-uL-yIO" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="63.333333333333371" width="408" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="03s-9L-qBE"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="15"/>
+                                                <state key="normal" title="Spustit testy"/>
+                                                <connections>
+                                                    <action selector="onStartTestsButtonTapped:" destination="B9Z-d8-MgD" eventType="touchUpInside" id="46p-kk-3Wo"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kJS-zO-gQJ" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="126.66666666666663" width="408" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="27n-Vc-HX2"/>
+                                                </constraints>
+                                                <state key="normal" title="Zobraziť všetky testy"/>
+                                                <connections>
+                                                    <segue destination="59M-E4-RaJ" kind="show" id="QUA-bf-hXh"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JPN-cZ-8hC" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="190" width="408" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="Th2-tT-upg"/>
+                                                </constraints>
+                                                <state key="normal" title="Štatistiky"/>
+                                            </button>
+                                        </subviews>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="70" id="nKv-2D-06I"/>
+                                            <constraint firstAttribute="height" constant="240" id="Hv9-FB-0I3"/>
                                         </constraints>
-                                        <state key="normal" title="Spustiť ostrý test"/>
-                                        <connections>
-                                            <segue destination="OGH-IS-XsT" kind="show" id="y7O-ny-Iqw"/>
-                                        </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kJS-zO-gQJ" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="190" width="394" height="70"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="70" id="27n-Vc-HX2"/>
-                                        </constraints>
-                                        <state key="normal" title="Zobraziť všetky testy"/>
-                                        <connections>
-                                            <segue destination="59M-E4-RaJ" kind="show" id="QUA-bf-hXh"/>
-                                        </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JPN-cZ-8hC" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="285" width="394" height="70"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="70" id="Th2-tT-upg"/>
-                                        </constraints>
-                                        <state key="normal" title="Štatistiky"/>
-                                    </button>
+                                    </stackView>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="trailing" secondItem="kJS-zO-gQJ" secondAttribute="trailing" id="3a5-eI-DzO"/>
-                                    <constraint firstItem="JPN-cZ-8hC" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="6Vf-a8-hY2"/>
-                                    <constraint firstItem="fv8-uL-yIO" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="L7Q-uI-Uvh"/>
-                                    <constraint firstAttribute="trailing" secondItem="fv8-uL-yIO" secondAttribute="trailing" id="Zfj-Zq-zgP"/>
-                                    <constraint firstAttribute="trailing" secondItem="T9u-1Y-2zK" secondAttribute="trailing" id="abw-Fd-myR"/>
-                                    <constraint firstItem="T9u-1Y-2zK" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="gbk-mk-dLh"/>
-                                    <constraint firstAttribute="trailing" secondItem="JPN-cZ-8hC" secondAttribute="trailing" id="hKP-4i-Y93"/>
-                                    <constraint firstItem="kJS-zO-gQJ" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="hcx-Cu-hZy"/>
+                                    <constraint firstAttribute="trailing" secondItem="f6g-dI-WUS" secondAttribute="trailing" id="Bm1-hO-BfP"/>
+                                    <constraint firstItem="CmR-bC-7kI" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="Wkw-XY-hHi"/>
+                                    <constraint firstItem="f6g-dI-WUS" firstAttribute="leading" secondItem="Pem-U9-v57" secondAttribute="leading" id="hWU-rP-LN3"/>
+                                    <constraint firstItem="CmR-bC-7kI" firstAttribute="top" secondItem="f6g-dI-WUS" secondAttribute="bottom" constant="10" id="iZ8-1s-t02"/>
+                                    <constraint firstItem="f6g-dI-WUS" firstAttribute="top" secondItem="yqJ-hZ-WIN" secondAttribute="bottom" constant="10" id="rM8-vC-fnf"/>
+                                    <constraint firstItem="yqJ-hZ-WIN" firstAttribute="centerX" secondItem="Pem-U9-v57" secondAttribute="centerX" id="zAy-hr-MGe"/>
+                                    <constraint firstAttribute="trailing" secondItem="CmR-bC-7kI" secondAttribute="trailing" id="zk1-gX-mez"/>
                                 </constraints>
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="aC8-u5-iUa"/>
-                        <color key="backgroundColor" red="0.20784313725490194" green="0.29803921568627451" blue="0.49803921568627452" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="Pem-U9-v57" firstAttribute="leading" secondItem="aC8-u5-iUa" secondAttribute="leading" constant="10" id="3Au-74-fpK"/>
-                            <constraint firstItem="Pem-U9-v57" firstAttribute="centerY" secondItem="zEZ-9l-eoQ" secondAttribute="centerY" id="6ag-rx-lza"/>
-                            <constraint firstItem="aC8-u5-iUa" firstAttribute="trailing" secondItem="Pem-U9-v57" secondAttribute="trailing" constant="10" id="BBl-ie-8cg"/>
-                            <constraint firstItem="Pem-U9-v57" firstAttribute="centerX" secondItem="zEZ-9l-eoQ" secondAttribute="centerX" id="FcS-3u-pAZ"/>
+                            <constraint firstItem="aC8-u5-iUa" firstAttribute="trailing" secondItem="Pem-U9-v57" secondAttribute="trailing" constant="10" id="IMB-zN-aJj"/>
+                            <constraint firstItem="aC8-u5-iUa" firstAttribute="bottom" secondItem="Pem-U9-v57" secondAttribute="bottom" constant="10" id="fnI-md-7q9"/>
+                            <constraint firstItem="Pem-U9-v57" firstAttribute="leading" secondItem="zEZ-9l-eoQ" secondAttribute="leading" constant="10" id="ieZ-eB-bQh"/>
+                            <constraint firstItem="Pem-U9-v57" firstAttribute="top" secondItem="aC8-u5-iUa" secondAttribute="top" constant="10" id="nL8-dN-DPy"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Flight tests" largeTitleDisplayMode="always" id="5yT-xx-85e"/>
+                    <connections>
+                        <outlet property="planeAnimationView" destination="f6g-dI-WUS" id="RAr-EN-DhS"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="j1d-Wq-Bpl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1064" y="131"/>
+            <point key="canvasLocation" x="1062.6168224299065" y="130.23758099352054"/>
         </scene>
         <!--All Tests Table View Controller-->
         <scene sceneID="xJ3-PC-fsd">
             <objects>
                 <tableViewController id="59M-E4-RaJ" customClass="AllTestsTableViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="TRo-iC-E9C">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.20784313730000001" green="0.29803921570000003" blue="0.49803921569999998" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="separatorColor" red="0.20784313730000001" green="0.29803921570000003" blue="0.49803921569999998" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="sectionIndexBackgroundColor" red="0.20784313730000001" green="0.29803921570000003" blue="0.49803921569999998" alpha="1" colorSpace="calibratedRGB"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="qDB-t1-JX2">
-                                <rect key="frame" x="0.0" y="28" width="414" height="43.5"/>
+                                <rect key="frame" x="0.0" y="28" width="428" height="43.666667938232422"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="qDB-t1-JX2" id="ZR5-8Z-SGR">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="428" height="43.666667938232422"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                             </tableViewCell>
@@ -140,29 +167,29 @@
             <objects>
                 <viewController storyboardIdentifier="TestDetailViewController" id="FrR-wl-lpZ" customClass="TestDetailViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8py-JI-kch">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="0Ha-wl-r3Y">
-                                <rect key="frame" x="10" y="54" width="394" height="798"/>
+                                <rect key="frame" x="10" y="54" width="408" height="828"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Question Text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YGZ-7d-EyN">
-                                        <rect key="frame" x="0.0" y="0.0" width="394" height="105"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="408" height="108.66666666666667"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Answer text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1rC-P2-oEp">
-                                        <rect key="frame" x="0.0" y="125" width="394" height="393"/>
+                                        <rect key="frame" x="0.0" y="128.66666666666666" width="408" height="419.33333333333337"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="tTa-4e-qQP">
-                                        <rect key="frame" x="0.0" y="538" width="394" height="120"/>
+                                        <rect key="frame" x="0.0" y="568" width="408" height="120"/>
                                         <subviews>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sPF-fP-oPX" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="187" height="120"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="194" height="120"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="3"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="120" id="vDv-al-Wnm"/>
@@ -174,7 +201,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J7w-e8-guP" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="207" y="0.0" width="187" height="120"/>
+                                                <rect key="frame" x="214" y="0.0" width="194" height="120"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="3"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="120" id="8Nq-Lc-AOj"/>
@@ -188,7 +215,7 @@
                                         </subviews>
                                     </stackView>
                                     <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g4j-2f-DbF" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="678" width="394" height="120"/>
+                                        <rect key="frame" x="0.0" y="708" width="408" height="120"/>
                                         <accessibility key="accessibilityConfiguration" identifier="3"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="120" id="A7B-0h-qxA"/>
@@ -226,17 +253,17 @@
             <objects>
                 <viewController storyboardIdentifier="NormalTestDetailViewController" id="OGH-IS-XsT" customClass="NormalTestDetailViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1F2-WK-cXt">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="21" translatesAutoresizingMaskIntoConstraints="NO" id="HKp-Xa-ndP">
-                                <rect key="frame" x="20" y="0.0" width="374" height="788"/>
+                                <rect key="frame" x="20" y="88" width="388" height="784"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="equalCentering" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="0bh-Hj-CX6">
-                                        <rect key="frame" x="0.0" y="0.0" width="374" height="69"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="388" height="68.666666666666671"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xbw-fQ-TEA" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="140" height="69"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="154" height="68.666666666666671"/>
                                                 <state key="normal" title="Predchádzajúca otázka">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -245,13 +272,13 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question 1/10" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hqY-ID-MVZ">
-                                                <rect key="frame" x="160" y="0.0" width="103" height="69"/>
+                                                <rect key="frame" x="174" y="0.0" width="103" height="68.666666666666671"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h2s-ce-ZQg" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="283" y="0.0" width="91" height="69"/>
+                                                <rect key="frame" x="297" y="0.0" width="91" height="68.666666666666671"/>
                                                 <state key="normal" title="Ďalšia otázka">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -262,13 +289,13 @@
                                         </subviews>
                                     </stackView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question Text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sW8-uF-k9E">
-                                        <rect key="frame" x="0.0" y="90" width="374" height="366"/>
+                                        <rect key="frame" x="0.0" y="89.666666666666657" width="388" height="362.33333333333337"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X1i-Hf-OHr" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="477" width="374" height="100"/>
+                                        <rect key="frame" x="0.0" y="473" width="388" height="100"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="100" id="o5W-NJ-fgQ"/>
                                         </constraints>
@@ -281,10 +308,10 @@
                                         </connections>
                                     </button>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="dfs-iX-Ql3">
-                                        <rect key="frame" x="0.0" y="598" width="374" height="190"/>
+                                        <rect key="frame" x="0.0" y="594" width="388" height="190"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qit-Ac-a74" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="0.0" width="374" height="50"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="388" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="Ght-4Y-4Vp"/>
                                                 </constraints>
@@ -294,7 +321,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Nb-hU-D4l" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="70" width="374" height="50"/>
+                                                <rect key="frame" x="0.0" y="70" width="388" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="9Mj-Cs-Izh"/>
                                                 </constraints>
@@ -304,7 +331,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rLb-jg-Z3C" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="140" width="374" height="50"/>
+                                                <rect key="frame" x="0.0" y="140" width="388" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="8ib-DD-bgM"/>
                                                 </constraints>
@@ -348,26 +375,26 @@
             <objects>
                 <viewController storyboardIdentifier="TestViewController" id="JXb-Lg-B6f" customClass="TestViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="bn1-fA-mMn">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="V7d-Q8-d2U">
-                                <rect key="frame" x="10" y="54" width="394" height="798"/>
+                                <rect key="frame" x="10" y="54" width="408" height="828"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zrv-g4-kVS" userLabel="ProgressStatus Label">
-                                        <rect key="frame" x="0.0" y="0.0" width="394" height="20.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="408" height="20.333333333333332"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalCompressionResistancePriority="1000" text="Question Text" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rZ3-Cp-sAe">
-                                        <rect key="frame" x="0.0" y="40.5" width="394" height="307.5"/>
+                                        <rect key="frame" x="0.0" y="40.333333333333343" width="408" height="337.66666666666663"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAR-4o-ZLU" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="368" width="394" height="120"/>
+                                        <rect key="frame" x="0.0" y="398" width="408" height="120"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="120" id="ihv-Iu-N98"/>
                                         </constraints>
@@ -378,7 +405,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wc0-so-8ho" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="508" width="394" height="120"/>
+                                        <rect key="frame" x="0.0" y="538" width="408" height="120"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="120" id="mPv-8h-BDq"/>
                                         </constraints>
@@ -389,7 +416,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fE6-j0-Pwr" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="648" width="394" height="120"/>
+                                        <rect key="frame" x="0.0" y="678" width="408" height="120"/>
                                         <accessibility key="accessibilityConfiguration" identifier="3"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="120" id="MWQ-DF-wdN"/>
@@ -401,7 +428,7 @@
                                         </connections>
                                     </button>
                                     <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="djz-Ro-747">
-                                        <rect key="frame" x="0.0" y="788" width="394" height="10"/>
+                                        <rect key="frame" x="0.0" y="818" width="408" height="10"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="10" id="xhO-ms-VfL"/>
                                         </constraints>
@@ -438,39 +465,39 @@
             <objects>
                 <viewController id="ua0-hN-rcm" customClass="EvaluateViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tFW-nu-9Pf">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="872"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="Hhd-Lk-RbL">
-                                <rect key="frame" x="20" y="0.0" width="374" height="788"/>
+                                <rect key="frame" x="20" y="0.0" width="388" height="818"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tvoj výsledok" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8He-aY-EMa">
-                                        <rect key="frame" x="0.0" y="0.0" width="374" height="149"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="388" height="154.66666666666666"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="50"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3VT-Ro-4kZ">
-                                        <rect key="frame" x="0.0" y="189" width="374" height="74.5"/>
+                                        <rect key="frame" x="0.0" y="194.66666666666666" width="388" height="76.999999999999972"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tvoj výsledok" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="soZ-Lp-Zwg">
-                                        <rect key="frame" x="0.0" y="303.5" width="374" height="334.5"/>
+                                        <rect key="frame" x="0.0" y="311.66666666666674" width="388" height="356.33333333333326"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="grd-D0-CNf">
-                                        <rect key="frame" x="0.0" y="678" width="374" height="11"/>
+                                        <rect key="frame" x="0.0" y="708" width="388" height="11"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="10" id="Q1u-Vf-eqY"/>
                                         </constraints>
                                         <color key="progressTintColor" systemColor="systemGreenColor"/>
                                     </progressView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="flA-80-ylc" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="728" width="374" height="60"/>
+                                        <rect key="frame" x="0.0" y="758" width="388" height="60"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="60" id="6y7-Hs-j12"/>
                                         </constraints>
@@ -504,9 +531,12 @@
             <point key="canvasLocation" x="2716" y="131"/>
         </scene>
     </scenes>
+    <designables>
+        <designable name="f6g-dI-WUS"/>
+    </designables>
     <inferredMetricsTieBreakers>
-        <segue reference="tZp-lc-YcN"/>
-        <segue reference="1o9-AT-M9d"/>
+        <segue reference="3fs-jI-2dA"/>
+        <segue reference="rrX-s2-tcR"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

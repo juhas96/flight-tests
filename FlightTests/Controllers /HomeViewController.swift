@@ -7,6 +7,7 @@
 
 import UIKit
 import SQLite
+import Lottie
 
 class HomeViewController: UIViewController {
     
@@ -14,19 +15,43 @@ class HomeViewController: UIViewController {
     var userText: String = ""
     let questions = Table("questions")
     let id = Expression<Int64>("id")
-    let name = Expression<String>("name")
-    let answers = Expression<String>("answers")
-    let correctAnswerPosition = Expression<Int64>("correctAnswerPosition")
-    let testId = Expression<Int64>("testId")
-
+    let correctAnswers = Expression<Int64>("correctAnswers")
+    let wrongAnswers = Expression<Int64>("wrontAnswers")
+    let statistics = Table("statistics")
+    @IBOutlet weak var planeAnimationView: AnimationView!
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        navigationController?.navigationBar.prefersLargeTitles = true
+        navigationController?.setNavigationBarHidden(true, animated: true)
+        var gradientLayer: CAGradientLayer = {
+            let gradientLayer = CAGradientLayer()
+            gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
+            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
+            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
+            gradientLayer.frame = CGRect.zero
+            return gradientLayer
+        }()
+        self.view.layer.insertSublayer(gradientLayer, at: 0)
+        gradientLayer.frame = self.view.bounds
+        
+        setupAnimation()
         self.connectToDb()
         let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
         DataService.data.changeData(data: parsedData)
-        print(DataService.data.getData())
-//        self.dataService.currentData.subscribe {data in print(data)}
+    }
+    
+    private func setupAnimation() {
+        planeAnimationView.animation = Animation.named("plane")
+        planeAnimationView.loopMode = .loop
+        planeAnimationView.play()
+//        cloudAnimationView.animation = Animation.named("cloud")
+//        cloudAnimationView.contentMode = .scaleAspectFill
+//        cloudAnimationView.loopMode = .loop
+//        cloudAnimationView.play()
+//        view.addSubview(planeAnimationView)
+//        view.addSubview(cloudAnimationView)
     }
     
     @IBAction func onStartTestsButtonTapped(_ sender: UIButton) {
@@ -59,14 +84,15 @@ class HomeViewController: UIViewController {
             ).first!
 
             self.database = try Connection("\(path)/db.sqlite3")
-            try self.database.run(questions.create(ifNotExists: true, block: { (t) in
+            try self.database.run(statistics.create(ifNotExists: true, block: { (t) in
                 t.column(id, primaryKey: true)
-                t.column(name)
-                t.column(answers)
-                t.column(correctAnswerPosition)
+                t.column(correctAnswers)
+                t.column(wrongAnswers)
             }))
-            try self.database.run(questions.insert(name <- "testName", answers <- "Answers", correctAnswerPosition <- 1))
-
+            
+            for statistic in try self.database.prepare(statistics) {
+                print(statistic)
+            }
         } catch {
             print(error)
         }
@@ -97,5 +123,23 @@ class HomeViewController: UIViewController {
         }
         return []
     }
-
 }
+
+extension UIColor {
+   convenience init(red: Int, green: Int, blue: Int) {
+       assert(red >= 0 && red <= 255, "Invalid red component")
+       assert(green >= 0 && green <= 255, "Invalid green component")
+       assert(blue >= 0 && blue <= 255, "Invalid blue component")
+
+       self.init(red: CGFloat(red) / 255.0, green: CGFloat(green) / 255.0, blue: CGFloat(blue) / 255.0, alpha: 1.0)
+   }
+
+   convenience init(rgb: Int) {
+       self.init(
+           red: (rgb >> 16) & 0xFF,
+           green: (rgb >> 8) & 0xFF,
+           blue: rgb & 0xFF
+       )
+   }
+}
+
