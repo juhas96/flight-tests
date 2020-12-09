@@ -6,15 +6,15 @@
 //
 
 import UIKit
+import Lottie
 
 class EvaluateViewController: UIViewController {
     
     @IBOutlet weak var evaluationLabel: UILabel!
-    @IBOutlet weak var correctAnswersLabel: UILabel!
-    @IBOutlet weak var progressView: UIProgressView!
     @IBAction func onHomeButtonTapped(_ sender: Any) {
         self.performSegue(withIdentifier: "ShowHomeScreen", sender: self)
     }
+    @IBOutlet weak var animationView: AnimationView!
     
     var numberOfQuestions = 0
     var correctAnswers = 0
@@ -22,16 +22,33 @@ class EvaluateViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        progressView?.progress = Float(correctAnswers) / Float(numberOfQuestions)
-        correctAnswersLabel.text = "\(correctAnswers) / \(numberOfQuestions) si mal správne\n\(progressView.progress * 100)%"
+        self.evaluationLabel.text = "Správne odpovede \(correctAnswers) / \(numberOfQuestions)"
         
+        var gradietLayer: CAGradientLayer = {
+            let gradientLayer = CAGradientLayer()
+            if (Float(correctAnswers) / Float(numberOfQuestions) * 100) >= 80 {
+                gradientLayer.colors = [UIColor(rgb: 0x14DD28).cgColor, UIColor(rgb: 0x3EBB2A).cgColor]
+            } else {
+                gradientLayer.colors = [UIColor(rgb: 0xE72525).cgColor, UIColor(rgb: 0x821818).cgColor]
+            }
+            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
+            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
+            gradientLayer.frame = CGRect.zero
+            return gradientLayer
+        }()
         if (Float(correctAnswers) / Float(numberOfQuestions) * 100) >= 80 {
-            self.evaluationLabel.textColor = .green
-            self.evaluationLabel.text = "Gratulujeme v teste ste uspeli"
+            self.animationView.animation = Animation.named("thumbsup")
+            self.animationView.loopMode = .playOnce
+            self.animationView.contentMode = .scaleAspectFill
+            self.animationView.play()
         } else {
-            self.evaluationLabel.textColor = .red
-            self.evaluationLabel.text = "Bohuzial testom ste nepresli"
+            self.animationView.animation = Animation.named("sad-face")
+            self.animationView.loopMode = .loop
+            self.animationView.contentMode = .scaleAspectFit
+            self.animationView.play()
         }
+        self.view.layer.insertSublayer(gradietLayer, at: 0)
+        gradietLayer.frame = self.view.bounds
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

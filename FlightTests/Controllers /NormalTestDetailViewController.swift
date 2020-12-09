@@ -9,11 +9,7 @@ class NormalTestDetailViewController: UIViewController {
     var test = Test()
     var selectedAnswers: [Int: Int] = [:]
     var currentlySelectedButton: Int = -1
-    var database: Connection!
-    let statistics = Table("statistics")
-    let id = Expression<Int64>("id")
-    let correctAnswers = Expression<Int64>("correctAnswers")
-    let wrongAnswers = Expression<Int64>("wrontAnswers")
+    var dbHelper = DbHelper()
 
     
     @IBOutlet weak var backButton: CircleButton!
@@ -27,7 +23,6 @@ class NormalTestDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.connectToDb()
         var gradientLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
             gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
@@ -62,7 +57,7 @@ class NormalTestDetailViewController: UIViewController {
         }
         
         do {
-            try self.database.run(statistics.insert(id <- 1, correctAnswers <- 0, wrongAnswers <- 0))
+            self.dbHelper.update(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
         } catch {
             print(error)
         }
@@ -174,15 +169,6 @@ class NormalTestDetailViewController: UIViewController {
             destinationVc.correctAnswers = test.correctAnswers
             destinationVc.numberOfQuestions = test.test.count
             destinationVc.modalPresentationStyle = .fullScreen
-        }
-    }
-    
-    func connectToDb() {
-        do {
-            let path = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true).first!
-            self.database = try Connection("\(path)/db.sqlite3")
-        } catch {
-            print(error)
         }
     }
 

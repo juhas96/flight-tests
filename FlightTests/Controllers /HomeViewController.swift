@@ -13,11 +13,7 @@ class HomeViewController: UIViewController {
     
     var database: Connection!
     var userText: String = ""
-    let questions = Table("questions")
-    let id = Expression<Int64>("id")
-    let correctAnswers = Expression<Int64>("correctAnswers")
-    let wrongAnswers = Expression<Int64>("wrontAnswers")
-    let statistics = Table("statistics")
+    var dbHelper = DbHelper()
     @IBOutlet weak var planeAnimationView: AnimationView!
     
     
@@ -37,7 +33,8 @@ class HomeViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         
         setupAnimation()
-        self.connectToDb()
+        let stat = self.dbHelper.read()
+        print("\(stat.wrongAnswers)")
         let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
         DataService.data.changeData(data: parsedData)
     }
@@ -46,12 +43,6 @@ class HomeViewController: UIViewController {
         planeAnimationView.animation = Animation.named("plane")
         planeAnimationView.loopMode = .loop
         planeAnimationView.play()
-//        cloudAnimationView.animation = Animation.named("cloud")
-//        cloudAnimationView.contentMode = .scaleAspectFill
-//        cloudAnimationView.loopMode = .loop
-//        cloudAnimationView.play()
-//        view.addSubview(planeAnimationView)
-//        view.addSubview(cloudAnimationView)
     }
     
     @IBAction func onStartTestsButtonTapped(_ sender: UIButton) {
@@ -75,27 +66,6 @@ class HomeViewController: UIViewController {
 
         // 4. Present the alert.
         self.present(alert, animated: true, completion: nil)
-    }
-    
-    func connectToDb() {
-        do {
-            let path = NSSearchPathForDirectoriesInDomains(
-                .documentDirectory, .userDomainMask, true
-            ).first!
-
-            self.database = try Connection("\(path)/db.sqlite3")
-            try self.database.run(statistics.create(ifNotExists: true, block: { (t) in
-                t.column(id, primaryKey: true)
-                t.column(correctAnswers)
-                t.column(wrongAnswers)
-            }))
-            
-            for statistic in try self.database.prepare(statistics) {
-                print(statistic)
-            }
-        } catch {
-            print(error)
-        }
     }
     
     private func readLocalFile(forName name: String) -> Data? {
