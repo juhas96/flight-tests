@@ -10,11 +10,6 @@ import RxSwift
 
 class DataService {
     private var questions = BehaviorSubject<[Question]>(value: [])
-//    var currentData: Observable<[Question]>
-
-//    init() {
-//        currentData = questions.asObserver()
-//    }
     
     static let data = DataService()
     

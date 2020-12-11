@@ -36,11 +36,12 @@ class AnswerButton: UIButton {
         self.layer.masksToBounds = false
         self.sizeToFit()
         self.titleLabel?.numberOfLines = 0
+        self.titleLabel?.textAlignment = .center
         self.titleLabel?.adjustsFontSizeToFitWidth = true
         self.titleLabel?.lineBreakMode = NSLineBreakMode.byWordWrapping
         self.contentEdgeInsets = UIEdgeInsets(top: 5,left: 5,bottom: 5,right: 5)
     
-        titleLabel?.font = UIFont(name: "Arial", size: 24)
+        titleLabel?.font = UIFont(name: "Arial", size: 14)
         layer.cornerRadius = 20
     }
 }

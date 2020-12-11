@@ -8,12 +8,13 @@ class NormalTestDetailViewController: UIViewController {
     var questions: [Question] = []
     var test = Test()
     var selectedAnswers: [Int: Int] = [:]
+    var selectedAnswersWithIds: [String: Int] = [:]
     var currentlySelectedButton: Int = -1
     var dbHelper = DbHelper()
 
     
+    @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var backButton: CircleButton!
-    @IBOutlet weak var questionNumberLabel: UILabel!
     @IBOutlet weak var nextButton: CircleButton!
     @IBOutlet weak var firstButton: AnswerButton!
     @IBOutlet weak var secondButton: AnswerButton!
@@ -23,7 +24,7 @@ class NormalTestDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        var gradientLayer: CAGradientLayer = {
+        let gradientLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
             gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
             gradientLayer.startPoint = CGPoint(x: 0, y: 0)
@@ -35,8 +36,11 @@ class NormalTestDetailViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         self.evaluateButton.isHidden = true
         self.evaluateButton.backgroundColor = UIColor.green
-        navigationController?.navigationBar.prefersLargeTitles = false
-        navigationController?.setNavigationBarHidden(true, animated: true)
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
         self.nextButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
         self.nextButton.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
         
@@ -45,17 +49,38 @@ class NormalTestDetailViewController: UIViewController {
         
         self.questions = DataService.data.getData()
         test.test = self.initTest(number: Int(10))
+        self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
+        navigationController?.navigationBar.prefersLargeTitles = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
         self.updateUI()
+        self.setupQuestionLabel()
     }
     
     func initTest(number: Int) -> [Question] {
-        return Array(questions.choose(number))
+        let groupedQuestions = Dictionary(grouping: questions) {
+            $0.categoryName
+        }
+        print(groupedQuestions)
+        var testQuestions: [Question] = []
+        
+        for (_, q) in groupedQuestions {
+            let tempQuestions = q.choose(10)
+            testQuestions.append(contentsOf: tempQuestions)
+        }
+        
+        
+        return testQuestions
     }
     @IBAction func evaluateButtonTapped(_ sender: UIButton) {
+        
         for (questionPosition, answer) in selectedAnswers {
             self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
         }
         
+        let groupedQuestions = Dictionary(grouping: questions) {
+            $0.categoryName
+        }
+
         do {
             self.dbHelper.update(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
         } catch {
@@ -82,6 +107,7 @@ class NormalTestDetailViewController: UIViewController {
     
     @IBAction func onNextQuestionButtonTapped(_ sender: UIButton) {
         self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
+//        self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.)
         self.test.nextQuestion()
         self.currentlySelectedButton = -1
         updateButtonsColor()
@@ -113,7 +139,7 @@ class NormalTestDetailViewController: UIViewController {
             self.nextButton.isEnabled = true
         }
         
-        self.questionNumberLabel.text = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
+        self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
         questionTextLabel.text = test.getQuestionText()
         
         if let value = selectedAnswers[test.questionNumber] {
@@ -163,6 +189,13 @@ class NormalTestDetailViewController: UIViewController {
         }
     }
     
+    func setupQuestionLabel() {
+        self.questionTextLabel.layer.cornerRadius = 20.0
+        self.questionTextLabel.layer.masksToBounds = true
+        self.questionTextLabel.textColor = .black
+        self.questionTextLabel.sizeToFit()
+    }
+
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "ShowEvaluateScreenFromNormalTest" {
             let destinationVc = segue.destination as! EvaluateViewController

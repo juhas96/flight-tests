@@ -28,6 +28,14 @@ struct Test {
         }
     }
     
+    func getQuestionIdByQuestionPosition(position: Int) -> String {
+        if test.count > 0 {
+            return test[position].id!
+        } else {
+            return "-1"
+        }
+    }
+    
     mutating func nextQuestion() {
         if questionNumber + 1 < test.count {
             questionNumber += 1
@@ -67,5 +75,18 @@ struct Test {
                 wrongAnswers += 1
             }
         }
+    }
+    
+    mutating func checkAnswerWithId(userAnswer: Int, id: String) -> Bool {
+        if test.count > 0 {
+            if let index = test.firstIndex(where: {$0.id == id}) {
+                if userAnswer == test[index].correctAnswerPosition {
+                    return true
+                } else {
+                    return false
+                }
+            }
+        }
+        return false
     }
 }

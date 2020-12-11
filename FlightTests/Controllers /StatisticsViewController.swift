@@ -34,6 +34,14 @@ class StatisticsViewController: UIViewController {
         self.view.layer.insertSublayer(gradientLayer, at: 0)
         gradientLayer.frame = self.view.bounds
     
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        navigationController?.navigationBar.prefersLargeTitles = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
+    
         self.updateChartData()
     }
     
@@ -50,6 +58,7 @@ class StatisticsViewController: UIViewController {
         chartDataSet.colors = colors as! [NSUIColor]
         
         pieChartView.data = chartData
+        
     }
     
     

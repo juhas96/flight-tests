@@ -17,6 +17,9 @@ class HomeViewController: UIViewController {
     @IBOutlet weak var planeAnimationView: AnimationView!
     
     
+    override func viewWillAppear(_ animated: Bool) {
+        navigationController?.setNavigationBarHidden(true, animated: true)
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -61,7 +64,8 @@ class HomeViewController: UIViewController {
             print("Text field: \(textField?.text)")
             let vc = self.storyboard?.instantiateViewController(identifier: "TestViewController") as! TestViewController
             vc.numberOfQuestions = (textField?.text)!
-            self.present(vc, animated: true, completion: nil)
+            self.navigationController?.pushViewController(vc, animated: true)
+//            self.present(vc, animated: true, completion: nil)
         }))
 
         // 4. Present the alert.
@@ -86,7 +90,6 @@ class HomeViewController: UIViewController {
         do {
             let decodedData = try JSONDecoder().decode([Question].self,
                                                        from: jsonData)
-            
             return decodedData
         } catch {
             print(error)

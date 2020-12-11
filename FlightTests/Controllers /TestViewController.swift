@@ -17,8 +17,19 @@ class TestViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let gradientLayer: CAGradientLayer = {
+            let gradientLayer = CAGradientLayer()
+            gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
+            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
+            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
+            gradientLayer.frame = CGRect.zero
+            return gradientLayer
+        }()
+        self.view.layer.insertSublayer(gradientLayer, at: 0)
+        gradientLayer.frame = self.view.bounds
         self.questions = DataService.data.getData()
         test.test = self.initTest(number: Int(numberOfQuestions)!)
+        self.setupQuestionLabel()
         self.updateUI()
     
     }
@@ -73,6 +84,13 @@ class TestViewController: UIViewController {
             destinationVc.modalPresentationStyle = .fullScreen
         }
         
+    }
+    
+    func setupQuestionLabel() {
+        self.questionLabel.layer.cornerRadius = 20.0
+        self.questionLabel.layer.masksToBounds = true
+        self.questionLabel.textColor = .black
+        self.questionLabel.sizeToFit()
     }
 }
 

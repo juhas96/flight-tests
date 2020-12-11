@@ -25,7 +25,13 @@ class AllTestsTableViewController: UITableViewController {
         super.viewDidLoad()
         navigationItem.title = "Všetky testy"
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: cellId)
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
         
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
+        navigationController?.navigationBar.prefersLargeTitles = false
 //        print(self.dataService.getData())
 //        self.disposeBag.insert(self.dataService.currentData.subscribe {data in print(data)})
     }

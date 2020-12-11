@@ -25,6 +25,7 @@
 		146679702581510A0019B107 /* DbHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1466796F2581510A0019B107 /* DbHelper.swift */; };
 		147BE6202580E87300296434 /* thumbsup.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE61F2580E87300296434 /* thumbsup.json */; };
 		147BE6232580E87C00296434 /* sad-face.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE6222580E87C00296434 /* sad-face.json */; };
+		147C8E0C2582A3F900EC5413 /* PaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */; };
 		148E2D7E257A93D20027BCF9 /* TestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148E2D7D257A93D20027BCF9 /* TestDetailViewController.swift */; };
 		148E2D89257AA0D70027BCF9 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148E2D88257AA0D70027BCF9 /* DataService.swift */; };
 		149380612571CA4D000B809C /* EvaluateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149380602571CA4D000B809C /* EvaluateViewController.swift */; };
@@ -56,6 +57,7 @@
 		1466796F2581510A0019B107 /* DbHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DbHelper.swift; sourceTree = "<group>"; };
 		147BE61F2580E87300296434 /* thumbsup.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = thumbsup.json; sourceTree = "<group>"; };
 		147BE6222580E87C00296434 /* sad-face.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sad-face.json"; sourceTree = "<group>"; };
+		147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLabel.swift; sourceTree = "<group>"; };
 		148E2D7D257A93D20027BCF9 /* TestDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDetailViewController.swift; sourceTree = "<group>"; };
 		148E2D88257AA0D70027BCF9 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		149380602571CA4D000B809C /* EvaluateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateViewController.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				148E2D88257AA0D70027BCF9 /* DataService.swift */,
 				140F6329257B7AE700F801B5 /* CircleButton.swift */,
 				1466796F2581510A0019B107 /* DbHelper.swift */,
+				147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */,
 			);
 			path = FlightTests;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				149380612571CA4D000B809C /* EvaluateViewController.swift in Sources */,
 				14D752C225656AB80033B313 /* HomeViewController.swift in Sources */,
 				1466796D25810F980019B107 /* Statistics.swift in Sources */,
+				147C8E0C2582A3F900EC5413 /* PaddingLabel.swift in Sources */,
 				1466796A25810E610019B107 /* StatisticsViewController.swift in Sources */,
 				146679702581510A0019B107 /* DbHelper.swift in Sources */,
 			);

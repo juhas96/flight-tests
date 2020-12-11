@@ -18,6 +18,8 @@ class EvaluateViewController: UIViewController {
     
     var numberOfQuestions = 0
     var correctAnswers = 0
+    
+    var groupedCorrectQuestions: [String:Int] = [:]
 
 
     override func viewDidLoad() {
