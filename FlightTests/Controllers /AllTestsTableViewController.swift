@@ -40,9 +40,11 @@ class AllTestsTableViewController: UITableViewController {
         let label = UILabel()
         let text = self.allTests[section][0].split(separator: " ")[0]
         label.text = String(text)
+        label.font = UIFont.boldSystemFont(ofSize: 24.0)
         label.setMargins(margin: 10)
-        label.backgroundColor = UIColor.lightGray
-        label.font = UIFont.boldSystemFont(ofSize: 20.0)
+        label.backgroundColor = .white
+        label.textColor = .black
+        
         return label
     }
 
@@ -59,6 +61,8 @@ class AllTestsTableViewController: UITableViewController {
         
         let name = self.allTests[indexPath.section][indexPath.row]
         cell.textLabel?.text = name
+        cell.textLabel?.textColor = .black
+        cell.contentView.backgroundColor = .white
         
         return cell
     }

@@ -19,6 +19,13 @@ class HomeViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         navigationController?.setNavigationBarHidden(true, animated: true)
+//        navigationController?.viewControllers.removeAll(where: { (vc) -> Bool in
+//            if vc.isKind(of: HomeViewController.self) {
+//                return false
+//            } else {
+//                return true
+//            }
+//        })
     }
     
     override func viewDidLoad() {
@@ -114,5 +121,19 @@ extension UIColor {
            blue: rgb & 0xFF
        )
    }
+}
+
+extension String {
+    var htmlToAttributedString: NSAttributedString? {
+        guard let data = data(using: .utf8) else { return nil }
+        do {
+            return try NSAttributedString(data: data, options: [.documentType: NSAttributedString.DocumentType.html, .characterEncoding:String.Encoding.utf8.rawValue], documentAttributes: nil)
+        } catch {
+            return nil
+        }
+    }
+    var htmlToString: String {
+        return htmlToAttributedString?.string ?? ""
+    }
 }
 

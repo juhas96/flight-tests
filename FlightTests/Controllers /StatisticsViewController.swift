@@ -23,6 +23,7 @@ class StatisticsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.statistic = self.db.read()
+        print(statistic)
         var gradientLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
             gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]

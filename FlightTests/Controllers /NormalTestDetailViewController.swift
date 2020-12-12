@@ -10,6 +10,7 @@ class NormalTestDetailViewController: UIViewController {
     var selectedAnswers: [Int: Int] = [:]
     var selectedAnswersWithIds: [String: Int] = [:]
     var currentlySelectedButton: Int = -1
+    var evaluationDict: [String: Int] = [:]
     var dbHelper = DbHelper()
 
     
@@ -21,6 +22,15 @@ class NormalTestDetailViewController: UIViewController {
     @IBOutlet weak var thirdButton: AnswerButton!
     @IBOutlet weak var questionTextLabel: UILabel!
     @IBOutlet weak var evaluateButton: AnswerButton!
+    
+    override func viewWillAppear(_ animated: Bool) {
+        navigationController?.setNavigationBarHidden(false, animated: true)
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -49,6 +59,7 @@ class NormalTestDetailViewController: UIViewController {
         
         self.questions = DataService.data.getData()
         test.test = self.initTest(number: Int(10))
+        test.initFirstQuestionId()
         self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
         navigationController?.navigationBar.prefersLargeTitles = false
         navigationController?.setNavigationBarHidden(false, animated: true)
@@ -57,37 +68,70 @@ class NormalTestDetailViewController: UIViewController {
     }
     
     func initTest(number: Int) -> [Question] {
+        // 1. step Group questions by category
         let groupedQuestions = Dictionary(grouping: questions) {
             $0.categoryName
         }
-        print(groupedQuestions)
+        
+        var randomNineCategories: [String: [Question]] = [:]
+        
+        // 2. step
+        while randomNineCategories.count < 2 {
+            var random = groupedQuestions.randomElement()
+            if (randomNineCategories[random!.key] == nil) {
+                randomNineCategories.updateValue(random!.value, forKey: random!.key)
+                evaluationDict.updateValue(0, forKey: random!.key)
+            } else {
+                random = groupedQuestions.randomElement()
+            }
+        }
+
         var testQuestions: [Question] = []
         
-        for (_, q) in groupedQuestions {
+        for (_, q) in randomNineCategories {
             let tempQuestions = q.choose(10)
             testQuestions.append(contentsOf: tempQuestions)
         }
         
-        
         return testQuestions
     }
     @IBAction func evaluateButtonTapped(_ sender: UIButton) {
+        self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
+        self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.questionId)
         
-        for (questionPosition, answer) in selectedAnswers {
-            self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
+        if (self.selectedAnswersWithIds.count < self.test.test.count) {
+            let alert = UIAlertController(title: "Pred vyhodnotením musíš zodpovedať všetky otázky", message: "", preferredStyle: .alert)
+        } else {
+            for (questionPosition, answer) in selectedAnswers {
+                self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
+            }
+            
+            let groupedQuestions = Dictionary(grouping: test.test) {
+                $0.categoryName
+            }
+            
+            for (category, questions) in groupedQuestions {
+                for q in questions {
+                    let categoryAndIfIsCorrect = self.test.checkAnswerWithId(userAnswer: selectedAnswersWithIds[q.id!]!, id: q.id!)
+                    
+                    if let isTrue = categoryAndIfIsCorrect[category] {
+                        if (isTrue) {
+                            let currentValue: Int? = self.evaluationDict[category]
+                            self.evaluationDict.updateValue(currentValue! + 1, forKey: category)
+                        }
+                    }
+                }
+            }
+            
+            print(self.evaluationDict)
+            do {
+                self.dbHelper.update(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
+            } catch {
+                print(error)
+            }
+            
+            self.performSegue(withIdentifier: "ShowEvaluateScreenFromNormalTest", sender: self)
         }
-        
-        let groupedQuestions = Dictionary(grouping: questions) {
-            $0.categoryName
-        }
-
-        do {
-            self.dbHelper.update(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
-        } catch {
-            print(error)
-        }
-        
-        self.performSegue(withIdentifier: "ShowEvaluateScreenFromNormalTest", sender: self)
     }
     
     @IBAction func onFirstButtonTapped(_ sender: UIButton) {
@@ -107,7 +151,7 @@ class NormalTestDetailViewController: UIViewController {
     
     @IBAction func onNextQuestionButtonTapped(_ sender: UIButton) {
         self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
-//        self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.)
+        self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.questionId)
         self.test.nextQuestion()
         self.currentlySelectedButton = -1
         updateButtonsColor()
@@ -140,14 +184,16 @@ class NormalTestDetailViewController: UIViewController {
         }
         
         self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
-        questionTextLabel.text = test.getQuestionText()
+        questionTextLabel.attributedText = test.getQuestionText().htmlToAttributedString
+        questionTextLabel.textAlignment = .center
+        questionTextLabel.font = UIFont.systemFont(ofSize: 20, weight: .bold)
         
         if let value = selectedAnswers[test.questionNumber] {
             self.currentlySelectedButton = value
         }
-        firstButton?.setTitle(test.getAnswerOnPosition(position: 0), for: UIControl.State.normal)
-        secondButton?.setTitle(test.getAnswerOnPosition(position: 1), for: UIControl.State.normal)
-        thirdButton?.setTitle(test.getAnswerOnPosition(position: 2), for: UIControl.State.normal)
+        firstButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
+        secondButton?.setAttributedTitle(test.getAnswerOnPosition(position: 1).htmlToAttributedString, for: .normal)
+        thirdButton?.setAttributedTitle(test.getAnswerOnPosition(position: 2).htmlToAttributedString, for: .normal)
         updateButtonsColor()
         
     }
@@ -201,6 +247,7 @@ class NormalTestDetailViewController: UIViewController {
             let destinationVc = segue.destination as! EvaluateViewController
             destinationVc.correctAnswers = test.correctAnswers
             destinationVc.numberOfQuestions = test.test.count
+            destinationVc.groupedCorrectQuestions = self.evaluationDict
             destinationVc.modalPresentationStyle = .fullScreen
         }
     }

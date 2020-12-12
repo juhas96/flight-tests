@@ -2,6 +2,7 @@ import Foundation
 
 struct Test {
     var questionNumber = 0
+    var questionId = "-1"
     var correctAnswers = 0
     var wrongAnswers = 0
     
@@ -36,13 +37,20 @@ struct Test {
         }
     }
     
+    mutating func initFirstQuestionId() {
+        if test.count > 0 {
+            self.questionId = test[0].id!
+        }
+    }
+    
     mutating func nextQuestion() {
+        print("Question number: \(questionNumber)")
         if questionNumber + 1 < test.count {
             questionNumber += 1
         } else {
-        
             questionNumber = test.count
         }
+            self.questionId = self.test[questionNumber - 1].id!
     }
     
     mutating func previousQuestion() {
@@ -50,6 +58,11 @@ struct Test {
         print(questionNumber - 1 >= 1)
         if questionNumber != 0 {
             questionNumber -= 1
+        }
+        if (questionNumber - 1 > 1) {
+            self.questionId = self.test[questionNumber - 1].id!
+        } else {
+            self.questionId = self.test[questionNumber].id!
         }
     }
     
@@ -77,16 +90,16 @@ struct Test {
         }
     }
     
-    mutating func checkAnswerWithId(userAnswer: Int, id: String) -> Bool {
+    mutating func checkAnswerWithId(userAnswer: Int, id: String) -> [String:Bool] {
         if test.count > 0 {
             if let index = test.firstIndex(where: {$0.id == id}) {
                 if userAnswer == test[index].correctAnswerPosition {
-                    return true
+                    return [test[index].categoryName: true]
                 } else {
-                    return false
+                    return [test[index].categoryName: false]
                 }
             }
         }
-        return false
+        return [:]
     }
 }

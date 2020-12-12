@@ -9,7 +9,7 @@
     ],
     "correctAnswerPosition":0,
     "testName":"Aerodynamika X63",
-    "categoryName":"Aerodynamika"
+    "categoryName":"B"
   },
   {
     "id":"2",
@@ -21,7 +21,7 @@
     ],
     "correctAnswerPosition":0,
     "testName":"Aerodynamika X63",
-    "categoryName":"Aerodynamika"
+    "categoryName":"B"
   },
   {
     "id":"3",
@@ -241,6 +241,7 @@
     "questionImage":"aerodynamikax63_20.jpg"
   },
   {
+    "id":"21",
     "questionText":"Geometrickými charakteristikami profilu krídla sú",
     "answers":[
       "polomer nábežnej hrany, maximálna hrúbka, maximálne prehnutie, poloha maximálnej hrúbky, poloha maximálneho prehnutia, stredná krivka",
@@ -252,6 +253,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+    "id":"22",
     "questionText":"Základnými aerodynamickými charakteristikami profilu sú",
     "answers":[
       "tlakový spád, uhol nábehu, závislosť súčiniteľa odporu od uhla nábehu, maximálna hrúbka profilu",
@@ -263,6 +265,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"23",
     "questionText":"Pôsobisko vztlaku profilu je bod",
     "answers":[
       "ku ktorému je priložený vztlak profilu",
@@ -274,6 +277,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"24",
     "questionText":"Odpor, ktorý vzniká pri obtekaní krídla konečného rozpätia delíme na",
     "answers":[
       "tvarový, trecí",
@@ -285,6 +289,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"25",
     "questionText":"Geometrickými charakteristikami krídla sú",
     "answers":[
       "rozpätie, hĺbka, dĺžka strednej aerodynamickej tetivy, štíhlosť, zúženie, uhol šípu, uhol vzopätia a skrútenie krídla, plocha krídla",
@@ -296,6 +301,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"26",
     "questionText": "Uhol šípu je znázornený na obrázku",
     "answers":[
       "a",
@@ -307,6 +313,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"27",
     "questionText": "Uhol vzopätia je znázornený na obrázku",
     "answers":[
       "a",
@@ -318,6 +325,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"28",
     "questionText":"Geometrické skrútenie krídla je dané",
     "answers":[
       "uhlom medzi smerom nulového vztlaku v strede a na konci krídla",
@@ -329,6 +337,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"29",
     "questionText":"Aerodynamické skrútenie je dané",
     "answers":[
       "uhlom medzi tetivami profilov v strede a na konci krídla",
@@ -340,6 +349,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"30",
     "questionText": "Správny príklad rozloženia indukovanej rýchlosti po rozpätí obdĺžnikového krídla pri kladnom uhle nábehu je na obrázku",
     "answers":[
       "a",
@@ -351,6 +361,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"31",
       "questionText": "Rozloženie vztlaku na krídle je závislé od jeho pôdorysného tvaru. Pre obdĺžnikové krídlo je rozloženie na obrázku",
     "answers":[
       "a",
@@ -362,6 +373,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"32",
     "questionText":"Prostriedky na zvýšenie vztlaku krídla sú",
     "answers":[
       "sloty, vztlakové klapky, interceptory, odsávanie medznej vrstvy",
@@ -373,6 +385,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"33",
     "questionText":"Maximálne prehnutie profilu je maximálna vzdialenosť medzi",
     "answers":[
       "tetivou a hornou stranou profilu",
@@ -384,6 +397,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"34",
     "questionText":"Bod najmenšej klesavosti na rýchlostnej poláre leží",
     "answers":[
       "mierne pod bodom najlepšej klesavosti",
@@ -395,6 +409,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"35",
     "questionText":"Najvýhodnejšie rozdelenie miestnych súčiniteľov vztlaku z hľadiska indukovaného odporu má ",
     "answers":[
       "obdĺžnikové neskrútené krídlo",
@@ -406,6 +421,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"36",
     "questionText":"Najvýhodnejšie rozloženie miestnych súčiniteľov vztlaku z hľadiska letových vlastností má",
     "answers":[
       "lichobežníkové neskrútené krídlo",
@@ -417,6 +433,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"37",
       "questionText": "Rozloženie vztlaku pre eliptické krídlo je na obrázku",
     "answers":[
       "a",
@@ -428,6 +445,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"38",
     "questionText":"Vplyv blízkosti zeme na poláru lietadla je",
     "answers":[
       "zanedbateľný",
@@ -439,6 +457,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"39",
     "questionText":"Geometrickým skrútením krídla rozumieme",
     "answers":[
       "postupnú zmenu hrúbky profilov od koreňa ku koncu krídla",
@@ -450,6 +469,7 @@
     "categoryName":"Aerodynamika"
   },
   {
+      "id":"40",
     "questionText":"Zvýšená drsnosť povrchu obtekaného telesa vyvoláva posun bodu prechodu laminárnej medznej vrstvy",
     "answers":[
       "dopredu",

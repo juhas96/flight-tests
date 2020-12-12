@@ -12,7 +12,8 @@ class EvaluateViewController: UIViewController {
     
     @IBOutlet weak var evaluationLabel: UILabel!
     @IBAction func onHomeButtonTapped(_ sender: Any) {
-        self.performSegue(withIdentifier: "ShowHomeScreen", sender: self)
+        self.view.window?.rootViewController?.dismiss(animated: true, completion: nil)
+//        self.performSegue(withIdentifier: "ShowHomeScreen", sender: self)
     }
     @IBOutlet weak var animationView: AnimationView!
     
@@ -24,7 +25,14 @@ class EvaluateViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.evaluationLabel.text = "Správne odpovede \(correctAnswers) / \(numberOfQuestions)"
+        self.evaluationLabel.text = ""
+        if (groupedCorrectQuestions.count > 0) {
+            for (category, correctAnswers) in groupedCorrectQuestions {
+                self.evaluationLabel.text?.append("\(category): \(correctAnswers)/10\n")
+            }
+        } else {
+            self.evaluationLabel.text = "\(correctAnswers)/\(numberOfQuestions) správnych"
+        }
         
         var gradietLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
@@ -49,6 +57,7 @@ class EvaluateViewController: UIViewController {
             self.animationView.contentMode = .scaleAspectFit
             self.animationView.play()
         }
+        self.setupQuestionLabel()
         self.view.layer.insertSublayer(gradietLayer, at: 0)
         gradietLayer.frame = self.view.bounds
     }
@@ -58,5 +67,12 @@ class EvaluateViewController: UIViewController {
             let destinationVc = segue.destination as! HomeViewController
             destinationVc.modalPresentationStyle = .fullScreen
         }
+    }
+    
+    func setupQuestionLabel() {
+        self.evaluationLabel.layer.cornerRadius = 20.0
+        self.evaluationLabel.layer.masksToBounds = true
+        self.evaluationLabel.textColor = .black
+        self.evaluationLabel.sizeToFit()
     }
 }
