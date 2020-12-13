@@ -44,25 +44,26 @@ struct Test {
     }
     
     mutating func nextQuestion() {
-        print("Question number: \(questionNumber)")
-        if questionNumber + 1 < test.count {
-            questionNumber += 1
-        } else {
-            questionNumber = test.count
-        }
+        if (test.count > 0) {
+            if questionNumber + 1 < test.count {
+                questionNumber += 1
+            } else {
+                questionNumber = test.count
+            }
             self.questionId = self.test[questionNumber - 1].id!
+        }
     }
     
     mutating func previousQuestion() {
-        print("Question number: \(questionNumber)")
-        print(questionNumber - 1 >= 1)
-        if questionNumber != 0 {
-            questionNumber -= 1
-        }
-        if (questionNumber - 1 > 1) {
-            self.questionId = self.test[questionNumber - 1].id!
-        } else {
-            self.questionId = self.test[questionNumber].id!
+        if (test.count > 0) {
+            if questionNumber != 0 {
+                questionNumber -= 1
+            }
+            if (questionNumber - 1 > 1) {
+                self.questionId = self.test[questionNumber - 1].id!
+            } else {
+                self.questionId = self.test[questionNumber].id!
+            }
         }
     }
     

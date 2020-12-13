@@ -12,6 +12,7 @@ class NormalTestDetailViewController: UIViewController {
     var currentlySelectedButton: Int = -1
     var evaluationDict: [String: Int] = [:]
     var dbHelper = DbHelper()
+    weak var buttonItem: UIBarButtonItem?
 
     
     @IBOutlet weak var imageView: UIImageView!
@@ -21,7 +22,7 @@ class NormalTestDetailViewController: UIViewController {
     @IBOutlet weak var secondButton: AnswerButton!
     @IBOutlet weak var thirdButton: AnswerButton!
     @IBOutlet weak var questionTextLabel: UILabel!
-    @IBOutlet weak var evaluateButton: AnswerButton!
+    
     
     override func viewWillAppear(_ animated: Bool) {
         navigationController?.setNavigationBarHidden(false, animated: true)
@@ -44,13 +45,14 @@ class NormalTestDetailViewController: UIViewController {
         }()
         self.view.layer.insertSublayer(gradientLayer, at: 0)
         gradientLayer.frame = self.view.bounds
-        self.evaluateButton.isHidden = true
-        self.evaluateButton.backgroundColor = UIColor.green
         UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
         UINavigationBar.appearance().tintColor = .white
         
         UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
         UINavigationBar.appearance().isTranslucent = false
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Vyhodnotiť test", style: .plain, target: self, action: #selector(onEvalutateButtonTapped))
+
         self.nextButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
         self.nextButton.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
         
@@ -95,12 +97,16 @@ class NormalTestDetailViewController: UIViewController {
         
         return testQuestions
     }
-    @IBAction func evaluateButtonTapped(_ sender: UIButton) {
+    
+    @objc func onEvalutateButtonTapped() {
         self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
         self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.questionId)
-        
-        if (self.selectedAnswersWithIds.count < self.test.test.count) {
+        print(self.selectedAnswers.count)
+        print(self.test.test.count)
+        if (self.selectedAnswers.count < self.test.test.count) {
             let alert = UIAlertController(title: "Pred vyhodnotením musíš zodpovedať všetky otázky", message: "", preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+            self.present(alert, animated: true, completion: nil)
         } else {
             for (questionPosition, answer) in selectedAnswers {
                 self.test.checkAnswerOnPosition(userAnswer: answer, position: questionPosition)
@@ -134,6 +140,7 @@ class NormalTestDetailViewController: UIViewController {
         }
     }
     
+    
     @IBAction func onFirstButtonTapped(_ sender: UIButton) {
         self.currentlySelectedButton = 0
         updateButtonsColor()
@@ -166,11 +173,6 @@ class NormalTestDetailViewController: UIViewController {
     }
     
     func updateUI() {
-        if test.questionNumber + 1 == test.test.count {
-            self.evaluateButton.isHidden = false
-        } else {
-            self.evaluateButton.isHidden = true
-        }
         if test.questionNumber == 0 {
             self.backButton.isEnabled = false
         } else {

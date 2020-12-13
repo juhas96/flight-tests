@@ -11,7 +11,6 @@ import SQLite
 class DbHelper {
     init() {
         db = openDatabase()
-        print("DB \(db)")
         createTable()
     }
     
@@ -26,7 +25,7 @@ class DbHelper {
         do {
             let path = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)
                 .first!
-            print("Opening db")
+
             return try Connection("\(path)/\(dbPath)")
         } catch {
             print(error)
@@ -36,18 +35,13 @@ class DbHelper {
     }
     
     func createTable() {
-        print("Creating table")
         do {
             try self.db.run(statisticsTable.create(ifNotExists: true, block: { (t) in
                 t.column(id, primaryKey: true)
                 t.column(correctAnswers)
                 t.column(wrongAnswers)
             }))
-            let checkIfExists = self.statisticsTable.filter(id == 1)
-            print("CCHECK IF: \(checkIfExists)")
-            if checkIfExists == nil {
-                try self.db.run(statisticsTable.insert(id <- 1, correctAnswers <- 0, wrongAnswers <- 0))
-            }
+            try self.db.run(statisticsTable.insert(id <- 1, correctAnswers <- 0, wrongAnswers <- 0))
         } catch {
             print(error)
         }
@@ -68,7 +62,6 @@ class DbHelper {
         
         do {
             for tmpStatistic in try db!.prepare(statisticsTable) {
-                print("TEMP \(tmpStatistic)")
                 if (tmpStatistic[self.id] == 1) {
                     statistic.correctAnswers = Int(tmpStatistic[self.correctAnswers])
                     statistic.wrongAnswers = Int(tmpStatistic[self.wrongAnswers])

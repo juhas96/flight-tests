@@ -19,19 +19,19 @@ class HomeViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         navigationController?.setNavigationBarHidden(true, animated: true)
-//        navigationController?.viewControllers.removeAll(where: { (vc) -> Bool in
-//            if vc.isKind(of: HomeViewController.self) {
-//                return false
-//            } else {
-//                return true
-//            }
-//        })
+        navigationController?.viewControllers.removeAll(where: { (vc) -> Bool in
+            if vc.isKind(of: HomeViewController.self) {
+                return false
+            } else {
+                return true
+            }
+        })
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         navigationController?.setNavigationBarHidden(true, animated: true)
-        var gradientLayer: CAGradientLayer = {
+        let gradientLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
             gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
             gradientLayer.startPoint = CGPoint(x: 0, y: 0)
@@ -43,8 +43,6 @@ class HomeViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         
         setupAnimation()
-        let stat = self.dbHelper.read()
-        print("\(stat.wrongAnswers)")
         let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
         DataService.data.changeData(data: parsedData)
     }
@@ -67,13 +65,13 @@ class HomeViewController: UIViewController {
 
         // 3. Grab the value from the text field, and print it when the user clicks OK.
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: { [weak alert] (_) in
-            var textField = alert?.textFields![0] // Force unwrapping because we know it exists.
-            print("Text field: \(textField?.text)")
+            let textField = alert?.textFields![0]
             let vc = self.storyboard?.instantiateViewController(identifier: "TestViewController") as! TestViewController
             vc.numberOfQuestions = (textField?.text)!
             self.navigationController?.pushViewController(vc, animated: true)
-//            self.present(vc, animated: true, completion: nil)
         }))
+        
+        alert.addAction(UIAlertAction(title: "Zrušiť", style: .cancel, handler: nil))
 
         // 4. Present the alert.
         self.present(alert, animated: true, completion: nil)

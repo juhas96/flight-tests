@@ -12,8 +12,8 @@ class EvaluateViewController: UIViewController {
     
     @IBOutlet weak var evaluationLabel: UILabel!
     @IBAction func onHomeButtonTapped(_ sender: Any) {
-        self.view.window?.rootViewController?.dismiss(animated: true, completion: nil)
-//        self.performSegue(withIdentifier: "ShowHomeScreen", sender: self)
+        let vc = self.storyboard?.instantiateViewController(identifier: "HomeViewController") as! HomeViewController
+        self.navigationController?.pushViewController(vc, animated: true)
     }
     @IBOutlet weak var animationView: AnimationView!
     
@@ -25,6 +25,7 @@ class EvaluateViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        navigationController?.setNavigationBarHidden(true, animated: true)
         self.evaluationLabel.text = ""
         if (groupedCorrectQuestions.count > 0) {
             for (category, correctAnswers) in groupedCorrectQuestions {
@@ -33,7 +34,7 @@ class EvaluateViewController: UIViewController {
         } else {
             self.evaluationLabel.text = "\(correctAnswers)/\(numberOfQuestions) správnych"
         }
-        
+
         var gradietLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()
             if (Float(correctAnswers) / Float(numberOfQuestions) * 100) >= 80 {

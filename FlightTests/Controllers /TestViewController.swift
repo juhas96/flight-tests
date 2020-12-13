@@ -14,6 +14,15 @@ class TestViewController: UIViewController {
     
     var numberOfQuestions: String = ""
     var test = Test()
+    
+    override func viewWillAppear(_ animated: Bool) {
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -31,6 +40,13 @@ class TestViewController: UIViewController {
         test.test = self.initTest(number: Int(numberOfQuestions)!)
         self.setupQuestionLabel()
         self.updateUI()
+        navigationController?.interactivePopGestureRecognizer?.isEnabled = false
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
     
     }
     
