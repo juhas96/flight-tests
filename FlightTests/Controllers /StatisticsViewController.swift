@@ -22,7 +22,7 @@ class StatisticsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.statistic = self.db.read()
+        self.statistic = self.db.readStatistics()
         print(statistic)
         var gradientLayer: CAGradientLayer = {
             let gradientLayer = CAGradientLayer()

@@ -131,7 +131,7 @@ class NormalTestDetailViewController: UIViewController {
             
             print(self.evaluationDict)
             do {
-                self.dbHelper.update(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
+                self.dbHelper.updateStatistics(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
             } catch {
                 print(error)
             }

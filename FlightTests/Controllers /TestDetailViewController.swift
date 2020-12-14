@@ -39,7 +39,7 @@ class TestDetailViewController: UIViewController {
     }
     
     @IBAction func showAnswerButtonTapped(_ sender: AnswerButton) {
-        self.answerTextLabel.text = test.getAnswerOnPosition(position: test.questionNumber)
+        self.answerTextLabel.text = test.getAnswerOnPosition(position: 0)
     }
     @IBAction func previousButtonTapped(_ sender: AnswerButton) {
         self.test.previousQuestion()

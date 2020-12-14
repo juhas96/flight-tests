@@ -53,11 +53,11 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <view contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="f6g-dI-WUS" customClass="AnimationView" customModule="Lottie">
-                                        <rect key="frame" x="0.0" y="210" width="408" height="324"/>
+                                        <rect key="frame" x="0.0" y="210" width="408" height="314"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </view>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" translatesAutoresizingMaskIntoConstraints="NO" id="CmR-bC-7kI">
-                                        <rect key="frame" x="0.0" y="544" width="408" height="240"/>
+                                        <rect key="frame" x="0.0" y="534" width="408" height="250"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T9u-1Y-2zK" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="0.0" width="408" height="50"/>
@@ -70,7 +70,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fv8-uL-yIO" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="63.333333333333371" width="408" height="50"/>
+                                                <rect key="frame" x="0.0" y="50" width="408" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="03s-9L-qBE"/>
                                                 </constraints>
@@ -81,7 +81,7 @@
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kJS-zO-gQJ" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="126.66666666666663" width="408" height="50"/>
+                                                <rect key="frame" x="0.0" y="100" width="408" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="27n-Vc-HX2"/>
                                                 </constraints>
@@ -90,8 +90,18 @@
                                                     <segue destination="59M-E4-RaJ" kind="show" id="8oD-rZ-eZ3"/>
                                                 </connections>
                                             </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7z7-vz-ShK">
+                                                <rect key="frame" x="0.0" y="150" width="408" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="zhz-0d-2Sg"/>
+                                                </constraints>
+                                                <state key="normal" title="Zobraziť chybné otázky"/>
+                                                <connections>
+                                                    <segue destination="Sr4-BF-cuB" kind="show" id="muX-hG-ovR"/>
+                                                </connections>
+                                            </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JPN-cZ-8hC" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
-                                                <rect key="frame" x="0.0" y="190" width="408" height="50"/>
+                                                <rect key="frame" x="0.0" y="200" width="408" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="Th2-tT-upg"/>
                                                 </constraints>
@@ -101,9 +111,6 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="240" id="Hv9-FB-0I3"/>
-                                        </constraints>
                                     </stackView>
                                 </subviews>
                                 <constraints>
@@ -258,6 +265,35 @@
             </objects>
             <point key="canvasLocation" x="2715" y="860"/>
         </scene>
+        <!--Table View Controller-->
+        <scene sceneID="euK-OH-4Dr">
+            <objects>
+                <tableViewController id="Sr4-BF-cuB" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="3el-TL-MUY">
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="CIQ-SG-wxc">
+                                <rect key="frame" x="0.0" y="28" width="428" height="43.666667938232422"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="CIQ-SG-wxc" id="AH7-Zd-VSS">
+                                    <rect key="frame" x="0.0" y="0.0" width="428" height="43.666667938232422"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Sr4-BF-cuB" id="VTR-ry-ccx"/>
+                            <outlet property="delegate" destination="Sr4-BF-cuB" id="E3o-fB-d0x"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="35g-50-HJ1"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="o0m-p7-oFc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3558" y="862"/>
+        </scene>
         <!--Statistics View Controller-->
         <scene sceneID="rcp-Lw-tTR">
             <objects>
@@ -404,6 +440,7 @@
                         <outlet property="questionTextLabel" destination="sW8-uF-k9E" id="Nda-Qz-mmL"/>
                         <outlet property="secondButton" destination="5Nb-hU-D4l" id="Fta-LC-0ph"/>
                         <outlet property="thirdButton" destination="rLb-jg-Z3C" id="q7d-TI-lRW"/>
+                        <segue destination="ua0-hN-rcm" kind="show" identifier="ShowEvaluateScreenFromNormalTest" id="v6t-lH-siq"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Urt-kU-m3n" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -508,7 +545,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="afq-Dr-e5U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1876" y="16"/>
+            <point key="canvasLocation" x="1900" y="130"/>
         </scene>
         <!--Evaluate View Controller-->
         <scene sceneID="Hmp-w3-fkz">
@@ -577,7 +614,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dyQ-9y-PJl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2716" y="131"/>
+            <point key="canvasLocation" x="2714" y="131"/>
         </scene>
     </scenes>
     <designables>
@@ -599,6 +636,9 @@
             <size key="intrinsicContentSize" width="128.66666666666669" height="41.666666666666671"/>
         </designable>
     </designables>
+    <inferredMetricsTieBreakers>
+        <segue reference="3fs-jI-2dA"/>
+    </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
