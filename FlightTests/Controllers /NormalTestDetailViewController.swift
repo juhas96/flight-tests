@@ -14,7 +14,6 @@ class NormalTestDetailViewController: UIViewController {
     var dbHelper = DbHelper()
     weak var buttonItem: UIBarButtonItem?
 
-    
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var backButton: CircleButton!
     @IBOutlet weak var nextButton: CircleButton!
@@ -35,38 +34,11 @@ class NormalTestDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let gradientLayer: CAGradientLayer = {
-            let gradientLayer = CAGradientLayer()
-            gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
-            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
-            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
-            gradientLayer.frame = CGRect.zero
-            return gradientLayer
-        }()
-        self.view.layer.insertSublayer(gradientLayer, at: 0)
-        gradientLayer.frame = self.view.bounds
-        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
-        UINavigationBar.appearance().tintColor = .white
-        
-        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
-        UINavigationBar.appearance().isTranslucent = false
-        
-        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Vyhodnotiť test", style: .plain, target: self, action: #selector(onEvalutateButtonTapped))
-
-        self.nextButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
-        self.nextButton.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
-        
-        self.backButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
-        self.backButton.setTitle(String.fontAwesomeIcon(name: .arrowLeft), for: .normal)
-        
         self.questions = DataService.data.getData()
         test.test = self.initTest(number: Int(10))
         test.initFirstQuestionId()
-        self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
-        navigationController?.navigationBar.prefersLargeTitles = false
-        navigationController?.setNavigationBarHidden(false, animated: true)
+        self.initUI()
         self.updateUI()
-        self.setupQuestionLabel()
     }
     
     func initTest(number: Int) -> [Question] {
@@ -129,9 +101,21 @@ class NormalTestDetailViewController: UIViewController {
                 }
             }
             
+            var questionIds = [String]()
+            var userSelectedAnswers = [String]()
+            
+            for question in test.test {
+                questionIds.append(question.id!)
+            }
+            
+            for (_, value) in self.selectedAnswers {
+                userSelectedAnswers.append(String(value))
+            }
+            
             print(self.evaluationDict)
             do {
                 self.dbHelper.updateStatistics(correct: self.test.correctAnswers, wrong: self.test.wrongAnswers)
+                self.dbHelper.insertIntoUserTests(test: UserTest(questionIds: questionIds, userAnswers: userSelectedAnswers))
             } catch {
                 print(error)
             }
@@ -242,6 +226,38 @@ class NormalTestDetailViewController: UIViewController {
         self.questionTextLabel.layer.masksToBounds = true
         self.questionTextLabel.textColor = .black
         self.questionTextLabel.sizeToFit()
+    }
+    
+    func initUI() {
+        let gradientLayer: CAGradientLayer = {
+            let gradientLayer = CAGradientLayer()
+            gradientLayer.colors = [UIColor(rgb: 0x2886BB).cgColor, UIColor(rgb: 0x25CCF0).cgColor]
+            gradientLayer.startPoint = CGPoint(x: 0, y: 0)
+            gradientLayer.endPoint = CGPoint(x: 0, y: 1)
+            gradientLayer.frame = CGRect.zero
+            return gradientLayer
+        }()
+        self.view.layer.insertSublayer(gradientLayer, at: 0)
+        gradientLayer.frame = self.view.bounds
+        UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)
+        UINavigationBar.appearance().tintColor = .white
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Vyhodnotiť test", style: .plain, target: self, action: #selector(onEvalutateButtonTapped))
+
+        self.nextButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
+        self.nextButton.setTitle(String.fontAwesomeIcon(name: .arrowRight), for: .normal)
+        
+        self.backButton.titleLabel?.font = UIFont.fontAwesome(ofSize: 30, style: .solid)
+        self.backButton.setTitle(String.fontAwesomeIcon(name: .arrowLeft), for: .normal)
+        
+        self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
+        navigationController?.navigationBar.prefersLargeTitles = false
+        navigationController?.setNavigationBarHidden(false, animated: true)
+        
+        self.setupQuestionLabel()
     }
 
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

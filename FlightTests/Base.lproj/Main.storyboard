@@ -90,7 +90,7 @@
                                                     <segue destination="59M-E4-RaJ" kind="show" id="8oD-rZ-eZ3"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7z7-vz-ShK">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7z7-vz-ShK" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="150" width="408" height="50"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="zhz-0d-2Sg"/>
@@ -265,14 +265,16 @@
             </objects>
             <point key="canvasLocation" x="2715" y="860"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Old Tests Table View Controller-->
         <scene sceneID="euK-OH-4Dr">
             <objects>
-                <tableViewController id="Sr4-BF-cuB" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="3el-TL-MUY">
+                <tableViewController id="Sr4-BF-cuB" customClass="OldTestsTableViewController" customModule="FlightTests" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" indicatorStyle="black" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="3el-TL-MUY">
                         <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="separatorColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="sectionIndexBackgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="CIQ-SG-wxc">
                                 <rect key="frame" x="0.0" y="28" width="428" height="43.666667938232422"/>
@@ -280,7 +282,9 @@
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="CIQ-SG-wxc" id="AH7-Zd-VSS">
                                     <rect key="frame" x="0.0" y="0.0" width="428" height="43.666667938232422"/>
                                     <autoresizingMask key="autoresizingMask"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </tableViewCellContentView>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -293,6 +297,117 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="o0m-p7-oFc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3558" y="862"/>
+        </scene>
+        <!--Old Test View Controller-->
+        <scene sceneID="vIm-IM-uEf">
+            <objects>
+                <viewController storyboardIdentifier="OldTestDetailViewController" id="FQY-aF-o6d" customClass="OldTestViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="joB-64-HbP">
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="J7z-QV-O0u">
+                                <rect key="frame" x="20" y="44" width="388" height="848"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="equalCentering" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="pC6-RP-chK">
+                                        <rect key="frame" x="0.0" y="0.0" width="388" height="50"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aRI-cf-Z0h" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="160" height="50"/>
+                                                <state key="normal" title="Predchádzajúca otázka">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="backButtonTapped:" destination="FQY-aF-o6d" eventType="touchUpInside" id="dMr-GP-JaD"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QAW-MJ-P60" customClass="CircleButton" customModule="FlightTests" customModuleProvider="target">
+                                                <rect key="frame" x="297" y="0.0" width="91" height="50"/>
+                                                <state key="normal" title="Ďalšia otázka">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="nextButtonTapped:" destination="FQY-aF-o6d" eventType="touchUpInside" id="uzd-0H-xRY"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="HKq-40-Uwh"/>
+                                        </constraints>
+                                    </stackView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qtl-DO-ncH" customClass="PaddingLabel" customModule="FlightTests">
+                                        <rect key="frame" x="0.0" y="70" width="388" height="358"/>
+                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="topInset">
+                                                <real key="value" value="10"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="bottomInset">
+                                                <real key="value" value="10"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="leftInset">
+                                                <real key="value" value="10"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="rightInset">
+                                                <real key="value" value="10"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="XbV-do-kR2">
+                                        <rect key="frame" x="0.0" y="438" width="388" height="150"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="150" id="aYM-yy-6NT"/>
+                                        </constraints>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2J7-Qs-Ixz" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="448" width="388" height="120"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="Hdb-5M-Zum"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cQZ-au-oti" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="588" width="388" height="120"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="pob-aT-8YW"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jTA-bv-4GC" customClass="AnswerButton" customModule="FlightTests" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="728" width="388" height="120"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="120" id="QKO-Ts-0VE"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="1En-9a-b24"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="1En-9a-b24" firstAttribute="trailing" secondItem="J7z-QV-O0u" secondAttribute="trailing" constant="20" id="5OI-Wi-bST"/>
+                            <constraint firstItem="J7z-QV-O0u" firstAttribute="top" secondItem="1En-9a-b24" secondAttribute="top" id="SwP-Kz-AcF"/>
+                            <constraint firstItem="J7z-QV-O0u" firstAttribute="leading" secondItem="1En-9a-b24" secondAttribute="leading" constant="20" id="WtJ-7s-Nnz"/>
+                            <constraint firstItem="1En-9a-b24" firstAttribute="bottom" secondItem="J7z-QV-O0u" secondAttribute="bottom" id="nbT-qf-ahU"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="MPs-nK-WQw"/>
+                    <connections>
+                        <outlet property="backButton" destination="aRI-cf-Z0h" id="tc2-8g-Tmd"/>
+                        <outlet property="firstButton" destination="2J7-Qs-Ixz" id="XhF-4b-MuH"/>
+                        <outlet property="nextButton" destination="QAW-MJ-P60" id="gPy-2C-0wk"/>
+                        <outlet property="questionTextLabel" destination="Qtl-DO-ncH" id="fJ3-79-Dg0"/>
+                        <outlet property="secondButton" destination="cQZ-au-oti" id="pOj-tx-tp2"/>
+                        <outlet property="thirdButton" destination="jTA-bv-4GC" id="1CK-9q-TpE"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Q1N-cq-GYc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4402" y="860"/>
         </scene>
         <!--Statistics View Controller-->
         <scene sceneID="rcp-Lw-tTR">
@@ -474,8 +589,11 @@
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="meg-5O-BUn">
+                                        <rect key="frame" x="0.0" y="260.33333333333331" width="408" height="157.66666666666669"/>
+                                    </stackView>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="T9u-Y9-utw">
-                                        <rect key="frame" x="0.0" y="260.33333333333331" width="408" height="177.66666666666669"/>
+                                        <rect key="frame" x="0.0" y="438" width="408" height="0.0"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="150" id="lX0-CY-yxh"/>
                                         </constraints>
@@ -552,11 +670,11 @@
             <objects>
                 <viewController id="ua0-hN-rcm" customClass="EvaluateViewController" customModule="FlightTests" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tFW-nu-9Pf">
-                        <rect key="frame" x="0.0" y="0.0" width="428" height="872"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="Hhd-Lk-RbL">
-                                <rect key="frame" x="20" y="0.0" width="388" height="784"/>
+                                <rect key="frame" x="20" y="88" width="388" height="784"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="VYHODNOTENIE" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8He-aY-EMa">
                                         <rect key="frame" x="0.0" y="0.0" width="388" height="55"/>
@@ -624,6 +742,9 @@
         <designable name="3VT-Ro-4kZ">
             <size key="intrinsicContentSize" width="73.666666666666657" height="50"/>
         </designable>
+        <designable name="Qtl-DO-ncH">
+            <size key="intrinsicContentSize" width="61.333333333333336" height="40.333333333333329"/>
+        </designable>
         <designable name="YGZ-7d-EyN">
             <size key="intrinsicContentSize" width="145.66666666666666" height="45.333333333333329"/>
         </designable>
@@ -637,7 +758,7 @@
         </designable>
     </designables>
     <inferredMetricsTieBreakers>
-        <segue reference="3fs-jI-2dA"/>
+        <segue reference="v6t-lH-siq"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

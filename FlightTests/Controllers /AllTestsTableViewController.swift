@@ -32,8 +32,6 @@ class AllTestsTableViewController: UITableViewController {
         UINavigationBar.appearance().isTranslucent = false
         navigationController?.setNavigationBarHidden(false, animated: true)
         navigationController?.navigationBar.prefersLargeTitles = false
-//        print(self.dataService.getData())
-//        self.disposeBag.insert(self.dataService.currentData.subscribe {data in print(data)})
     }
 
     override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {

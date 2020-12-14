@@ -12,6 +12,7 @@ class DbHelper {
     init() {
         db = openDatabase()
         createStatisticsTable()
+        createTestHistoryTable()
     }
     
     let dbPath: String = "db.sqlite3"
