@@ -10,6 +10,7 @@ class NormalTestDetailViewController: UIViewController {
     var selectedAnswers: [Int: Int] = [:]
     var selectedAnswersWithIds: [String: Int] = [:]
     var currentlySelectedButton: Int = -1
+    var correctAnswer: Int = -1
     var evaluationDict: [String: Int] = [:]
     var dbHelper = DbHelper()
     weak var buttonItem: UIBarButtonItem?
@@ -126,16 +127,19 @@ class NormalTestDetailViewController: UIViewController {
     
     
     @IBAction func onFirstButtonTapped(_ sender: UIButton) {
+        self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 0
         updateButtonsColor()
     }
     
     @IBAction func onSecondButtonTapped(_ sender: UIButton) {
+        self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 1
         updateButtonsColor()
     }
     
     @IBAction func onThirdButtonTapped(_ sender: UIButton) {
+        self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 2
         updateButtonsColor()
     }
@@ -180,35 +184,93 @@ class NormalTestDetailViewController: UIViewController {
         firstButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
         secondButton?.setAttributedTitle(test.getAnswerOnPosition(position: 1).htmlToAttributedString, for: .normal)
         thirdButton?.setAttributedTitle(test.getAnswerOnPosition(position: 2).htmlToAttributedString, for: .normal)
+//        firstButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
+//        secondButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
+//        thirdButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
         updateButtonsColor()
         
     }
     
     func updateButtonsColor() {
+        firstButton.backgroundColor = UIColor.white
+        firstButton.setTitleColor(.black, for: .normal)
+        secondButton.backgroundColor = UIColor.white
+        secondButton.setTitleColor(.black, for: .normal)
+        thirdButton.backgroundColor = UIColor.white
+        thirdButton.setTitleColor(.black, for: .normal)
+        
         switch currentlySelectedButton {
         case 0:
-            firstButton.backgroundColor = UIColor(rgb: 0x25A4DA)
-            firstButton.setTitleColor(.white, for: .normal)
-            secondButton.backgroundColor = UIColor.white
-            secondButton.setTitleColor(.black, for: .normal)
-            thirdButton.backgroundColor = UIColor.white
-            thirdButton.setTitleColor(.black, for: .normal)
+            if (currentlySelectedButton == correctAnswer) {
+                firstButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                firstButton.setTitleColor(.white, for: .normal)
+                secondButton.backgroundColor = UIColor.white
+                secondButton.setTitleColor(.black, for: .normal)
+                thirdButton.backgroundColor = UIColor.white
+                thirdButton.setTitleColor(.black, for: .normal)
+            } else {
+                firstButton.backgroundColor = UIColor(rgb: 0xec0101)
+                firstButton.setTitleColor(.white, for: .normal)
+                if (correctAnswer == 1) {
+                    secondButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    secondButton.setTitleColor(.black, for: .normal)
+                    thirdButton.backgroundColor = UIColor.white
+                    thirdButton.setTitleColor(.black, for: .normal)
+                } else if (correctAnswer == 2) {
+                    secondButton.backgroundColor = UIColor.white
+                    secondButton.setTitleColor(.black, for: .normal)
+                    thirdButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    thirdButton.setTitleColor(.black, for: .normal)
+                }
+            }
             break
         case 1:
-            firstButton.backgroundColor = UIColor.white
-            firstButton.setTitleColor(.black, for: .normal)
-            secondButton.backgroundColor = UIColor(rgb: 0x25A4DA)
-            secondButton.setTitleColor(.white, for: .normal)
-            thirdButton.backgroundColor = UIColor.white
-            thirdButton.setTitleColor(.black, for: .normal)
+            if (currentlySelectedButton == correctAnswer) {
+                secondButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                secondButton.setTitleColor(.white, for: .normal)
+                firstButton.backgroundColor = UIColor.white
+                firstButton.setTitleColor(.black, for: .normal)
+                thirdButton.backgroundColor = UIColor.white
+                thirdButton.setTitleColor(.black, for: .normal)
+            } else {
+                secondButton.backgroundColor = UIColor(rgb: 0xec0101)
+                secondButton.setTitleColor(.white, for: .normal)
+                if (correctAnswer == 0) {
+                    firstButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    firstButton.setTitleColor(.black, for: .normal)
+                    thirdButton.backgroundColor = UIColor.white
+                    thirdButton.setTitleColor(.black, for: .normal)
+                } else if (correctAnswer == 2) {
+                    secondButton.backgroundColor = UIColor.white
+                    secondButton.setTitleColor(.black, for: .normal)
+                    thirdButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    thirdButton.setTitleColor(.black, for: .normal)
+                }
+            }
             break
         case 2:
-            firstButton.backgroundColor = UIColor.white
-            firstButton.setTitleColor(.black, for: .normal)
-            secondButton.backgroundColor = UIColor.white
-            secondButton.setTitleColor(.black, for: .normal)
-            thirdButton.backgroundColor = UIColor(rgb: 0x25A4DA)
-            thirdButton.setTitleColor(.white, for: .normal)
+            if (currentlySelectedButton == correctAnswer) {
+                thirdButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                thirdButton.setTitleColor(.white, for: .normal)
+                secondButton.backgroundColor = UIColor.white
+                secondButton.setTitleColor(.black, for: .normal)
+                firstButton.backgroundColor = UIColor.white
+                firstButton.setTitleColor(.black, for: .normal)
+            } else {
+                thirdButton.backgroundColor = UIColor(rgb: 0xec0101)
+                thirdButton.setTitleColor(.white, for: .normal)
+                if (correctAnswer == 0) {
+                    firstButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    firstButton.setTitleColor(.black, for: .normal)
+                    secondButton.backgroundColor = UIColor.white
+                    secondButton.setTitleColor(.black, for: .normal)
+                } else if (correctAnswer == 1) {
+                    firstButton.backgroundColor = UIColor.white
+                    firstButton.setTitleColor(.black, for: .normal)
+                    secondButton.backgroundColor = UIColor(rgb: 0x5fbb97)
+                    secondButton.setTitleColor(.black, for: .normal)
+                }
+            }
             break
         default:
             firstButton.backgroundColor = UIColor.white
