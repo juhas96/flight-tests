@@ -1,0 +1,1418 @@
+[
+  {
+    "questionText":"Letecké práce sú špeciálna obchodná letecká činnosť, uskutočňovaná",
+    "answers":[
+      "pri preprave osôb a nákladu na základe zvláštnej dohody",
+      "lietadlami hlavne v poľnohospodárstve, stavebníctve, pri fotografovaní, mapovaní a pod.",
+      "na prianie zákazníka"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1615"
+  },
+  {
+    "questionText":"Letová doba je celková doba od okamihu, kedy sa lietadlo",
+    "answers":[
+      "po prvýkrát začne vlastnou silou pohybovať na vzlet až do okamihu, kedy sa lietadlo zastaví po ukončení letu",
+      "začne pohybovať na VPD až do okamihu, kedy po pristátí na VPD zastaví",
+      "odpúta od VPD až po okamih, kedy sa pri pristátí dotkne VPD"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1616"
+  },
+  {
+    "questionText":"Letová príručka je dokument nadväzujúci na vydanie",
+    "answers":[
+      "osvedčenia o zápise do registra",
+      "osvedčenia o letovej spôsobilosti",
+      "prevádzkovej príručky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1617"
+  },
+  {
+    "questionText":"Všeobecné letectvo zahŕňa všetku leteckú prevádzku civilných lietadiel, okrem",
+    "answers":[
+      "pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme a letecké práce",
+      "pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme",
+      "leteckých prác"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1618"
+  },
+  {
+    "questionText":"Veliteľ lietadla je zodpovedný za",
+    "answers":[
+      "riadenie a prevádzku lietadla a bezpečnosť všetkých osôb na palube",
+      "prevádzku a bezpečnosť lietadla",
+      "prevádzku a bezpečnosť lietadla a za bezpečnosť všetkých osôb na palube lietadla počas letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1619"
+  },
+  {
+    "questionText":"Veliteľ lietadla musí mať na palube k dispozícii dôležité informácie o pátracích a záchranných službách v oblastiach ",
+    "answers":[
+      "doletu lietadla",
+      "riadených príslušnými prevádzkovými službami",
+      "nad ktorými zamýšľa letieť"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1620"
+  },
+  {
+    "questionText":"Veliteľ lietadla nesmie začať let, pokiaľ primeranými prostriedkami nezistil, že zariadenia, ktoré sú k dispozícii a na let a bezpečnú prevádzku požadované, sú",
+    "answers":[
+      "na tento účel dostačujúce",
+      "v prevádzkyschopnom stave",
+      "vyhovujúce"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1621"
+  },
+  {
+    "questionText":"Veliteľ lietadla musí zabezpečiť, aby členovia posádky a cestujúci boli oboznámení s umiestnením a spôsobom použitia",
+    "answers":[
+      "prostriedkov na opustenie lietadla v núdzi",
+      "bezpečnostných pásov",
+      "špeciálnych zariadení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1622"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že lietadlo je spôsobilé na let a má",
+    "answers":[
+      "osvedčenie o zápise do registra",
+      "povolenie na prevádzku rádiostanice a schválený letový plán",
+      "platné osvedčenie letovej spôsobilosti a príslušné doklady sú na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1623"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ sa veliteľ lietadla nepresvedčí, že prístroje a zariadenia, inštalované v lietadle sú vzhľadom na predpokladané letové podmienky ",
+    "answers":[
+      "dostatočné",
+      "primerané",
+      "vyhovujúce"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1624"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že hmotnosť lietadla je vzhľadom na predpokladané letové podmienky ",
+    "answers":[
+      "vyhovujúca",
+      "dostatočná",
+      "v medziach prípustných limitov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1625"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že všetok dopravovaný náklad je",
+    "answers":[
+      "správne rozložený a bezpečne zaistený",
+      "zapísaný v dopravných dokladoch",
+      "správne vyvážený"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1626"
+  },
+  {
+    "questionText":"Počas letu každého civilného lietadla musia byť na palube, s výnimkou skúšobného letu, tieto doklady a dokumentácia ",
+    "answers":[
+      "osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, lietadlová kniha, motorová kniha, podaný letový plán, letová a prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, rozkaz k letu, letová príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "osvedčenie o zápise do leteckého registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, podaný letový plán, letová príručka, pre dopravné lety prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1627"
+  },
+  {
+    "questionText":"Let VFR sa nesmie začať, pokiaľ lietadlo nemá dostatok pohonných látok a oleja",
+    "answers":[
+      "na letisko plánovaného pristátia plus 30 minút",
+      "na dolet na letisko plánovaného pristátia a potom ešte na let na náhradné letisko",
+      "na zaistenie bezpečného vykonania letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1628"
+  },
+  {
+    "questionText":"Každý člen posádky, pokiaľ je na svojom pracovnom mieste, musí mať svoje bezpečnostné pásy",
+    "answers":[
+      "pripravené na použitie",
+      "zapnuté",
+      "uložené vedľa seba"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1629"
+  },
+  {
+    "questionText":"U lietadiel, ktoré sú vybavené bezpečnostnými postrojmi, musia mať členovia posádky na pilotných sedadlách pásy zapnuté ",
+    "answers":[
+      "počas vzletu a pristátia",
+      "počas celého letu",
+      "počas cvičného letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1630"
+  },
+  {
+    "questionText":"Lietadlo sa musí používať v súlade",
+    "answers":[
+      "s príručkou na obsluhu a údržbu",
+      "s prevádzkovou príručkou",
+      "s osvedčením o letovej spôsobilosti alebo v súlade s obdobným schváleným dokumentom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1631"
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "ľahko dostupnou skrinkou prvej pomoci",
+      "núdzovým majákom",
+      "zásobníkom kyslíka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1632"
+  },
+  {
+    "questionText":"Všetky lietadlá, s výnimkou klzákov, musia byť pri všetkých letoch vybavené",
+    "answers":[
+      "prenosnými hasiacimi prístrojmi",
+      "zariadením na dávanie pyrotechnických tiesňových signálov",
+      "súpravou núdzovej rádiostanice"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1633"
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "elektrickým svietidlom pre každé pracovisko",
+      "zoznamom vizuálnych signálov používaných zakročujúcim lietadlom a lietadlom narušiteľa",
+      "bezpečnostnými postrojmi na všetkých sedadlách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1634"
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR na trati musia byť vybavené",
+    "answers":[
+      "magnetickým kompasom, palubnými hodinami, rýchlomerom, citlivým barometrickým výškomerom",
+      "magnetickým kompasom, palubnými hodinami, rýchlomerom, rádiovýškomerom, variometrom",
+      "kompasom, hodinami, rýchlomerom, citlivým barometrickým výškomerom, variometrom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1635"
+  },
+  {
+    "questionText":"Všetky pozemné jednomotorové lietadlá, ktoré prelietavajú vodnú plochu na trati vo vzdialenosti väčšej ako je tá, z ktorej môžu dosiahnuť pobrežie kĺzavým letom, musia byť vybavené ",
+    "answers":[
+      "záchrannými člnmi v dostatočnom počte, aby uniesli všetky osoby, ktoré sú na palube",
+      "súpravou vodotesnej núdzovej rádiostanice",
+      "záchrannou vestou alebo rovnocennými individuálnymi záchrannými prostriedkami pre každú osobu na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1636"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "obrysovými svetlami",
+      "nevyhnutnou výstrojou na zabezpečenie svetelného vyznačenia lietadiel",
+      "protizrážkovým majákom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1637"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené ",
+    "answers":[
+      "pristávacím a rolovacím svetlometom",
+      "protizrážkovým majákom",
+      "osvetlením všetkých prístrojov a zariadení potrebných na zaistenie bezpečnosti lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1638"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "signálnymi kódmi na spojenie medzi zemou a lietadlami",
+      "elektrickou lampou na každé pracovisko členov posádky",
+      "prístrojom udávajúcim v pilotnej kabíne teplotu vonkajšieho vzduchu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1639"
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR musia byť vybavené rádiovým spojovacím výstrojom, ktorý umožní obojsmerné spojenie so všetkými leteckými stanicami",
+    "answers":[
+      "na frekvenciách leteckého pásma",
+      "na frekvenciách VKV",
+      "na frekvenciách predpísaných príslušnými úradmi"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1640"
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené navigačným výstrojom, ktorý im umožní let",
+    "answers":[
+      "podľa letového poriadku",
+      "podľa letového plánu",
+      "podľa požiadaviek prevádzkovateľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1641"
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené takým navigačným výstrojom, aby v prípade poruchy niektorej jeho časti v ktoromkoľvek okamihu letu, zvyšok výstroja zaručoval vykonávanie navigácie podľa",
+    "answers":[
+      "pokynov služby riadenia letovej prevádzky",
+      "schváleného letového poriadku",
+      "pravidiel letu za VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1642"
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný zostaviť výcvikový program a vykonávať ",
+    "answers":[
+      "školenie a výcvik posádok",
+      "preškoľovanie posádok",
+      "preskúšania posádok"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1643"
+  },
+  {
+    "questionText":"Prevádzkovateľ lietadla je zodpovedný za to, že preukaz každého člena posádky",
+    "answers":[
+      "je platný",
+      "bol vydaný Štátnou leteckou inšpekciou",
+      "bol vydaný alebo uznaný za platný leteckým úradom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1644"
+  },
+  {
+    "questionText":"Počet a zloženie členov posádky nesmie byť menšie ako je stanovené",
+    "answers":[
+      "v prevádzkovej príručke",
+      "v letovej príručke",
+      "v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1645"
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný stanoviť povinnosti pre každého člena posádky oddelene",
+    "answers":[
+      "v letovej príručke",
+      "v prevádzkovej príručke",
+      "v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1646"
+  },
+  {
+    "questionText":"Na preukázanie schopností svojich pilotov musí prevádzkovateľ",
+    "answers":[
+      "vykonať periodické preskúšanie",
+      "vykonať kontrolu techniky pilotáže",
+      "preskúšať techniku pilotáže a schopnosť vykonávať núdzové postupy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1647"
+  },
+  {
+    "questionText":"Piloti z povolania bez IFR kvalifikácie sa musia podrobiť preskúšaniu z techniky pilotáže a schopnosti vykonávať núdzové postupy, najmenej raz za",
+    "answers":[
+      "12 mesiacov",
+      "6 mesiacov",
+      "9 mesiacov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1648"
+  },
+  {
+    "questionText":"Prevádzkovateľ nesmie ustanoviť pilota do funkcie veliteľa lietadla na typ lietadla, na ktorom nevykonal najmenej tri štarty a pristátia za posledných",
+    "answers":[
+      "30 dní",
+      "60 dní",
+      "90 dní"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1649"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná ",
+    "answers":[
+      "trať, ktorú má preletieť a letiská, ktoré majú byť použité",
+      "trať letu a cieľové letisko",
+      "trať, ktorú má preletieť a letisko na trati"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1650"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná ",
+    "answers":[
+      "výšku letu na trati",
+      "terén a minimálne bezpečné výšky",
+      "terén a výšku letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1651"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná",
+    "answers":[
+      "sezónne meteorologické podmienky, spojovacie služby, postupy pri nehode",
+      "sezónne meteorologické podmienky, spojovacie a zabezpečovacie služby, postupy na pátranie a záchranu",
+      "meteorologické podmienky, zabezpečovacie služby, postupy na pátranie a záchranu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1652"
+  },
+  {
+    "questionText":"Prevádzkovateľ musí udržovať záznamy o kvalifikácii výkonných letcov a záznamy o spôsobe, akým sa táto kvalifikácia",
+    "answers":[
+      "predlžovala",
+      "udržovala",
+      "dosahovala"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1653"
+  },
+  {
+    "questionText":"Každý člen posádky je povinný mať u seba pri každom lete",
+    "answers":[
+      "platný preukaz spôsobilosti",
+      "pilotný preukaz",
+      "občiansky preukaz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1654"
+  },
+  {
+    "questionText":"Lety civilných lietadiel sa z hľadiska účelu rozdeľujú na lety",
+    "answers":[
+      "dopravné, na zvláštne účely, školské a výcvikové, skúšobné, overovacie, športové",
+      "dopravné, špeciálne, športové, školské a výcvikové, skúšobné",
+      "dopravné, školské a výcvikové, skúšobné, overovacie, športové"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1655"
+  },
+  {
+    "questionText":"Dopravné lety sú lety vykonávané za účelom",
+    "answers":[
+      "pravidelnej leteckej dopravy",
+      "pravidelnej a nepravidelnej leteckej dopravy",
+      "prepravy cestujúcich, nákladu a pošty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1656"
+  },
+  {
+    "questionText":"Lety na zvláštne účely sú lety",
+    "answers":[
+      "špeciálnej leteckej činnosti",
+      "na objednávku",
+      "nepravidelnej leteckej dopravy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1657"
+  },
+  {
+    "questionText":"Školské a výcvikové lety sú lety vykonávané výhradne na",
+    "answers":[
+      "základný výcvik leteckého personálu",
+      "školenie, výcvik a na preskúšavanie leteckého personálu",
+      "školenie a preskúšavanie leteckého personálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1658"
+  },
+  {
+    "questionText":"Skúšobné lety sú lety, ktorými sa preskúšavajú lietadlá a ich príslušenstvo. Sú to",
+    "answers":[
+      "skúšobné lety prototypov a experimentálne upravených lietadiel, skúšobné lety sériových lietadiel a skúšobné lety prevádzkové",
+      "skúšobné lety prototypov a sériových lietadiel",
+      "skúšobné lety na získanie osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1659"
+  },
+  {
+    "questionText":"Overovacie lety sú lety, konané na overovanie a zistenie parametrov",
+    "answers":[
+      "prostriedkov zabezpečovacej leteckej techniky z paluby lietadla a na kontrolu prevádzkyschopnosti letísk",
+      "sériových lietadiel na vydanie osvedčenia o letovej spôsobilosti",
+      "lietadiel v prevádzke na predĺženie platnosti osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1660"
+  },
+  {
+    "questionText":"Športové lety sú lety vykonávané za účelom",
+    "answers":[
+      "školenia a výcviku v aerokluboch",
+      "športových výkonov",
+      "školenia a prípravy pilotov na športové výkony"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1661"
+  },
+  {
+    "questionText":"Pri letoch na zvláštne účely, školských a výcvikových, skúšobných a overovacích, môžu byť na palube lietadla okrem posádky ",
+    "answers":[
+      "osoby, ktoré sú poverené plnením úloh súvisiacich s letom",
+      "osoby vlastniace preukaz spôsobilosti",
+      "osoby s platným cestovným dokladom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1662"
+  },
+  {
+    "questionText":"Lety civilných lietadiel z hľadiska priestoru, v ktorom sa vykonávajú, sú ",
+    "answers":[
+      "letiskové lety, mimoletiskové lety a prelety",
+      "letiskové lety a navigačné lety",
+      "vnútroštátne lety a medzinárodné lety"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1663"
+  },
+  {
+    "questionText":"Mimoletiskové lety a prelety sa rozdeľujú na lety",
+    "answers":[
+      "navigačné a oblety",
+      "vnútroštátne a medzinárodné",
+      "oblastné a medzioblastné"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1664"
+  },
+  {
+    "questionText":"Prízemné lety sú lety vo výškach nad terénom pod",
+    "answers":[
+      "300 m",
+      "200 m",
+      "100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1665"
+  },
+  {
+    "questionText":"Lety v malých výškach sú lety nad terénom od",
+    "answers":[
+      "100 m do 200 m",
+      "100 m do 300 m",
+      "100 m do 500 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1666"
+  },
+  {
+    "questionText":"Lety v stredných výškach sú lety nad terénom vo výškach od ",
+    "answers":[
+      "300 m do letovej hladiny 2 150 m",
+      "100 m do letovej hladiny 6 100 m",
+      "300 m do letovej hladiny 6 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1667"
+  },
+  {
+    "questionText":"Lety vo veľkých výškach sú lety vyššie od letovej hladiny",
+    "answers":[
+      "6 100 m",
+      "2 150 m",
+      "10 000 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1668"
+  },
+  {
+    "questionText":"Lety podľa dennej doby, v ktorej sa vykonávajú, sa rozdeľujú na lety",
+    "answers":[
+      "IFR a VFR",
+      "VMC a IMC",
+      "denné a nočné"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1669"
+  },
+  {
+    "questionText":"Na vykonávanie iných ako dopravných letov je prevádzkovateľ povinný vydať",
+    "answers":[
+      "podrobné pokyny",
+      "metodickú príručku",
+      "podrobné smernice"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1670"
+  },
+  {
+    "questionText":"Nad vykonávaním jednotlivých druhov letov, najmä pokiaľ ide o dodržovanie príslušných podrobných smerníc, je prevádzkovateľ povinný organizovať",
+    "answers":[
+      "systém dozoru",
+      "systém kontroly",
+      "náhodnú kontrolnú činnosť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1671"
+  },
+  {
+    "questionText":"Na všetky druhy školských a výcvikových letov je prevádzkovateľ povinný spracovať osnovy a nechať ich schváliť",
+    "answers":[
+      "leteckému úradu",
+      "Štátnej leteckej inšpekcii",
+      "metodickej rade"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1672"
+  },
+  {
+    "questionText":"Za posudzovanie vhodnosti meteorologických podmienok na daný školský alebo výcvikový let, ako aj za spôsob vykonania letu zodpovedá ",
+    "answers":[
+      "oprávnený inštruktor",
+      "pilotný žiak",
+      "riadiaci letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. X55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1673"
+  },
+  {
+    "questionText":"Veliteľ lietadla musí zabezpečiť, aby členovia posádky a cestujúci boli oboznámení s umiestnením a spôsobom použitia",
+    "answers":[
+      "a) prostriedkov na opustenie lietadla v núdzi",
+      "b) bezpečnostných pásov",
+      "c) špeciálnych zariadení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1674"
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný stanoviť povinnosti pre každého člena posádky oddelene",
+    "answers":[
+      "a) v letovej príručke",
+      "b) v prevádzkovej príručke",
+      "c) v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1675"
+  },
+  {
+    "questionText":"Prevádzkovateľ lietadla je zodpovedný za to, že preukaz každého člena posádky",
+    "answers":[
+      "a) je platný",
+      "b) bol vydaný Štátnou leteckou inšpekciou",
+      "c) bol vydaný alebo uznaný za platný leteckým úradom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1676"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná",
+    "answers":[
+      "a) sezónne meteorologické podmienky, spojovacie služby, postupy pri nehode",
+      "b) sezónne meteorologické podmienky, spojovacie a zabezpečovacie služby, postupy na pátranie a záchranu",
+      "c) meteorologické podmienky, zabezpečovacie služby, postupy na pátranie a záchranu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1677"
+  },
+  {
+    "questionText":"Počas letu každého civilného lietadla musia byť na palube, s výnimkou skúšobného letu, tieto doklady a dokumentácia ",
+    "answers":[
+      "a) osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, lietadlová kniha, motorová kniha, podaný letový plán, letová a prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "b) osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, rozkaz k letu, letová príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "c) osvedčenie o zápise do leteckého registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, podaný letový plán, letová príručka, pre dopravné lety prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1678"
+  },
+  {
+    "questionText":"Lety na zvláštne účely sú lety",
+    "answers":[
+      "a) špeciálnej leteckej činnosti",
+      "b) na objednávku",
+      "c) nepravidelnej leteckej dopravy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1679"
+  },
+  {
+    "questionText":"Na všetky druhy školských a výcvikových letov je prevádzkovateľ povinný spracovať osnovy a nechať ich schváliť",
+    "answers":[
+      "a) leteckému úradu",
+      "b) Štátnej leteckej inšpekcii",
+      "c) metodickej rade"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1680"
+  },
+  {
+    "questionText":"Lietadlo sa musí používať v súlade",
+    "answers":[
+      "a) s príručkou na obsluhu a údržbu",
+      "b) s prevádzkovou príručkou",
+      "c) s osvedčením o letovej spôsobilosti alebo v súlade s obdobným schváleným dokumentom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1681"
+  },
+  {
+    "questionText":"Veliteľ lietadla musí mať na palube k dispozícii dôležité informácie o pátracích a záchranných službách v oblastiach ",
+    "answers":[
+      "a) doletu lietadla",
+      "b) riadených príslušnými prevádzkovými službami",
+      "c) nad ktorými zamýšľa letieť"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1682"
+  },
+  {
+    "questionText":"Prízemné lety sú lety vo výškach nad terénom pod",
+    "answers":[
+      "a) 300 m",
+      "b) 200 m",
+      "c) 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1683"
+  },
+  {
+    "questionText":"Lety v stredných výškach sú lety nad terénom vo výškach od ",
+    "answers":[
+      "a) 300 m do letovej hladiny 2 150 m",
+      "b) 100 m do letovej hladiny 6 100 m",
+      "c) 300 m do letovej hladiny 6 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1684"
+  },
+  {
+    "questionText":"Každý člen posádky je povinný mať u seba pri každom lete",
+    "answers":[
+      "a) platný preukaz spôsobilosti",
+      "b) pilotný preukaz",
+      "c) občiansky preukaz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1685"
+  },
+  {
+    "questionText":"Prevádzkovateľ nesmie ustanoviť pilota do funkcie veliteľa lietadla na typ lietadla, na ktorom nevykonal najmenej tri štarty a pristátia za posledných",
+    "answers":[
+      "a) 30 dní",
+      "b) 60 dní",
+      "c) 90 dní"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1686"
+  },
+  {
+    "questionText":"Každý člen posádky, pokiaľ je na svojom pracovnom mieste, musí mať svoje bezpečnostné pásy",
+    "answers":[
+      "a) pripravené na použitie",
+      "b) zapnuté",
+      "c) uložené vedľa seba"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1687"
+  },
+  {
+    "questionText":"Školské a výcvikové lety sú lety vykonávané výhradne na",
+    "answers":[
+      "a) základný výcvik leteckého personálu",
+      "b) školenie, výcvik a na preskúšavanie leteckého personálu",
+      "c) školenie a preskúšavanie leteckého personálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1688"
+  },
+  {
+    "questionText":"Nad vykonávaním jednotlivých druhov letov, najmä pokiaľ ide o dodržovanie príslušných podrobných smerníc, je prevádzkovateľ povinný organizovať",
+    "answers":[
+      "a) systém dozoru",
+      "b) systém kontroly",
+      "c) náhodnú kontrolnú činnosť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1689"
+  },
+  {
+    "questionText":"Všetky pozemné jednomotorové lietadlá, ktoré prelietavajú vodnú plochu na trati vo vzdialenosti väčšej ako je tá, z ktorej môžu dosiahnuť pobrežie kĺzavým letom, musia byť vybavené ",
+    "answers":[
+      "a) záchrannými člnmi v dostatočnom počte, aby uniesli všetky osoby, ktoré sú na palube",
+      "b) súpravou vodotesnej núdzovej rádiostanice",
+      "c) záchrannou vestou alebo rovnocennými individuálnymi záchrannými prostriedkami pre každú osobu na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1690"
+  },
+  {
+    "questionText":"Lety podľa dennej doby, v ktorej sa vykonávajú, sa rozdeľujú na lety",
+    "answers":[
+      "a) IFR a VFR",
+      "b) VMC a IMC",
+      "c) denné a nočné"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1691"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že hmotnosť lietadla je vzhľadom na predpokladané letové podmienky ",
+    "answers":[
+      "a) vyhovujúca",
+      "b) dostatočná",
+      "c) v medziach prípustných limitov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1692"
+  },
+  {
+    "questionText":"Lety v malých výškach sú lety nad terénom od",
+    "answers":[
+      "a) 100 m do 200 m",
+      "b) 100 m do 300 m",
+      "c) 100 m do 500 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y53",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1693"
+  },
+  {
+    "questionText":"Letová príručka je dokument nadväzujúci na vydanie",
+    "answers":[
+      "a) osvedčenia o zápise do registra",
+      "b) osvedčenia o letovej spôsobilosti",
+      "c) prevádzkovej príručky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1694"
+  },
+  {
+    "questionText":"Na preukázanie schopností svojich pilotov musí prevádzkovateľ",
+    "answers":[
+      "a) vykonať periodické preskúšanie",
+      "b) vykonať kontrolu techniky pilotáže",
+      "c) preskúšať techniku pilotáže a schopnosť vykonávať núdzové postupy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1695"
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "a) elektrickým svietidlom pre každé pracovisko",
+      "b) zoznamom vizuálnych signálov používaných zakročujúcim lietadlom a lietadlom narušiteľa",
+      "c) bezpečnostnými postrojmi na všetkých sedadlách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1696"
+  },
+  {
+    "questionText":"Piloti z povolania bez IFR kvalifikácie sa musia podrobiť preskúšaniu z techniky pilotáže a schopnosti vykonávať núdzové postupy, najmenej raz za",
+    "answers":[
+      "a) 12 mesiacov",
+      "b) 6 mesiacov",
+      "c) 9 mesiacov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1697"
+  },
+  {
+    "questionText":"Overovacie lety sú lety, konané na overovanie a zistenie parametrov",
+    "answers":[
+      "a) prostriedkov zabezpečovacej leteckej techniky z paluby lietadla a na kontrolu prevádzkyschopnosti letísk",
+      "b) sériových lietadiel na vydanie osvedčenia o letovej spôsobilosti",
+      "c) lietadiel v prevádzke na predĺženie platnosti osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1698"
+  },
+  {
+    "questionText":"Veliteľ lietadla nesmie začať let, pokiaľ primeranými prostriedkami nezistil, že zariadenia, ktoré sú k dispozícii a na let a bezpečnú prevádzku požadované, sú",
+    "answers":[
+      "a) na tento účel dostačujúce",
+      "b) v prevádzkyschopnom stave",
+      "c) vyhovujúce"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1699"
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný zostaviť výcvikový program a vykonávať ",
+    "answers":[
+      "a) školenie a výcvik posádok",
+      "b) preškoľovanie posádok",
+      "c) preskúšania posádok"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1700"
+  },
+  {
+    "questionText":"Prevádzkovateľ musí udržovať záznamy o kvalifikácii výkonných letcov a záznamy o spôsobe, akým sa táto kvalifikácia",
+    "answers":[
+      "a) predlžovala",
+      "b) udržovala",
+      "c) dosahovala"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1701"
+  },
+  {
+    "questionText":"Veliteľ lietadla je zodpovedný za",
+    "answers":[
+      "a) riadenie a prevádzku lietadla a bezpečnosť všetkých osôb na palube",
+      "b) prevádzku a bezpečnosť lietadla",
+      "c) prevádzku a bezpečnosť lietadla a za bezpečnosť všetkých osôb na palube lietadla počas letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1702"
+  },
+  {
+    "questionText":"Let VFR sa nesmie začať, pokiaľ lietadlo nemá dostatok pohonných látok a oleja",
+    "answers":[
+      "a) na letisko plánovaného pristátia plus 30 minút",
+      "b) na dolet na letisko plánovaného pristátia a potom ešte na let na náhradné letisko",
+      "c) na zaistenie bezpečného vykonania letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1703"
+  },
+  {
+    "questionText":"Mimoletiskové lety a prelety sa rozdeľujú na lety",
+    "answers":[
+      "a) navigačné a oblety",
+      "b) vnútroštátne a medzinárodné",
+      "c) oblastné a medzioblastné"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1704"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené ",
+    "answers":[
+      "a) pristávacím a rolovacím svetlometom",
+      "b) protizrážkovým majákom",
+      "c) osvetlením všetkých prístrojov a zariadení potrebných na zaistenie bezpečnosti lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1705"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná ",
+    "answers":[
+      "a) výšku letu na trati",
+      "b) terén a minimálne bezpečné výšky",
+      "c) terén a výšku letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1706"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že lietadlo je spôsobilé na let a má",
+    "answers":[
+      "a) osvedčenie o zápise do registra",
+      "b) povolenie na prevádzku rádiostanice a schválený letový plán",
+      "c) platné osvedčenie letovej spôsobilosti a príslušné doklady sú na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1707"
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR musia byť vybavené rádiovým spojovacím výstrojom, ktorý umožní obojsmerné spojenie so všetkými leteckými stanicami",
+    "answers":[
+      "a) na frekvenciách leteckého pásma",
+      "b) na frekvenciách VKV",
+      "c) na frekvenciách predpísaných príslušnými úradmi"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1708"
+  },
+  {
+    "questionText":"Dopravné lety sú lety vykonávané za účelom",
+    "answers":[
+      "a) pravidelnej leteckej dopravy",
+      "b) pravidelnej a nepravidelnej leteckej dopravy",
+      "c) prepravy cestujúcich, nákladu a pošty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1709"
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené navigačným výstrojom, ktorý im umožní let",
+    "answers":[
+      "a) podľa letového poriadku",
+      "b) podľa letového plánu",
+      "c) podľa požiadaviek prevádzkovateľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1710"
+  },
+  {
+    "questionText":"Pri letoch na zvláštne účely, školských a výcvikových, skúšobných a overovacích, môžu byť na palube lietadla okrem posádky ",
+    "answers":[
+      "a) osoby, ktoré sú poverené plnením úloh súvisiacich s letom",
+      "b) osoby vlastniace preukaz spôsobilosti",
+      "c) osoby s platným cestovným dokladom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1711"
+  },
+  {
+    "questionText":"Všetky lietadlá, s výnimkou klzákov, musia byť pri všetkých letoch vybavené",
+    "answers":[
+      "a) prenosnými hasiacimi prístrojmi",
+      "b) zariadením na dávanie pyrotechnických tiesňových signálov",
+      "c) súpravou núdzovej rádiostanice"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1712"
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "a) ľahko dostupnou skrinkou prvej pomoci",
+      "b) núdzovým majákom",
+      "c) zásobníkom kyslíka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y54",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1713"
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR na trati musia byť vybavené",
+    "answers":[
+      "a) magnetickým kompasom, palubnými hodinami, rýchlomerom, citlivým barometrickým výškomerom",
+      "b) magnetickým kompasom, palubnými hodinami, rýchlomerom, rádiovýškomerom, variometrom",
+      "c) kompasom, hodinami, rýchlomerom, citlivým barometrickým výškomerom, variometrom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1714"
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná ",
+    "answers":[
+      "a) trať, ktorú má preletieť a letiská, ktoré majú byť použité",
+      "b) trať letu a cieľové letisko",
+      "c) trať, ktorú má preletieť a letisko na trati"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1715"
+  },
+  {
+    "questionText":"Skúšobné lety sú lety, ktorými sa preskúšavajú lietadlá a ich príslušenstvo. Sú to",
+    "answers":[
+      "a) skúšobné lety prototypov a experimentálne upravených lietadiel, skúšobné lety sériových lietadiel a skúšobné lety prevádzkové",
+      "b) skúšobné lety prototypov a sériových lietadiel",
+      "c) skúšobné lety na získanie osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1716"
+  },
+  {
+    "questionText":"Športové lety sú lety vykonávané za účelom",
+    "answers":[
+      "a) školenia a výcviku v aerokluboch",
+      "b) športových výkonov",
+      "c) školenia a prípravy pilotov na športové výkony"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1717"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "a) obrysovými svetlami",
+      "b) nevyhnutnou výstrojou na zabezpečenie svetelného vyznačenia lietadiel",
+      "c) protizrážkovým majákom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1718"
+  },
+  {
+    "questionText":"Počet a zloženie členov posádky nesmie byť menšie ako je stanovené",
+    "answers":[
+      "a) v prevádzkovej príručke",
+      "b) v letovej príručke",
+      "c) v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1719"
+  },
+  {
+    "questionText":"Na vykonávanie iných ako dopravných letov je prevádzkovateľ povinný vydať",
+    "answers":[
+      "a) podrobné pokyny",
+      "b) metodickú príručku",
+      "c) podrobné smernice"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1720"
+  },
+  {
+    "questionText":"Letová doba je celková doba od okamihu, kedy sa lietadlo",
+    "answers":[
+      "a) po prvýkrát začne vlastnou silou pohybovať na vzlet až do okamihu, kedy sa lietadlo zastaví po ukončení letu",
+      "b) začne pohybovať na VPD až do okamihu, kedy po pristátí na VPD zastaví",
+      "c) odpúta od VPD až po okamih, kedy sa pri pristátí dotkne VPD"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1721"
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené takým navigačným výstrojom, aby v prípade poruchy niektorej jeho časti v ktoromkoľvek okamihu letu, zvyšok výstroja zaručoval vykonávanie navigácie podľa",
+    "answers":[
+      "a) pokynov služby riadenia letovej prevádzky",
+      "b) schváleného letového poriadku",
+      "c) pravidiel letu za VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1722"
+  },
+  {
+    "questionText":"Lety vo veľkých výškach sú lety vyššie od letovej hladiny",
+    "answers":[
+      "a) 6 100 m",
+      "b) 2 150 m",
+      "c) 10 000 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1723"
+  },
+  {
+    "questionText":"Letecké práce sú špeciálna obchodná letecká činnosť, uskutočňovaná",
+    "answers":[
+      "a) pri preprave osôb a nákladu na základe zvláštnej dohody",
+      "b) lietadlami hlavne v poľnohospodárstve, stavebníctve, pri fotografovaní, mapovaní a pod.",
+      "c) na prianie zákazníka"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1724"
+  },
+  {
+    "questionText":"Lety civilných lietadiel z hľadiska priestoru, v ktorom sa vykonávajú, sú ",
+    "answers":[
+      "a) letiskové lety, mimoletiskové lety a prelety",
+      "b) letiskové lety a navigačné lety",
+      "c) vnútroštátne lety a medzinárodné lety"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1725"
+  },
+  {
+    "questionText":"Za posudzovanie vhodnosti meteorologických podmienok na daný školský alebo výcvikový let, ako aj za spôsob vykonania letu zodpovedá ",
+    "answers":[
+      "a) oprávnený inštruktor",
+      "b) pilotný žiak",
+      "c) riadiaci letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1726"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že všetok dopravovaný náklad je",
+    "answers":[
+      "a) správne rozložený a bezpečne zaistený",
+      "b) zapísaný v dopravných dokladoch",
+      "c) správne vyvážený"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1727"
+  },
+  {
+    "questionText":"Lety civilných lietadiel sa z hľadiska účelu rozdeľujú na lety",
+    "answers":[
+      "a) dopravné, na zvláštne účely, školské a výcvikové, skúšobné, overovacie, športové",
+      "b) dopravné, špeciálne, športové, školské a výcvikové, skúšobné",
+      "c) dopravné, školské a výcvikové, skúšobné, overovacie, športové"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1728"
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ sa veliteľ lietadla nepresvedčí, že prístroje a zariadenia, inštalované v lietadle sú vzhľadom na predpokladané letové podmienky ",
+    "answers":[
+      "a) dostatočné",
+      "b) primerané",
+      "c) vyhovujúce"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1729"
+  },
+  {
+    "questionText":"U lietadiel, ktoré sú vybavené bezpečnostnými postrojmi, musia mať členovia posádky na pilotných sedadlách pásy zapnuté ",
+    "answers":[
+      "a) počas vzletu a pristátia",
+      "b) počas celého letu",
+      "c) počas cvičného letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1730"
+  },
+  {
+    "questionText":"Všeobecné letectvo zahŕňa všetku leteckú prevádzku civilných lietadiel, okrem",
+    "answers":[
+      "a) pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme a letecké práce",
+      "b) pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme",
+      "c) leteckých prác"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1731"
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "a) signálnymi kódmi na spojenie medzi zemou a lietadlami",
+      "b) elektrickou lampou na každé pracovisko členov posádky",
+      "c) prístrojom udávajúcim v pilotnej kabíne teplotu vonkajšieho vzduchu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel L-6/II. Y55",
+    "categoryName":"Prevádzka lietadiel L-6/II",
+    "id":"1732"
+  }
+]

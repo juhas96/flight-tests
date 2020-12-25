@@ -12,6 +12,132 @@
 		1408C5E725802C7C00F79C0E /* BreeSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1408C5E625802C7C00F79C0E /* BreeSerif-Regular.ttf */; };
 		140F6327257B799A00F801B5 /* NormalTestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */; };
 		140F632A257B7AE700F801B5 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140F6329257B7AE700F801B5 /* CircleButton.swift */; };
+		142B6DC625963D5C00FB7609 /* elektrotechnika.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DC525963D5C00FB7609 /* elektrotechnika.json */; };
+		142B6DC925963E0400FB7609 /* letecka_anglictina.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DC825963E0400FB7609 /* letecka_anglictina.json */; };
+		142B6DCC25963F1900FB7609 /* letecka_doprava.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DCB25963F1900FB7609 /* letecka_doprava.json */; };
+		142B6DCF25963FB500FB7609 /* letecke_pohonne_jednotky.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DCE25963FB500FB7609 /* letecke_pohonne_jednotky.json */; };
+		142B6DD22596408B00FB7609 /* letiska_l-14.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DD12596408B00FB7609 /* letiska_l-14.json */; };
+		142B6DD52596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DD42596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json */; };
+		142B6DD8259641B300FB7609 /* pravidla_lietania.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DD7259641B300FB7609 /* pravidla_lietania.json */; };
+		142B6DDB2596423A00FB7609 /* predpis_o_lps.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DDA2596423A00FB7609 /* predpis_o_lps.json */; };
+		142B6DDE259642A900FB7609 /* prevadzka_lietadiel.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DDD259642A900FB7609 /* prevadzka_lietadiel.json */; };
+		142B6DE42596483700FB7609 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DE12596483700FB7609 /* Assets.xcassets */; };
+		142B6DE52596483700FB7609 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DE22596483700FB7609 /* background.jpg */; };
+		142B6DE62596483700FB7609 /* airplane.json in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DE32596483700FB7609 /* airplane.json */; };
+		142B6E072596485700FB7609 /* radiotechnika_x02_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DE82596485500FB7609 /* radiotechnika_x02_04.jpg */; };
+		142B6E082596485700FB7609 /* radiotechnika_x04_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DE92596485500FB7609 /* radiotechnika_x04_13.jpg */; };
+		142B6E092596485700FB7609 /* pozemne_vizualne_navestia_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DEA2596485500FB7609 /* pozemne_vizualne_navestia_02.png */; };
+		142B6E0A2596485700FB7609 /* vseobecne_vedomosti_y37_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DEB2596485500FB7609 /* vseobecne_vedomosti_y37_03.jpg */; };
+		142B6E0B2596485700FB7609 /* pozemne_vizualne_navestia_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DEC2596485500FB7609 /* pozemne_vizualne_navestia_07.png */; };
+		142B6E0C2596485700FB7609 /* vseobecne_vedomosti_x37_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DED2596485500FB7609 /* vseobecne_vedomosti_x37_09.jpg */; };
+		142B6E0D2596485700FB7609 /* letecka_navigacia_x16_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DEE2596485500FB7609 /* letecka_navigacia_x16_08.jpg */; };
+		142B6E0E2596485700FB7609 /* pozemne_vizualne_navestia_04.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DEF2596485500FB7609 /* pozemne_vizualne_navestia_04.png */; };
+		142B6E0F2596485700FB7609 /* letecka_navigacia_y15_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF02596485500FB7609 /* letecka_navigacia_y15_04.jpg */; };
+		142B6E102596485700FB7609 /* vseobecne_vedomosti_y36_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF12596485500FB7609 /* vseobecne_vedomosti_y36_16.jpg */; };
+		142B6E112596485700FB7609 /* vseobecne_vedomosti_y38_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF22596485500FB7609 /* vseobecne_vedomosti_y38_03.jpg */; };
+		142B6E122596485700FB7609 /* vseobecne_vedomosti_x37_08.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF32596485600FB7609 /* vseobecne_vedomosti_x37_08.png */; };
+		142B6E132596485700FB7609 /* radiotechnika_x04_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF42596485600FB7609 /* radiotechnika_x04_01.jpg */; };
+		142B6E142596485700FB7609 /* vseobecne_vedomosti_x37_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF52596485600FB7609 /* vseobecne_vedomosti_x37_10.jpg */; };
+		142B6E152596485700FB7609 /* vseobecne_vedomosti_y36_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF62596485600FB7609 /* vseobecne_vedomosti_y36_13.jpg */; };
+		142B6E162596485700FB7609 /* letecka_navigacia_y19_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF72596485600FB7609 /* letecka_navigacia_y19_01.jpg */; };
+		142B6E172596485700FB7609 /* radiotechnika_x01_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF82596485600FB7609 /* radiotechnika_x01_18.jpg */; };
+		142B6E182596485700FB7609 /* pozemne_vizualne_navestia_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DF92596485600FB7609 /* pozemne_vizualne_navestia_09.png */; };
+		142B6E192596485700FB7609 /* pozemne_vizualne_navestia_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFA2596485600FB7609 /* pozemne_vizualne_navestia_06.png */; };
+		142B6E1A2596485700FB7609 /* pozemne_vizualne_navestia_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFB2596485600FB7609 /* pozemne_vizualne_navestia_10.png */; };
+		142B6E1B2596485700FB7609 /* vseobecne_vedomosti_x38_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFC2596485600FB7609 /* vseobecne_vedomosti_x38_15.jpg */; };
+		142B6E1C2596485700FB7609 /* pozemne_vizualne_navestia_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFD2596485600FB7609 /* pozemne_vizualne_navestia_05.png */; };
+		142B6E1D2596485700FB7609 /* radiotechnika_x04_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFE2596485600FB7609 /* radiotechnika_x04_05.jpg */; };
+		142B6E1E2596485700FB7609 /* radiotechnika_x01_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6DFF2596485600FB7609 /* radiotechnika_x01_03.jpg */; };
+		142B6E1F2596485700FB7609 /* letecka_navigacia_x16_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E002596485600FB7609 /* letecka_navigacia_x16_01.jpg */; };
+		142B6E202596485700FB7609 /* pozemne_vizualne_navestia_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E012596485700FB7609 /* pozemne_vizualne_navestia_03.png */; };
+		142B6E212596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E022596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg */; };
+		142B6E222596485700FB7609 /* vseobecne_vedomosti_y37_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E032596485700FB7609 /* vseobecne_vedomosti_y37_10.png */; };
+		142B6E232596485700FB7609 /* pozemne_vizualne_navestia_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E042596485700FB7609 /* pozemne_vizualne_navestia_01.png */; };
+		142B6E242596485700FB7609 /* pozemne_vizualne_navestia_08.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E052596485700FB7609 /* pozemne_vizualne_navestia_08.png */; };
+		142B6E252596485700FB7609 /* radiotechnika_x04_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E062596485700FB7609 /* radiotechnika_x04_07.jpg */; };
+		142B6E4925964FD100FB7609 /* aerodynamika_x66_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2725964FCF00FB7609 /* aerodynamika_x66_04.jpg */; };
+		142B6E4A25964FD100FB7609 /* aerodynamika_x71_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2825964FCF00FB7609 /* aerodynamika_x71_06.jpg */; };
+		142B6E4B25964FD100FB7609 /* aerodynamika_x71_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2925964FCF00FB7609 /* aerodynamika_x71_05.jpg */; };
+		142B6E4C25964FD100FB7609 /* aerodynamika_x65_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2A25964FCF00FB7609 /* aerodynamika_x65_02.jpg */; };
+		142B6E4D25964FD100FB7609 /* aerodynamika_y63_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2B25964FCF00FB7609 /* aerodynamika_y63_09.jpg */; };
+		142B6E4E25964FD100FB7609 /* aerodynamika_x64_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2C25964FCF00FB7609 /* aerodynamika_x64_10.jpg */; };
+		142B6E4F25964FD100FB7609 /* aerodynamika_x71_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2D25964FCF00FB7609 /* aerodynamika_x71_01.jpg */; };
+		142B6E5025964FD100FB7609 /* aerodynamika_x65_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2E25964FCF00FB7609 /* aerodynamika_x65_10.jpg */; };
+		142B6E5125964FD100FB7609 /* aerodynamika_x69_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E2F25964FCF00FB7609 /* aerodynamika_x69_15.jpg */; };
+		142B6E5225964FD100FB7609 /* aerodynamika_x64_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3025964FCF00FB7609 /* aerodynamika_x64_06.jpg */; };
+		142B6E5325964FD100FB7609 /* aerodynamika_x64_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3125964FCF00FB7609 /* aerodynamika_x64_11.jpg */; };
+		142B6E5425964FD100FB7609 /* aerodynamika_x64_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3225964FD000FB7609 /* aerodynamika_x64_07.jpg */; };
+		142B6E5525964FD100FB7609 /* aerodynamika_x68_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3325964FD000FB7609 /* aerodynamika_x68_15.jpg */; };
+		142B6E5625964FD100FB7609 /* aerodynamika_x68_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3425964FD000FB7609 /* aerodynamika_x68_02.jpg */; };
+		142B6E5725964FD100FB7609 /* aerodynamika_x66_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3525964FD000FB7609 /* aerodynamika_x66_08.jpg */; };
+		142B6E5825964FD100FB7609 /* aerodynamika_x69_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3625964FD000FB7609 /* aerodynamika_x69_05.jpg */; };
+		142B6E5925964FD100FB7609 /* aerodynamika_x68_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3725964FD000FB7609 /* aerodynamika_x68_14.jpg */; };
+		142B6E5A25964FD100FB7609 /* aerodynamika_y63_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3825964FD000FB7609 /* aerodynamika_y63_11.jpg */; };
+		142B6E5B25964FD100FB7609 /* aerodynamika_x68_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3925964FD000FB7609 /* aerodynamika_x68_10.jpg */; };
+		142B6E5C25964FD100FB7609 /* aerodynamika_x66_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3A25964FD000FB7609 /* aerodynamika_x66_11.jpg */; };
+		142B6E5D25964FD100FB7609 /* aerodynamika_x66_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3B25964FD000FB7609 /* aerodynamika_x66_06.jpg */; };
+		142B6E5E25964FD100FB7609 /* aerodynamika_x64_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3C25964FD000FB7609 /* aerodynamika_x64_17.jpg */; };
+		142B6E5F25964FD100FB7609 /* aerodynamika_x66_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3D25964FD000FB7609 /* aerodynamika_x66_07.jpg */; };
+		142B6E6025964FD100FB7609 /* aerodynamika_x66_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3E25964FD000FB7609 /* aerodynamika_x66_12.jpg */; };
+		142B6E6125964FD100FB7609 /* aerodynamika_x66_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E3F25964FD000FB7609 /* aerodynamika_x66_09.jpg */; };
+		142B6E6225964FD100FB7609 /* aerodynamika_x66_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4025964FD100FB7609 /* aerodynamika_x66_10.jpg */; };
+		142B6E6325964FD100FB7609 /* aerodynamika_x68_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4125964FD100FB7609 /* aerodynamika_x68_13.jpg */; };
+		142B6E6425964FD100FB7609 /* aerodynamika_x65_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4225964FD100FB7609 /* aerodynamika_x65_04.jpg */; };
+		142B6E6525964FD100FB7609 /* aerodynamika_x66_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4325964FD100FB7609 /* aerodynamika_x66_05.jpg */; };
+		142B6E6625964FD100FB7609 /* aerodynamika_x65_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4425964FD100FB7609 /* aerodynamika_x65_03.jpg */; };
+		142B6E6725964FD100FB7609 /* aerodynamika_x63_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4525964FD100FB7609 /* aerodynamika_x63_20.jpg */; };
+		142B6E6825964FD100FB7609 /* aerodynamika_x67_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4625964FD100FB7609 /* aerodynamika_x67_19.jpg */; };
+		142B6E6925964FD100FB7609 /* aerodynamika_x69_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4725964FD100FB7609 /* aerodynamika_x69_16.jpg */; };
+		142B6E6A25964FD100FB7609 /* aerodynamika_y63_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E4825964FD100FB7609 /* aerodynamika_y63_16.jpg */; };
+		142B6E7425964FE000FB7609 /* letecke_pohonne_jednotky_y34_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E6C25964FDF00FB7609 /* letecke_pohonne_jednotky_y34_04.jpg */; };
+		142B6E7525964FE000FB7609 /* letecke_pohonne_jednotky_x31_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E6D25964FDF00FB7609 /* letecke_pohonne_jednotky_x31_09.jpg */; };
+		142B6E7625964FE000FB7609 /* letecke_pohonne_jednotky_y31_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E6E25964FDF00FB7609 /* letecke_pohonne_jednotky_y31_04.jpg */; };
+		142B6E7725964FE000FB7609 /* letecke_pohonne_jednotky_x35_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E6F25964FDF00FB7609 /* letecke_pohonne_jednotky_x35_11.jpg */; };
+		142B6E7825964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7025964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg */; };
+		142B6E7925964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7125964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg */; };
+		142B6E7A25964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7225964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg */; };
+		142B6E7B25964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7325964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg */; };
+		142B6E7E25964FED00FB7609 /* meteorologia_x24_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */; };
+		142B6EA225964FFC00FB7609 /* meteorologia_x24_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */; };
+		142B6EA325964FFC00FB7609 /* meteorologia_x24_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */; };
+		142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8225964FFA00FB7609 /* meteorologia_x26_10.jpg */; };
+		142B6EA525964FFC00FB7609 /* meteorologia_x25_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8325964FFA00FB7609 /* meteorologia_x25_14.jpg */; };
+		142B6EA625964FFC00FB7609 /* meteorologia_x26_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8425964FFA00FB7609 /* meteorologia_x26_04.jpg */; };
+		142B6EA725964FFC00FB7609 /* meteorologia_x26_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8525964FFA00FB7609 /* meteorologia_x26_16.jpg */; };
+		142B6EA825964FFC00FB7609 /* meteorologia_x26_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8625964FFA00FB7609 /* meteorologia_x26_08.jpg */; };
+		142B6EA925964FFC00FB7609 /* meteorologia_x25_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8725964FFA00FB7609 /* meteorologia_x25_15.jpg */; };
+		142B6EAA25964FFC00FB7609 /* meteorologia_x25_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8825964FFA00FB7609 /* meteorologia_x25_09.jpg */; };
+		142B6EAB25964FFC00FB7609 /* meteorologia_x26_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8925964FFA00FB7609 /* meteorologia_x26_01.jpg */; };
+		142B6EAC25964FFC00FB7609 /* meteorologia_x25_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8A25964FFA00FB7609 /* meteorologia_x25_08.jpg */; };
+		142B6EAD25964FFC00FB7609 /* meteorologia_x25_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8B25964FFB00FB7609 /* meteorologia_x25_07.jpg */; };
+		142B6EAE25964FFC00FB7609 /* meteorologia_x25_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8C25964FFB00FB7609 /* meteorologia_x25_10.jpg */; };
+		142B6EAF25964FFC00FB7609 /* meteorologia_x26_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8D25964FFB00FB7609 /* meteorologia_x26_18.jpg */; };
+		142B6EB025964FFC00FB7609 /* meteorologia_x26_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8E25964FFB00FB7609 /* meteorologia_x26_20.jpg */; };
+		142B6EB125964FFC00FB7609 /* meteorologia_x24_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8F25964FFB00FB7609 /* meteorologia_x24_04.jpg */; };
+		142B6EB225964FFC00FB7609 /* meteorologia_x25_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9025964FFB00FB7609 /* meteorologia_x25_16.jpg */; };
+		142B6EB325964FFC00FB7609 /* meteorologia_x25_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9125964FFB00FB7609 /* meteorologia_x25_19.jpg */; };
+		142B6EB425964FFC00FB7609 /* meteorologia_x26_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9225964FFB00FB7609 /* meteorologia_x26_17.jpg */; };
+		142B6EB525964FFC00FB7609 /* meteorologia_x26_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9325964FFB00FB7609 /* meteorologia_x26_03.jpg */; };
+		142B6EB625964FFC00FB7609 /* meteorologia_x26_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9425964FFB00FB7609 /* meteorologia_x26_06.jpg */; };
+		142B6EB725964FFC00FB7609 /* meteorologia_x27_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9525964FFB00FB7609 /* meteorologia_x27_02.jpg */; };
+		142B6EB825964FFC00FB7609 /* meteorologia_x26_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9625964FFB00FB7609 /* meteorologia_x26_07.jpg */; };
+		142B6EB925964FFC00FB7609 /* meteorologia_x24_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9725964FFB00FB7609 /* meteorologia_x24_16.jpg */; };
+		142B6EBA25964FFC00FB7609 /* meteorologia_x25_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9825964FFC00FB7609 /* meteorologia_x25_06.jpg */; };
+		142B6EBB25964FFC00FB7609 /* meteorologia_x25_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9925964FFC00FB7609 /* meteorologia_x25_05.jpg */; };
+		142B6EBC25964FFC00FB7609 /* meteorologia_x24_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9A25964FFC00FB7609 /* meteorologia_x24_11.jpg */; };
+		142B6EBD25964FFC00FB7609 /* meteorologia_x24_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9B25964FFC00FB7609 /* meteorologia_x24_07.jpg */; };
+		142B6EBE25964FFC00FB7609 /* meteorologia_x25_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9C25964FFC00FB7609 /* meteorologia_x25_12.jpg */; };
+		142B6EBF25964FFC00FB7609 /* meteorologia_x25_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9D25964FFC00FB7609 /* meteorologia_x25_04.jpg */; };
+		142B6EC025964FFC00FB7609 /* meteorologia_x27_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9E25964FFC00FB7609 /* meteorologia_x27_04.jpg */; };
+		142B6EC125964FFC00FB7609 /* meteorologia_x26_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E9F25964FFC00FB7609 /* meteorologia_x26_12.jpg */; };
+		142B6EC225964FFC00FB7609 /* meteorologia_x25_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EA025964FFC00FB7609 /* meteorologia_x25_02.jpg */; };
+		142B6EC325964FFC00FB7609 /* meteorologia_x24_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EA125964FFC00FB7609 /* meteorologia_x24_09.jpg */; };
+		142B6ECB2596500A00FB7609 /* palubne_pristroje_y10_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EC52596500A00FB7609 /* palubne_pristroje_y10_03.jpg */; };
+		142B6ECC2596500A00FB7609 /* palubne_pristroje_x08_14.png in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EC62596500A00FB7609 /* palubne_pristroje_x08_14.png */; };
+		142B6ECD2596500A00FB7609 /* palubne_pristroje_y06_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EC72596500A00FB7609 /* palubne_pristroje_y06_18.jpg */; };
+		142B6ECE2596500A00FB7609 /* palubne_pristroje_x07_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EC82596500A00FB7609 /* palubne_pristroje_x07_14.jpg */; };
+		142B6ECF2596500A00FB7609 /* palubne_pristroje_y06_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6EC92596500A00FB7609 /* palubne_pristroje_y06_01.jpg */; };
+		142B6ED02596500A00FB7609 /* palubne_pristroje_x08_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6ECA2596500A00FB7609 /* palubne_pristroje_x08_09.jpg */; };
 		1450EC3625600CD800750D03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1450EC3525600CD800750D03 /* AppDelegate.swift */; };
 		1450EC3825600CD800750D03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1450EC3725600CD800750D03 /* SceneDelegate.swift */; };
 		1450EC3D25600CD800750D03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1450EC3B25600CD800750D03 /* Main.storyboard */; };
@@ -45,6 +171,132 @@
 		1408C5E625802C7C00F79C0E /* BreeSerif-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BreeSerif-Regular.ttf"; sourceTree = "<group>"; };
 		140F6326257B799A00F801B5 /* NormalTestDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalTestDetailViewController.swift; sourceTree = "<group>"; };
 		140F6329257B7AE700F801B5 /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
+		142B6DC525963D5C00FB7609 /* elektrotechnika.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = elektrotechnika.json; sourceTree = "<group>"; };
+		142B6DC825963E0400FB7609 /* letecka_anglictina.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letecka_anglictina.json; sourceTree = "<group>"; };
+		142B6DCB25963F1900FB7609 /* letecka_doprava.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letecka_doprava.json; sourceTree = "<group>"; };
+		142B6DCE25963FB500FB7609 /* letecke_pohonne_jednotky.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letecke_pohonne_jednotky.json; sourceTree = "<group>"; };
+		142B6DD12596408B00FB7609 /* letiska_l-14.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "letiska_l-14.json"; sourceTree = "<group>"; };
+		142B6DD42596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = postupy_pre_letove_prevadzkove_sluzby.json; sourceTree = "<group>"; };
+		142B6DD7259641B300FB7609 /* pravidla_lietania.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pravidla_lietania.json; sourceTree = "<group>"; };
+		142B6DDA2596423A00FB7609 /* predpis_o_lps.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = predpis_o_lps.json; sourceTree = "<group>"; };
+		142B6DDD259642A900FB7609 /* prevadzka_lietadiel.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = prevadzka_lietadiel.json; sourceTree = "<group>"; };
+		142B6DE12596483700FB7609 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		142B6DE22596483700FB7609 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		142B6DE32596483700FB7609 /* airplane.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = airplane.json; sourceTree = "<group>"; };
+		142B6DE82596485500FB7609 /* radiotechnika_x02_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x02_04.jpg; sourceTree = "<group>"; };
+		142B6DE92596485500FB7609 /* radiotechnika_x04_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x04_13.jpg; sourceTree = "<group>"; };
+		142B6DEA2596485500FB7609 /* pozemne_vizualne_navestia_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_02.png; sourceTree = "<group>"; };
+		142B6DEB2596485500FB7609 /* vseobecne_vedomosti_y37_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_y37_03.jpg; sourceTree = "<group>"; };
+		142B6DEC2596485500FB7609 /* pozemne_vizualne_navestia_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_07.png; sourceTree = "<group>"; };
+		142B6DED2596485500FB7609 /* vseobecne_vedomosti_x37_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_x37_09.jpg; sourceTree = "<group>"; };
+		142B6DEE2596485500FB7609 /* letecka_navigacia_x16_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecka_navigacia_x16_08.jpg; sourceTree = "<group>"; };
+		142B6DEF2596485500FB7609 /* pozemne_vizualne_navestia_04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_04.png; sourceTree = "<group>"; };
+		142B6DF02596485500FB7609 /* letecka_navigacia_y15_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecka_navigacia_y15_04.jpg; sourceTree = "<group>"; };
+		142B6DF12596485500FB7609 /* vseobecne_vedomosti_y36_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_y36_16.jpg; sourceTree = "<group>"; };
+		142B6DF22596485500FB7609 /* vseobecne_vedomosti_y38_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_y38_03.jpg; sourceTree = "<group>"; };
+		142B6DF32596485600FB7609 /* vseobecne_vedomosti_x37_08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vseobecne_vedomosti_x37_08.png; sourceTree = "<group>"; };
+		142B6DF42596485600FB7609 /* radiotechnika_x04_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x04_01.jpg; sourceTree = "<group>"; };
+		142B6DF52596485600FB7609 /* vseobecne_vedomosti_x37_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_x37_10.jpg; sourceTree = "<group>"; };
+		142B6DF62596485600FB7609 /* vseobecne_vedomosti_y36_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_y36_13.jpg; sourceTree = "<group>"; };
+		142B6DF72596485600FB7609 /* letecka_navigacia_y19_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecka_navigacia_y19_01.jpg; sourceTree = "<group>"; };
+		142B6DF82596485600FB7609 /* radiotechnika_x01_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x01_18.jpg; sourceTree = "<group>"; };
+		142B6DF92596485600FB7609 /* pozemne_vizualne_navestia_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_09.png; sourceTree = "<group>"; };
+		142B6DFA2596485600FB7609 /* pozemne_vizualne_navestia_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_06.png; sourceTree = "<group>"; };
+		142B6DFB2596485600FB7609 /* pozemne_vizualne_navestia_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_10.png; sourceTree = "<group>"; };
+		142B6DFC2596485600FB7609 /* vseobecne_vedomosti_x38_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_x38_15.jpg; sourceTree = "<group>"; };
+		142B6DFD2596485600FB7609 /* pozemne_vizualne_navestia_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_05.png; sourceTree = "<group>"; };
+		142B6DFE2596485600FB7609 /* radiotechnika_x04_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x04_05.jpg; sourceTree = "<group>"; };
+		142B6DFF2596485600FB7609 /* radiotechnika_x01_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x01_03.jpg; sourceTree = "<group>"; };
+		142B6E002596485600FB7609 /* letecka_navigacia_x16_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecka_navigacia_x16_01.jpg; sourceTree = "<group>"; };
+		142B6E012596485700FB7609 /* pozemne_vizualne_navestia_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_03.png; sourceTree = "<group>"; };
+		142B6E022596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vseobecne_vedomosti_x38_03.jpg; sourceTree = "<group>"; };
+		142B6E032596485700FB7609 /* vseobecne_vedomosti_y37_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vseobecne_vedomosti_y37_10.png; sourceTree = "<group>"; };
+		142B6E042596485700FB7609 /* pozemne_vizualne_navestia_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_01.png; sourceTree = "<group>"; };
+		142B6E052596485700FB7609 /* pozemne_vizualne_navestia_08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pozemne_vizualne_navestia_08.png; sourceTree = "<group>"; };
+		142B6E062596485700FB7609 /* radiotechnika_x04_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotechnika_x04_07.jpg; sourceTree = "<group>"; };
+		142B6E2725964FCF00FB7609 /* aerodynamika_x66_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_04.jpg; sourceTree = "<group>"; };
+		142B6E2825964FCF00FB7609 /* aerodynamika_x71_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x71_06.jpg; sourceTree = "<group>"; };
+		142B6E2925964FCF00FB7609 /* aerodynamika_x71_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x71_05.jpg; sourceTree = "<group>"; };
+		142B6E2A25964FCF00FB7609 /* aerodynamika_x65_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x65_02.jpg; sourceTree = "<group>"; };
+		142B6E2B25964FCF00FB7609 /* aerodynamika_y63_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_y63_09.jpg; sourceTree = "<group>"; };
+		142B6E2C25964FCF00FB7609 /* aerodynamika_x64_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x64_10.jpg; sourceTree = "<group>"; };
+		142B6E2D25964FCF00FB7609 /* aerodynamika_x71_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x71_01.jpg; sourceTree = "<group>"; };
+		142B6E2E25964FCF00FB7609 /* aerodynamika_x65_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x65_10.jpg; sourceTree = "<group>"; };
+		142B6E2F25964FCF00FB7609 /* aerodynamika_x69_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x69_15.jpg; sourceTree = "<group>"; };
+		142B6E3025964FCF00FB7609 /* aerodynamika_x64_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x64_06.jpg; sourceTree = "<group>"; };
+		142B6E3125964FCF00FB7609 /* aerodynamika_x64_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x64_11.jpg; sourceTree = "<group>"; };
+		142B6E3225964FD000FB7609 /* aerodynamika_x64_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x64_07.jpg; sourceTree = "<group>"; };
+		142B6E3325964FD000FB7609 /* aerodynamika_x68_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x68_15.jpg; sourceTree = "<group>"; };
+		142B6E3425964FD000FB7609 /* aerodynamika_x68_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x68_02.jpg; sourceTree = "<group>"; };
+		142B6E3525964FD000FB7609 /* aerodynamika_x66_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_08.jpg; sourceTree = "<group>"; };
+		142B6E3625964FD000FB7609 /* aerodynamika_x69_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x69_05.jpg; sourceTree = "<group>"; };
+		142B6E3725964FD000FB7609 /* aerodynamika_x68_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x68_14.jpg; sourceTree = "<group>"; };
+		142B6E3825964FD000FB7609 /* aerodynamika_y63_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_y63_11.jpg; sourceTree = "<group>"; };
+		142B6E3925964FD000FB7609 /* aerodynamika_x68_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x68_10.jpg; sourceTree = "<group>"; };
+		142B6E3A25964FD000FB7609 /* aerodynamika_x66_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_11.jpg; sourceTree = "<group>"; };
+		142B6E3B25964FD000FB7609 /* aerodynamika_x66_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_06.jpg; sourceTree = "<group>"; };
+		142B6E3C25964FD000FB7609 /* aerodynamika_x64_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x64_17.jpg; sourceTree = "<group>"; };
+		142B6E3D25964FD000FB7609 /* aerodynamika_x66_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_07.jpg; sourceTree = "<group>"; };
+		142B6E3E25964FD000FB7609 /* aerodynamika_x66_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_12.jpg; sourceTree = "<group>"; };
+		142B6E3F25964FD000FB7609 /* aerodynamika_x66_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_09.jpg; sourceTree = "<group>"; };
+		142B6E4025964FD100FB7609 /* aerodynamika_x66_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_10.jpg; sourceTree = "<group>"; };
+		142B6E4125964FD100FB7609 /* aerodynamika_x68_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x68_13.jpg; sourceTree = "<group>"; };
+		142B6E4225964FD100FB7609 /* aerodynamika_x65_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x65_04.jpg; sourceTree = "<group>"; };
+		142B6E4325964FD100FB7609 /* aerodynamika_x66_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x66_05.jpg; sourceTree = "<group>"; };
+		142B6E4425964FD100FB7609 /* aerodynamika_x65_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x65_03.jpg; sourceTree = "<group>"; };
+		142B6E4525964FD100FB7609 /* aerodynamika_x63_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x63_20.jpg; sourceTree = "<group>"; };
+		142B6E4625964FD100FB7609 /* aerodynamika_x67_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x67_19.jpg; sourceTree = "<group>"; };
+		142B6E4725964FD100FB7609 /* aerodynamika_x69_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_x69_16.jpg; sourceTree = "<group>"; };
+		142B6E4825964FD100FB7609 /* aerodynamika_y63_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aerodynamika_y63_16.jpg; sourceTree = "<group>"; };
+		142B6E6C25964FDF00FB7609 /* letecke_pohonne_jednotky_y34_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y34_04.jpg; sourceTree = "<group>"; };
+		142B6E6D25964FDF00FB7609 /* letecke_pohonne_jednotky_x31_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_x31_09.jpg; sourceTree = "<group>"; };
+		142B6E6E25964FDF00FB7609 /* letecke_pohonne_jednotky_y31_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y31_04.jpg; sourceTree = "<group>"; };
+		142B6E6F25964FDF00FB7609 /* letecke_pohonne_jednotky_x35_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_x35_11.jpg; sourceTree = "<group>"; };
+		142B6E7025964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_x33_11.jpg; sourceTree = "<group>"; };
+		142B6E7125964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_x33_19.jpg; sourceTree = "<group>"; };
+		142B6E7225964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y32_08.jpg; sourceTree = "<group>"; };
+		142B6E7325964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y33_11.jpg; sourceTree = "<group>"; };
+		142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_18.jpg; sourceTree = "<group>"; };
+		142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = meteorologia_x24_18.jpg; path = "../../../../Desktop/obrázky/meteorologia/meteorologia_x24_18.jpg"; sourceTree = "<group>"; };
+		142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_13.jpg; sourceTree = "<group>"; };
+		142B6E8225964FFA00FB7609 /* meteorologia_x26_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_10.jpg; sourceTree = "<group>"; };
+		142B6E8325964FFA00FB7609 /* meteorologia_x25_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_14.jpg; sourceTree = "<group>"; };
+		142B6E8425964FFA00FB7609 /* meteorologia_x26_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_04.jpg; sourceTree = "<group>"; };
+		142B6E8525964FFA00FB7609 /* meteorologia_x26_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_16.jpg; sourceTree = "<group>"; };
+		142B6E8625964FFA00FB7609 /* meteorologia_x26_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_08.jpg; sourceTree = "<group>"; };
+		142B6E8725964FFA00FB7609 /* meteorologia_x25_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_15.jpg; sourceTree = "<group>"; };
+		142B6E8825964FFA00FB7609 /* meteorologia_x25_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_09.jpg; sourceTree = "<group>"; };
+		142B6E8925964FFA00FB7609 /* meteorologia_x26_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_01.jpg; sourceTree = "<group>"; };
+		142B6E8A25964FFA00FB7609 /* meteorologia_x25_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_08.jpg; sourceTree = "<group>"; };
+		142B6E8B25964FFB00FB7609 /* meteorologia_x25_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_07.jpg; sourceTree = "<group>"; };
+		142B6E8C25964FFB00FB7609 /* meteorologia_x25_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_10.jpg; sourceTree = "<group>"; };
+		142B6E8D25964FFB00FB7609 /* meteorologia_x26_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_18.jpg; sourceTree = "<group>"; };
+		142B6E8E25964FFB00FB7609 /* meteorologia_x26_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_20.jpg; sourceTree = "<group>"; };
+		142B6E8F25964FFB00FB7609 /* meteorologia_x24_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_04.jpg; sourceTree = "<group>"; };
+		142B6E9025964FFB00FB7609 /* meteorologia_x25_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_16.jpg; sourceTree = "<group>"; };
+		142B6E9125964FFB00FB7609 /* meteorologia_x25_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_19.jpg; sourceTree = "<group>"; };
+		142B6E9225964FFB00FB7609 /* meteorologia_x26_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_17.jpg; sourceTree = "<group>"; };
+		142B6E9325964FFB00FB7609 /* meteorologia_x26_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_03.jpg; sourceTree = "<group>"; };
+		142B6E9425964FFB00FB7609 /* meteorologia_x26_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_06.jpg; sourceTree = "<group>"; };
+		142B6E9525964FFB00FB7609 /* meteorologia_x27_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x27_02.jpg; sourceTree = "<group>"; };
+		142B6E9625964FFB00FB7609 /* meteorologia_x26_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_07.jpg; sourceTree = "<group>"; };
+		142B6E9725964FFB00FB7609 /* meteorologia_x24_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_16.jpg; sourceTree = "<group>"; };
+		142B6E9825964FFC00FB7609 /* meteorologia_x25_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_06.jpg; sourceTree = "<group>"; };
+		142B6E9925964FFC00FB7609 /* meteorologia_x25_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_05.jpg; sourceTree = "<group>"; };
+		142B6E9A25964FFC00FB7609 /* meteorologia_x24_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_11.jpg; sourceTree = "<group>"; };
+		142B6E9B25964FFC00FB7609 /* meteorologia_x24_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_07.jpg; sourceTree = "<group>"; };
+		142B6E9C25964FFC00FB7609 /* meteorologia_x25_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_12.jpg; sourceTree = "<group>"; };
+		142B6E9D25964FFC00FB7609 /* meteorologia_x25_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_04.jpg; sourceTree = "<group>"; };
+		142B6E9E25964FFC00FB7609 /* meteorologia_x27_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x27_04.jpg; sourceTree = "<group>"; };
+		142B6E9F25964FFC00FB7609 /* meteorologia_x26_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_12.jpg; sourceTree = "<group>"; };
+		142B6EA025964FFC00FB7609 /* meteorologia_x25_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_02.jpg; sourceTree = "<group>"; };
+		142B6EA125964FFC00FB7609 /* meteorologia_x24_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_09.jpg; sourceTree = "<group>"; };
+		142B6EC52596500A00FB7609 /* palubne_pristroje_y10_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palubne_pristroje_y10_03.jpg; sourceTree = "<group>"; };
+		142B6EC62596500A00FB7609 /* palubne_pristroje_x08_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palubne_pristroje_x08_14.png; sourceTree = "<group>"; };
+		142B6EC72596500A00FB7609 /* palubne_pristroje_y06_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palubne_pristroje_y06_18.jpg; sourceTree = "<group>"; };
+		142B6EC82596500A00FB7609 /* palubne_pristroje_x07_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palubne_pristroje_x07_14.jpg; sourceTree = "<group>"; };
+		142B6EC92596500A00FB7609 /* palubne_pristroje_y06_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palubne_pristroje_y06_01.jpg; sourceTree = "<group>"; };
+		142B6ECA2596500A00FB7609 /* palubne_pristroje_x08_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palubne_pristroje_x08_09.jpg; sourceTree = "<group>"; };
 		1450EC3225600CD800750D03 /* FlightTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1450EC3525600CD800750D03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1450EC3725600CD800750D03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +356,32 @@
 			path = fonts;
 			sourceTree = "<group>";
 		};
+		142B6DC42596276D00FB7609 /* datas */ = {
+			isa = PBXGroup;
+			children = (
+				142B6DC525963D5C00FB7609 /* elektrotechnika.json */,
+				142B6DC825963E0400FB7609 /* letecka_anglictina.json */,
+				142B6DCB25963F1900FB7609 /* letecka_doprava.json */,
+				142B6DCE25963FB500FB7609 /* letecke_pohonne_jednotky.json */,
+				142B6DD12596408B00FB7609 /* letiska_l-14.json */,
+				142B6DD42596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json */,
+				142B6DD7259641B300FB7609 /* pravidla_lietania.json */,
+				142B6DDA2596423A00FB7609 /* predpis_o_lps.json */,
+				142B6DDD259642A900FB7609 /* prevadzka_lietadiel.json */,
+			);
+			name = datas;
+			sourceTree = "<group>";
+		};
+		142B6DE02596483700FB7609 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				142B6DE12596483700FB7609 /* Assets.xcassets */,
+				142B6DE22596483700FB7609 /* background.jpg */,
+				142B6DE32596483700FB7609 /* airplane.json */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
 		1450EC2925600CD800750D03 = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +403,7 @@
 		1450EC3425600CD800750D03 /* FlightTests */ = {
 			isa = PBXGroup;
 			children = (
+				142B6DC42596276D00FB7609 /* datas */,
 				147BE6222580E87C00296434 /* sad-face.json */,
 				147BE61F2580E87300296434 /* thumbsup.json */,
 				1408C5E525802C6900F79C0E /* fonts */,
@@ -152,6 +431,121 @@
 		14D752A8256561B70033B313 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				142B6EC82596500A00FB7609 /* palubne_pristroje_x07_14.jpg */,
+				142B6ECA2596500A00FB7609 /* palubne_pristroje_x08_09.jpg */,
+				142B6EC62596500A00FB7609 /* palubne_pristroje_x08_14.png */,
+				142B6EC92596500A00FB7609 /* palubne_pristroje_y06_01.jpg */,
+				142B6EC72596500A00FB7609 /* palubne_pristroje_y06_18.jpg */,
+				142B6EC52596500A00FB7609 /* palubne_pristroje_y10_03.jpg */,
+				142B6E8F25964FFB00FB7609 /* meteorologia_x24_04.jpg */,
+				142B6E9B25964FFC00FB7609 /* meteorologia_x24_07.jpg */,
+				142B6EA125964FFC00FB7609 /* meteorologia_x24_09.jpg */,
+				142B6E9A25964FFC00FB7609 /* meteorologia_x24_11.jpg */,
+				142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */,
+				142B6E9725964FFB00FB7609 /* meteorologia_x24_16.jpg */,
+				142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */,
+				142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */,
+				142B6EA025964FFC00FB7609 /* meteorologia_x25_02.jpg */,
+				142B6E9D25964FFC00FB7609 /* meteorologia_x25_04.jpg */,
+				142B6E9925964FFC00FB7609 /* meteorologia_x25_05.jpg */,
+				142B6E9825964FFC00FB7609 /* meteorologia_x25_06.jpg */,
+				142B6E8B25964FFB00FB7609 /* meteorologia_x25_07.jpg */,
+				142B6E8A25964FFA00FB7609 /* meteorologia_x25_08.jpg */,
+				142B6E8825964FFA00FB7609 /* meteorologia_x25_09.jpg */,
+				142B6E8C25964FFB00FB7609 /* meteorologia_x25_10.jpg */,
+				142B6E9C25964FFC00FB7609 /* meteorologia_x25_12.jpg */,
+				142B6E8325964FFA00FB7609 /* meteorologia_x25_14.jpg */,
+				142B6E8725964FFA00FB7609 /* meteorologia_x25_15.jpg */,
+				142B6E9025964FFB00FB7609 /* meteorologia_x25_16.jpg */,
+				142B6E9125964FFB00FB7609 /* meteorologia_x25_19.jpg */,
+				142B6E8925964FFA00FB7609 /* meteorologia_x26_01.jpg */,
+				142B6E9325964FFB00FB7609 /* meteorologia_x26_03.jpg */,
+				142B6E8425964FFA00FB7609 /* meteorologia_x26_04.jpg */,
+				142B6E9425964FFB00FB7609 /* meteorologia_x26_06.jpg */,
+				142B6E9625964FFB00FB7609 /* meteorologia_x26_07.jpg */,
+				142B6E8625964FFA00FB7609 /* meteorologia_x26_08.jpg */,
+				142B6E8225964FFA00FB7609 /* meteorologia_x26_10.jpg */,
+				142B6E9F25964FFC00FB7609 /* meteorologia_x26_12.jpg */,
+				142B6E8525964FFA00FB7609 /* meteorologia_x26_16.jpg */,
+				142B6E9225964FFB00FB7609 /* meteorologia_x26_17.jpg */,
+				142B6E8D25964FFB00FB7609 /* meteorologia_x26_18.jpg */,
+				142B6E8E25964FFB00FB7609 /* meteorologia_x26_20.jpg */,
+				142B6E9525964FFB00FB7609 /* meteorologia_x27_02.jpg */,
+				142B6E9E25964FFC00FB7609 /* meteorologia_x27_04.jpg */,
+				142B6E6D25964FDF00FB7609 /* letecke_pohonne_jednotky_x31_09.jpg */,
+				142B6E7025964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg */,
+				142B6E7125964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg */,
+				142B6E6F25964FDF00FB7609 /* letecke_pohonne_jednotky_x35_11.jpg */,
+				142B6E6E25964FDF00FB7609 /* letecke_pohonne_jednotky_y31_04.jpg */,
+				142B6E7225964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg */,
+				142B6E7325964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg */,
+				142B6E6C25964FDF00FB7609 /* letecke_pohonne_jednotky_y34_04.jpg */,
+				142B6E4525964FD100FB7609 /* aerodynamika_x63_20.jpg */,
+				142B6E3025964FCF00FB7609 /* aerodynamika_x64_06.jpg */,
+				142B6E3225964FD000FB7609 /* aerodynamika_x64_07.jpg */,
+				142B6E2C25964FCF00FB7609 /* aerodynamika_x64_10.jpg */,
+				142B6E3125964FCF00FB7609 /* aerodynamika_x64_11.jpg */,
+				142B6E3C25964FD000FB7609 /* aerodynamika_x64_17.jpg */,
+				142B6E2A25964FCF00FB7609 /* aerodynamika_x65_02.jpg */,
+				142B6E4425964FD100FB7609 /* aerodynamika_x65_03.jpg */,
+				142B6E4225964FD100FB7609 /* aerodynamika_x65_04.jpg */,
+				142B6E2E25964FCF00FB7609 /* aerodynamika_x65_10.jpg */,
+				142B6E2725964FCF00FB7609 /* aerodynamika_x66_04.jpg */,
+				142B6E4325964FD100FB7609 /* aerodynamika_x66_05.jpg */,
+				142B6E3B25964FD000FB7609 /* aerodynamika_x66_06.jpg */,
+				142B6E3D25964FD000FB7609 /* aerodynamika_x66_07.jpg */,
+				142B6E3525964FD000FB7609 /* aerodynamika_x66_08.jpg */,
+				142B6E3F25964FD000FB7609 /* aerodynamika_x66_09.jpg */,
+				142B6E4025964FD100FB7609 /* aerodynamika_x66_10.jpg */,
+				142B6E3A25964FD000FB7609 /* aerodynamika_x66_11.jpg */,
+				142B6E3E25964FD000FB7609 /* aerodynamika_x66_12.jpg */,
+				142B6E4625964FD100FB7609 /* aerodynamika_x67_19.jpg */,
+				142B6E3425964FD000FB7609 /* aerodynamika_x68_02.jpg */,
+				142B6E3925964FD000FB7609 /* aerodynamika_x68_10.jpg */,
+				142B6E4125964FD100FB7609 /* aerodynamika_x68_13.jpg */,
+				142B6E3725964FD000FB7609 /* aerodynamika_x68_14.jpg */,
+				142B6E3325964FD000FB7609 /* aerodynamika_x68_15.jpg */,
+				142B6E3625964FD000FB7609 /* aerodynamika_x69_05.jpg */,
+				142B6E2F25964FCF00FB7609 /* aerodynamika_x69_15.jpg */,
+				142B6E4725964FD100FB7609 /* aerodynamika_x69_16.jpg */,
+				142B6E2D25964FCF00FB7609 /* aerodynamika_x71_01.jpg */,
+				142B6E2925964FCF00FB7609 /* aerodynamika_x71_05.jpg */,
+				142B6E2825964FCF00FB7609 /* aerodynamika_x71_06.jpg */,
+				142B6E2B25964FCF00FB7609 /* aerodynamika_y63_09.jpg */,
+				142B6E3825964FD000FB7609 /* aerodynamika_y63_11.jpg */,
+				142B6E4825964FD100FB7609 /* aerodynamika_y63_16.jpg */,
+				142B6E002596485600FB7609 /* letecka_navigacia_x16_01.jpg */,
+				142B6DEE2596485500FB7609 /* letecka_navigacia_x16_08.jpg */,
+				142B6DF02596485500FB7609 /* letecka_navigacia_y15_04.jpg */,
+				142B6DF72596485600FB7609 /* letecka_navigacia_y19_01.jpg */,
+				142B6E042596485700FB7609 /* pozemne_vizualne_navestia_01.png */,
+				142B6DEA2596485500FB7609 /* pozemne_vizualne_navestia_02.png */,
+				142B6E012596485700FB7609 /* pozemne_vizualne_navestia_03.png */,
+				142B6DEF2596485500FB7609 /* pozemne_vizualne_navestia_04.png */,
+				142B6DFD2596485600FB7609 /* pozemne_vizualne_navestia_05.png */,
+				142B6DFA2596485600FB7609 /* pozemne_vizualne_navestia_06.png */,
+				142B6DEC2596485500FB7609 /* pozemne_vizualne_navestia_07.png */,
+				142B6E052596485700FB7609 /* pozemne_vizualne_navestia_08.png */,
+				142B6DF92596485600FB7609 /* pozemne_vizualne_navestia_09.png */,
+				142B6DFB2596485600FB7609 /* pozemne_vizualne_navestia_10.png */,
+				142B6DFF2596485600FB7609 /* radiotechnika_x01_03.jpg */,
+				142B6DF82596485600FB7609 /* radiotechnika_x01_18.jpg */,
+				142B6DE82596485500FB7609 /* radiotechnika_x02_04.jpg */,
+				142B6DF42596485600FB7609 /* radiotechnika_x04_01.jpg */,
+				142B6DFE2596485600FB7609 /* radiotechnika_x04_05.jpg */,
+				142B6E062596485700FB7609 /* radiotechnika_x04_07.jpg */,
+				142B6DE92596485500FB7609 /* radiotechnika_x04_13.jpg */,
+				142B6DF32596485600FB7609 /* vseobecne_vedomosti_x37_08.png */,
+				142B6DED2596485500FB7609 /* vseobecne_vedomosti_x37_09.jpg */,
+				142B6DF52596485600FB7609 /* vseobecne_vedomosti_x37_10.jpg */,
+				142B6E022596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg */,
+				142B6DFC2596485600FB7609 /* vseobecne_vedomosti_x38_15.jpg */,
+				142B6DF62596485600FB7609 /* vseobecne_vedomosti_y36_13.jpg */,
+				142B6DF12596485500FB7609 /* vseobecne_vedomosti_y36_16.jpg */,
+				142B6DEB2596485500FB7609 /* vseobecne_vedomosti_y37_03.jpg */,
+				142B6E032596485700FB7609 /* vseobecne_vedomosti_y37_10.png */,
+				142B6DF22596485500FB7609 /* vseobecne_vedomosti_y38_03.jpg */,
+				142B6DE02596483700FB7609 /* Assets */,
 				1450EC4125600CD900750D03 /* Assets.xcassets */,
 			);
 			path = Assets;
@@ -263,15 +657,141 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				142B6E7A25964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg in Resources */,
+				142B6EA525964FFC00FB7609 /* meteorologia_x25_14.jpg in Resources */,
+				142B6E6825964FD100FB7609 /* aerodynamika_x67_19.jpg in Resources */,
+				142B6EAD25964FFC00FB7609 /* meteorologia_x25_07.jpg in Resources */,
+				142B6E6425964FD100FB7609 /* aerodynamika_x65_04.jpg in Resources */,
+				142B6E242596485700FB7609 /* pozemne_vizualne_navestia_08.png in Resources */,
+				142B6E5025964FD100FB7609 /* aerodynamika_x65_10.jpg in Resources */,
+				142B6E7725964FE000FB7609 /* letecke_pohonne_jednotky_x35_11.jpg in Resources */,
+				142B6EBB25964FFC00FB7609 /* meteorologia_x25_05.jpg in Resources */,
+				142B6ECF2596500A00FB7609 /* palubne_pristroje_y06_01.jpg in Resources */,
+				142B6EBE25964FFC00FB7609 /* meteorologia_x25_12.jpg in Resources */,
+				142B6EBD25964FFC00FB7609 /* meteorologia_x24_07.jpg in Resources */,
+				142B6E5425964FD100FB7609 /* aerodynamika_x64_07.jpg in Resources */,
+				142B6EC225964FFC00FB7609 /* meteorologia_x25_02.jpg in Resources */,
 				1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */,
+				142B6EB925964FFC00FB7609 /* meteorologia_x24_16.jpg in Resources */,
+				142B6DE52596483700FB7609 /* background.jpg in Resources */,
+				142B6E7E25964FED00FB7609 /* meteorologia_x24_18.jpg in Resources */,
+				142B6E5D25964FD100FB7609 /* aerodynamika_x66_06.jpg in Resources */,
+				142B6DC625963D5C00FB7609 /* elektrotechnika.json in Resources */,
+				142B6EB525964FFC00FB7609 /* meteorologia_x26_03.jpg in Resources */,
+				142B6EB325964FFC00FB7609 /* meteorologia_x25_19.jpg in Resources */,
 				1408C5E725802C7C00F79C0E /* BreeSerif-Regular.ttf in Resources */,
+				142B6EAC25964FFC00FB7609 /* meteorologia_x25_08.jpg in Resources */,
+				142B6E1A2596485700FB7609 /* pozemne_vizualne_navestia_10.png in Resources */,
+				142B6E102596485700FB7609 /* vseobecne_vedomosti_y36_16.jpg in Resources */,
+				142B6E112596485700FB7609 /* vseobecne_vedomosti_y38_03.jpg in Resources */,
+				142B6E5E25964FD100FB7609 /* aerodynamika_x64_17.jpg in Resources */,
+				142B6DE42596483700FB7609 /* Assets.xcassets in Resources */,
+				142B6EA225964FFC00FB7609 /* meteorologia_x24_18.jpg in Resources */,
+				142B6EC125964FFC00FB7609 /* meteorologia_x26_12.jpg in Resources */,
+				142B6DD22596408B00FB7609 /* letiska_l-14.json in Resources */,
+				142B6EA325964FFC00FB7609 /* meteorologia_x24_13.jpg in Resources */,
+				142B6DDB2596423A00FB7609 /* predpis_o_lps.json in Resources */,
+				142B6E0F2596485700FB7609 /* letecka_navigacia_y15_04.jpg in Resources */,
+				142B6E5225964FD100FB7609 /* aerodynamika_x64_06.jpg in Resources */,
+				142B6EBC25964FFC00FB7609 /* meteorologia_x24_11.jpg in Resources */,
+				142B6EB025964FFC00FB7609 /* meteorologia_x26_20.jpg in Resources */,
+				142B6ECE2596500A00FB7609 /* palubne_pristroje_x07_14.jpg in Resources */,
+				142B6E192596485700FB7609 /* pozemne_vizualne_navestia_06.png in Resources */,
+				142B6E6125964FD100FB7609 /* aerodynamika_x66_09.jpg in Resources */,
+				142B6E4A25964FD100FB7609 /* aerodynamika_x71_06.jpg in Resources */,
+				142B6E4C25964FD100FB7609 /* aerodynamika_x65_02.jpg in Resources */,
+				142B6E5525964FD100FB7609 /* aerodynamika_x68_15.jpg in Resources */,
+				142B6E5F25964FD100FB7609 /* aerodynamika_x66_07.jpg in Resources */,
+				142B6E4B25964FD100FB7609 /* aerodynamika_x71_05.jpg in Resources */,
+				142B6E1E2596485700FB7609 /* radiotechnika_x01_03.jpg in Resources */,
+				142B6E1D2596485700FB7609 /* radiotechnika_x04_05.jpg in Resources */,
+				142B6E5B25964FD100FB7609 /* aerodynamika_x68_10.jpg in Resources */,
+				142B6E0D2596485700FB7609 /* letecka_navigacia_x16_08.jpg in Resources */,
+				142B6E5625964FD100FB7609 /* aerodynamika_x68_02.jpg in Resources */,
+				142B6ECD2596500A00FB7609 /* palubne_pristroje_y06_18.jpg in Resources */,
+				142B6E5725964FD100FB7609 /* aerodynamika_x66_08.jpg in Resources */,
+				142B6DD52596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json in Resources */,
+				142B6E122596485700FB7609 /* vseobecne_vedomosti_x37_08.png in Resources */,
+				142B6E142596485700FB7609 /* vseobecne_vedomosti_x37_10.jpg in Resources */,
+				142B6E0E2596485700FB7609 /* pozemne_vizualne_navestia_04.png in Resources */,
+				142B6DCF25963FB500FB7609 /* letecke_pohonne_jednotky.json in Resources */,
+				142B6E212596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg in Resources */,
+				142B6E7625964FE000FB7609 /* letecke_pohonne_jednotky_y31_04.jpg in Resources */,
+				142B6E5A25964FD100FB7609 /* aerodynamika_y63_11.jpg in Resources */,
+				142B6EB225964FFC00FB7609 /* meteorologia_x25_16.jpg in Resources */,
+				142B6E7525964FE000FB7609 /* letecke_pohonne_jednotky_x31_09.jpg in Resources */,
 				1450EC4225600CD900750D03 /* Assets.xcassets in Resources */,
+				142B6E4925964FD100FB7609 /* aerodynamika_x66_04.jpg in Resources */,
+				142B6E1B2596485700FB7609 /* vseobecne_vedomosti_x38_15.jpg in Resources */,
+				142B6DD8259641B300FB7609 /* pravidla_lietania.json in Resources */,
+				142B6EB625964FFC00FB7609 /* meteorologia_x26_06.jpg in Resources */,
+				142B6E7925964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg in Resources */,
+				142B6ECB2596500A00FB7609 /* palubne_pristroje_y10_03.jpg in Resources */,
 				1450EC3D25600CD800750D03 /* Main.storyboard in Resources */,
+				142B6E0B2596485700FB7609 /* pozemne_vizualne_navestia_07.png in Resources */,
+				142B6E7425964FE000FB7609 /* letecke_pohonne_jednotky_y34_04.jpg in Resources */,
+				142B6E152596485700FB7609 /* vseobecne_vedomosti_y36_13.jpg in Resources */,
+				142B6E0A2596485700FB7609 /* vseobecne_vedomosti_y37_03.jpg in Resources */,
+				142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */,
+				142B6DDE259642A900FB7609 /* prevadzka_lietadiel.json in Resources */,
+				142B6ECC2596500A00FB7609 /* palubne_pristroje_x08_14.png in Resources */,
+				142B6EA825964FFC00FB7609 /* meteorologia_x26_08.jpg in Resources */,
+				142B6DE62596483700FB7609 /* airplane.json in Resources */,
+				142B6E5825964FD100FB7609 /* aerodynamika_x69_05.jpg in Resources */,
+				142B6E162596485700FB7609 /* letecka_navigacia_y19_01.jpg in Resources */,
+				142B6E7B25964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg in Resources */,
+				142B6E6025964FD100FB7609 /* aerodynamika_x66_12.jpg in Resources */,
+				142B6EAE25964FFC00FB7609 /* meteorologia_x25_10.jpg in Resources */,
+				142B6EB425964FFC00FB7609 /* meteorologia_x26_17.jpg in Resources */,
 				147BE6232580E87C00296434 /* sad-face.json in Resources */,
 				1408C5E02580298900F79C0E /* cloud.json in Resources */,
+				142B6E6A25964FD100FB7609 /* aerodynamika_y63_16.jpg in Resources */,
+				142B6E4F25964FD100FB7609 /* aerodynamika_x71_01.jpg in Resources */,
+				142B6E6525964FD100FB7609 /* aerodynamika_x66_05.jpg in Resources */,
+				142B6E5125964FD100FB7609 /* aerodynamika_x69_15.jpg in Resources */,
+				142B6EB125964FFC00FB7609 /* meteorologia_x24_04.jpg in Resources */,
+				142B6E222596485700FB7609 /* vseobecne_vedomosti_y37_10.png in Resources */,
+				142B6E182596485700FB7609 /* pozemne_vizualne_navestia_09.png in Resources */,
+				142B6DC925963E0400FB7609 /* letecka_anglictina.json in Resources */,
 				147BE6202580E87300296434 /* thumbsup.json in Resources */,
+				142B6E6925964FD100FB7609 /* aerodynamika_x69_16.jpg in Resources */,
+				142B6E4E25964FD100FB7609 /* aerodynamika_x64_10.jpg in Resources */,
+				142B6EAF25964FFC00FB7609 /* meteorologia_x26_18.jpg in Resources */,
+				142B6ED02596500A00FB7609 /* palubne_pristroje_x08_09.jpg in Resources */,
+				142B6E252596485700FB7609 /* radiotechnika_x04_07.jpg in Resources */,
+				142B6E5325964FD100FB7609 /* aerodynamika_x64_11.jpg in Resources */,
+				142B6E092596485700FB7609 /* pozemne_vizualne_navestia_02.png in Resources */,
+				142B6E5925964FD100FB7609 /* aerodynamika_x68_14.jpg in Resources */,
+				142B6E1C2596485700FB7609 /* pozemne_vizualne_navestia_05.png in Resources */,
+				142B6DCC25963F1900FB7609 /* letecka_doprava.json in Resources */,
+				142B6E232596485700FB7609 /* pozemne_vizualne_navestia_01.png in Resources */,
+				142B6EA625964FFC00FB7609 /* meteorologia_x26_04.jpg in Resources */,
+				142B6EA925964FFC00FB7609 /* meteorologia_x25_15.jpg in Resources */,
+				142B6EAB25964FFC00FB7609 /* meteorologia_x26_01.jpg in Resources */,
+				142B6E132596485700FB7609 /* radiotechnika_x04_01.jpg in Resources */,
+				142B6EB725964FFC00FB7609 /* meteorologia_x27_02.jpg in Resources */,
+				142B6E0C2596485700FB7609 /* vseobecne_vedomosti_x37_09.jpg in Resources */,
+				142B6E6225964FD100FB7609 /* aerodynamika_x66_10.jpg in Resources */,
+				142B6E202596485700FB7609 /* pozemne_vizualne_navestia_03.png in Resources */,
+				142B6E1F2596485700FB7609 /* letecka_navigacia_x16_01.jpg in Resources */,
+				142B6EC325964FFC00FB7609 /* meteorologia_x24_09.jpg in Resources */,
+				142B6EBF25964FFC00FB7609 /* meteorologia_x25_04.jpg in Resources */,
+				142B6E072596485700FB7609 /* radiotechnika_x02_04.jpg in Resources */,
 				1408C5E32580299B00F79C0E /* plane.json in Resources */,
+				142B6E6625964FD100FB7609 /* aerodynamika_x65_03.jpg in Resources */,
+				142B6E172596485700FB7609 /* radiotechnika_x01_18.jpg in Resources */,
+				142B6E4D25964FD100FB7609 /* aerodynamika_y63_09.jpg in Resources */,
+				142B6E7825964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg in Resources */,
+				142B6E6325964FD100FB7609 /* aerodynamika_x68_13.jpg in Resources */,
+				142B6EBA25964FFC00FB7609 /* meteorologia_x25_06.jpg in Resources */,
+				142B6EA725964FFC00FB7609 /* meteorologia_x26_16.jpg in Resources */,
+				142B6EAA25964FFC00FB7609 /* meteorologia_x25_09.jpg in Resources */,
+				142B6EC025964FFC00FB7609 /* meteorologia_x27_04.jpg in Resources */,
+				142B6E082596485700FB7609 /* radiotechnika_x04_13.jpg in Resources */,
+				142B6EB825964FFC00FB7609 /* meteorologia_x26_07.jpg in Resources */,
+				142B6E6725964FD100FB7609 /* aerodynamika_x63_20.jpg in Resources */,
 				14512F0D2579A5430047FA7D /* data.json in Resources */,
+				142B6E5C25964FD100FB7609 /* aerodynamika_x66_11.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,7 +942,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -477,7 +997,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -497,7 +1017,7 @@
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -520,7 +1040,7 @@
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -51,7 +51,7 @@ class NormalTestDetailViewController: UIViewController {
         var randomNineCategories: [String: [Question]] = [:]
         
         // 2. step
-        while randomNineCategories.count < 2 {
+        while randomNineCategories.count < 9 {
             var random = groupedQuestions.randomElement()
             if (randomNineCategories[random!.key] == nil) {
                 randomNineCategories.updateValue(random!.value, forKey: random!.key)
@@ -130,21 +130,36 @@ class NormalTestDetailViewController: UIViewController {
         self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 0
         updateButtonsColor()
+        
+        Timer.scheduledTimer(timeInterval: 0.5, target: self, selector: #selector(nextQuestion), userInfo: nil, repeats: false)
     }
     
     @IBAction func onSecondButtonTapped(_ sender: UIButton) {
         self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 1
         updateButtonsColor()
+        
+        Timer.scheduledTimer(timeInterval: 0.5, target: self, selector: #selector(nextQuestion), userInfo: nil, repeats: false)
     }
     
     @IBAction func onThirdButtonTapped(_ sender: UIButton) {
         self.correctAnswer = self.test.test[test.questionNumber].correctAnswerPosition
         self.currentlySelectedButton = 2
         updateButtonsColor()
+        
+        Timer.scheduledTimer(timeInterval: 0.5, target: self, selector: #selector(nextQuestion), userInfo: nil, repeats: false)
     }
     
     @IBAction func onNextQuestionButtonTapped(_ sender: UIButton) {
+        self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
+        self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.questionId)
+        self.test.nextQuestion()
+        self.currentlySelectedButton = -1
+        updateButtonsColor()
+        self.updateUI()
+    }
+    
+    @objc func nextQuestion() {
         self.selectedAnswers.updateValue(self.currentlySelectedButton, forKey: self.test.questionNumber)
         self.selectedAnswersWithIds.updateValue(self.currentlySelectedButton, forKey: self.test.questionId)
         self.test.nextQuestion()
@@ -174,6 +189,12 @@ class NormalTestDetailViewController: UIViewController {
         }
         
         self.title = "Otázka \(test.questionNumber + 1) / \(test.test.count)"
+        if (test.getQuestionImage() != "") {
+            imageView.isHidden = false
+            imageView.image = UIImage(named: test.getQuestionImage())
+        } else {
+            imageView.isHidden = true
+        }
         questionTextLabel.attributedText = test.getQuestionText().htmlToAttributedString
         questionTextLabel.textAlignment = .center
         questionTextLabel.font = UIFont.systemFont(ofSize: 20, weight: .bold)
@@ -184,9 +205,6 @@ class NormalTestDetailViewController: UIViewController {
         firstButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
         secondButton?.setAttributedTitle(test.getAnswerOnPosition(position: 1).htmlToAttributedString, for: .normal)
         thirdButton?.setAttributedTitle(test.getAnswerOnPosition(position: 2).htmlToAttributedString, for: .normal)
-//        firstButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
-//        secondButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
-//        thirdButton.titleLabel?.font = UIFont.systemFont(ofSize: 18)
         updateButtonsColor()
         
     }
@@ -241,8 +259,8 @@ class NormalTestDetailViewController: UIViewController {
                     thirdButton.backgroundColor = UIColor.white
                     thirdButton.setTitleColor(.black, for: .normal)
                 } else if (correctAnswer == 2) {
-                    secondButton.backgroundColor = UIColor.white
-                    secondButton.setTitleColor(.black, for: .normal)
+                    firstButton.backgroundColor = UIColor.white
+                    firstButton.setTitleColor(.black, for: .normal)
                     thirdButton.backgroundColor = UIColor(rgb: 0x5fbb97)
                     thirdButton.setTitleColor(.black, for: .normal)
                 }

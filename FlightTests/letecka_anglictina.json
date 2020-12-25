@@ -1,0 +1,4552 @@
+[
+  {
+    "questionText":"Anglický výraz regions of high stress znamená v slovenčine:",
+    "answers":[
+      "<p>profil krídla</p>",
+      "<p>vysoko namáhané oblasti</p>",
+      "<p>motor s turbodúchadlom</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"328",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz flare znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>svetlica</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"329",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz poškodenie cudzím predmetom znamená v angličtine:",
+    "answers":[
+      "<p>radar warning receiver</p>",
+      "<p>internal fuel (tanks)</p>",
+      "<p>foreign object damage</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"330",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz záložný kyslíkový systém znamená v angličtine:",
+    "answers":[
+      "<p>beam radar</p>",
+      "<p>fin unit</p>",
+      "<p>emergency oxygen system</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"331",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz shut-down znamená v slovenčine:",
+    "answers":[
+      "<p>brzdiaci padák</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>ťah (motora)</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"332",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz introdukcia / zhasnutie motora znamená v angličtine:",
+    "answers":[
+      "<p>flameout</p>",
+      "<p>air defense</p>",
+      "<p>turbofan</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"333",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz stall znamená v slovenčine:",
+    "answers":[
+      "<p>kontrola letovej prevádzky</p>",
+      "<p>vojenská letecká základňa</p>",
+      "<p>zhasnutie motora (pri preťažení)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"334",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Anglický výraz bulkheads znamená v slovenčine:",
+    "answers":[
+      "<p>piestový motor</p>",
+      "<p>výstuhy trupu</p>",
+      "<p>dvojmiestna verzia</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"335",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz vynútené - núdzové pristátie znamená v angličtine:",
+    "answers":[
+      "<p>emergency landing</p>",
+      "<p>infrared homing missiles</p>",
+      "<p>emergency oxygen system</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"336",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Anglický výraz endurance test znamená v slovenčine:",
+    "answers":[
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>doba chodu motora</p>",
+      "<p>zúženie krídla</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"337",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz zlé fungovanie znamená v angličtine:",
+    "answers":[
+      "<p>night vision goggles</p>",
+      "<p>canopy bow frame</p>",
+      "<p>malfunction</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"338",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz safe area znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>bezpečná zóna</p>",
+      "<p>koreň chvostovej plochy</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"339",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz overhaul znamená v slovenčine:",
+    "answers":[
+      "<p>generálna oprava</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>pohonná jednotka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"340",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz sytém záznamu dát znamená v angličtine:",
+    "answers":[
+      "<p>altitude test</p>",
+      "<p>night vision goggles</p>",
+      "<p>data recording system</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"341",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz vystreľovacia sedačka znamená v angličtine:",
+    "answers":[
+      "<p>flight manual</p>",
+      "<p>ejection seat</p>",
+      "<p>landing lights</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"342",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz ID lighting znamená v slovenčine:",
+    "answers":[
+      "<p>kontrola letovej prevádzky</p>",
+      "<p>identifikačné osvetlenie</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"343",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz vytrvalosť znamená v angličtine:",
+    "answers":[
+      "<p>loiter time</p>",
+      "<p>live round</p>",
+      "<p>short take-off vertical landing</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"344",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz increased G tolerance znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>podvozok</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"345",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz bird ingestion znamená v slovenčine:",
+    "answers":[
+      "<p>zameriavače</p>",
+      "<p>turbohriadeľ</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"346",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz in-flight damage znamená v slovenčine:",
+    "answers":[
+      "<p>viacúčelový letún</p>",
+      "<p>hriadeľ</p>",
+      "<p>poškodenie počas letu</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"347",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Slovenský výraz spusteniu motora za letu znamená v angličtine:",
+    "answers":[
+      "<p>altitude system</p>",
+      "<p>relight capabilty</p>",
+      "<p>mature engines</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"348",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Slovenský výraz človekohodiny údžby znamená v angličtine:",
+    "answers":[
+      "<p>foreign object damage</p>",
+      "<p>man hour maintenance</p>",
+      "<p>avionics</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"349",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Slovenský výraz chvenie znamená v angličtine:",
+    "answers":[
+      "<p>flutter</p>",
+      "<p>angle of attack</p>",
+      "<p>speed brake</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Bezpečnosť a nehody",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"350",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Anglický výraz altimeter znamená v slovenčine:",
+    "answers":[
+      "<p>vzletová hmotnosť</p>",
+      "<p>výškomer</p>",
+      "<p>skupina lietadiel</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"351",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz pomer premiešania vzduchu a paliva znamená v angličtine:",
+    "answers":[
+      "<p>forward cockpit</p>",
+      "<p>relight capabilty</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"352",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz takeoff gross weight znamená v slovenčine:",
+    "answers":[
+      "<p>vzletová hmotnosť</p>",
+      "<p>letový výkon</p>",
+      "<p>výmena oleja</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"353",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz airworthiness znamená v slovenčine:",
+    "answers":[
+      "<p>klapka</p>",
+      "<p>letová spôsobilosť</p>",
+      "<p>prioritné ovládanie</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"354",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz velocity znamená v slovenčine:",
+    "answers":[
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>navádzanie strely</p>",
+      "<p>rýchlosť</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"355",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz takmer v reálnom čase znamená v angličtine:",
+    "answers":[
+      "<p>turbofan</p>",
+      "<p>decoy</p>",
+      "<p>near-real-time</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"356",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz smokeless operation znamená v slovenčine:",
+    "answers":[
+      "<p>bezdymová prevádzka</p>",
+      "<p>prúdový pohon</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"357",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz beh bez prídavného spaľovania znamená v angličtine:",
+    "answers":[
+      "<p>afterburner</p>",
+      "<p>non-afterburning</p>",
+      "<p>flight manual</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"358",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz dry thrust znamená v slovenčine:",
+    "answers":[
+      "<p>prídavné útočné systémy</p>",
+      "<p>koreň chvostovej plochy</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"359",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz rýchlosť, obratnosť, živosť znamená v angličtine:",
+    "answers":[
+      "<p>wingspan</p>",
+      "<p>nozzle</p>",
+      "<p>agility</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"360",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz prietok paliva znamená v angličtine:",
+    "answers":[
+      "<p>fuel flow</p>",
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>fuel pump</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"361",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz výškový systém znamená v angličtine:",
+    "answers":[
+      "<p>by-pass turbojet engine</p>",
+      "<p>altitude system</p>",
+      "<p>nacelle</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"362",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz vysoký uhol nábehu znamená v angličtine:",
+    "answers":[
+      "<p>life cycle costs</p>",
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>high angle-off attack</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"363",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz priority control znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>jednoprúdový motor</p>",
+      "<p>prioritné ovládanie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"364",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz prúdenie vzduchu / prietok vzduchu znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>airflow</p>",
+      "<p>fin unit</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"365",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz aero performance znamená v slovenčine:",
+    "answers":[
+      "<p>poškodenie počas letu</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>letový výkon</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"366",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz engine performance znamená v slovenčine:",
+    "answers":[
+      "<p>výkon motora</p>",
+      "<p>letová spôsobilosť</p>",
+      "<p>prídavné útočné systémy</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"367",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz hladiny ťahu znamená v angličtine:",
+    "answers":[
+      "<p>thrust levels</p>",
+      "<p>afterburner</p>",
+      "<p>interceptor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"368",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz letové vlastnosti znamená v angličtine:",
+    "answers":[
+      "<p>high angle-off attack</p>",
+      "<p>capabilities</p>",
+      "<p>combat capability</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"369",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz engine of choice znamená v slovenčine:",
+    "answers":[
+      "<p>prieduch</p>",
+      "<p>preferovaný motor</p>",
+      "<p>otáčkomer</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové vlastnosti",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"370",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Slovenský výraz kĺzanie po krídle / bočenie znamená v angličtine:",
+    "answers":[
+      "<p>sideslip</p>",
+      "<p>fuel burn</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"371",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz letecký manuál znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>emergency landing</p>",
+      "<p>flight manual</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"372",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz pilot instructor znamená v slovenčine:",
+    "answers":[
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>piestový motor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"373",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz uhol nábehu znamená v angličtine:",
+    "answers":[
+      "<p>agility</p>",
+      "<p>angle of attack</p>",
+      "<p>wing</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"374",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz rázová vlna znamená v angličtine:",
+    "answers":[
+      "<p>data recording system</p>",
+      "<p>surge</p>",
+      "<p>burner</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"375",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz data link capability znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>skupina lietadiel</p>",
+      "<p>možnosť komunikácie / zdieľanie dát</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"376",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz avionika znamená v angličtine:",
+    "answers":[
+      "<p>avionics</p>",
+      "<p>by-pass turbojet engine</p>",
+      "<p>radar warning receiver</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"377",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz krátky vzlet s vertikálnym pristátím znamená v angličtine:",
+    "answers":[
+      "<p>short take-off vertical landing</p>",
+      "<p>electrically conductive coatings</p>",
+      "<p>flutter</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"378",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz air traffic control znamená v slovenčine:",
+    "answers":[
+      "<p>turbohriadeľ</p>",
+      "<p>výstuhy trupu</p>",
+      "<p>kontrola letovej prevádzky</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"379",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Anglický výraz drag chute znamená v slovenčine:",
+    "answers":[
+      "<p>trup</p>",
+      "<p>letecký / vzdušný most</p>",
+      "<p>brzdiaci padák</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"380",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz airlift znamená v slovenčine:",
+    "answers":[
+      "<p>ochrana proti oslneniu</p>",
+      "<p>námorná hliadka</p>",
+      "<p>letecký / vzdušný most</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"381",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz letová hodina znamená v angličtine:",
+    "answers":[
+      "<p>flight hour</p>",
+      "<p>altitude system</p>",
+      "<p>avionics</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"382",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz strategické rozmiestnenie ovládačov znamená v angličtine:",
+    "answers":[
+      "<p>center line</p>",
+      "<p>ejection seat</p>",
+      "<p>hands-on controls</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"383",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz turbo-prop znamená v slovenčine:",
+    "answers":[
+      "<p>letová spôsobilosť</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>hriadeľ</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"384",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz engine operating time znamená v slovenčine:",
+    "answers":[
+      "<p>doba chodu motora</p>",
+      "<p>profil krídla</p>",
+      "<p>nechladená turbína</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"385",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Slovenský výraz dopravné letectvo znamená v angličtine:",
+    "answers":[
+      "<p>flutter</p>",
+      "<p>ground support</p>",
+      "<p>transport air force</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"386",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz no-load speed znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>chvostové plochy</p>",
+      "<p>výklenok pre podvozok</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"387",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz čakací priestor znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>surge</p>",
+      "<p>staging area</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"388",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz pitch znamená v slovenčine:",
+    "answers":[
+      "<p>možnosť komunikácie / zdieľanie dát</p>",
+      "<p>výškomer</p>",
+      "<p>klopenie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"389",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz osa letu znamená v angličtine:",
+    "answers":[
+      "<p>landing lights</p>",
+      "<p>center line</p>",
+      "<p>nozzle</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"390",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz magnetic variation znamená v slovenčine:",
+    "answers":[
+      "<p>magnetické deklinácie</p>",
+      "<p>výškomer</p>",
+      "<p>otáčkomer</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"391",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Anglický výraz group znamená v slovenčine:",
+    "answers":[
+      "<p>výkon motora</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>",
+      "<p>letka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"392",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Slovenský výraz miesto pristátia znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>engine core</p>",
+      "<p>infrared homing missiles</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"393",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Anglický výraz cell znamená v slovenčine:",
+    "answers":[
+      "<p>skupina lietadiel</p>",
+      "<p>tesnenie</p>",
+      "<p>letový výkon</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietanie",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"394",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Anglický výraz uncooled turbine znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>nechladená turbína</p>",
+      "<p>preferovaný motor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"395",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz jadro motora znamená v angličtine:",
+    "answers":[
+      "<p>engine core</p>",
+      "<p>foreign object damage</p>",
+      "<p>air refueling capability</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"396",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz pohon znamená v angličtine:",
+    "answers":[
+      "<p>sideslip</p>",
+      "<p>propulsion</p>",
+      "<p>killer scout</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"397",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz afterburning / augmentation znamená v slovenčine:",
+    "answers":[
+      "<p>viacúčelový letún</p>",
+      "<p>prídavné spaľovanie</p>",
+      "<p>letka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"398",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz komora prídavného spaľovania znamená v angličtine:",
+    "answers":[
+      "<p>afterburner</p>",
+      "<p>emergency landing</p>",
+      "<p>dispenser</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"399",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz single-flow engine znamená v slovenčine:",
+    "answers":[
+      "<p>zameranie</p>",
+      "<p>jednoprúdový motor</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"400",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz motorový priestor / šachta znamená v angličtine:",
+    "answers":[
+      "<p>non-afterburning</p>",
+      "<p>thrust levels</p>",
+      "<p>engine bay</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"401",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz tryska znamená v angličtine:",
+    "answers":[
+      "<p>dashboard</p>",
+      "<p>pylon</p>",
+      "<p>nozzle</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"402",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz dvojprúdový motor znamená v angličtine:",
+    "answers":[
+      "<p>multirole fighter</p>",
+      "<p>by-pass turbojet engine</p>",
+      "<p>malfunction</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"403",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz staršie motory znamená v angličtine:",
+    "answers":[
+      "<p>mature engines</p>",
+      "<p>surge</p>",
+      "<p>nacelle</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"404",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz turbojet znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>prúdový pohon</p>",
+      "<p>brzdiaci padák</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"405",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz turbofan engine znamená v slovenčine:",
+    "answers":[
+      "<p>motor s turbodúchadlom</p>",
+      "<p>klopenie</p>",
+      "<p>magnetické deklinácie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"406",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz piston engine znamená v slovenčine:",
+    "answers":[
+      "<p>piestový motor</p>",
+      "<p>pokyny na údržbu</p>",
+      "<p>cyklus</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"407",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz prídavné spaľovanie, forsáž znamená v angličtine:",
+    "answers":[
+      "<p>air defense</p>",
+      "<p>afterburner</p>",
+      "<p>guidance</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"408",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz hot engine parts znamená v slovenčine:",
+    "answers":[
+      "<p>zhasnutie motora (pri preťažení)</p>",
+      "<p>cvičná letecká puma</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"409",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz turboshaft znamená v slovenčine:",
+    "answers":[
+      "<p>riadenie paľby</p>",
+      "<p>dvojmiestna verzia</p>",
+      "<p>turbohriadeľ</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"410",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz propulsion unit znamená v slovenčine:",
+    "answers":[
+      "<p>pohonná jednotka</p>",
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>stupeň pripravenosti</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"411",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz thrust znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>trup</p>",
+      "<p>ťah (motora)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"412",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz pohonná turbína znamená v angličtine:",
+    "answers":[
+      "<p>transport air force</p>",
+      "<p>power turbine</p>",
+      "<p>short take-off vertical landing</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"413",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz páka na ovládanie motora znamená v angličtine:",
+    "answers":[
+      "<p>throttle</p>",
+      "<p>airflow</p>",
+      "<p>staging area</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Motory",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"414",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz external fuel tanks znamená v slovenčine:",
+    "answers":[
+      "<p>námorná hliadka</p>",
+      "<p>kanón</p>",
+      "<p>prídavné vonkajšie nádrže</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"415",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz prispôsobené nádrže pripevnené na trup znamená v angličtine:",
+    "answers":[
+      "<p>fuselage mounted conformal fuel tanks</p>",
+      "<p>sideslip</p>",
+      "<p>targeting sensor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"416",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz nádrže na krídlach znamená v angličtine:",
+    "answers":[
+      "<p>wing tanks</p>",
+      "<p>high angle-off attack</p>",
+      "<p>fuel flow</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"417",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz vnútorné palivové nádrže znamená v angličtine:",
+    "answers":[
+      "<p>internal fuel (tanks)</p>",
+      "<p>loiter time</p>",
+      "<p>power turbine</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"418",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz inlet znamená v slovenčine:",
+    "answers":[
+      "<p>bezdymová prevádzka</p>",
+      "<p>svetlica</p>",
+      "<p>sací otvor</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"419",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz palivové čerpadlo znamená v angličtine:",
+    "answers":[
+      "<p>fuel pump</p>",
+      "<p>flame detector sensor</p>",
+      "<p>guidance</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"420",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz fuel cell znamená v slovenčine:",
+    "answers":[
+      "<p>letún s nastaviteľným uhlom krídla</p>",
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>cyklus</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Nádrže",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"421",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz tesnenie kabíny znamená v angličtine:",
+    "answers":[
+      "<p>power turbine</p>",
+      "<p>combat capability</p>",
+      "<p>canopy seal</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"422",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz tail root znamená v slovenčine:",
+    "answers":[
+      "<p>podvozok</p>",
+      "<p>koreň chvostovej plochy</p>",
+      "<p>vysoký počet použiteľných letúnov</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"423",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz fuselage znamená v slovenčine:",
+    "answers":[
+      "<p>trup</p>",
+      "<p>výklenok pre podvozok</p>",
+      "<p>ochrana proti oslneniu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"424",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz elektricky vodivé nátery znamená v angličtine:",
+    "answers":[
+      "<p>electrically conductive coatings</p>",
+      "<p>decoy</p>",
+      "<p>angle of attack</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"425",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz odstredivá brzda znamená v angličtine:",
+    "answers":[
+      "<p>center line</p>",
+      "<p>speed brake</p>",
+      "<p>agility</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"426",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz zvislé chvostové plochy znamená v angličtine:",
+    "answers":[
+      "<p>wing tanks</p>",
+      "<p>fin unit</p>",
+      "<p>capabilities</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"427",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz chvostová plocha, chvost znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>wing tanks</p>",
+      "<p>burner</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"428",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz rám kokpitu znamená v angličtine:",
+    "answers":[
+      "<p>near-real-time</p>",
+      "<p>canopy bow frame</p>",
+      "<p>flameout</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"429",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz swing-wing aircraft znamená v slovenčine:",
+    "answers":[
+      "<p>špeciálne nástroje</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>letún s nastaviteľným uhlom krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"430",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz pristávacie svetlá znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>landing lights</p>",
+      "<p>pylon</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"431",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz turbodúchadlo / turboventilátor znamená v angličtine:",
+    "answers":[
+      "<p>propulsion</p>",
+      "<p>fuselage mounted conformal fuel tanks</p>",
+      "<p>turbofan</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"432",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz kabína lietadla znamená v angličtine:",
+    "answers":[
+      "<p>malfunction</p>",
+      "<p>nacelle</p>",
+      "<p>data recording system</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"433",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz airfoil znamená v slovenčine:",
+    "answers":[
+      "<p>nosná (aerodynamická) plocha</p>",
+      "<p>navádzanie strely</p>",
+      "<p>motor s turbodúchadlom</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"434",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz snímač plameňa znamená v angličtine:",
+    "answers":[
+      "<p>engine bay</p>",
+      "<p>flame detector sensor</p>",
+      "<p>aft cockpit</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"435",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz náklady po dobu životnosti znamená v angličtine:",
+    "answers":[
+      "<p>payload</p>",
+      "<p>life cycle costs</p>",
+      "<p>ground support</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"436",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz landing gear znamená v slovenčine:",
+    "answers":[
+      "<p>zhasnutie motora (pri preťažení)</p>",
+      "<p>podvozok</p>",
+      "<p>identifikačné osvetlenie</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"437",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz shaft znamená v slovenčine:",
+    "answers":[
+      "<p>prioritné ovládanie</p>",
+      "<p>hriadeľ</p>",
+      "<p>bezpečná zóna</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"438",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz kontajner znamená v angličtine:",
+    "answers":[
+      "<p>emergency oxygen system</p>",
+      "<p>airflow</p>",
+      "<p>dispenser</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"439",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz seal znamená v slovenčine:",
+    "answers":[
+      "<p>tesnenie</p>",
+      "<p>prídavné spaľovanie</p>",
+      "<p>poškodenie počas letu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"440",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz aerofoil znamená v slovenčine:",
+    "answers":[
+      "<p>magnetické deklinácie</p>",
+      "<p>preferovaný motor</p>",
+      "<p>profil krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"441",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz wing taper znamená v slovenčine:",
+    "answers":[
+      "<p>nechladená turbína</p>",
+      "<p>možnosť komunikácie / zdieľanie dát</p>",
+      "<p>zúženie krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"442",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz landing gear bay znamená v slovenčine:",
+    "answers":[
+      "<p>výklenok pre podvozok</p>",
+      "<p>laserové diaľkomery</p>",
+      "<p>rýchlosť</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"443",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz krídlo znamená v angličtine:",
+    "answers":[
+      "<p>wingspan</p>",
+      "<p>wing</p>",
+      "<p>targeting sensor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"444",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz flap znamená v slovenčine:",
+    "answers":[
+      "<p>jednoprúdový motor</p>",
+      "<p>prepadová stíhacia letka</p>",
+      "<p>klapka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"445",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz vent znamená v slovenčine:",
+    "answers":[
+      "<p>prieduch</p>",
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>prídavné spaľovanie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"446",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz predná kabina znamená v angličtine:",
+    "answers":[
+      "<p>forward cockpit</p>",
+      "<p>staging area</p>",
+      "<p>mature engines</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"447",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz horák znamená v angličtine:",
+    "answers":[
+      "<p>altitude test</p>",
+      "<p>burner</p>",
+      "<p>fuel flow</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"448",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz rozpätie krídel znamená v angličtine:",
+    "answers":[
+      "<p>dashboard</p>",
+      "<p>wingspan</p>",
+      "<p>airframe</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"449",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz two-seat version znamená v slovenčine:",
+    "answers":[
+      "<p>dvojmiestna verzia</p>",
+      "<p>pohyblivá puma</p>",
+      "<p>pokyny na údržbu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"450",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz servo actuators znamená v slovenčine:",
+    "answers":[
+      "<p>servo ovládače</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>prúdový pohon</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"451",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz centerbody znamená v slovenčine:",
+    "answers":[
+      "<p>hlavné telo</p>",
+      "<p>servo ovládače</p>",
+      "<p>bezdymová prevádzka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"452",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz drak lietadla znamená v angličtine:",
+    "answers":[
+      "<p>airframe</p>",
+      "<p>relight capabilty</p>",
+      "<p>flight hour</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"453",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz cycle znamená v slovenčine:",
+    "answers":[
+      "<p>špeciálne nástroje</p>",
+      "<p>cyklus</p>",
+      "<p>sací otvor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"454",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Slovenský výraz palubná / prístrojová doska znamená v angličtine:",
+    "answers":[
+      "<p>man hour maintenance</p>",
+      "<p>dashboard</p>",
+      "<p>flight hour</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"455",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz engine speed indicator / speedometer znamená v slovenčine:",
+    "answers":[
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>otáčkomer</p>",
+      "<p>vzletová hmotnosť</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"456",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz empennage znamená v slovenčine:",
+    "answers":[
+      "<p>prídavné vonkajšie nádrže</p>",
+      "<p>laserové diaľkomery</p>",
+      "<p>chvostové plochy</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"457",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz zadná kabína znamená v angličtine:",
+    "answers":[
+      "<p>aft cockpit</p>",
+      "<p>ejection seat</p>",
+      "<p>non-afterburning</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"458",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz crew station znamená v slovenčine:",
+    "answers":[
+      "<p>letka</p>",
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>výmena oleja</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Stavba lietadla 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"459",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Slovenský výraz výšková skúška znamená v angličtine:",
+    "answers":[
+      "<p>fuel pump</p>",
+      "<p>afterburner</p>",
+      "<p>altitude test</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"460",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz užitočné zaťaženie znamená v angličtine:",
+    "answers":[
+      "<p>hands-on controls</p>",
+      "<p>aft cockpit</p>",
+      "<p>payload</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"461",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz special tooling znamená v slovenčine:",
+    "answers":[
+      "<p>svetlica</p>",
+      "<p>ťah (motora)</p>",
+      "<p>špeciálne nástroje</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"462",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz orders for maintaining znamená v slovenčine:",
+    "answers":[
+      "<p>sací otvor</p>",
+      "<p>pokyny na údržbu</p>",
+      "<p>hlavné telo</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"463",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz spotreba paliva znamená v angličtine:",
+    "answers":[
+      "<p>fuel burn</p>",
+      "<p>throttle</p>",
+      "<p>forward cockpit</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"464",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz oil changes znamená v slovenčine:",
+    "answers":[
+      "<p>výmena oleja</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>výkon motora</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Údržba lietadla",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"465",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz combat znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>letecký / vzdušný most</p>",
+      "<p>prídavné vonkajšie nádrže</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"466",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz protivzdušná obrana (PVO) znamená v angličtine:",
+    "answers":[
+      "<p>propulsion</p>",
+      "<p>air defense</p>",
+      "<p>multimode radar</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"467",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz complementary attack systems znamená v slovenčine:",
+    "answers":[
+      "<p>vysoký počet použiteľných letúnov</p>",
+      "<p>prídavné útočné systémy</p>",
+      "<p>klapka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"468",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz readiness rate znamená v slovenčine:",
+    "answers":[
+      "<p>stupeň pripravenosti</p>",
+      "<p>letún s nastaviteľným uhlom krídla</p>",
+      "<p>servo ovládače</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"469",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz high in-commission rate znamená v slovenčine:",
+    "answers":[
+      "<p>identifikačné osvetlenie</p>",
+      "<p>vysoký počet použiteľných letúnov</p>",
+      "<p>prepadová stíhacia letka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"470",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz navádzanie znamená v angličtine:",
+    "answers":[
+      "<p>multimode radar</p>",
+      "<p>guidance</p>",
+      "<p>engine bay</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"471",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz targeting znamená v slovenčine:",
+    "answers":[
+      "<p>cvičná letecká puma</p>",
+      "<p>zameriavače</p>",
+      "<p>zameranie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"472",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Anglický výraz interceptor fighter group znamená v slovenčine:",
+    "answers":[
+      "<p>prepadová stíhacia letka</p>",
+      "<p>zameranie</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"473",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz laser rangefinder znamená v slovenčine:",
+    "answers":[
+      "<p>kanón</p>",
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>laserové diaľkomery</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"474",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz klamný cieľ, klamať, odpoutávat pozornosť znamená v angličtine:",
+    "answers":[
+      "<p>wing</p>",
+      "<p>decoy</p>",
+      "<p>fuselage mounted conformal fuel tanks</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"475",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz vysoká odolnosť voči poškodeniu letúna v boji znamená v angličtine:",
+    "answers":[
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>payload</p>",
+      "<p>flame detector sensor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"476",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz smerový radar znamená v angličtine:",
+    "answers":[
+      "<p>canopy seal</p>",
+      "<p>capabilities</p>",
+      "<p>beam radar</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"477",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz zameriavací senzor znamená v angličtine:",
+    "answers":[
+      "<p>airframe</p>",
+      "<p>targeting sensor</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"478",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz noktovizor - okuliare na nočné videnie znamená v angličtine:",
+    "answers":[
+      "<p>flameout</p>",
+      "<p>night vision goggles</p>",
+      "<p>afterburner</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"479",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz multi-mission / multi-role aircraft znamená v slovenčine:",
+    "answers":[
+      "<p>bezpečná zóna</p>",
+      "<p>viacúčelový letún</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"480",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz countermeasures znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>chvostové plochy</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"481",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz prieskumník znamená v angličtine:",
+    "answers":[
+      "<p>fuel burn</p>",
+      "<p>killer scout</p>",
+      "<p>interceptor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"482",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz možnosť tankovania vo vzduchu znamená v angličtine:",
+    "answers":[
+      "<p>air refueling capability</p>",
+      "<p>internal fuel (tanks)</p>",
+      "<p>canopy seal</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"483",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz fire control znamená v slovenčine:",
+    "answers":[
+      "<p>pohyblivá puma</p>",
+      "<p>riadenie paľby</p>",
+      "<p>pohonná jednotka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"484",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz pozemná podpora znamená v angličtine:",
+    "answers":[
+      "<p>hands-on controls</p>",
+      "<p>ground support</p>",
+      "<p>speed brake</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"485",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz glare shield znamená v slovenčine:",
+    "answers":[
+      "<p>ochrana proti oslneniu</p>",
+      "<p>rýchlosť</p>",
+      "<p>nosná (aerodynamická) plocha</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"486",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz guided weapons znamená v slovenčine:",
+    "answers":[
+      "<p>navádzanie strely</p>",
+      "<p>zúženie krídla</p>",
+      "<p>klopenie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"487",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz gun znamená v slovenčine:",
+    "answers":[
+      "<p>vysoko namáhané oblasti</p>",
+      "<p>doba chodu motora</p>",
+      "<p>kanón</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"488",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz prepadový stíhací letún znamená v angličtine:",
+    "answers":[
+      "<p>interceptor</p>",
+      "<p>dispenser</p>",
+      "<p>throttle</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"489",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz viacúčelový bojový letún znamená v angličtine:",
+    "answers":[
+      "<p>live round</p>",
+      "<p>multirole fighter</p>",
+      "<p>canopy bow frame</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"490",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz practice bomb znamená v slovenčine:",
+    "answers":[
+      "<p>vojenská letecká základňa</p>",
+      "<p>generálna oprava</p>",
+      "<p>cvičná letecká puma</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"491",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Anglický výraz glide bomb znamená v slovenčine:",
+    "answers":[
+      "<p>pohyblivá puma</p>",
+      "<p>stupeň pripravenosti</p>",
+      "<p>hlavné telo</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"492",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz infračervené navádzanie rakety znamená v angličtine:",
+    "answers":[
+      "<p>beam radar</p>",
+      "<p>infrared homing missiles</p>",
+      "<p>air refueling capability</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"493",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz launch vehicle znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>prieduch</p>",
+      "<p>tesnenie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"494",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz maritime patrol znamená v slovenčine:",
+    "answers":[
+      "<p>námorná hliadka</p>",
+      "<p>nosná (aerodynamická) plocha</p>",
+      "<p>vysoko namáhané oblasti</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"495",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz ostrý náboj znamená v angličtine:",
+    "answers":[
+      "<p>near-real-time</p>",
+      "<p>electrically conductive coatings</p>",
+      "<p>live round</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"496",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz air force base znamená v slovenčine:",
+    "answers":[
+      "<p>výstuhy trupu</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>vojenská letecká základňa</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"497",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Slovenský výraz výstražný radarový systém znamená v angličtine:",
+    "answers":[
+      "<p>radar warning receiver</p>",
+      "<p>multirole fighter</p>",
+      "<p>loiter time</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"498",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz nosník znamená v angličtine:",
+    "answers":[
+      "<p>engine core</p>",
+      "<p>pylon</p>",
+      "<p>man hour maintenance</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"499",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz gunsight znamená v slovenčine:",
+    "answers":[
+      "<p>generálna oprava</p>",
+      "<p>riadenie paľby</p>",
+      "<p>zameriavače</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"500",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz bojové schopnosti znamená v angličtine:",
+    "answers":[
+      "<p>combat capability</p>",
+      "<p>transport air force</p>",
+      "<p>life cycle costs</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"501",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz viacúčelový radar znamená v angličtine:",
+    "answers":[
+      "<p>thrust levels</p>",
+      "<p>killer scout</p>",
+      "<p>multimode radar</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Vojenská terminológia 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"502",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz fuel cell znamená v slovenčine:",
+    "answers":[
+      "<p>letún s nastaviteľným uhlom krídla</p>",
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>cyklus</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"503",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz countermeasures znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>chvostové plochy</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"504",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz vnútorné palivové nádrže znamená v angličtine:",
+    "answers":[
+      "<p>internal fuel (tanks)</p>",
+      "<p>loiter time</p>",
+      "<p>power turbine</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"505",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz group znamená v slovenčine:",
+    "answers":[
+      "<p>výkon motora</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>",
+      "<p>letka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"506",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz glide bomb znamená v slovenčine:",
+    "answers":[
+      "<p>pohyblivá puma</p>",
+      "<p>stupeň pripravenosti</p>",
+      "<p>hlavné telo</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"507",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz spotreba paliva znamená v angličtine:",
+    "answers":[
+      "<p>fuel burn</p>",
+      "<p>throttle</p>",
+      "<p>forward cockpit</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"508",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz shaft znamená v slovenčine:",
+    "answers":[
+      "<p>prioritné ovládanie</p>",
+      "<p>hriadeľ</p>",
+      "<p>bezpečná zóna</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"509",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Anglický výraz pilot instructor znamená v slovenčine:",
+    "answers":[
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>piestový motor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"510",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz fuselage znamená v slovenčine:",
+    "answers":[
+      "<p>trup</p>",
+      "<p>výklenok pre podvozok</p>",
+      "<p>ochrana proti oslneniu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"511",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz chvenie znamená v angličtine:",
+    "answers":[
+      "<p>flutter</p>",
+      "<p>angle of attack</p>",
+      "<p>speed brake</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"512",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz dopravné letectvo znamená v angličtine:",
+    "answers":[
+      "<p>flutter</p>",
+      "<p>ground support</p>",
+      "<p>transport air force</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"513",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz záložný kyslíkový systém znamená v angličtine:",
+    "answers":[
+      "<p>beam radar</p>",
+      "<p>fin unit</p>",
+      "<p>emergency oxygen system</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"514",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz elektricky vodivé nátery znamená v angličtine:",
+    "answers":[
+      "<p>electrically conductive coatings</p>",
+      "<p>decoy</p>",
+      "<p>angle of attack</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"515",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz odstredivá brzda znamená v angličtine:",
+    "answers":[
+      "<p>center line</p>",
+      "<p>speed brake</p>",
+      "<p>agility</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"516",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz zlé fungovanie znamená v angličtine:",
+    "answers":[
+      "<p>night vision goggles</p>",
+      "<p>canopy bow frame</p>",
+      "<p>malfunction</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"517",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz takeoff gross weight znamená v slovenčine:",
+    "answers":[
+      "<p>vzletová hmotnosť</p>",
+      "<p>letový výkon</p>",
+      "<p>výmena oleja</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"518",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz pristávacie svetlá znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>landing lights</p>",
+      "<p>pylon</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"519",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz smokeless operation znamená v slovenčine:",
+    "answers":[
+      "<p>bezdymová prevádzka</p>",
+      "<p>prúdový pohon</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"520",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz smerový radar znamená v angličtine:",
+    "answers":[
+      "<p>canopy seal</p>",
+      "<p>capabilities</p>",
+      "<p>beam radar</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"521",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz laser rangefinder znamená v slovenčine:",
+    "answers":[
+      "<p>kanón</p>",
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>laserové diaľkomery</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 1",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"522",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz targeting znamená v slovenčine:",
+    "answers":[
+      "<p>cvičná letecká puma</p>",
+      "<p>zameriavače</p>",
+      "<p>zameranie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"523",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz komora prídavného spaľovania znamená v angličtine:",
+    "answers":[
+      "<p>afterburner</p>",
+      "<p>emergency landing</p>",
+      "<p>dispenser</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"524",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz inlet znamená v slovenčine:",
+    "answers":[
+      "<p>bezdymová prevádzka</p>",
+      "<p>svetlica</p>",
+      "<p>sací otvor</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"525",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz engine speed indicator / speedometer znamená v slovenčine:",
+    "answers":[
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>otáčkomer</p>",
+      "<p>vzletová hmotnosť</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"526",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz flare znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>svetlica</p>",
+      "<p>protiopatrenia, obrana</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"527",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz osa letu znamená v angličtine:",
+    "answers":[
+      "<p>landing lights</p>",
+      "<p>center line</p>",
+      "<p>nozzle</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"528",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz guided weapons znamená v slovenčine:",
+    "answers":[
+      "<p>navádzanie strely</p>",
+      "<p>zúženie krídla</p>",
+      "<p>klopenie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"529",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz prispôsobené nádrže pripevnené na trup znamená v angličtine:",
+    "answers":[
+      "<p>fuselage mounted conformal fuel tanks</p>",
+      "<p>sideslip</p>",
+      "<p>targeting sensor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"530",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz shut-down znamená v slovenčine:",
+    "answers":[
+      "<p>brzdiaci padák</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>ťah (motora)</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"531",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Anglický výraz external fuel tanks znamená v slovenčine:",
+    "answers":[
+      "<p>námorná hliadka</p>",
+      "<p>kanón</p>",
+      "<p>prídavné vonkajšie nádrže</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"532",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz zvislé chvostové plochy znamená v angličtine:",
+    "answers":[
+      "<p>wing tanks</p>",
+      "<p>fin unit</p>",
+      "<p>capabilities</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"533",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz miesto pristátia znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>engine core</p>",
+      "<p>infrared homing missiles</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"534",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz data link capability znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>skupina lietadiel</p>",
+      "<p>možnosť komunikácie / zdieľanie dát</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"535",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz glare shield znamená v slovenčine:",
+    "answers":[
+      "<p>ochrana proti oslneniu</p>",
+      "<p>rýchlosť</p>",
+      "<p>nosná (aerodynamická) plocha</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"536",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz tryska znamená v angličtine:",
+    "answers":[
+      "<p>dashboard</p>",
+      "<p>pylon</p>",
+      "<p>nozzle</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"537",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz engine of choice znamená v slovenčine:",
+    "answers":[
+      "<p>prieduch</p>",
+      "<p>preferovaný motor</p>",
+      "<p>otáčkomer</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"538",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz motorový priestor / šachta znamená v angličtine:",
+    "answers":[
+      "<p>non-afterburning</p>",
+      "<p>thrust levels</p>",
+      "<p>engine bay</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"539",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz vysoká odolnosť voči poškodeniu letúna v boji znamená v angličtine:",
+    "answers":[
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>payload</p>",
+      "<p>flame detector sensor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"540",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz letová hodina znamená v angličtine:",
+    "answers":[
+      "<p>flight hour</p>",
+      "<p>altitude system</p>",
+      "<p>avionics</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"541",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz turbodúchadlo / turboventilátor znamená v angličtine:",
+    "answers":[
+      "<p>propulsion</p>",
+      "<p>fuselage mounted conformal fuel tanks</p>",
+      "<p>turbofan</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 2",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"542",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz two-seat version znamená v slovenčine:",
+    "answers":[
+      "<p>dvojmiestna verzia</p>",
+      "<p>pohyblivá puma</p>",
+      "<p>pokyny na údržbu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"543",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz airlift znamená v slovenčine:",
+    "answers":[
+      "<p>ochrana proti oslneniu</p>",
+      "<p>námorná hliadka</p>",
+      "<p>letecký / vzdušný most</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"544",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz tail root znamená v slovenčine:",
+    "answers":[
+      "<p>podvozok</p>",
+      "<p>koreň chvostovej plochy</p>",
+      "<p>vysoký počet použiteľných letúnov</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"545",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz bojové schopnosti znamená v angličtine:",
+    "answers":[
+      "<p>combat capability</p>",
+      "<p>transport air force</p>",
+      "<p>life cycle costs</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"546",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz klamný cieľ, klamať, odpoutávat pozornosť znamená v angličtine:",
+    "answers":[
+      "<p>wing</p>",
+      "<p>decoy</p>",
+      "<p>fuselage mounted conformal fuel tanks</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"547",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz nosník znamená v angličtine:",
+    "answers":[
+      "<p>engine core</p>",
+      "<p>pylon</p>",
+      "<p>man hour maintenance</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"548",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz bird ingestion znamená v slovenčine:",
+    "answers":[
+      "<p>zameriavače</p>",
+      "<p>turbohriadeľ</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"549",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Anglický výraz cycle znamená v slovenčine:",
+    "answers":[
+      "<p>špeciálne nástroje</p>",
+      "<p>cyklus</p>",
+      "<p>sací otvor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"550",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz turbo-prop znamená v slovenčine:",
+    "answers":[
+      "<p>letová spôsobilosť</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>hriadeľ</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"551",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Anglický výraz dry thrust znamená v slovenčine:",
+    "answers":[
+      "<p>prídavné útočné systémy</p>",
+      "<p>koreň chvostovej plochy</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"552",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz vystreľovacia sedačka znamená v angličtine:",
+    "answers":[
+      "<p>flight manual</p>",
+      "<p>ejection seat</p>",
+      "<p>landing lights</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"553",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz single-flow engine znamená v slovenčine:",
+    "answers":[
+      "<p>zameranie</p>",
+      "<p>jednoprúdový motor</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"554",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz výškový systém znamená v angličtine:",
+    "answers":[
+      "<p>by-pass turbojet engine</p>",
+      "<p>altitude system</p>",
+      "<p>nacelle</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"555",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz prepadový stíhací letún znamená v angličtine:",
+    "answers":[
+      "<p>interceptor</p>",
+      "<p>dispenser</p>",
+      "<p>throttle</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"556",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz servo actuators znamená v slovenčine:",
+    "answers":[
+      "<p>servo ovládače</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>prúdový pohon</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"557",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz hot engine parts znamená v slovenčine:",
+    "answers":[
+      "<p>zhasnutie motora (pri preťažení)</p>",
+      "<p>cvičná letecká puma</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"558",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz fire control znamená v slovenčine:",
+    "answers":[
+      "<p>pohyblivá puma</p>",
+      "<p>riadenie paľby</p>",
+      "<p>pohonná jednotka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"559",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz pozemná podpora znamená v angličtine:",
+    "answers":[
+      "<p>hands-on controls</p>",
+      "<p>ground support</p>",
+      "<p>speed brake</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"560",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz regions of high stress znamená v slovenčine:",
+    "answers":[
+      "<p>profil krídla</p>",
+      "<p>vysoko namáhané oblasti</p>",
+      "<p>motor s turbodúchadlom</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"561",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz kabína lietadla znamená v angličtine:",
+    "answers":[
+      "<p>malfunction</p>",
+      "<p>nacelle</p>",
+      "<p>data recording system</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 3",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"562",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz uncooled turbine znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>nechladená turbína</p>",
+      "<p>preferovaný motor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"563",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz high in-commission rate znamená v slovenčine:",
+    "answers":[
+      "<p>identifikačné osvetlenie</p>",
+      "<p>vysoký počet použiteľných letúnov</p>",
+      "<p>prepadová stíhacia letka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"564",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz turbojet znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>prúdový pohon</p>",
+      "<p>brzdiaci padák</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"565",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz jadro motora znamená v angličtine:",
+    "answers":[
+      "<p>engine core</p>",
+      "<p>foreign object damage</p>",
+      "<p>air refueling capability</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"566",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz viacúčelový bojový letún znamená v angličtine:",
+    "answers":[
+      "<p>live round</p>",
+      "<p>multirole fighter</p>",
+      "<p>canopy bow frame</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"567",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz snímač plameňa znamená v angličtine:",
+    "answers":[
+      "<p>engine bay</p>",
+      "<p>flame detector sensor</p>",
+      "<p>aft cockpit</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"568",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz complementary attack systems znamená v slovenčine:",
+    "answers":[
+      "<p>vysoký počet použiteľných letúnov</p>",
+      "<p>prídavné útočné systémy</p>",
+      "<p>klapka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"569",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz kĺzanie po krídle / bočenie znamená v angličtine:",
+    "answers":[
+      "<p>sideslip</p>",
+      "<p>fuel burn</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"570",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz noktovizor - okuliare na nočné videnie znamená v angličtine:",
+    "answers":[
+      "<p>flameout</p>",
+      "<p>night vision goggles</p>",
+      "<p>afterburner</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"571",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz strategické rozmiestnenie ovládačov znamená v angličtine:",
+    "answers":[
+      "<p>center line</p>",
+      "<p>ejection seat</p>",
+      "<p>hands-on controls</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"572",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz poškodenie cudzím predmetom znamená v angličtine:",
+    "answers":[
+      "<p>radar warning receiver</p>",
+      "<p>internal fuel (tanks)</p>",
+      "<p>foreign object damage</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"573",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz gunsight znamená v slovenčine:",
+    "answers":[
+      "<p>generálna oprava</p>",
+      "<p>riadenie paľby</p>",
+      "<p>zameriavače</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"574",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz zameriavací senzor znamená v angličtine:",
+    "answers":[
+      "<p>airframe</p>",
+      "<p>targeting sensor</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"575",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz rýchlosť, obratnosť, živosť znamená v angličtine:",
+    "answers":[
+      "<p>wingspan</p>",
+      "<p>nozzle</p>",
+      "<p>agility</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"576",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz centerbody znamená v slovenčine:",
+    "answers":[
+      "<p>hlavné telo</p>",
+      "<p>servo ovládače</p>",
+      "<p>bezdymová prevádzka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"577",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz readiness rate znamená v slovenčine:",
+    "answers":[
+      "<p>stupeň pripravenosti</p>",
+      "<p>letún s nastaviteľným uhlom krídla</p>",
+      "<p>servo ovládače</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"578",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz horák znamená v angličtine:",
+    "answers":[
+      "<p>altitude test</p>",
+      "<p>burner</p>",
+      "<p>fuel flow</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"579",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz dvojprúdový motor znamená v angličtine:",
+    "answers":[
+      "<p>multirole fighter</p>",
+      "<p>by-pass turbojet engine</p>",
+      "<p>malfunction</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"580",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz altimeter znamená v slovenčine:",
+    "answers":[
+      "<p>vzletová hmotnosť</p>",
+      "<p>výškomer</p>",
+      "<p>skupina lietadiel</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"581",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz orders for maintaining znamená v slovenčine:",
+    "answers":[
+      "<p>sací otvor</p>",
+      "<p>pokyny na údržbu</p>",
+      "<p>hlavné telo</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 4",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"582",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz special tooling znamená v slovenčine:",
+    "answers":[
+      "<p>svetlica</p>",
+      "<p>ťah (motora)</p>",
+      "<p>špeciálne nástroje</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"583",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz velocity znamená v slovenčine:",
+    "answers":[
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>navádzanie strely</p>",
+      "<p>rýchlosť</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"584",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Anglický výraz swing-wing aircraft znamená v slovenčine:",
+    "answers":[
+      "<p>špeciálne nástroje</p>",
+      "<p>vynechávka / výpadok motora</p>",
+      "<p>letún s nastaviteľným uhlom krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"585",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz výšková skúška znamená v angličtine:",
+    "answers":[
+      "<p>fuel pump</p>",
+      "<p>afterburner</p>",
+      "<p>altitude test</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"586",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz vent znamená v slovenčine:",
+    "answers":[
+      "<p>prieduch</p>",
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>prídavné spaľovanie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"587",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Slovenský výraz prídavné spaľovanie, forsáž znamená v angličtine:",
+    "answers":[
+      "<p>air defense</p>",
+      "<p>afterburner</p>",
+      "<p>guidance</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"588",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz safe area znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>bezpečná zóna</p>",
+      "<p>koreň chvostovej plochy</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"589",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz pohon znamená v angličtine:",
+    "answers":[
+      "<p>sideslip</p>",
+      "<p>propulsion</p>",
+      "<p>killer scout</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"590",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz flap znamená v slovenčine:",
+    "answers":[
+      "<p>jednoprúdový motor</p>",
+      "<p>prepadová stíhacia letka</p>",
+      "<p>klapka</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"591",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz beh bez prídavného spaľovania znamená v angličtine:",
+    "answers":[
+      "<p>afterburner</p>",
+      "<p>non-afterburning</p>",
+      "<p>flight manual</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"592",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz výstražný radarový systém znamená v angličtine:",
+    "answers":[
+      "<p>radar warning receiver</p>",
+      "<p>multirole fighter</p>",
+      "<p>loiter time</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"593",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz airfoil znamená v slovenčine:",
+    "answers":[
+      "<p>nosná (aerodynamická) plocha</p>",
+      "<p>navádzanie strely</p>",
+      "<p>motor s turbodúchadlom</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"594",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz uhol nábehu znamená v angličtine:",
+    "answers":[
+      "<p>agility</p>",
+      "<p>angle of attack</p>",
+      "<p>wing</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"595",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz maritime patrol znamená v slovenčine:",
+    "answers":[
+      "<p>námorná hliadka</p>",
+      "<p>nosná (aerodynamická) plocha</p>",
+      "<p>vysoko namáhané oblasti</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"596",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz nádrže na krídlach znamená v angličtine:",
+    "answers":[
+      "<p>wing tanks</p>",
+      "<p>high angle-off attack</p>",
+      "<p>fuel flow</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"597",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz landing gear bay znamená v slovenčine:",
+    "answers":[
+      "<p>výklenok pre podvozok</p>",
+      "<p>laserové diaľkomery</p>",
+      "<p>rýchlosť</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"598",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz chvostová plocha, chvost znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>wing tanks</p>",
+      "<p>burner</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"599",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Slovenský výraz infračervené navádzanie rakety znamená v angličtine:",
+    "answers":[
+      "<p>beam radar</p>",
+      "<p>infrared homing missiles</p>",
+      "<p>air refueling capability</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"600",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz protivzdušná obrana (PVO) znamená v angličtine:",
+    "answers":[
+      "<p>propulsion</p>",
+      "<p>air defense</p>",
+      "<p>multimode radar</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"601",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz človekohodiny údžby znamená v angličtine:",
+    "answers":[
+      "<p>foreign object damage</p>",
+      "<p>man hour maintenance</p>",
+      "<p>avionics</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 5",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"602",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Slovenský výraz užitočné zaťaženie znamená v angličtine:",
+    "answers":[
+      "<p>hands-on controls</p>",
+      "<p>aft cockpit</p>",
+      "<p>payload</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"603",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz vytrvalosť znamená v angličtine:",
+    "answers":[
+      "<p>loiter time</p>",
+      "<p>live round</p>",
+      "<p>short take-off vertical landing</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"604",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz staršie motory znamená v angličtine:",
+    "answers":[
+      "<p>mature engines</p>",
+      "<p>surge</p>",
+      "<p>nacelle</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"605",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz overhaul znamená v slovenčine:",
+    "answers":[
+      "<p>generálna oprava</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>pohonná jednotka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"606",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz launch vehicle znamená v slovenčine:",
+    "answers":[
+      "<p>nosná raketa</p>",
+      "<p>prieduch</p>",
+      "<p>tesnenie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"607",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz airworthiness znamená v slovenčine:",
+    "answers":[
+      "<p>klapka</p>",
+      "<p>letová spôsobilosť</p>",
+      "<p>prioritné ovládanie</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"608",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz priority control znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>jednoprúdový motor</p>",
+      "<p>prioritné ovládanie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"609",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz možnosť tankovania vo vzduchu znamená v angličtine:",
+    "answers":[
+      "<p>air refueling capability</p>",
+      "<p>internal fuel (tanks)</p>",
+      "<p>canopy seal</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"610",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz landing gear znamená v slovenčine:",
+    "answers":[
+      "<p>zhasnutie motora (pri preťažení)</p>",
+      "<p>podvozok</p>",
+      "<p>identifikačné osvetlenie</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"611",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz rázová vlna znamená v angličtine:",
+    "answers":[
+      "<p>data recording system</p>",
+      "<p>surge</p>",
+      "<p>burner</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"612",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz aero performance znamená v slovenčine:",
+    "answers":[
+      "<p>poškodenie počas letu</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>letový výkon</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"613",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz tesnenie kabíny znamená v angličtine:",
+    "answers":[
+      "<p>power turbine</p>",
+      "<p>combat capability</p>",
+      "<p>canopy seal</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"614",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz wing taper znamená v slovenčine:",
+    "answers":[
+      "<p>nechladená turbína</p>",
+      "<p>možnosť komunikácie / zdieľanie dát</p>",
+      "<p>zúženie krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"615",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz in-flight damage znamená v slovenčine:",
+    "answers":[
+      "<p>viacúčelový letún</p>",
+      "<p>hriadeľ</p>",
+      "<p>poškodenie počas letu</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"616",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz endurance test znamená v slovenčine:",
+    "answers":[
+      "<p>vytrvalostná letová skúška</p>",
+      "<p>doba chodu motora</p>",
+      "<p>zúženie krídla</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"617",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Anglický výraz increased G tolerance znamená v slovenčine:",
+    "answers":[
+      "<p>zvýšená odolnosť voči preťaženiu</p>",
+      "<p>podvozok</p>",
+      "<p>horúce časti motora</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"618",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz takmer v reálnom čase znamená v angličtine:",
+    "answers":[
+      "<p>turbofan</p>",
+      "<p>decoy</p>",
+      "<p>near-real-time</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"619",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz air force base znamená v slovenčine:",
+    "answers":[
+      "<p>výstuhy trupu</p>",
+      "<p>pilot - inštruktor</p>",
+      "<p>vojenská letecká základňa</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"620",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz rám kokpitu znamená v angličtine:",
+    "answers":[
+      "<p>near-real-time</p>",
+      "<p>canopy bow frame</p>",
+      "<p>flameout</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"621",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz turbofan engine znamená v slovenčine:",
+    "answers":[
+      "<p>motor s turbodúchadlom</p>",
+      "<p>klopenie</p>",
+      "<p>magnetické deklinácie</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 6",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"622",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz interceptor fighter group znamená v slovenčine:",
+    "answers":[
+      "<p>prepadová stíhacia letka</p>",
+      "<p>zameranie</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"623",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Anglický výraz turboshaft znamená v slovenčine:",
+    "answers":[
+      "<p>riadenie paľby</p>",
+      "<p>dvojmiestna verzia</p>",
+      "<p>turbohriadeľ</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"624",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz spusteniu motora za letu znamená v angličtine:",
+    "answers":[
+      "<p>altitude system</p>",
+      "<p>relight capabilty</p>",
+      "<p>mature engines</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"625",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz empennage znamená v slovenčine:",
+    "answers":[
+      "<p>prídavné vonkajšie nádrže</p>",
+      "<p>laserové diaľkomery</p>",
+      "<p>chvostové plochy</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"626",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Slovenský výraz hladiny ťahu znamená v angličtine:",
+    "answers":[
+      "<p>thrust levels</p>",
+      "<p>afterburner</p>",
+      "<p>interceptor</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"627",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz cell znamená v slovenčine:",
+    "answers":[
+      "<p>skupina lietadiel</p>",
+      "<p>tesnenie</p>",
+      "<p>letový výkon</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"628",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz prieskumník znamená v angličtine:",
+    "answers":[
+      "<p>fuel burn</p>",
+      "<p>killer scout</p>",
+      "<p>interceptor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"629",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Anglický výraz engine performance znamená v slovenčine:",
+    "answers":[
+      "<p>výkon motora</p>",
+      "<p>letová spôsobilosť</p>",
+      "<p>prídavné útočné systémy</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"630",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Anglický výraz magnetic variation znamená v slovenčine:",
+    "answers":[
+      "<p>magnetické deklinácie</p>",
+      "<p>výškomer</p>",
+      "<p>otáčkomer</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"631",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz introdukcia / zhasnutie motora znamená v angličtine:",
+    "answers":[
+      "<p>flameout</p>",
+      "<p>air defense</p>",
+      "<p>turbofan</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"632",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz afterburning / augmentation znamená v slovenčine:",
+    "answers":[
+      "<p>viacúčelový letún</p>",
+      "<p>prídavné spaľovanie</p>",
+      "<p>letka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"633",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz čakací priestor znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>surge</p>",
+      "<p>staging area</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"634",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz vynútené - núdzové pristátie znamená v angličtine:",
+    "answers":[
+      "<p>emergency landing</p>",
+      "<p>infrared homing missiles</p>",
+      "<p>emergency oxygen system</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"635",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz stall znamená v slovenčine:",
+    "answers":[
+      "<p>kontrola letovej prevádzky</p>",
+      "<p>vojenská letecká základňa</p>",
+      "<p>zhasnutie motora (pri preťažení)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"636",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz air traffic control znamená v slovenčine:",
+    "answers":[
+      "<p>turbohriadeľ</p>",
+      "<p>výstuhy trupu</p>",
+      "<p>kontrola letovej prevádzky</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"637",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Slovenský výraz páka na ovládanie motora znamená v angličtine:",
+    "answers":[
+      "<p>throttle</p>",
+      "<p>airflow</p>",
+      "<p>staging area</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"638",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Slovenský výraz predná kabina znamená v angličtine:",
+    "answers":[
+      "<p>forward cockpit</p>",
+      "<p>staging area</p>",
+      "<p>mature engines</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"639",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz piston engine znamená v slovenčine:",
+    "answers":[
+      "<p>piestový motor</p>",
+      "<p>pokyny na údržbu</p>",
+      "<p>cyklus</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"640",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Anglický výraz pitch znamená v slovenčine:",
+    "answers":[
+      "<p>možnosť komunikácie / zdieľanie dát</p>",
+      "<p>výškomer</p>",
+      "<p>klopenie</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"641",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Anglický výraz engine operating time znamená v slovenčine:",
+    "answers":[
+      "<p>doba chodu motora</p>",
+      "<p>profil krídla</p>",
+      "<p>nechladená turbína</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 7",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"642",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Anglický výraz crew station znamená v slovenčine:",
+    "answers":[
+      "<p>letka</p>",
+      "<p>riadiaci panel, prístrojová doska</p>",
+      "<p>výmena oleja</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"643",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz palubná / prístrojová doska znamená v angličtine:",
+    "answers":[
+      "<p>man hour maintenance</p>",
+      "<p>dashboard</p>",
+      "<p>flight hour</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"644",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz rozpätie krídel znamená v angličtine:",
+    "answers":[
+      "<p>dashboard</p>",
+      "<p>wingspan</p>",
+      "<p>airframe</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"645",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Anglický výraz ID lighting znamená v slovenčine:",
+    "answers":[
+      "<p>kontrola letovej prevádzky</p>",
+      "<p>identifikačné osvetlenie</p>",
+      "<p>nasatie vtáka</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"646",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz no-load speed znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>chvostové plochy</p>",
+      "<p>výklenok pre podvozok</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"647",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz propulsion unit znamená v slovenčine:",
+    "answers":[
+      "<p>pohonná jednotka</p>",
+      "<p>palivová nádrž, palivový článok</p>",
+      "<p>stupeň pripravenosti</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"648",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Slovenský výraz drak lietadla znamená v angličtine:",
+    "answers":[
+      "<p>airframe</p>",
+      "<p>relight capabilty</p>",
+      "<p>flight hour</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"649",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz letecký manuál znamená v angličtine:",
+    "answers":[
+      "<p>glide slope intercept point</p>",
+      "<p>emergency landing</p>",
+      "<p>flight manual</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"650",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz navádzanie znamená v angličtine:",
+    "answers":[
+      "<p>multimode radar</p>",
+      "<p>guidance</p>",
+      "<p>engine bay</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"651",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz ostrý náboj znamená v angličtine:",
+    "answers":[
+      "<p>near-real-time</p>",
+      "<p>electrically conductive coatings</p>",
+      "<p>live round</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"652",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Slovenský výraz palivové čerpadlo znamená v angličtine:",
+    "answers":[
+      "<p>fuel pump</p>",
+      "<p>flame detector sensor</p>",
+      "<p>guidance</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"653",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Anglický výraz drag chute znamená v slovenčine:",
+    "answers":[
+      "<p>trup</p>",
+      "<p>letecký / vzdušný most</p>",
+      "<p>brzdiaci padák</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"654",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Anglický výraz oil changes znamená v slovenčine:",
+    "answers":[
+      "<p>výmena oleja</p>",
+      "<p>turbovrtuľový pohon</p>",
+      "<p>výkon motora</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"655",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Anglický výraz combat znamená v slovenčine:",
+    "answers":[
+      "<p>bojové akcie</p>",
+      "<p>letecký / vzdušný most</p>",
+      "<p>prídavné vonkajšie nádrže</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"656",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Anglický výraz practice bomb znamená v slovenčine:",
+    "answers":[
+      "<p>vojenská letecká základňa</p>",
+      "<p>generálna oprava</p>",
+      "<p>cvičná letecká puma</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"657",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Slovenský výraz zadná kabína znamená v angličtine:",
+    "answers":[
+      "<p>aft cockpit</p>",
+      "<p>ejection seat</p>",
+      "<p>non-afterburning</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"658",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Anglický výraz gun znamená v slovenčine:",
+    "answers":[
+      "<p>vysoko namáhané oblasti</p>",
+      "<p>doba chodu motora</p>",
+      "<p>kanón</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"659",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Anglický výraz thrust znamená v slovenčine:",
+    "answers":[
+      "<p>voľnobežné otáčky</p>",
+      "<p>trup</p>",
+      "<p>ťah (motora)</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"660",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Slovenský výraz pohonná turbína znamená v angličtine:",
+    "answers":[
+      "<p>transport air force</p>",
+      "<p>power turbine</p>",
+      "<p>short take-off vertical landing</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"661",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Slovenský výraz náklady po dobu životnosti znamená v angličtine:",
+    "answers":[
+      "<p>payload</p>",
+      "<p>life cycle costs</p>",
+      "<p>ground support</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 8",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"662",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Slovenský výraz viacúčelový radar znamená v angličtine:",
+    "answers":[
+      "<p>thrust levels</p>",
+      "<p>killer scout</p>",
+      "<p>multimode radar</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"663",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Slovenský výraz pomer premiešania vzduchu a paliva znamená v angličtine:",
+    "answers":[
+      "<p>forward cockpit</p>",
+      "<p>relight capabilty</p>",
+      "<p>air-to-fuel ratio</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"664",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenský výraz krátky vzlet s vertikálnym pristátím znamená v angličtine:",
+    "answers":[
+      "<p>short take-off vertical landing</p>",
+      "<p>electrically conductive coatings</p>",
+      "<p>flutter</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"665",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Slovenský výraz prietok paliva znamená v angličtine:",
+    "answers":[
+      "<p>fuel flow</p>",
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>fuel pump</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"666",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Anglický výraz seal znamená v slovenčine:",
+    "answers":[
+      "<p>tesnenie</p>",
+      "<p>prídavné spaľovanie</p>",
+      "<p>poškodenie počas letu</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"667",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Anglický výraz aerofoil znamená v slovenčine:",
+    "answers":[
+      "<p>magnetické deklinácie</p>",
+      "<p>preferovaný motor</p>",
+      "<p>profil krídla</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"668",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Anglický výraz bulkheads znamená v slovenčine:",
+    "answers":[
+      "<p>piestový motor</p>",
+      "<p>výstuhy trupu</p>",
+      "<p>dvojmiestna verzia</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"669",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Slovenský výraz kontajner znamená v angličtine:",
+    "answers":[
+      "<p>emergency oxygen system</p>",
+      "<p>airflow</p>",
+      "<p>dispenser</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"670",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Slovenský výraz prúdenie vzduchu / prietok vzduchu znamená v angličtine:",
+    "answers":[
+      "<p>tail</p>",
+      "<p>airflow</p>",
+      "<p>fin unit</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"671",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Slovenský výraz avionika znamená v angličtine:",
+    "answers":[
+      "<p>avionics</p>",
+      "<p>by-pass turbojet engine</p>",
+      "<p>radar warning receiver</p>"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"672",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Anglický výraz multi-mission / multi-role aircraft znamená v slovenčine:",
+    "answers":[
+      "<p>bezpečná zóna</p>",
+      "<p>viacúčelový letún</p>",
+      "<p>suchý ťah (bez prídavného spaľovania)</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"673",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Slovenský výraz letové vlastnosti znamená v angličtine:",
+    "answers":[
+      "<p>high angle-off attack</p>",
+      "<p>capabilities</p>",
+      "<p>combat capability</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"674",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Slovenský výraz krídlo znamená v angličtine:",
+    "answers":[
+      "<p>wingspan</p>",
+      "<p>wing</p>",
+      "<p>targeting sensor</p>"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"675",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Slovenský výraz sytém záznamu dát znamená v angličtine:",
+    "answers":[
+      "<p>altitude test</p>",
+      "<p>night vision goggles</p>",
+      "<p>data recording system</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"676",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Slovenský výraz vysoký uhol nábehu znamená v angličtine:",
+    "answers":[
+      "<p>life cycle costs</p>",
+      "<p>endurability after extensive in-flight damage</p>",
+      "<p>high angle-off attack</p>"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecká angličtina B 9",
+    "categoryName":"LETECKÁ ANGLIČTINA",
+    "id":"677",
+    "questionPosition":15
+  }
+]

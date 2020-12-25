@@ -1,0 +1,2159 @@
+[
+  {
+    "questionText":"Pracovný zdvih piestového motora, kedy motor koná prácu, sa začína v okamihu",
+    "answers":[
+      "zapálenia pracovnej zmesy",
+      "maximálneho tlaku vo valci, t. j. na začiatku expanzie",
+      "polohy pracovného piesta v hornej úvrati"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"741"
+  },
+  {
+    "questionText":"Označme: kg - jednotka hmotnosti, h - hodina, l - jednotka objemu (liter), kW - jednotka výkonu",
+    "answers":[
+      "rozmer mernej spotreby paliva = (kg/kWh)",
+      "rozmer mernej spotreby paliva = (kg/l)",
+      "rozmer mernej spotreby paliva = (kg/kg)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"742"
+  },
+  {
+    "questionText":"Pochod, v ktorom sa mení tepelná energia na mechanickú, nazývame expanzia. Začiatok expanzie sa počíta od",
+    "answers":[
+      "hornej úvrate piesta",
+      "okamihu zážihu",
+      "okamihu maximálneho tlaku vo valci"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"743"
+  },
+  {
+    "questionText":"Mechanická práca je mimo iné ovplyvnená prívodom tepla a tepelnou účinnosťou. So zväčšovaním kompresného pomeru sa mechanická práca",
+    "answers":[
+      "nemení",
+      "zmenšuje",
+      "zväčšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"744"
+  },
+  {
+    "questionText":"Termická účinnosť piestového motora sa pri zväčšovaní kompresného pomeru ",
+    "answers":[
+      "zväčšuje",
+      "nemení",
+      "zmenšuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"745"
+  },
+  {
+    "questionText":"Plnenie valca sa končí 40 - 65 stupňov za dolnou úvraťou. Teda až keď sa piest pohybuje smerom k hornej úvrati. Je to z dôvodov",
+    "answers":[
+      "zmenšenia kompresnej práce počas kompresného zdvihu",
+      "zvýšenia súčiniteľa plnenia",
+      "zlepšenia vyplachovania pracovného priestoru od spalín"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"746"
+  },
+  {
+    "questionText":"Teoretická spotreba vzduchu zaistí úplné okysličovanie spaliteľných zložiek paliva. Skutočná hmotnosť môže byť odlišná od teoretickej a je charakterizovaná súčiniteľom prebytku vzduchu - označovaným \"alfa\". Hodnota alfa ",
+    "answers":[
+      "zmes je bohatá, je teda prebytok paliva",
+      "zmes je chudobná, je teda prebytok vzduchu",
+      "zloženie zmesi je optimálne"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"747"
+  },
+  {
+    "questionText":"Tlak vo valci počas výfuku postupne klesá. Výfukový zdvih počítame od okamihu",
+    "answers":[
+      "otvorenia výfukového ventilu",
+      "vyrovnania tlaku vo valci, keď prechádza piest dolnou úvraťou",
+      "kedy sa výfukový ventil dostal do úplne otvorenej polohy"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"748"
+  },
+  {
+    "questionText":"V bode 4 na obrázku indikátorového diagramu štvordobého spaľovacieho motora sa",
+    "answers":[
+      "otvára sací ventil",
+      "zatvára výfukový ventil",
+      "otvára výfukový ventil"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"749",
+    "questionImage":"letecke_pohonne_jednotky_x31_09.jpg"
+  },
+  {
+    "questionText":"Základnou charakteristikou leteckého motora s preplňovaním je, že so zväčšovaním výšky od zeme po nominálnu výšku udržuje",
+    "answers":[
+      "konštantný výkon motora",
+      "konštantné otáčky motora",
+      "konštantný plniaci tlak"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"750"
+  },
+  {
+    "questionText":"Pri úplne otvorenej škrtiacej klapke a zvýšení otáčok motora merná spotreba paliva",
+    "answers":[
+      "sa nemení",
+      "rastie",
+      "klesá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"751"
+  },
+  {
+    "questionText":"Hlavnou prednosťou motora s preplňovaním, oproti nepreplňovanému motoru, je jeho",
+    "answers":[
+      "menšia hlučnosť",
+      "menšia merná hmotnosť motora",
+      "väčší výkon najmä vo veľkých výškach"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"752"
+  },
+  {
+    "questionText":"Pri zväčšovaní výšky u motora bez kompresora sa merná spotreba paliva zvyšuje, výkon sa",
+    "answers":[
+      "zväčšuje",
+      "zmenšuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"753"
+  },
+  {
+    "questionText":"Pracovná zmes horí len v určitom rozmedzí svojho zloženia. Veľmi bohatá zmes horí pomalšie. Praktické ochudobňovanie alebo obohatenie zmesi je limitované",
+    "answers":[
+      "porušením rovnorodosti spaľovania a následnou nepravidelnosťou chodu motora",
+      "zvýšením teploty hláv valcom vplyvom zmenšenia rýchlosti spaľovania",
+      "nedokonalým spaľovaním s vylučovaním uhlíka a dymením z výfuku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"754"
+  },
+  {
+    "questionText":"Včasnosť a dokonalosť spaľovania majú rozhodujúci vplyv na prácu získanú za skutočný pracovný obeh. Optimálny predstih zaručuje",
+    "answers":[
+      "maximálnu expanznú prácu",
+      "minimálnu kompresnú prácu",
+      "maximálny rozdiel expanznej a kompresnej práce"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"755"
+  },
+  {
+    "questionText":"Pod pojmom vyváženie motora rozumieme vyváženie zotrvačných síl",
+    "answers":[
+      "posuvne sa pohybujúcich hmôt",
+      "otáčajúcich sa hmôt",
+      "posuvne sa pohybujúcich a otáčajúcich sa hmôt"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"756"
+  },
+  {
+    "questionText":"U radového šesťvalcového piestového motora je interval medzi zážihmi",
+    "answers":[
+      "140 stupňov",
+      "80 stupňov",
+      "120 stupňov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"757"
+  },
+  {
+    "questionText":"Litrový výkon štvorvalcového piestového motora je daný ako pomer",
+    "answers":[
+      "hmotnosť / zdvihový objem",
+      "výkon / zdvihový objem",
+      "výkon / objem jedného valca"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"758"
+  },
+  {
+    "questionText":"Výkon piestového motora pri vzraste plniaceho tlaku",
+    "answers":[
+      "rastie",
+      "klesá",
+      "nemení sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"759"
+  },
+  {
+    "questionText":"Spotreba paliva pri vzrastajúcom plniacom tlaku a predpoklade konštantnej mernej spotreby paliva ",
+    "answers":[
+      "klesá",
+      "zväčšuje sa",
+      "nemení sa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"760"
+  },
+  {
+    "questionText":"Pri poklese plniaceho tlaku a pri konštantných otáčkach motora sa výkon piestového motora",
+    "answers":[
+      "zvyšuje",
+      "nemení sa",
+      "zmenšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"761"
+  },
+  {
+    "questionText":"Pri zvýšení okolitého atmosférického tlaku, pri ostatných rovnakých podmienkach, sa výkon motora",
+    "answers":[
+      "nemení",
+      "zvyšuje",
+      "znižuje"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"762"
+  },
+  {
+    "questionText":"Výkon leteckého piestového motora závisí od množstva tepla transformovaného za jednotku času. Je ovládaný zmenou",
+    "answers":[
+      "dodávky paliva do motora",
+      "dodávky vzduchu do motora",
+      "zloženia pracovnej zmesi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"763"
+  },
+  {
+    "questionText":"Pod pojmom pracovný objem valca rozumieme",
+    "answers":[
+      "objem priestoru vo valci, kedy je piest v hornej úvrati a prebieha spaľovanie zmesi",
+      "objem priestoru vo valci, kedy je piest v dolnej úvrati a začína plnenie",
+      "objem valca medzi hornou a dolnou úvraťou piestu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"764"
+  },
+  {
+    "questionText":"Kompresný pomer je pri nasledovnom označení (V1 - objem v dolnej úvrati, V2 - objem v hornej úvrati, VZ - zdvihový objem, VK - objem kompresného priestoru)",
+    "answers":[
+      "VZ / VK",
+      "V1 / VK",
+      "V1 / V2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"765"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich redukčných pomerov vrtuľového reduktora zaistí najvyššie otáčky vrtule (pri rovnakých otáčkach motora)",
+    "answers":[
+      "16 : 9",
+      "16 : 7",
+      "3 : 2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"766"
+  },
+  {
+    "questionText":"Pri kompresii sa pracovná zmes ohrieva, na začiatku kompresie je",
+    "answers":[
+      "zmes ochladzovaná stenami",
+      "zmes ohrievaná od stien",
+      "vplyv teploty nepatrný"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"767"
+  },
+  {
+    "questionText":"Veľmi chudobná zmes a malý predstih zážihu spôsobí dohorievanie zmesi i počas výfuku. Pri expanzii sa v týchto podmienkach odovzdávanie tepla do motora ",
+    "answers":[
+      "nemení",
+      "zväčšuje",
+      "zmenšuje"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"768"
+  },
+  {
+    "questionText":"Okamih otvárania výfukového ventilu je určený časovaním rozvodu. Predstihom otvorenia výfukového ventilu nazývame",
+    "answers":[
+      "uhol kľukového hriadeľa pred otvorením sacieho ventilu",
+      "uhol kľukového hriadeľa pred dolnou úvraťou",
+      "uhol kľukového hriadeľa pred okamihom zapálenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"769"
+  },
+  {
+    "questionText":"Označme: Pe - užitočný výkon, Pi - indikovaný výkon, Ps - stratový výkon, potom",
+    "answers":[
+      "mechanická účinnosť = Pe - Pi",
+      "mechanická účinnosť = Pe / Pi",
+      "mechanická účinnosť = Pe x Pi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"770"
+  },
+  {
+    "questionText":"Označme: Pe = užitočný výkon, Ps - stratový výkon, Pi - indikovaný výkon, potom",
+    "answers":[
+      "mechanická účinnosť = Pe / (Pe - Ps)",
+      "mechanická účinnosť = Pe / (Pe + Ps)",
+      "mechanická účinnosť = Pe / (Pe / Ps)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"771"
+  },
+  {
+    "questionText":"Označme: ETA (e) - celková účinnosť, ETA (i) - indikovaná účinnosť, ETA(m) - mechanická účinnosť. Vzájomný vzťah je",
+    "answers":[
+      "ETA (e) = ETA (i) / ETA (m)",
+      "ETA (e) = ETA (i) x ETA (m)",
+      "ETA (e) = ETA (i) - ETA (m)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"772"
+  },
+  {
+    "questionText":"Je snahou získať pri danom objeme motora maximálnu prácu, preto je dôležité naplniť pri daných podmienkach maximálne množstvo vhodnej pracovnej zmesi. To charakterizuje súčiniteľ plnenia, definovaný ako",
+    "answers":[
+      "pomer skutočnej a teoretickej hmotnosti vzduchu privedeného do valca počas plnenia",
+      "rozdiel teoretickej a skutočnej hmotnosti vzduchu na naplnenie pracovného valca",
+      "pomer teoretickej a skutočnej hmotnosti vzduchu privedeného do valca počas plnenia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"773"
+  },
+  {
+    "questionText":"Zmena atmosférickej teploty ovplyvňuje teplotu pracovnej zmesi vo valci. Pri inak rovnakých podmienkach pri vzraste atmosférickej teploty, výkon motora",
+    "answers":[
+      "rastie",
+      "prakticky sa nemení",
+      "klesá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"774"
+  },
+  {
+    "questionText":"Pre režimy práce leteckého motora s plniacim tlakom nižším ako je tlak atmosférický, je výhodné kompresor vypnúť, pretože sa",
+    "answers":[
+      "zmenší spotreba paliva a výkon pritom zostane zachovaný",
+      "nezmení merná spotreba paliva a výkon motora sa zväčší",
+      "zväčší výkon motora a zmenší spotreba paliva"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"775"
+  },
+  {
+    "questionText":"Pri konštantných otáčkach motora a konštantnom plniacom tlaku 1. 0, výkon pri vypnutom kompresore bude v porovnaní s režimom, kedy je kompresor zapnutý",
+    "answers":[
+      "väčší",
+      "menší",
+      "nezmenený"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"776"
+  },
+  {
+    "questionText":"Účinok využitia reakcie výfukových plynov sa vzrastom výšky letu",
+    "answers":[
+      "zmenšuje",
+      "zväčšuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"777"
+  },
+  {
+    "questionText":"Najvhodnejšie zloženie pracovnej zmesi je také, kedy pri vzletovom režime je zmes spravidla bohatá, pri voľnobežnom režime bohatá, pri menovitom režime a cestovnom režime",
+    "answers":[
+      "menej bohatá",
+      "bohatá",
+      "chudá"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"778"
+  },
+  {
+    "questionText":"Vonkajšia charakteristika piestového motora je závislosť výkonu motora na otáčkach pri",
+    "answers":[
+      "zaťažovaní motora vrtuľou",
+      "zmene dodávky vzduchu škrtiacou klapkou",
+      "úplne otvorenej škrtiacej klapke"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"779"
+  },
+  {
+    "questionText":"Výškový motor má v nominálnej (výpočtovej) výške výkon v porovnaní s výkonom na zemi",
+    "answers":[
+      "rovnaký",
+      "väčší",
+      "menší"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"780"
+  },
+  {
+    "questionText":"Merná spotreba výškového motora je v nominálnej výške v porovnaní s mernou spotrebou na zemi",
+    "answers":[
+      "rovnaká",
+      "väčšia",
+      "menšia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"781"
+  },
+  {
+    "questionText":"Zloženie zmesi ovplyvňuje zloženie spalín a teda ich nepriaznivé ekologické dôsledky. Kysličník uhličitý sa objavuje v",
+    "answers":[
+      "chudobných i bohatých zmesiach",
+      "chudobných zmesiach",
+      "bohatých zmesiach"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"782"
+  },
+  {
+    "questionText":"Nevhodné zoriadenie alebo chybné zapaľovanie môže spôsobiť aj neskorý zážih, vplyvom ktorého sa znižuje výkon motora, teplota výfukových plynov sa zvyšuje a merná spotreba paliva sa",
+    "answers":[
+      "zvyšuje",
+      "znižuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"783"
+  },
+  {
+    "questionText":"V kľukovom mechanizme pôsobia zotrvačné sily a sily pôsobiace tlakom plynu na piest. Perioda zmeny zotrvačných síl je",
+    "answers":[
+      "360 stupňov",
+      "180 stupňov",
+      "720 stupňov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"784"
+  },
+  {
+    "questionText":"Poradie zapaľovania je dôležité z hľadiska rovnomerného zaťaženia konštrukcie motora. Počas jednej pracovnej periody sa zážih vystrieda",
+    "answers":[
+      "u polovice valcov",
+      "u všetkých valcov",
+      "u tretiny valcov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"785"
+  },
+  {
+    "questionText":"Reduktorom lietadlového piestového motora sa počet otáčok vrtule vzhľadom k otáčkam hriadeľa motora",
+    "answers":[
+      "zväčšuje",
+      "zmenšuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"786"
+  },
+  {
+    "questionText":"Výkon motora bez kompresora od zeme do výšky 5 000 m poklesne približne o",
+    "answers":[
+      "30%",
+      "70%",
+      "50%"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"787"
+  },
+  {
+    "questionText":"Pri konštantných otáčkach motora a poklese plniaceho tlaku sa hodinová spotreba paliva",
+    "answers":[
+      "zväčšuje",
+      "zmenšuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"788"
+  },
+  {
+    "questionText":"Bočná sila tlaku na piest namáha valec na ohyb. Kedy je sila najväčšia?",
+    "answers":[
+      "pred hornou úvraťou",
+      "v hornej úvrati",
+      "za hornou úvraťou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"789"
+  },
+  {
+    "questionText":"Detonácia je nežiadúci jav, môže však vzniknúť za podmienok, kedy motor",
+    "answers":[
+      "je podchladený",
+      "pracuje s veľmi bohatou zmesou",
+      "pracuje s veľkou rýchlosťou horenia určitej časti zmesi s následným prudkým nárastom tlaku a teploty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"790"
+  },
+  {
+    "questionText":" Na obrázku je znázornená schéma práce (S - sací ventil, V - výfukový ventil)",
+    "answers":[
+      "štvordobého zážihového spaľovacieho motora",
+      "dvojdobého motora",
+      "štvordobého vznetového motora"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"791",
+    "questionImage":"letecke_pohonne_jednotky_x33_11.jpg"
+  },
+  {
+    "questionText":"Regulátor konštantných otáčok vrtule (bez ohľadu na jeho princíp) udržuje zvolené otáčky",
+    "answers":[
+      "nastavením vrtuľových listov",
+      "ovládaním vstrekovacieho čerpadla",
+      "ovládaním škrtiacej klapky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"792"
+  },
+  {
+    "questionText":"Vrtuľová charakteristika vyjadruje závislosť užitočného výkonu motora na otáčkach pri",
+    "answers":[
+      "konštantnom nastavení vrtule",
+      "konštantnom plniacom tlaku a zmenou zaťaženia vrtule",
+      "premennom plniacom tlaku a zmenou zaťaženia vrtule"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"793"
+  },
+  {
+    "questionText":"Pevná vrtuľa je navrhnutá tak, aby umožňovala najvyššie otáčky motora",
+    "answers":[
+      "pri vzlete",
+      "pri stúpaní",
+      "pri horizontálnom lete"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"794"
+  },
+  {
+    "questionText":"Staviteľná vrtuľa sa na vzletový režim nastavuje do polohy \"vzlet\". Uhol nastavenia vrtuľových listov",
+    "answers":[
+      "je maximálny",
+      "je minimálny",
+      "zaisťuje maximálnu účinnosť vrtule"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"795"
+  },
+  {
+    "questionText":"Námraza na vrtuľových listoch sa začína tvoriť na",
+    "answers":[
+      "nábežnej hrane listu",
+      "odtokovej hrane listu",
+      "nábežnej i odtokovej hrane listu súčasne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"796"
+  },
+  {
+    "questionText":"Pri chemickom odmrazovaní vrtuľových listov sa na listy najčastejšie rozprašuje zmes",
+    "answers":[
+      "liehu a glycerínu",
+      "hydraulický olej",
+      "vody so saponátom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"797"
+  },
+  {
+    "questionText":"Podľa spôsobu prestavovania listov sa staviteľné vrtule rozdeľujú na",
+    "answers":[
+      "mechanické a hydropneumatické",
+      "mechanické, hydraulické a elektrické",
+      "hydraulické a elektromagnetické"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"798"
+  },
+  {
+    "questionText":" Na obrázku je zobrazená schéma (Z<sub>1</sub>,Z<sub>2</sub> - počet zubov)",
+    "answers":[
+      "súosového reduktora tvoreného čelnými ozubenými kolesami",
+      "súosového reduktora tvoreného kuželovými ozubenými kolesami",
+      "nesúosového reduktora"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"799",
+    "questionImage":"letecke_pohonne_jednotky_x33_19.jpg"
+  },
+  {
+    "questionText":"Počas horúceho počasia sa zmes na spustenie",
+    "answers":[
+      "nastaví na bohatú",
+      "nastaví na chudobnú",
+      "nastaví na neutrálnu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"800"
+  },
+  {
+    "questionText":"Počas chladného počasia je treba pred spustením piestový motor prehriať teplým vzduchom. Je to vtedy, keď teplota okolitého vzduchu je menšia ako",
+    "answers":[
+      "+ 5 stupňov Celzia",
+      "- 5 stupňov Celzia",
+      "0 stupňov Celzia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"801",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Nepriaznivé podmienky pre motor vznikajú počas teplého počasia a pri výkone motora vyššom ako cestovnom, najmä pri stúpaní. Ak sa blížia teploty k povoleným medziam, je najlepšie",
+    "answers":[
+      "obohatiť zmes",
+      "zmenšiť prípusť a zvýšiť rýchlosť za cenu menšieho stúpania",
+      "prejsť do horizontálneho letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"802",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Pri motorovej skúške je povolený chod pri maximálnom výkone po dobu niekoľkých sekúnd. Je to z dôvodov",
+    "answers":[
+      "hlukového obmedzenia",
+      "nepriaznivých podmienok chladenia",
+      "nepriaznivých podmienok práce vrtule"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"803",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Kontrola zapaľovacích magnét pri maximálnom trvalom režime v rámci motorovej skúšky sa vykonáva pri nastavení vrtule na ",
+    "answers":[
+      "minimálny uhol",
+      "stúpanie",
+      "maximálny uhol"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"804",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Pred spustením leteckého motora pri stredných teplotách sa vstrekuje ručnou pumpičkou palivo do sacieho potrubia. Pre horúci motor po lete",
+    "answers":[
+      "1 - 3 zdvihy pumpičky",
+      "sa nevstrekuje",
+      "2 - 4 zdvihy pumpičky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"805",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Pri zhoršených podmienkach chladenia sa prehrievaniu najviac zahrievaných súčastí zabraňuje pomocou korekcie, použitím",
+    "answers":[
+      "chudobnejšej zmesi",
+      "bohatšej zmesi",
+      "teoretickej zmesi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"806",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Voľnobežný režim sa kontroluje pri nastavení vrtule na ",
+    "answers":[
+      "minimálny uhol",
+      "maximálny uhol",
+      "minimálny i maximálny uhol"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"807",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Na uľahčenie spustenia sa na magnetá zapojuje spúšťací bzučiak. Jeho prívodný kábel je zapojený",
+    "answers":[
+      "na sekundárne vinutie",
+      "na primárne vinutie",
+      "priamo na rozdeľovač"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"808",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Prerušenie činnosti magneta sa uskutoční ",
+    "answers":[
+      "rozpojením primárneho okruhu",
+      "prepojením primárneho okruhu na krátko",
+      "prepojením sekundárneho okruhu na krátko"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"809",
+    "questionPosition":9
+  },
+  {
+    "questionText":"V polohe prepínača magnét \"O\" je",
+    "answers":[
+      "u oboch magnét prepojenie primárneho okruhu do skratu a preto nepracujú",
+      "u oboch magnét rozpojenie primárneho okruhu a preto nepracujú",
+      "odpojené magneto č. 1 od bzučiaka a preto je obtiažne spustenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"810",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Pri motore s jednoduchým karburátorom je zväčšovanie otáčok motora doprevádzané ",
+    "answers":[
+      "ochudobňovaním zmesi",
+      "automatickým udržovaním zloženia zmesi",
+      "obohacovaním zmesi"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"811",
+    "questionPosition":11
+  },
+  {
+    "questionText":"S výškou klesá merná hmotnosť vzduchu. Pri motore s jednoduchým karburátorom (bez výškovej korekcie) sa s výškou zmes ",
+    "answers":[
+      "ochudobňuje",
+      "obohacuje",
+      "nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"812",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Aby karburátor vyhovoval leteckej prevádzke, má veľa doplňujúcich zariadení, napr. vhodnosť zmesi s výškou udržuje",
+    "answers":[
+      "prídavná tryska",
+      "výšková korekcia",
+      "akceleračná tryska"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"813",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Pri pozorovaní výfukových plynov vo dne značí svetlý dym",
+    "answers":[
+      "spaľovanie abnormálne veľkého množstva oleja",
+      "chudobnú zmes",
+      "bohatú zmes"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"814",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Pri obohatení zmesi pákou korekcie sa pri konštantných otáčkach motora",
+    "answers":[
+      "zvýši výkon motora",
+      "zníži teplota hláv valcov",
+      "zníži spotreba paliva"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"815",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Používanie škrtenia prípustí so zapnutým kompresorom je nevýhodné z hľadiska",
+    "answers":[
+      "výkonu",
+      "výkonu i spotreby paliva",
+      "spotreby paliva"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"816",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Po vypnutí magnét vypínačom na prístrojovej doske motor pracuje pravidelne ďalej. Príčinou je ",
+    "answers":[
+      "samozapálenie vplyvom zakarbonovaného spaľovacieho priestoru",
+      "uvoľnený a odpojený skratovací kábel",
+      "motor bol odstavený bez predchádzajúceho ochladenia - je prehriaty"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"817",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Pri lete maximálnou vodorovnou rýchlosťou sú pre motor bez preplňovania najobtiažnejšie podmienky chladenia",
+    "answers":[
+      "v menovitej výške",
+      "pri zemi",
+      "vo výške vyššej ako je menovitá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"818",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Pri jednoduchom karburátore je palivo do difúzora dodávané",
+    "answers":[
+      "samospádom",
+      "pretlakom medzi plavákovou komorou a hrdlom difúzora",
+      "pretlakom medzi okolitou atmosférou a hrdlom difúzora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"819",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Spaľovacie motory sú chladené vzduchom alebo kvapalinou. Zmena zaťaženia motora sa na tepelnom stave motora (kolísanie teploty) prejavuje viac pri motore chladenom",
+    "answers":[
+      "kvapalinou",
+      "vzduchom",
+      "oboma rovnako"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"820",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Pri dlhšom zostupe sa motor ochladzuje, najnižšia povolená teplota hláv valcov je uvedená v príslušnej príručke. Pri ochladení k uvedenej hodnote je účelné",
+    "answers":[
+      "zmes málo obohatiť a zmierniť zostup pri zvýšenej prípusti",
+      "zväčšiť prípusť",
+      "ochudobniť zmes"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"821",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Správna pracovná teplota zapaľovacej sviečky je pre daný motor stanovená tzv. tepelnou hodnotou. Sviečky s veľkou tepelnou hodnotou sa nazývajú",
+    "answers":[
+      "teplé, majú veľký prívod tepla a zlý odvod tepla",
+      "studené, majú malý prívod tepla a dobrý odvod tepla",
+      "teplé, majú malý prívod tepla a dobrý odvod tepla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"822",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Čierny dym z výfuku pri všetkých režimoch je príznakom ",
+    "answers":[
+      "nesprávnej funkcie piestových krúžkov",
+      "motor pracuje s bohatou zmesou",
+      "spaľuje sa veľmi veľa oleja (chybná funkcia stieracích krúžkov)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"823",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Zapaľovanie magnetové (celá zapaľovacia sústava)",
+    "answers":[
+      "je závislé na iných zariadeniach",
+      "je úplne nezávislé na iných zariadeniach",
+      "pracuje len keď je palubný istič štartéra v polohe zapnutý"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"824",
+    "questionPosition":10
+  },
+  {
+    "questionText":" Na obrázku je zobrazená schéma",
+    "answers":[
+      "plavákového karburátora",
+      "vstrekovacieho čerpadla",
+      "membránového karburátora"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky X35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"825",
+    "questionPosition":"letecke_pohonne_jednotky_x35_11.jpg"
+  },
+  {
+    "questionText":"Veľmi chudobná zmes a malý predstih zážihu spôsobí dohorievanie zmesi i počas výfuku. Pri expanzii sa v týchto podmienkach odovzdávanie tepla do motora ",
+    "answers":[
+      "a) nemení",
+      "b) zväčšuje",
+      "c) zmenšuje"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"826",
+    "questionPosition":1,
+    "questionImage":"letecke_pohonne_jednotky_x33_11.jpg"
+  },
+  {
+    "questionText":"Pred spustením leteckého motora pri stredných teplotách sa vstrekuje ručnou pumpičkou palivo do sacieho potrubia. Pre horúci motor po lete",
+    "answers":[
+      "a) 1 - 3 zdvihy pumpičky",
+      "b) sa nevstrekuje",
+      "c) 2 - 4 zdvihy pumpičky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"827",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Pri poklese plniaceho tlaku a pri konštantných otáčkach motora sa výkon piestového motora",
+    "answers":[
+      "a) zvyšuje",
+      "b) nemení sa",
+      "c) zmenšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"828",
+    "questionPosition":3
+  },
+  {
+    "questionText":" Na obrázku je zobrazená schéma",
+    "answers":[
+      "a) plavákového karburátora",
+      "b) vstrekovacieho čerpadla",
+      "c) membránového karburátora"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"829",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Pod pojmom vyváženie motora rozumieme vyváženie zotrvačných síl",
+    "answers":[
+      "a) posuvne sa pohybujúcich hmôt",
+      "b) otáčajúcich sa hmôt",
+      "c) posuvne sa pohybujúcich a otáčajúcich sa hmôt"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"830",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Označme: Pe = užitočný výkon, Ps - stratový výkon, Pi - indikovaný výkon, potom",
+    "answers":[
+      "a) mechanická účinnosť = Pe / (Pe - Ps)",
+      "b) mechanická účinnosť = Pe / (Pe + Ps)",
+      "c) mechanická účinnosť = Pe / (Pe / Ps)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"831",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Pri konštantných otáčkach motora a poklese plniaceho tlaku sa hodinová spotreba paliva",
+    "answers":[
+      "a) zväčšuje",
+      "b) zmenšuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"832",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Zapaľovanie magnetové (celá zapaľovacia sústava)",
+    "answers":[
+      "a) je závislé na iných zariadeniach",
+      "b) je úplne nezávislé na iných zariadeniach",
+      "c) pracuje len keď je palubný istič štartéra v polohe zapnutý"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"833",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Nevhodné zoriadenie alebo chybné zapaľovanie môže spôsobiť aj neskorý zážih, vplyvom ktorého sa znižuje výkon motora, teplota výfukových plynov sa zvyšuje a merná spotreba paliva sa",
+    "answers":[
+      "a) zvyšuje",
+      "b) znižuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"834",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Mechanická práca je mimo iné ovplyvnená prívodom tepla a tepelnou účinnosťou. So zväčšovaním kompresného pomeru sa mechanická práca",
+    "answers":[
+      "a) nemení",
+      "b) zmenšuje",
+      "c) zväčšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"835",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Označme: ETA (e) - celková účinnosť, ETA (i) - indikovaná účinnosť, ETA(m) - mechanická účinnosť. Vzájomný vzťah je",
+    "answers":[
+      "a) ETA (e) = ETA (i) / ETA (m)",
+      "b) ETA (e) = ETA (i) x ETA (m)",
+      "c) ETA (e) = ETA (i) - ETA (m)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"836",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Pri konštantných otáčkach motora a konštantnom plniacom tlaku 1. 0, výkon pri vypnutom kompresore bude v porovnaní s režimom, kedy je kompresor zapnutý",
+    "answers":[
+      "a) väčší",
+      "b) menší",
+      "c) nezmenený"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"837",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Včasnosť a dokonalosť spaľovania majú rozhodujúci vplyv na prácu získanú za skutočný pracovný obeh. Optimálny predstih zaručuje",
+    "answers":[
+      "a) maximálnu expanznú prácu",
+      "b) minimálnu kompresnú prácu",
+      "c) maximálny rozdiel expanznej a kompresnej práce"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"838",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Prerušenie činnosti magneta sa uskutoční ",
+    "answers":[
+      "a) rozpojením primárneho okruhu",
+      "b) prepojením primárneho okruhu na krátko",
+      "c) prepojením sekundárneho okruhu na krátko"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y31 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"839",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Označme: kg - jednotka hmotnosti, h - hodina, l - jednotka objemu (liter), kW - jednotka výkonu",
+    "answers":[
+      "a) rozmer mernej spotreby paliva = (kg/kWh)",
+      "b) rozmer mernej spotreby paliva = (kg/l)",
+      "c) rozmer mernej spotreby paliva = (kg/kg)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"840",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Počas horúceho počasia sa zmes na spustenie",
+    "answers":[
+      "a) nastaví na bohatú",
+      "b) nastaví na chudobnú",
+      "c) nastaví na neutrálnu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"841",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich redukčných pomerov vrtuľového reduktora zaistí najvyššie otáčky vrtule (pri rovnakých otáčkach motora)",
+    "answers":[
+      "a) 16 : 9",
+      "b) 16 : 7",
+      "c) 3 : 2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"842",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Je snahou získať pri danom objeme motora maximálnu prácu, preto je dôležité naplniť pri daných podmienkach maximálne množstvo vhodnej pracovnej zmesi. To charakterizuje súčiniteľ plnenia, definovaný ako",
+    "answers":[
+      "a) pomer skutočnej a teoretickej hmotnosti vzduchu privedeného do valca počas plnenia",
+      "b) rozdiel teoretickej a skutočnej hmotnosti vzduchu na naplnenie pracovného valca",
+      "c) pomer teoretickej a skutočnej hmotnosti vzduchu privedeného do valca počas plnenia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"843",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Pracovná zmes horí len v určitom rozmedzí svojho zloženia. Veľmi bohatá zmes horí pomalšie. Praktické ochudobňovanie alebo obohatenie zmesi je limitované",
+    "answers":[
+      "a) porušením rovnorodosti spaľovania a následnou nepravidelnosťou chodu motora",
+      "b) zvýšením teploty hláv valcom vplyvom zmenšenia rýchlosti spaľovania",
+      "c) nedokonalým spaľovaním s vylučovaním uhlíka a dymením z výfuku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"844",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Pri pozorovaní výfukových plynov vo dne značí svetlý dym",
+    "answers":[
+      "a) spaľovanie abnormálne veľkého množstva oleja",
+      "b) chudobnú zmes",
+      "c) bohatú zmes"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"845",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Podľa spôsobu prestavovania listov sa staviteľné vrtule rozdeľujú na",
+    "answers":[
+      "a) mechanické a hydropneumatické",
+      "b) mechanické, hydraulické a elektrické",
+      "c) hydraulické a elektromagnetické"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"846",
+    "questionPosition":7
+  },
+  {
+    "questionText":" Na obrázku je zobrazená schéma (Z<sub>1</sub>,Z<sub>2</sub> - počet zubov)",
+    "answers":[
+      "a) súosového reduktora tvoreného čelnými ozubenými kolesami",
+      "b) súosového reduktora tvoreného kuželovými ozubenými kolesami",
+      "c) nesúosového reduktora"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"847",
+    "questionPosition":8,
+    "questionImage":"letecke_pohonne_jednotky_y32_08.jpg"
+  },
+  {
+    "questionText":"Nepriaznivé podmienky pre motor vznikajú počas teplého počasia a pri výkone motora vyššom ako cestovnom, najmä pri stúpaní. Ak sa blížia teploty k povoleným medziam, je najlepšie",
+    "answers":[
+      "a) obohatiť zmes",
+      "b) zmenšiť prípusť a zvýšiť rýchlosť za cenu menšieho stúpania",
+      "c) prejsť do horizontálneho letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"848",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Počas chladného počasia je treba pred spustením piestový motor prehriať teplým vzduchom. Je to vtedy, keď teplota okolitého vzduchu je menšia ako",
+    "answers":[
+      "a) + 5 stupňov Celzia",
+      "b) - 5 stupňov Celzia",
+      "c) 0 stupňov Celzia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"849",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Spaľovacie motory sú chladené vzduchom alebo kvapalinou. Zmena zaťaženia motora sa na tepelnom stave motora (kolísanie teploty) prejavuje viac pri motore chladenom",
+    "answers":[
+      "a) kvapalinou",
+      "b) vzduchom",
+      "c) oboma rovnako"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y32 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"850",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Výkon leteckého piestového motora závisí od množstva tepla transformovaného za jednotku času. Je ovládaný zmenou",
+    "answers":[
+      "a) dodávky paliva do motora",
+      "b) dodávky vzduchu do motora",
+      "c) zloženia pracovnej zmesi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"851",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Okamih otvárania výfukového ventilu je určený časovaním rozvodu. Predstihom otvorenia výfukového ventilu nazývame",
+    "answers":[
+      "a) uhol kľukového hriadeľa pred otvorením sacieho ventilu",
+      "b) uhol kľukového hriadeľa pred dolnou úvraťou",
+      "c) uhol kľukového hriadeľa pred okamihom zapálenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"852",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Pod pojmom pracovný objem valca rozumieme",
+    "answers":[
+      "a) objem priestoru vo valci, kedy je piest v hornej úvrati a prebieha spaľovanie zmesi",
+      "b) objem priestoru vo valci, kedy je piest v dolnej úvrati a začína plnenie",
+      "c) objem valca medzi hornou a dolnou úvraťou piestu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"853",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Voľnobežný režim sa kontroluje pri nastavení vrtule na ",
+    "answers":[
+      "a) minimálny uhol",
+      "b) maximálny uhol",
+      "c) minimálny i maximálny uhol"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"854",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Pri lete maximálnou vodorovnou rýchlosťou sú pre motor bez preplňovania najobtiažnejšie podmienky chladenia",
+    "answers":[
+      "a) v menovitej výške",
+      "b) pri zemi",
+      "c) vo výške vyššej ako je menovitá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"855",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Vonkajšia charakteristika piestového motora je závislosť výkonu motora na otáčkach pri",
+    "answers":[
+      "a) zaťažovaní motora vrtuľou",
+      "b) zmene dodávky vzduchu škrtiacou klapkou",
+      "c) úplne otvorenej škrtiacej klapke"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"856",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Pri jednoduchom karburátore je palivo do difúzora dodávané",
+    "answers":[
+      "a) samospádom",
+      "b) pretlakom medzi plavákovou komorou a hrdlom difúzora",
+      "c) pretlakom medzi okolitou atmosférou a hrdlom difúzora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"857",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Označme: Pe - užitočný výkon, Pi - indikovaný výkon, Ps - stratový výkon, potom",
+    "answers":[
+      "a) mechanická účinnosť = Pe - Pi",
+      "b) mechanická účinnosť = Pe / Pi",
+      "c) mechanická účinnosť = Pe x Pi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"858",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Pri motorovej skúške je povolený chod pri maximálnom výkone po dobu niekoľkých sekúnd. Je to z dôvodov",
+    "answers":[
+      "a) hlukového obmedzenia",
+      "b) nepriaznivých podmienok chladenia",
+      "c) nepriaznivých podmienok práce vrtule"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"859",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Výkon motora bez kompresora od zeme do výšky 5 000 m poklesne približne o",
+    "answers":[
+      "a) 30%",
+      "b) 70%",
+      "c) 50%"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"860",
+    "questionPosition":10
+  },
+  {
+    "questionText":" Na obrázku je znázornená schéma práce (S - sací ventil, V - výfukový ventil)",
+    "answers":[
+      "a) štvordobého zážihového spaľovacieho motora",
+      "b) dvojdobého motora",
+      "c) štvordobého vznetového motora"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"861",
+    "questionPosition":11,
+    "questionImage":"letecke_pohonne_jednotky_y33_11.jpg"
+  },
+  {
+    "questionText":"Termická účinnosť piestového motora sa pri zväčšovaní kompresného pomeru ",
+    "answers":[
+      "a) zväčšuje",
+      "b) nemení",
+      "c) zmenšuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"862",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Námraza na vrtuľových listoch sa začína tvoriť na",
+    "answers":[
+      "a) nábežnej hrane listu",
+      "b) odtokovej hrane listu",
+      "c) nábežnej i odtokovej hrane listu súčasne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"863",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Zloženie zmesi ovplyvňuje zloženie spalín a teda ich nepriaznivé ekologické dôsledky. Kysličník uhličitý sa objavuje v",
+    "answers":[
+      "a) chudobných i bohatých zmesiach",
+      "b) chudobných zmesiach",
+      "c) bohatých zmesiach"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"864",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Detonácia je nežiadúci jav, môže však vzniknúť za podmienok, kedy motor",
+    "answers":[
+      "a) je podchladený",
+      "b) pracuje s veľmi bohatou zmesou",
+      "c) pracuje s veľkou rýchlosťou horenia určitej časti zmesi s následným prudkým nárastom tlaku a teploty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"865",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Pracovný zdvih piestového motora, kedy motor koná prácu, sa začína v okamihu",
+    "answers":[
+      "a) zapálenia pracovnej zmesy",
+      "b) maximálneho tlaku vo valci, t. j. na začiatku expanzie",
+      "c) polohy pracovného piesta v hornej úvrati"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"866",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Najvhodnejšie zloženie pracovnej zmesi je také, kedy pri vzletovom režime je zmes spravidla bohatá, pri voľnobežnom režime bohatá, pri menovitom režime a cestovnom režime",
+    "answers":[
+      "a) menej bohatá",
+      "b) bohatá",
+      "c) chudá"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"867",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Výkon piestového motora pri vzraste plniaceho tlaku",
+    "answers":[
+      "a) rastie",
+      "b) klesá",
+      "c) nemení sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"868",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Pevná vrtuľa je navrhnutá tak, aby umožňovala najvyššie otáčky motora",
+    "answers":[
+      "a) pri vzlete",
+      "b) pri stúpaní",
+      "c) pri horizontálnom lete"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"869",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Spotreba paliva pri vzrastajúcom plniacom tlaku a predpoklade konštantnej mernej spotreby paliva ",
+    "answers":[
+      "a) klesá",
+      "b) zväčšuje sa",
+      "c) nemení sa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y33 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"870",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Pri kompresii sa pracovná zmes ohrieva, na začiatku kompresie je",
+    "answers":[
+      "a) zmes ochladzovaná stenami",
+      "b) zmes ohrievaná od stien",
+      "c) vplyv teploty nepatrný"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"871",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Na uľahčenie spustenia sa na magnetá zapojuje spúšťací bzučiak. Jeho prívodný kábel je zapojený",
+    "answers":[
+      "a) na sekundárne vinutie",
+      "b) na primárne vinutie",
+      "c) priamo na rozdeľovač"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"872",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Pre režimy práce leteckého motora s plniacim tlakom nižším ako je tlak atmosférický, je výhodné kompresor vypnúť, pretože sa",
+    "answers":[
+      "a) zmenší spotreba paliva a výkon pritom zostane zachovaný",
+      "b) nezmení merná spotreba paliva a výkon motora sa zväčší",
+      "c) zväčší výkon motora a zmenší spotreba paliva"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"873",
+    "questionPosition":3
+  },
+  {
+    "questionText":" V bode 4 na obrázku indikátorového diagramu štvordobého spaľovacieho motora sa",
+    "answers":[
+      "a) otvára sací ventil",
+      "b) zatvára výfukový ventil",
+      "c) otvára výfukový ventil"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"874",
+    "questionPosition":4,
+    "questionImage":"letecke_pohonne_jednotky_y34_04.jpg"
+  },
+  {
+    "questionText":"Hlavnou prednosťou motora s preplňovaním, oproti nepreplňovanému motoru, je jeho",
+    "answers":[
+      "a) menšia hlučnosť",
+      "b) menšia merná hmotnosť motora",
+      "c) väčší výkon najmä vo veľkých výškach"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"875",
+    "questionPosition":5
+  },
+  {
+    "questionText":"S výškou klesá merná hmotnosť vzduchu. Pri motore s jednoduchým karburátorom (bez výškovej korekcie) sa s výškou zmes ",
+    "answers":[
+      "a) ochudobňuje",
+      "b) obohacuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"876",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Výškový motor má v nominálnej (výpočtovej) výške výkon v porovnaní s výkonom na zemi",
+    "answers":[
+      "a) rovnaký",
+      "b) väčší",
+      "c) menší"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"877",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Reduktorom lietadlového piestového motora sa počet otáčok vrtule vzhľadom k otáčkam hriadeľa motora",
+    "answers":[
+      "a) zväčšuje",
+      "b) zmenšuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"878",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Pri úplne otvorenej škrtiacej klapke a zvýšení otáčok motora merná spotreba paliva",
+    "answers":[
+      "a) sa nemení",
+      "b) rastie",
+      "c) klesá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"879",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Teoretická spotreba vzduchu zaistí úplné okysličovanie spaliteľných zložiek paliva. Skutočná hmotnosť môže byť odlišná od teoretickej a je charakterizovaná súčiniteľom prebytku vzduchu - označovaným \"alfa\". Hodnota alfa ",
+    "answers":[
+      "a) zmes je bohatá, je teda prebytok paliva",
+      "b) zmes je chudobná, je teda prebytok vzduchu",
+      "c) zloženie zmesi je optimálne"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"880",
+    "questionPosition":10
+  },
+  {
+    "questionText":"V kľukovom mechanizme pôsobia zotrvačné sily a sily pôsobiace tlakom plynu na piest. Perioda zmeny zotrvačných síl je",
+    "answers":[
+      "a) 360 stupňov",
+      "b) 180 stupňov",
+      "c) 720 stupňov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"881",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Vrtuľová charakteristika vyjadruje závislosť užitočného výkonu motora na otáčkach pri",
+    "answers":[
+      "a) konštantnom nastavení vrtule",
+      "b) konštantnom plniacom tlaku a zmenou zaťaženia vrtule",
+      "c) premennom plniacom tlaku a zmenou zaťaženia vrtule"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"882",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Zmena atmosférickej teploty ovplyvňuje teplotu pracovnej zmesi vo valci. Pri inak rovnakých podmienkach pri vzraste atmosférickej teploty, výkon motora",
+    "answers":[
+      "a) rastie",
+      "b) prakticky sa nemení",
+      "c) klesá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"883",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Pri zvýšení okolitého atmosférického tlaku, pri ostatných rovnakých podmienkach, sa výkon motora",
+    "answers":[
+      "a) nemení",
+      "b) zvyšuje",
+      "c) znižuje"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"884",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Regulátor konštantných otáčok vrtule (bez ohľadu na jeho princíp) udržuje zvolené otáčky",
+    "answers":[
+      "a) nastavením vrtuľových listov",
+      "b) ovládaním vstrekovacieho čerpadla",
+      "c) ovládaním škrtiacej klapky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"885",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Čierny dym z výfuku pri všetkých režimoch je príznakom ",
+    "answers":[
+      "a) nesprávnej funkcie piestových krúžkov",
+      "b) motor pracuje s bohatou zmesou",
+      "c) spaľuje sa veľmi veľa oleja (chybná funkcia stieracích krúžkov)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"886",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Pri zhoršených podmienkach chladenia sa prehrievaniu najviac zahrievaných súčastí zabraňuje pomocou korekcie, použitím",
+    "answers":[
+      "a) chudobnejšej zmesi",
+      "b) bohatšej zmesi",
+      "c) teoretickej zmesi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"887",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Pri zväčšovaní výšky u motora bez kompresora sa merná spotreba paliva zvyšuje, výkon sa",
+    "answers":[
+      "a) zväčšuje",
+      "b) zmenšuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"888",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Po vypnutí magnét vypínačom na prístrojovej doske motor pracuje pravidelne ďalej. Príčinou je ",
+    "answers":[
+      "a) samozapálenie vplyvom zakarbonovaného spaľovacieho priestoru",
+      "b) uvoľnený a odpojený skratovací kábel",
+      "c) motor bol odstavený bez predchádzajúceho ochladenia - je prehriaty"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"889",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Pochod, v ktorom sa mení tepelná energia na mechanickú, nazývame expanzia. Začiatok expanzie sa počíta od",
+    "answers":[
+      "a) hornej úvrate piesta",
+      "b) okamihu zážihu",
+      "c) okamihu maximálneho tlaku vo valci"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y34 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"890",
+    "questionPosition":20
+  },
+  {
+    "questionText":"U radového šesťvalcového piestového motora je interval medzi zážihmi",
+    "answers":[
+      "a) 140 stupňov",
+      "b) 80 stupňov",
+      "c) 120 stupňov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"891",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Merná spotreba výškového motora je v nominálnej výške v porovnaní s mernou spotrebou na zemi",
+    "answers":[
+      "a) rovnaká",
+      "b) väčšia",
+      "c) menšia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"892",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Základnou charakteristikou leteckého motora s preplňovaním je, že so zväčšovaním výšky od zeme po nominálnu výšku udržuje",
+    "answers":[
+      "a) konštantný výkon motora",
+      "b) konštantné otáčky motora",
+      "c) konštantný plniaci tlak"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"893",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Aby karburátor vyhovoval leteckej prevádzke, má veľa doplňujúcich zariadení, napr. vhodnosť zmesi s výškou udržuje",
+    "answers":[
+      "a) prídavná tryska",
+      "b) výšková korekcia",
+      "c) akceleračná tryska"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"894",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Bočná sila tlaku na piest namáha valec na ohyb. Kedy je sila najväčšia?",
+    "answers":[
+      "a) pred hornou úvraťou",
+      "b) v hornej úvrati",
+      "c) za hornou úvraťou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"895",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Pri obohatení zmesi pákou korekcie sa pri konštantných otáčkach motora",
+    "answers":[
+      "a) zvýši výkon motora",
+      "b) zníži teplota hláv valcov",
+      "c) zníži spotreba paliva"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"896",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Plnenie valca sa končí 40 - 65 stupňov za dolnou úvraťou. Teda až keď sa piest pohybuje smerom k hornej úvrati. Je to z dôvodov",
+    "answers":[
+      "a) zmenšenia kompresnej práce počas kompresného zdvihu",
+      "b) zvýšenia súčiniteľa plnenia",
+      "c) zlepšenia vyplachovania pracovného priestoru od spalín"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"897",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Kompresný pomer je pri nasledovnom označení (V1 - objem v dolnej úvrati, V2 - objem v hornej úvrati, VZ - zdvihový objem, VK - objem kompresného priestoru)",
+    "answers":[
+      "a) VZ / VK",
+      "b) V1 / VK",
+      "c) V1 / V2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"898",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Používanie škrtenia prípustí so zapnutým kompresorom je nevýhodné z hľadiska",
+    "answers":[
+      "a) výkonu",
+      "b) výkonu i spotreby paliva",
+      "c) spotreby paliva"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"899",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Pri chemickom odmrazovaní vrtuľových listov sa na listy najčastejšie rozprašuje zmes",
+    "answers":[
+      "a) liehu a glycerínu",
+      "b) hydraulický olej",
+      "c) vody so saponátom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"900",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Kontrola zapaľovacích magnét pri maximálnom trvalom režime v rámci motorovej skúšky sa vykonáva pri nastavení vrtule na ",
+    "answers":[
+      "a) minimálny uhol",
+      "b) stúpanie",
+      "c) maximálny uhol"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"901",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Správna pracovná teplota zapaľovacej sviečky je pre daný motor stanovená tzv. tepelnou hodnotou. Sviečky s veľkou tepelnou hodnotou sa nazývajú",
+    "answers":[
+      "a) teplé, majú veľký prívod tepla a zlý odvod tepla",
+      "b) studené, majú malý prívod tepla a dobrý odvod tepla",
+      "c) teplé, majú malý prívod tepla a dobrý odvod tepla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"902",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Poradie zapaľovania je dôležité z hľadiska rovnomerného zaťaženia konštrukcie motora. Počas jednej pracovnej periody sa zážih vystrieda",
+    "answers":[
+      "a) u polovice valcov",
+      "b) u všetkých valcov",
+      "c) u tretiny valcov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"903",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Litrový výkon štvorvalcového piestového motora je daný ako pomer",
+    "answers":[
+      "a) hmotnosť / zdvihový objem",
+      "b) výkon / zdvihový objem",
+      "c) výkon / objem jedného valca"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"904",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Tlak vo valci počas výfuku postupne klesá. Výfukový zdvih počítame od okamihu",
+    "answers":[
+      "a) otvorenia výfukového ventilu",
+      "b) vyrovnania tlaku vo valci, keď prechádza piest dolnou úvraťou",
+      "c) kedy sa výfukový ventil dostal do úplne otvorenej polohy"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"905",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Účinok využitia reakcie výfukových plynov sa vzrastom výšky letu",
+    "answers":[
+      "a) zmenšuje",
+      "b) zväčšuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"906",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Pri dlhšom zostupe sa motor ochladzuje, najnižšia povolená teplota hláv valcov je uvedená v príslušnej príručke. Pri ochladení k uvedenej hodnote je účelné",
+    "answers":[
+      "a) zmes málo obohatiť a zmierniť zostup pri zvýšenej prípusti",
+      "b) zväčšiť prípusť",
+      "c) ochudobniť zmes"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"907",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Pri motore s jednoduchým karburátorom je zväčšovanie otáčok motora doprevádzané ",
+    "answers":[
+      "a) ochudobňovaním zmesi",
+      "b) automatickým udržovaním zloženia zmesi",
+      "c) obohacovaním zmesi"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"908",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Staviteľná vrtuľa sa na vzletový režim nastavuje do polohy \"vzlet\". Uhol nastavenia vrtuľových listov",
+    "answers":[
+      "a) je maximálny",
+      "b) je minimálny",
+      "c) zaisťuje maximálnu účinnosť vrtule"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"909",
+    "questionPosition":19
+  },
+  {
+    "questionText":"V polohe prepínača magnét \"O\" je",
+    "answers":[
+      "a) u oboch magnét prepojenie primárneho okruhu do skratu a preto nepracujú",
+      "b) u oboch magnét rozpojenie primárneho okruhu a preto nepracujú",
+      "c) odpojené magneto č. 1 od bzučiaka a preto je obtiažne spustenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letecké pohonné jednotky Y35 - letecký test",
+    "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
+    "id":"910",
+    "questionPosition":20
+  }
+]

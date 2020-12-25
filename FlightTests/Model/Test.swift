@@ -17,6 +17,14 @@ struct Test {
     
     }
     
+    func getQuestionImage() -> String {
+        if test.count > 0 && questionNumber != test.count && (test[questionNumber].questionImage != nil) {
+            return test[questionNumber].questionImage!
+        } else {
+            return ""
+        }
+    }
+    
     func getProgress() -> Float {
         return Float(questionNumber) / Float(test.count)
     }

@@ -1,0 +1,2091 @@
+
+[
+  {
+    "questionText":"Dráhová dohľadnosť je vzdialenosť, na ktorú pilot lietadla na osovej čiare vzletovej a pristávacej dráhy môže vidieť",
+    "answers":[
+      "predmety a prekážky na VPD",
+      "značky a svetelné návestidlá",
+      "pohybujúce sa lietadlá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1441"
+  },
+  {
+    "questionText":"Letecká pevná služba je telekomunikačná služba medzi",
+    "answers":[
+      "stanovenými pevnými bodmi",
+      "lietadlovými stanicami",
+      "leteckými a lietadlovými stanicami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1442"
+  },
+  {
+    "questionText":"Letecká pohyblivá služba je služba medzi",
+    "answers":[
+      "stanovenými pevnými bodmi",
+      "leteckými a lietadlovými stanicami alebo lietadlovými stanicami navzájom",
+      "lietadlami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1443"
+  },
+  {
+    "questionText":"Letové prevádzkové služby sú všeobecný výraz zahrňujúci ",
+    "answers":[
+      "oblastnú, približovaciu a letiskovú službu riadenia",
+      "letovú informačnú službu, pohotovostnú službu, letovú poradnú službu, službu riadenia letovej prevádzky",
+      "všetky poskytované služby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1444"
+  },
+  {
+    "questionText":"Letové povolenie je povolenie vydané veliteľovi lietadla vykonať let alebo v lete pokračovať za podmienok určených",
+    "answers":[
+      "stanoviskom riadenia letovej prevádzky",
+      "prevádzkovateľom",
+      "operačným dispečingom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1445"
+  },
+  {
+    "questionText":"Medza povolenia je bod",
+    "answers":[
+      "do ktorého letové povolenie platí",
+      "od ktorého letové povolenie platí",
+      "od ktorého sa mení letové povolenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1446"
+  },
+  {
+    "questionText":"Nebezpečný priestor je vymedzený vzdušný priestor, v ktorom je ",
+    "answers":[
+      "možno vykonávať lety pri dodržovaní určitých zvláštnych podmienok",
+      "vo vyhlásenej dobe činnosť nebezpečná pre lety lietadiel",
+      "zakázaná letová prevádzka"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1447"
+  },
+  {
+    "questionText":"Oblastná služba riadenia je služba riadenia letovej prevádzky pre",
+    "answers":[
+      "všetky lety v riadenej oblasti",
+      "lety IFR a VFR v riadenej oblasti",
+      "riadené lety v riadenej oblasti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1448"
+  },
+  {
+    "questionText":"Ohlasovňa letových prevádzkových služieb je stanovisko zavedené ",
+    "answers":[
+      "na poskytovanie letovej prevádzkovej služby a schvaľovanie letových plánov pred odletom",
+      "na prijímanie letových plánov pred odletom",
+      "na ohlasovanie priebehu letu a pozorovaných skutočností"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1449"
+  },
+  {
+    "questionText":"Pohotovostná služba je vyrozumievanie príslušných organizácií a orgánov o lietadlách, ktorým sa má poskytnúť",
+    "answers":[
+      "pohotovosť k zaisteniu bezpečnosti letu",
+      "pátracia a záchranná služba",
+      "pomoc v nebezpečí"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1450"
+  },
+  {
+    "questionText":"Približovacia služba riadenia je služba riadenia letovej prevádzky pre",
+    "answers":[
+      "riadené lety prilietavajúcich a odlietavajúcich lietadiel",
+      "riadené lety prilietavajúcich lietadiel",
+      "všetky lety prilietavajúcich a odlietavajúcich lietadiel"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1451"
+  },
+  {
+    "questionText":"Riadená oblasť je riadený vzdušný priestor",
+    "answers":[
+      "siahajúci hore od stanovenej výšky nad zemou",
+      "siahajúci od povrchu zeme do stanovenej výšky",
+      "okolo riadeného letiska"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1452"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je služba poskytovaná za účelom ",
+    "answers":[
+      "zabraňovať zrážkam lietadiel počas letu a na prevádzkovej ploche a poskytovania rád a informácií užitočných k bezpečnému a účinnému vykonávaniu letov",
+      "udržovať rýchly a usporiadaný tok letovej prevádzky",
+      "zabraňovať zrážkam lietadiel a udržovať rýchly a usporiadaný tok letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1453"
+  },
+  {
+    "questionText":"Stanovisko AFIS je stanovisko poskytujúce",
+    "answers":[
+      "letiskovú letovú informačnú službu",
+      "služby riadenia letovej prevádzky",
+      "pohotovostnú službu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1454"
+  },
+  {
+    "questionText":"Stanovisko letových prevádzkových služieb je výraz zahrňujúci stanovisko",
+    "answers":[
+      "letiskovej letovej informačnej služby",
+      "riadenia letovej prevádzky a ohlasovňu letových prevádzkových služieb",
+      "riadenia letovej prevádzky, letové informačné stredisko alebo ohlasovňu letových prevádzkových služieb"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1455"
+  },
+  {
+    "questionText":"Stanovisko riadenia letovej prevádzky je výraz zahrňujúci ",
+    "answers":[
+      "letové informačné stredisko, oblastné stredisko riadenia, približovacie stanovisko riadenia a letiskovú riadiacu vežu",
+      "oblastné stredisko riadenia, približovacie stanovisko riadenia a letiskovú riadiacu vežu",
+      "oblastné stanovisko riadenia, približovacie stredisko riadenia a letiskovú riadiacu vežu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1456"
+  },
+  {
+    "questionText":"Obdobie núdze je výraz znamenajúci",
+    "answers":[
+      "obdobie, kedy je neistota o bezpečnosť lietadla a osôb na palube",
+      "odôvodnenú obavu o bezpečnosť lietadla a osôb na palube",
+      "buď obdobie neistoty, obdobie pohotovosti alebo obdobie tiesne"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1457"
+  },
+  {
+    "questionText":"Obdobie neistoty je situácia, keď je",
+    "answers":[
+      "určitá istota, že lietadlu a osobám na jeho palube hrozí vážne bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc",
+      "neistota o bezpečnosť lietadla a osôb na jeho palube",
+      "odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1458"
+  },
+  {
+    "questionText":"Obdobie pohotovosti je situácia, keď je",
+    "answers":[
+      "neistota o bezpečnosť lietadla a osôb na jeho palube",
+      "odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube",
+      "určitá istota, že lietadlu a osobám na jeho palube hrozí vážne a bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1459"
+  },
+  {
+    "questionText":"Obdobie tiesne je situácia, keď je",
+    "answers":[
+      "určitá istota, že lietadlu a osobám na jeho palube hrozí vážne a bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc",
+      "odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube",
+      "neistota o bezpečnosť lietadla a osôb na jeho palube"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1460"
+  },
+  {
+    "questionText":"INCERFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1461"
+  },
+  {
+    "questionText":"ALERFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1462"
+  },
+  {
+    "questionText":"DETRESFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1463"
+  },
+  {
+    "questionText":"Letové prevádzkové služby sa v celom vzdušnom priestore poskytujú ",
+    "answers":[
+      "letom IFR a VFR",
+      "riadeným letom",
+      "všetkým letom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1464"
+  },
+  {
+    "questionText":"Letové prevádzkové služby zahrňujú",
+    "answers":[
+      "oblastnú službu riadenia, približovaciu službu riadenia, letiskovú službu riadenia",
+      "službu riadenia letovej prevádzky, letovú informačnú službu a pohotovostnú službu",
+      "službu riadenia letovej prevádzky a letovú informačnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1465"
+  },
+  {
+    "questionText":"Tie časti vzdušného priestoru, o ktorých bolo rozhodnuté, že v nich budú poskytované letové informačné služby a pohotovostná služba, sa označujú ako",
+    "answers":[
+      "riadené oblasti",
+      "riadené okrsky",
+      "letové informačné oblasti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1466"
+  },
+  {
+    "questionText":"Ako riadené letisko sa označuje to letisko, o ktorom bolo rozhodnuté, že sa na ňom bude letiskovej prevádzke poskytovať",
+    "answers":[
+      "letová informačná služba",
+      "pohotovostná služba",
+      "služba riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1467"
+  },
+  {
+    "questionText":"Ako letová informačná zóna sa označuje priestor, v ktorom sa poskytuje",
+    "answers":[
+      "služba AFIS",
+      "letová informačná služba",
+      "pohotovostná služba"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1468"
+  },
+  {
+    "questionText":"Letisko, o ktorom bolo rozhodnuté, že sa na ňom bude poskytovať iba letisková letová informačná služba a pohotovostná služba známej prevádzke, je",
+    "answers":[
+      "riadené letisko",
+      "neriadené letisko",
+      "letisko AFIS"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1469"
+  },
+  {
+    "questionText":"Letisko, na ktorom sa neposkytuje služba riadenia letovej prevádzky ani služba AFIS, je",
+    "answers":[
+      "neobsadené letisko",
+      "neriadené letisko",
+      "letisko AFIS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1470"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené len lety IFR, všetkým letom sa poskytuje služba riadenia letovej prevádzky a zabezpečujú sa medzi nimi rozostupy. Je to vzdušný priestor triedy",
+    "answers":[
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1471"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety VFR a IFR, všetkým letom sa poskytuje služba riadenia letovej prevádzky a zabezpeujú sa medzi nimi rozostupy. Je to vzdušný priestor triedy",
+    "answers":[
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1472"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj lety VFR. Všetkým letom sa poskytuje služba riadenia letovej prevádzky, pričom letom IFR sa zabezpečujú rozostupy voči iným letom IFR a letom VFR. Letom VFR sa zabezpečujú rozostupy od letov IFR a poskytujú sa im prevádzkové informácie o iných letoch VFR. Je to vzdušný priestor triedy ",
+    "answers":[
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1473"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom sa poskytuje služba riadenia letovej prevádzky, pričom letom IFR sa zabezpečujú rozostupy voči iným letom IFR a poskytujú sa im prevádzkové informácie o letoch VFR. Letom VFR sa poskytujú prevádzkové informácie o všetkých ostatných letoch. Je to vzdušný priestor triedy",
+    "answers":[
+      "A",
+      "D",
+      "F"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1474"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj lety VFR. Letom IFR sa poskytuje služba riadenia letovej prevádzky a zabezpečujú sa im rozostupy voči iným letom IFR. Všetkým letom sa, pokiaľ je to možné, poskytujú informácie o prevádzke. Je to vzdušný priestor triedy ",
+    "answers":[
+      "E",
+      "C",
+      "D"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1475"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom IFR sa poskytuje letová poradná služba. Všetkým letom sa na vyžiadanie poskytuje letová informačná služba. Je to vzdušný priestor triedy",
+    "answers":[
+      "D",
+      "E",
+      "F"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1476"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom sa na vyžiadanie poskytuje letová informačná služba. Je to vzdušný priestor triedy",
+    "answers":[
+      "C",
+      "G",
+      "E"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1477"
+  },
+  {
+    "questionText":"Na poskytovanie služby riadenia letovej prevádzky, letovej informačnej služby a pohotovostnej služby vo vnútri riadených oblastí, riadených okrskov a na riadených letiskách, musí byť ustanovené stanovisko ",
+    "answers":[
+      "AFIS",
+      "oblastnej služby riadenia",
+      "riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1478"
+  },
+  {
+    "questionText":"Na poskytovanie letiskovej letovej informačnej služby na letiskách, o ktorých bolo rozhodnuté, že sa na nich bude poskytovať iba letisková letová informačná služba, sa zriaďuje stanovisko",
+    "answers":[
+      "AFIS",
+      "letových prevádzkových služieb",
+      "letových informačných služieb"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1479"
+  },
+  {
+    "questionText":"Letové informačné oblasti sa vymedzujú tak, aby pokiaľ možno zahrňovali",
+    "answers":[
+      "celé územie štátu",
+      "všetky letiská v danej oblasti",
+      "celú štruktúru tratí"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1480"
+  },
+  {
+    "questionText":"Riadené oblasti, vrátane letových ciest a koncových riadených oblastí sa vymedzujú tak, aby zahrňovali dostatočný vzdušný priestor, ktorý obsiahne s uvážením presnosti navigačných prostriedkov dráhy letov",
+    "answers":[
+      "IFR",
+      "všetkých letov",
+      "VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1481"
+  },
+  {
+    "questionText":"Spodná hranica riadenej oblasti sa stanovuje vo výške nad zemou alebo vodou najmenej ",
+    "answers":[
+      "100 m",
+      "200 m",
+      "300 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1482"
+  },
+  {
+    "questionText":"Preto, aby sa umožnila voľná činnosť letov VFR pod riadenou oblasťou, sa stanovuje spodná hranica riadenej oblasti, ak je to možné a žiadúce vo výške",
+    "answers":[
+      "100 m",
+      "150 m",
+      "vyššie ako 200 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1483"
+  },
+  {
+    "questionText":"Spodná hranica riadenej oblasti musí byť zhodná s cestovnou hladinou VFR, ak je stanovená vo výške väčšej ako",
+    "answers":[
+      "1 500 MSL",
+      "1 000 MSL",
+      "1 350 MSL"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1484"
+  },
+  {
+    "questionText":"Vodorovné hranice riadených okrskov musia zahrňovať najmenej tie časti vzdušného priestoru, ktoré nie sú vo vnútri riadených oblastí, a ktoré obsahujú dráhy",
+    "answers":[
+      "VFR letov",
+      "IFR letov",
+      "všetkých letov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1485"
+  },
+  {
+    "questionText":"Vodorovné hranice riadeného okrsku musia siahať od stredu letiska, alebo letísk v smere, z ktorého sa môžu vykonávať priblíženia do vzdialenosti najmenej",
+    "answers":[
+      "15 km",
+      "10 km",
+      "9, 3 km"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1486"
+  },
+  {
+    "questionText":"Ak je riadený okrsok situovaný vo vnútri vodorovných hraníc riadenej oblasti, musí siahať vo vertikálnom smere od povrchu zeme najmenej ",
+    "answers":[
+      "1 000 m",
+      "po spodnú hranicu riadenej oblasti",
+      "po najnižšiu letovú hladinu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1487"
+  },
+  {
+    "questionText":"Ak je riadený okrsok umiestnený mimo vodorovnej hranice riadenej oblasti, musí sa stanoviť",
+    "answers":[
+      "jeho horná hranica",
+      "jeho spodná hranica",
+      "najnižšia použiteľná letová hladina"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1488"
+  },
+  {
+    "questionText":"Oblastné stredisko riadenia sa nazýva podľa",
+    "answers":[
+      "miesta a priestoru, kde je umiestnené",
+      "názvu letiska, na ktorom je umiestnené",
+      "názvu stanoviska, kde má právomoc"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1489"
+  },
+  {
+    "questionText":"Letisková riadiaca veža a približovacie stanovisko riadenia sa nazýva podľa",
+    "answers":[
+      "miesta a priestoru, kde sú umiestnené",
+      "názvu stanoviska, kde majú právomoc",
+      "názvu letiska, na ktorom je umiestnené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1490"
+  },
+  {
+    "questionText":"Riadený okrsok, riadená oblasť a letová informačná oblasť sa nazývajú podľa",
+    "answers":[
+      "názvu stanoviska, ktoré má právomoc v takom vzdušnom priestore",
+      "názvu letiska, na ktorom sú umiestnené",
+      "miesta a priestoru, kde sú umiestnené"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1491"
+  },
+  {
+    "questionText":"Minimálne letové výšky musia byť stanovené a vyhlásené na každú trať letových prevádzkových služieb. Minimálne letové výšky musia byť nad najvyššou prekážkou najmenej",
+    "answers":[
+      "100 m",
+      "300 m",
+      "200 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1492"
+  },
+  {
+    "questionText":"Lietadlu, o ktorom je známe alebo sa predpokladá, že je v núdzi, vrátane lietadla, na palube ktorého došlo k nezákonnému zásahu, musí byť venovaná pozornosť, pomoc a priorita",
+    "answers":[
+      "pri pristátí",
+      "pred ostatnými lietadlami, ak to okolnosti vyžadujú",
+      "pri všetkých požiadavkách na služby riadenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1493"
+  },
+  {
+    "questionText":"Lietadlo vybavené odpovedačom sekundárneho radaru môže na označenie stavu núdze využiť toto zariadenie",
+    "answers":[
+      "v MODE A, KÓD 6600",
+      "v MODE B, KÓD 7700",
+      "v MODE A, KÓD 7700"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1494"
+  },
+  {
+    "questionText":"Ako typické označenie, že na lietadle doško k nezákonnému zásahu, sa u lietadla vybaveného odpovedačom sekundárneho radaru využíva toto zariadenie",
+    "answers":[
+      "v MODE A, KÓD 7700",
+      "v MODE B, KÓD 7700",
+      "v MODE A, KÓD 7500"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1495"
+  },
+  {
+    "questionText":"Letom IFR je služba riadenia letovej prevádzky poskytovaná vo vzdušných priestoroch triedy",
+    "answers":[
+      "A, B, C, D, E, F",
+      "A, B, C, D, E",
+      "A, B, C, D, E, F, G"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1496"
+  },
+  {
+    "questionText":"Všetkým letom VFR sa poskytuje služba riadenia letovej prevádzky vo vzdušných priestoroch tried",
+    "answers":[
+      "A, B, C, D, E",
+      "A, B, C, D, F",
+      "B, C, D"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1497"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je poskytovaná",
+    "answers":[
+      "všetkým letom IFR",
+      "všetkým letom VFR",
+      "všetkým zvláštnym letom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1498"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je na riadených letiskách poskytovaná",
+    "answers":[
+      "všetkým letom IFR",
+      "všetkým letom VFR",
+      "všetkej leteckej prevádzke"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1499"
+  },
+  {
+    "questionText":"Oblastnú službu riadenia vykonáva oblastné stredisko riadenia alebo v obmedzenom rozsahu, kde je to účelné stanovisko, ktoré vykonáva",
+    "answers":[
+      "leteckú informačnú službu",
+      "približovaciu službu riadenia",
+      "pohotovostnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1500"
+  },
+  {
+    "questionText":"Letové povolenie vydávané stanoviskom riadenia letovej prevádzky musí zabezpečovať rozostupy medzi všetkými letmi vo vzdušných priestoroch triedy",
+    "answers":[
+      "A, B",
+      "A, B, C",
+      "C, D, E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1501"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi letmi IFR vo vzdušných priestoroch tried",
+    "answers":[
+      "C, D, E, F",
+      "C, D, E",
+      "C, D, G"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1502"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi letmi IFR a VFR vo vzdušnom priestore triedy ",
+    "answers":[
+      "C",
+      "D, E",
+      "D"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1503"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi",
+    "answers":[
+      "všetkými letmi",
+      "letmi IFR a zvláštnymi letmi VFR",
+      "letmi VFR"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1504"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy",
+    "answers":[
+      "medzi zvláštnymi letmi VFR",
+      "medzi zvláštnymi letmi VFR a letmi VFR",
+      "medzi letmi VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1505"
+  },
+  {
+    "questionText":"Výškový rozostup zabezpečuje stanovisko riadenia letovej prevádzky pridelením",
+    "answers":[
+      "výšky letu na QNH",
+      "výšky letu na QFE",
+      "cestovných hladín"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1506"
+  },
+  {
+    "questionText":"Riadený let môže byť riadený, v ktoromkoľvek čase vždy ",
+    "answers":[
+      "len jedným stanoviskom riadenia letovej prevádzky",
+      "tou službou riadenia, ktorú o to požiada",
+      "len oblastným stanoviskom riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1507"
+  },
+  {
+    "questionText":"Letové povolenia musia obsahovať",
+    "answers":[
+      "identifikáciu lietadla, medzu povolenia, trať letu, hladiny, ďalšie informácie a príkazy",
+      "identifikáciu lietadla, letisko odletu, letisko určenia, výšku letu",
+      "imatrikulačnú značku lietadla, trať letu, hladiny, ďalšie informácie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1508"
+  },
+  {
+    "questionText":"Letová informačná služba je poskytovaná všetkým lietadlám, ktorým môžu informácie prospieť a lietadlám, ktorým sa poskytuje služba riadenia letovej prevádzky, alebo iným lietadlám, ktoré o to požiadajú",
+    "answers":[
+      "stanovisko leteckej informačnej služby",
+      "stanovisko riadenia letovej prevádzky",
+      "letiskovú letovú informačnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1509"
+  },
+  {
+    "questionText":"Pred poskytnutím letovej informačnej služby má vždy prednosť, kedykoľvek to okolnosti vyžadujú, poskytnutie",
+    "answers":[
+      "služby riadenia letovej prevádzky",
+      "pohotovostnej služby",
+      "poradnej služby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1510"
+  },
+  {
+    "questionText":"Rozhlasové vysielanie na letiskách používaných na medzinárodnú dopravu musí byť v jazyku",
+    "answers":[
+      "anglickom",
+      "ruskom",
+      "anglickom a ruskom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1511"
+  },
+  {
+    "questionText":"Informácie zahrnuté v platnom vysielaní ATIS, ktorého príjem bol dotyčným lietadlom potvrdený, nemusia byť priamo odovzdávané lietadlu s výnimkou údajov",
+    "answers":[
+      "o dráhe v používaní",
+      "na nastavenie výškomeru",
+      "o smere a sile vetra"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1512"
+  },
+  {
+    "questionText":"Pohotovostná služba je poskytovaná ",
+    "answers":[
+      "všetkým lietadlám",
+      "lietadlám letiacim podľa predloženého letového plánu a lietadlám v núdzi",
+      "lietadlám, ktorým sa poskytuje služba riadenia letovej prevádzky, ostatným lietadlám, ktorých velitelia predložili letový plán alebo lietadlám inak známym stanoviskám riadenia letovej prevádzky a lietadlám, o ktorých je známe, alebo sa predpokladá, že na ich palube došlo k nezákonnému zásahu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1513"
+  },
+  {
+    "questionText":"Ako stredisko na zhromažďovanie všetkých informácií o období núdze lietadiel letiacich v letovej oblasti a na odovzdávanie takýchto údajov príslušnému záchrannému koordinačnému stredisku, slúži",
+    "answers":[
+      "oblastné stredisko riadenia danej letovej oblasti",
+      "približovacie stredisko riadenia",
+      "letisková riadiaca veža"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1514"
+  },
+  {
+    "questionText":"Keď počas 10 minút nedošla žiadna správa z lietadla od doby, keď lietadlo malo podať správu o prelete hlásneho bodu alebo od doby keď bol vykonaný prvý neúspešný pokus o nadviazanie spojenia s lietadlom, oblastné stredisko riadenia musí oznámiť záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "neistoty",
+      "pohotovosti",
+      "tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1515"
+  },
+  {
+    "questionText":"Ak lietadlo nepriletelo na cieľové letisko počas 10 minút od vypočítaného času naposledy oznámeného alebo vypočítaného stanoviskom riadenia letovej prevádzky, oblastné stredisko oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "neistoty",
+      "pohotovosti",
+      "tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1516"
+  },
+  {
+    "questionText":"Keď do 30 minút alebo do inej dohodnutej doby od vypočítaného času príletu na neriadené letisko nedošlo hlásenie o pristátí, s výnimkou keď o bezpečnosti lietadla a osôb na palube nie sú žiadne pochybnosti, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "neistoty",
+      "pohotovosti",
+      "tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1517"
+  },
+  {
+    "questionText":"Keď po vyhlásení obdobia neistoty sú pokusy o nadviazanie spojenia behom ďalších 10 min. naďalej neúspešné a nedošla žiadna správa o lietadle, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1518"
+  },
+  {
+    "questionText":"Keď lietadlo, ktoré obdržalo povolenie na pristátie, nepristálo počas 5 minút od vypočítaného času pristátia a spojenie s ním nebolo opäť nadviazané, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1519"
+  },
+  {
+    "questionText":"Keď prišla správa, že schopnosť lietadla sa zhoršila, ale núdzové pristátie zatiaľ nie je nutné, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1520"
+  },
+  {
+    "questionText":"Keď je známe alebo sa predpokladá, že na lietadle došlo k nezákonnému zásahu, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "pohotovosti",
+      "tiesne",
+      "neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1521"
+  },
+  {
+    "questionText":"Keď po vyhlásení obdobia pohotovosti počas ďalších 30 minút nie sú o lietadle žiadne správy, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "tiesne",
+      "neistoty",
+      "pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1522"
+  },
+  {
+    "questionText":"Keď sa predpokladá, že zásoba pohonných hmôt na palube je vyčerpaná alebo nedostatočná na bezpečné dokončenie letu, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "tiesne",
+      "neistoty",
+      "pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1523"
+  },
+  {
+    "questionText":"Keď došla správa, že schopnosť lietadla sa zhoršila natoľko, že bude pravdepodobne nútené núdzovo pristáť, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie ",
+    "answers":[
+      "tiesne",
+      "neistoty",
+      "pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1524"
+  },
+  {
+    "questionText":"Akonáhle oblastné stredisko riadenia predpokladá, alebo sa dozvie, že lietadlo je v období neistoty alebo v období pohotovosti, skôr ako to oznámi záchrannému koordinačnému stredisku musí, ak je to možné, oznámiť to",
+    "answers":[
+      "ŠLI",
+      "prevádzkovateľovi",
+      "leteckému úradu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1525"
+  },
+  {
+    "questionText":"Na účely poskytovania letových prevádzkových služieb sa používa na spojenie lietadlo - zem ",
+    "answers":[
+      "rádiotelegrafia",
+      "rádiotelefónia",
+      "rádiotelegrafia a rádiotelefónia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1526"
+  },
+  {
+    "questionText":"Letové prevádzkové služby udržujú bdenie na tiesňovej frekvencii",
+    "answers":[
+      "120, 1 MHz",
+      "121, 5 MHz",
+      "124, 15 Mhz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 X52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1527"
+  },
+  {
+    "questionText":"Keď sa predpokladá, že zásoba pohonných hmôt na palube je vyčerpaná alebo nedostatočná na bezpečné dokončenie letu, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) tiesne",
+      "b) neistoty",
+      "c) pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1528"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety VFR a IFR, všetkým letom sa poskytuje služba riadenia letovej prevádzky a zabezpeujú sa medzi nimi rozostupy. Je to vzdušný priestor triedy",
+    "answers":[
+      "a) A",
+      "b) B",
+      "c) C"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1529"
+  },
+  {
+    "questionText":"Obdobie neistoty je situácia, keď je",
+    "answers":[
+      "a) určitá istota, že lietadlu a osobám na jeho palube hrozí vážne bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc",
+      "b) neistota o bezpečnosť lietadla a osôb na jeho palube",
+      "c) odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1530"
+  },
+  {
+    "questionText":"Letové povolenie vydávané stanoviskom riadenia letovej prevádzky musí zabezpečovať rozostupy medzi všetkými letmi vo vzdušných priestoroch triedy",
+    "answers":[
+      "a) A, B",
+      "b) A, B, C",
+      "c) C, D, E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1531"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom sa na vyžiadanie poskytuje letová informačná služba. Je to vzdušný priestor triedy",
+    "answers":[
+      "a) C",
+      "b) G",
+      "c) E"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1532"
+  },
+  {
+    "questionText":"Letisko, na ktorom sa neposkytuje služba riadenia letovej prevádzky ani služba AFIS, je",
+    "answers":[
+      "a) neobsadené letisko",
+      "b) neriadené letisko",
+      "c) letisko AFIS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1533"
+  },
+  {
+    "questionText":"Ak je riadený okrsok umiestnený mimo vodorovnej hranice riadenej oblasti, musí sa stanoviť",
+    "answers":[
+      "a) jeho horná hranica",
+      "b) jeho spodná hranica",
+      "c) najnižšia použiteľná letová hladina"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1534"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy",
+    "answers":[
+      "a) medzi zvláštnymi letmi VFR",
+      "b) medzi zvláštnymi letmi VFR a letmi VFR",
+      "c) medzi letmi VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1535"
+  },
+  {
+    "questionText":"Letové prevádzkové služby udržujú bdenie na tiesňovej frekvencii",
+    "answers":[
+      "a) 120, 1 MHz",
+      "b) 121, 5 MHz",
+      "c) 124, 15 Mhz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1536"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené len lety IFR, všetkým letom sa poskytuje služba riadenia letovej prevádzky a zabezpečujú sa medzi nimi rozostupy. Je to vzdušný priestor triedy",
+    "answers":[
+      "a) A",
+      "b) B",
+      "c) C"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1537"
+  },
+  {
+    "questionText":"Riadený okrsok, riadená oblasť a letová informačná oblasť sa nazývajú podľa",
+    "answers":[
+      "a) názvu stanoviska, ktoré má právomoc v takom vzdušnom priestore",
+      "b) názvu letiska, na ktorom sú umiestnené",
+      "c) miesta a priestoru, kde sú umiestnené"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1538"
+  },
+  {
+    "questionText":"Stanovisko letových prevádzkových služieb je výraz zahrňujúci stanovisko",
+    "answers":[
+      "a) letiskovej letovej informačnej služby",
+      "b) riadenia letovej prevádzky a ohlasovňu letových prevádzkových služieb",
+      "c) riadenia letovej prevádzky, letové informačné stredisko alebo ohlasovňu letových prevádzkových služieb"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1539"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj lety VFR. Všetkým letom sa poskytuje služba riadenia letovej prevádzky, pričom letom IFR sa zabezpečujú rozostupy voči iným letom IFR a letom VFR. Letom VFR sa zabezpečujú rozostupy od letov IFR a poskytujú sa im prevádzkové informácie o iných letoch VFR. Je to vzdušný priestor triedy ",
+    "answers":[
+      "a) A",
+      "b) B",
+      "c) C"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1540"
+  },
+  {
+    "questionText":"Lietadlu, o ktorom je známe alebo sa predpokladá, že je v núdzi, vrátane lietadla, na palube ktorého došlo k nezákonnému zásahu, musí byť venovaná pozornosť, pomoc a priorita",
+    "answers":[
+      "a) pri pristátí",
+      "b) pred ostatnými lietadlami, ak to okolnosti vyžadujú",
+      "c) pri všetkých požiadavkách na služby riadenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1541"
+  },
+  {
+    "questionText":"INCERFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1542"
+  },
+  {
+    "questionText":"Letisko, o ktorom bolo rozhodnuté, že sa na ňom bude poskytovať iba letisková letová informačná služba a pohotovostná služba známej prevádzke, je",
+    "answers":[
+      "a) riadené letisko",
+      "b) neriadené letisko",
+      "c) letisko AFIS"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1543"
+  },
+  {
+    "questionText":"Riadený let môže byť riadený, v ktoromkoľvek čase vždy ",
+    "answers":[
+      "a) len jedným stanoviskom riadenia letovej prevádzky",
+      "b) tou službou riadenia, ktorú o to požiada",
+      "c) len oblastným stanoviskom riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1544"
+  },
+  {
+    "questionText":"Stanovisko riadenia letovej prevádzky je výraz zahrňujúci ",
+    "answers":[
+      "a) letové informačné stredisko, oblastné stredisko riadenia, približovacie stanovisko riadenia a letiskovú riadiacu vežu",
+      "b) oblastné stredisko riadenia, približovacie stanovisko riadenia a letiskovú riadiacu vežu",
+      "c) oblastné stanovisko riadenia, približovacie stredisko riadenia a letiskovú riadiacu vežu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1545"
+  },
+  {
+    "questionText":"Vodorovné hranice riadeného okrsku musia siahať od stredu letiska, alebo letísk v smere, z ktorého sa môžu vykonávať priblíženia do vzdialenosti najmenej",
+    "answers":[
+      "a) 15 km",
+      "b) 10 km",
+      "c) 9, 3 km"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1546"
+  },
+  {
+    "questionText":"Riadené oblasti, vrátane letových ciest a koncových riadených oblastí sa vymedzujú tak, aby zahrňovali dostatočný vzdušný priestor, ktorý obsiahne s uvážením presnosti navigačných prostriedkov dráhy letov",
+    "answers":[
+      "a) IFR",
+      "b) všetkých letov",
+      "c) VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y48",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1547"
+  },
+  {
+    "questionText":"Lietadlo vybavené odpovedačom sekundárneho radaru môže na označenie stavu núdze využiť toto zariadenie",
+    "answers":[
+      "a) v MODE A, KÓD 6600",
+      "b) v MODE B, KÓD 7700",
+      "c) v MODE A, KÓD 7700"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1548"
+  },
+  {
+    "questionText":"Na poskytovanie letiskovej letovej informačnej služby na letiskách, o ktorých bolo rozhodnuté, že sa na nich bude poskytovať iba letisková letová informačná služba, sa zriaďuje stanovisko",
+    "answers":[
+      "a) AFIS",
+      "b) letových prevádzkových služieb",
+      "c) letových informačných služieb"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1549"
+  },
+  {
+    "questionText":"Letové informačné oblasti sa vymedzujú tak, aby pokiaľ možno zahrňovali",
+    "answers":[
+      "a) celé územie štátu",
+      "b) všetky letiská v danej oblasti",
+      "c) celú štruktúru tratí"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1550"
+  },
+  {
+    "questionText":"Na účely poskytovania letových prevádzkových služieb sa používa na spojenie lietadlo - zem ",
+    "answers":[
+      "a) rádiotelegrafia",
+      "b) rádiotelefónia",
+      "c) rádiotelegrafia a rádiotelefónia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1551"
+  },
+  {
+    "questionText":"Približovacia služba riadenia je služba riadenia letovej prevádzky pre",
+    "answers":[
+      "a) riadené lety prilietavajúcich a odlietavajúcich lietadiel",
+      "b) riadené lety prilietavajúcich lietadiel",
+      "c) všetky lety prilietavajúcich a odlietavajúcich lietadiel"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1552"
+  },
+  {
+    "questionText":"Keď po vyhlásení obdobia pohotovosti počas ďalších 30 minút nie sú o lietadle žiadne správy, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) tiesne",
+      "b) neistoty",
+      "c) pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1553"
+  },
+  {
+    "questionText":"ALERFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1554"
+  },
+  {
+    "questionText":"Minimálne letové výšky musia byť stanovené a vyhlásené na každú trať letových prevádzkových služieb. Minimálne letové výšky musia byť nad najvyššou prekážkou najmenej",
+    "answers":[
+      "a) 100 m",
+      "b) 300 m",
+      "c) 200 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1555"
+  },
+  {
+    "questionText":"Keď prišla správa, že schopnosť lietadla sa zhoršila, ale núdzové pristátie zatiaľ nie je nutné, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1556"
+  },
+  {
+    "questionText":"Pohotovostná služba je poskytovaná ",
+    "answers":[
+      "a) všetkým lietadlám",
+      "b) lietadlám letiacim podľa predloženého letového plánu a lietadlám v núdzi",
+      "c) lietadlám, ktorým sa poskytuje služba riadenia letovej prevádzky, ostatným lietadlám, ktorých velitelia predložili letový plán alebo lietadlám inak známym stanoviskám riadenia letovej prevádzky a lietadlám, o ktorých je známe, alebo sa predpokladá, že na ich palube došlo k nezákonnému zásahu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1557"
+  },
+  {
+    "questionText":"DETRESFA je kódový výraz označujúci obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1558"
+  },
+  {
+    "questionText":"Ako riadené letisko sa označuje to letisko, o ktorom bolo rozhodnuté, že sa na ňom bude letiskovej prevádzke poskytovať",
+    "answers":[
+      "a) letová informačná služba",
+      "b) pohotovostná služba",
+      "c) služba riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1559"
+  },
+  {
+    "questionText":"Spodná hranica riadenej oblasti musí byť zhodná s cestovnou hladinou VFR, ak je stanovená vo výške väčšej ako",
+    "answers":[
+      "a) 1 500 MSL",
+      "b) 1 000 MSL",
+      "c) 1 350 MSL"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1560"
+  },
+  {
+    "questionText":"Na poskytovanie služby riadenia letovej prevádzky, letovej informačnej služby a pohotovostnej služby vo vnútri riadených oblastí, riadených okrskov a na riadených letiskách, musí byť ustanovené stanovisko ",
+    "answers":[
+      "a) AFIS",
+      "b) oblastnej služby riadenia",
+      "c) riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1561"
+  },
+  {
+    "questionText":"Informácie zahrnuté v platnom vysielaní ATIS, ktorého príjem bol dotyčným lietadlom potvrdený, nemusia byť priamo odovzdávané lietadlu s výnimkou údajov",
+    "answers":[
+      "a) o dráhe v používaní",
+      "b) na nastavenie výškomeru",
+      "c) o smere a sile vetra"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1562"
+  },
+  {
+    "questionText":"Medza povolenia je bod",
+    "answers":[
+      "a) do ktorého letové povolenie platí",
+      "b) od ktorého letové povolenie platí",
+      "c) od ktorého sa mení letové povolenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1563"
+  },
+  {
+    "questionText":"Riadená oblasť je riadený vzdušný priestor",
+    "answers":[
+      "a) siahajúci hore od stanovenej výšky nad zemou",
+      "b) siahajúci od povrchu zeme do stanovenej výšky",
+      "c) okolo riadeného letiska"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1564"
+  },
+  {
+    "questionText":"Stanovisko AFIS je stanovisko poskytujúce",
+    "answers":[
+      "a) letiskovú letovú informačnú službu",
+      "b) služby riadenia letovej prevádzky",
+      "c) pohotovostnú službu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1565"
+  },
+  {
+    "questionText":"Akonáhle oblastné stredisko riadenia predpokladá, alebo sa dozvie, že lietadlo je v období neistoty alebo v období pohotovosti, skôr ako to oznámi záchrannému koordinačnému stredisku musí, ak je to možné, oznámiť to",
+    "answers":[
+      "a) ŠLI",
+      "b) prevádzkovateľovi",
+      "c) leteckému úradu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1566"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi",
+    "answers":[
+      "a) všetkými letmi",
+      "b) letmi IFR a zvláštnymi letmi VFR",
+      "c) letmi VFR"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y49",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1567"
+  },
+  {
+    "questionText":"Letové prevádzkové služby sa v celom vzdušnom priestore poskytujú ",
+    "answers":[
+      "a) letom IFR a VFR",
+      "b) riadeným letom",
+      "c) všetkým letom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1568"
+  },
+  {
+    "questionText":"Keď do 30 minút alebo do inej dohodnutej doby od vypočítaného času príletu na neriadené letisko nedošlo hlásenie o pristátí, s výnimkou keď o bezpečnosti lietadla a osôb na palube nie sú žiadne pochybnosti, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) neistoty",
+      "b) pohotovosti",
+      "c) tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1569"
+  },
+  {
+    "questionText":"Pohotovostná služba je vyrozumievanie príslušných organizácií a orgánov o lietadlách, ktorým sa má poskytnúť",
+    "answers":[
+      "a) pohotovosť k zaisteniu bezpečnosti letu",
+      "b) pátracia a záchranná služba",
+      "c) pomoc v nebezpečí"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1570"
+  },
+  {
+    "questionText":"Obdobie tiesne je situácia, keď je",
+    "answers":[
+      "a) určitá istota, že lietadlu a osobám na jeho palube hrozí vážne a bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc",
+      "b) odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube",
+      "c) neistota o bezpečnosť lietadla a osôb na jeho palube"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1571"
+  },
+  {
+    "questionText":"Výškový rozostup zabezpečuje stanovisko riadenia letovej prevádzky pridelením",
+    "answers":[
+      "a) výšky letu na QNH",
+      "b) výšky letu na QFE",
+      "c) cestovných hladín"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1572"
+  },
+  {
+    "questionText":"Všetkým letom VFR sa poskytuje služba riadenia letovej prevádzky vo vzdušných priestoroch tried",
+    "answers":[
+      "a) A, B, C, D, E",
+      "b) A, B, C, D, F",
+      "c) B, C, D"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1573"
+  },
+  {
+    "questionText":"Oblastné stredisko riadenia sa nazýva podľa",
+    "answers":[
+      "a) miesta a priestoru, kde je umiestnené",
+      "b) názvu letiska, na ktorom je umiestnené",
+      "c) názvu stanoviska, kde má právomoc"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1574"
+  },
+  {
+    "questionText":"Dráhová dohľadnosť je vzdialenosť, na ktorú pilot lietadla na osovej čiare vzletovej a pristávacej dráhy môže vidieť",
+    "answers":[
+      "a) predmety a prekážky na VPD",
+      "b) značky a svetelné návestidlá",
+      "c) pohybujúce sa lietadlá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1575"
+  },
+  {
+    "questionText":"Ak je riadený okrsok situovaný vo vnútri vodorovných hraníc riadenej oblasti, musí siahať vo vertikálnom smere od povrchu zeme najmenej ",
+    "answers":[
+      "a) 1 000 m",
+      "b) po spodnú hranicu riadenej oblasti",
+      "c) po najnižšiu letovú hladinu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1576"
+  },
+  {
+    "questionText":"Letové povolenia musia obsahovať",
+    "answers":[
+      "a) identifikáciu lietadla, medzu povolenia, trať letu, hladiny, ďalšie informácie a príkazy",
+      "b) identifikáciu lietadla, letisko odletu, letisko určenia, výšku letu",
+      "c) imatrikulačnú značku lietadla, trať letu, hladiny, ďalšie informácie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1577"
+  },
+  {
+    "questionText":"Letecká pohyblivá služba je služba medzi",
+    "answers":[
+      "a) stanovenými pevnými bodmi",
+      "b) leteckými a lietadlovými stanicami alebo lietadlovými stanicami navzájom",
+      "c) lietadlami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1578"
+  },
+  {
+    "questionText":"Letom IFR je služba riadenia letovej prevádzky poskytovaná vo vzdušných priestoroch triedy",
+    "answers":[
+      "a) A, B, C, D, E, F",
+      "b) A, B, C, D, E",
+      "c) A, B, C, D, E, F, G"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1579"
+  },
+  {
+    "questionText":"Keď po vyhlásení obdobia neistoty sú pokusy o nadviazanie spojenia behom ďalších 10 min. naďalej neúspešné a nedošla žiadna správa o lietadle, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1580"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi letmi IFR vo vzdušných priestoroch tried",
+    "answers":[
+      "a) C, D, E, F",
+      "b) C, D, E",
+      "c) C, D, G"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1581"
+  },
+  {
+    "questionText":"Ohlasovňa letových prevádzkových služieb je stanovisko zavedené ",
+    "answers":[
+      "a) na poskytovanie letovej prevádzkovej služby a schvaľovanie letových plánov pred odletom",
+      "b) na prijímanie letových plánov pred odletom",
+      "c) na ohlasovanie priebehu letu a pozorovaných skutočností"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1582"
+  },
+  {
+    "questionText":"Keď je známe alebo sa predpokladá, že na lietadle došlo k nezákonnému zásahu, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y50",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1583"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je služba poskytovaná za účelom ",
+    "answers":[
+      "a) zabraňovať zrážkam lietadiel počas letu a na prevádzkovej ploche a poskytovania rád a informácií užitočných k bezpečnému a účinnému vykonávaniu letov",
+      "b) udržovať rýchly a usporiadaný tok letovej prevádzky",
+      "c) zabraňovať zrážkam lietadiel a udržovať rýchly a usporiadaný tok letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1584"
+  },
+  {
+    "questionText":"Vodorovné hranice riadených okrskov musia zahrňovať najmenej tie časti vzdušného priestoru, ktoré nie sú vo vnútri riadených oblastí, a ktoré obsahujú dráhy",
+    "answers":[
+      "a) VFR letov",
+      "b) IFR letov",
+      "c) všetkých letov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1585"
+  },
+  {
+    "questionText":"Ako letová informačná zóna sa označuje priestor, v ktorom sa poskytuje",
+    "answers":[
+      "a) služba AFIS",
+      "b) letová informačná služba",
+      "c) pohotovostná služba"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1586"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je na riadených letiskách poskytovaná",
+    "answers":[
+      "a) všetkým letom IFR",
+      "b) všetkým letom VFR",
+      "c) všetkej leteckej prevádzke"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1587"
+  },
+  {
+    "questionText":"Letecká pevná služba je telekomunikačná služba medzi",
+    "answers":[
+      "a) stanovenými pevnými bodmi",
+      "b) lietadlovými stanicami",
+      "c) leteckými a lietadlovými stanicami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1588"
+  },
+  {
+    "questionText":"Obdobie núdze je výraz znamenajúci",
+    "answers":[
+      "a) obdobie, kedy je neistota o bezpečnosť lietadla a osôb na palube",
+      "b) odôvodnenú obavu o bezpečnosť lietadla a osôb na palube",
+      "c) buď obdobie neistoty, obdobie pohotovosti alebo obdobie tiesne"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1589"
+  },
+  {
+    "questionText":"Letové povolenia vydávané stanoviskom riadenia letovej prevádzky musia zabezpečovať rozostupy medzi letmi IFR a VFR vo vzdušnom priestore triedy ",
+    "answers":[
+      "a) C",
+      "b) D, E",
+      "c) D"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1590"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj lety VFR. Letom IFR sa poskytuje služba riadenia letovej prevádzky a zabezpečujú sa im rozostupy voči iným letom IFR. Všetkým letom sa, pokiaľ je to možné, poskytujú informácie o prevádzke. Je to vzdušný priestor triedy ",
+    "answers":[
+      "a) E",
+      "b) C",
+      "c) D"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1591"
+  },
+  {
+    "questionText":"Preto, aby sa umožnila voľná činnosť letov VFR pod riadenou oblasťou, sa stanovuje spodná hranica riadenej oblasti, ak je to možné a žiadúce vo výške",
+    "answers":[
+      "a) 100 m",
+      "b) 150 m",
+      "c) vyššie ako 200 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1592"
+  },
+  {
+    "questionText":"Letisková riadiaca veža a približovacie stanovisko riadenia sa nazýva podľa",
+    "answers":[
+      "a) miesta a priestoru, kde sú umiestnené",
+      "b) názvu stanoviska, kde majú právomoc",
+      "c) názvu letiska, na ktorom je umiestnené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1593"
+  },
+  {
+    "questionText":"Letová informačná služba je poskytovaná všetkým lietadlám, ktorým môžu informácie prospieť a lietadlám, ktorým sa poskytuje služba riadenia letovej prevádzky, alebo iným lietadlám, ktoré o to požiadajú",
+    "answers":[
+      "a) stanovisko leteckej informačnej služby",
+      "b) stanovisko riadenia letovej prevádzky",
+      "c) letiskovú letovú informačnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y51",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1594"
+  },
+  {
+    "questionText":"Rozhlasové vysielanie na letiskách používaných na medzinárodnú dopravu musí byť v jazyku",
+    "answers":[
+      "a) anglickom",
+      "b) ruskom",
+      "c) anglickom a ruskom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1595"
+  },
+  {
+    "questionText":"Tie časti vzdušného priestoru, o ktorých bolo rozhodnuté, že v nich budú poskytované letové informačné služby a pohotovostná služba, sa označujú ako",
+    "answers":[
+      "a) riadené oblasti",
+      "b) riadené okrsky",
+      "c) letové informačné oblasti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1596"
+  },
+  {
+    "questionText":"Oblastnú službu riadenia vykonáva oblastné stredisko riadenia alebo v obmedzenom rozsahu, kde je to účelné stanovisko, ktoré vykonáva",
+    "answers":[
+      "a) leteckú informačnú službu",
+      "b) približovaciu službu riadenia",
+      "c) pohotovostnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1597"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom IFR sa poskytuje letová poradná služba. Všetkým letom sa na vyžiadanie poskytuje letová informačná služba. Je to vzdušný priestor triedy",
+    "answers":[
+      "a) D",
+      "b) E",
+      "c) F"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1598"
+  },
+  {
+    "questionText":"Spodná hranica riadenej oblasti sa stanovuje vo výške nad zemou alebo vodou najmenej ",
+    "answers":[
+      "a) 100 m",
+      "b) 200 m",
+      "c) 300 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1599"
+  },
+  {
+    "questionText":"Letové prevádzkové služby zahrňujú",
+    "answers":[
+      "a) oblastnú službu riadenia, približovaciu službu riadenia, letiskovú službu riadenia",
+      "b) službu riadenia letovej prevádzky, letovú informačnú službu a pohotovostnú službu",
+      "c) službu riadenia letovej prevádzky a letovú informačnú službu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1600"
+  },
+  {
+    "questionText":"Letové prevádzkové služby sú všeobecný výraz zahrňujúci ",
+    "answers":[
+      "a) oblastnú, približovaciu a letiskovú službu riadenia",
+      "b) letovú informačnú službu, pohotovostnú službu, letovú poradnú službu, službu riadenia letovej prevádzky",
+      "c) všetky poskytované služby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1601"
+  },
+  {
+    "questionText":"Letové povolenie je povolenie vydané veliteľovi lietadla vykonať let alebo v lete pokračovať za podmienok určených",
+    "answers":[
+      "a) stanoviskom riadenia letovej prevádzky",
+      "b) prevádzkovateľom",
+      "c) operačným dispečingom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1602"
+  },
+  {
+    "questionText":"Keď počas 10 minút nedošla žiadna správa z lietadla od doby, keď lietadlo malo podať správu o prelete hlásneho bodu alebo od doby keď bol vykonaný prvý neúspešný pokus o nadviazanie spojenia s lietadlom, oblastné stredisko riadenia musí oznámiť záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) neistoty",
+      "b) pohotovosti",
+      "c) tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1603"
+  },
+  {
+    "questionText":"Ak lietadlo nepriletelo na cieľové letisko počas 10 minút od vypočítaného času naposledy oznámeného alebo vypočítaného stanoviskom riadenia letovej prevádzky, oblastné stredisko oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) neistoty",
+      "b) pohotovosti",
+      "c) tiesne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1604"
+  },
+  {
+    "questionText":"Keď došla správa, že schopnosť lietadla sa zhoršila natoľko, že bude pravdepodobne nútené núdzovo pristáť, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie ",
+    "answers":[
+      "a) tiesne",
+      "b) neistoty",
+      "c) pohotovosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1605"
+  },
+  {
+    "questionText":"Oblastná služba riadenia je služba riadenia letovej prevádzky pre",
+    "answers":[
+      "a) všetky lety v riadenej oblasti",
+      "b) lety IFR a VFR v riadenej oblasti",
+      "c) riadené lety v riadenej oblasti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1606"
+  },
+  {
+    "questionText":"Pred poskytnutím letovej informačnej služby má vždy prednosť, kedykoľvek to okolnosti vyžadujú, poskytnutie",
+    "answers":[
+      "a) služby riadenia letovej prevádzky",
+      "b) pohotovostnej služby",
+      "c) poradnej služby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1607"
+  },
+  {
+    "questionText":"Nebezpečný priestor je vymedzený vzdušný priestor, v ktorom je ",
+    "answers":[
+      "a) možno vykonávať lety pri dodržovaní určitých zvláštnych podmienok",
+      "b) vo vyhlásenej dobe činnosť nebezpečná pre lety lietadiel",
+      "c) zakázaná letová prevádzka"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1608"
+  },
+  {
+    "questionText":"Ako typické označenie, že na lietadle doško k nezákonnému zásahu, sa u lietadla vybaveného odpovedačom sekundárneho radaru využíva toto zariadenie",
+    "answers":[
+      "a) v MODE A, KÓD 7700",
+      "b) v MODE B, KÓD 7700",
+      "c) v MODE A, KÓD 7500"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1609"
+  },
+  {
+    "questionText":"Obdobie pohotovosti je situácia, keď je",
+    "answers":[
+      "a) neistota o bezpečnosť lietadla a osôb na jeho palube",
+      "b) odôvodnená obava o bezpečnosť lietadla a osôb na jeho palube",
+      "c) určitá istota, že lietadlu a osobám na jeho palube hrozí vážne a bezprostredné nebezpečenstvo, alebo že potrebujú okamžitú pomoc"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1610"
+  },
+  {
+    "questionText":"Keď lietadlo, ktoré obdržalo povolenie na pristátie, nepristálo počas 5 minút od vypočítaného času pristátia a spojenie s ním nebolo opäť nadviazané, oblastné stredisko riadenia oznámi záchrannému koordinačnému stredisku obdobie",
+    "answers":[
+      "a) pohotovosti",
+      "b) tiesne",
+      "c) neistoty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1611"
+  },
+  {
+    "questionText":"Služba riadenia letovej prevádzky je poskytovaná",
+    "answers":[
+      "a) všetkým letom IFR",
+      "b) všetkým letom VFR",
+      "c) všetkým zvláštnym letom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1612"
+  },
+  {
+    "questionText":"Vo vzdušnom priestore sú povolené lety IFR aj VFR. Všetkým letom sa poskytuje služba riadenia letovej prevádzky, pričom letom IFR sa zabezpečujú rozostupy voči iným letom IFR a poskytujú sa im prevádzkové informácie o letoch VFR. Letom VFR sa poskytujú prevádzkové informácie o všetkých ostatných letoch. Je to vzdušný priestor triedy",
+    "answers":[
+      "a) A",
+      "b) D",
+      "c) F"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1613"
+  },
+  {
+    "questionText":"Ako stredisko na zhromažďovanie všetkých informácií o období núdze lietadiel letiacich v letovej oblasti a na odovzdávanie takýchto údajov príslušnému záchrannému koordinačnému stredisku, slúži",
+    "answers":[
+      "a) oblastné stredisko riadenia danej letovej oblasti",
+      "b) približovacie stredisko riadenia",
+      "c) letisková riadiaca veža"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Predpis o letových prevádzkových službách L-11 Y52",
+    "categoryName":"Predpis o LPS L-11",
+    "id":"1614"
+  }
+]

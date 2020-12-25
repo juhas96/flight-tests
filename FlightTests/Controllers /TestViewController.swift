@@ -82,9 +82,9 @@ class TestViewController: UIViewController {
         secondAnswerButton?.backgroundColor = UIColor.white
         thirdAnswerButton?.backgroundColor = UIColor.white
         
-        firstAnswerButton?.setTitle(test.getAnswerOnPosition(position: 0), for: UIControl.State.normal)
-        secondAnswerButton?.setTitle(test.getAnswerOnPosition(position: 1), for: UIControl.State.normal)
-        thirdAnswerButton?.setTitle(test.getAnswerOnPosition(position: 2), for: UIControl.State.normal)
+        firstAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
+        secondAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
+        thirdAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
     }
     
     

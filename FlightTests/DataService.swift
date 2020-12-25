@@ -1,10 +1,3 @@
-//
-//  DataService.swift
-//  FlightTests
-//
-//  Created by Jakub Juh on 04/12/2020.
-//
-
 import Foundation
 import RxSwift
 

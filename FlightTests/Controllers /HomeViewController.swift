@@ -43,8 +43,19 @@ class HomeViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         
         setupAnimation()
-        let parsedData = parse(jsonData: readLocalFile(forName: "data")!)
-        DataService.data.changeData(data: parsedData)
+        let parsedElektrotechnika = parse(jsonData: readLocalFile(forName: "elektrotechnika")!)
+        let parsedAnglictina = parse(jsonData: readLocalFile(forName: "letecka_anglictina")!)
+        let parsedDoprava = parse(jsonData: readLocalFile(forName: "letecka_doprava")!)
+        let pohonneJednotky = parse(jsonData: readLocalFile(forName: "letecke_pohonne_jednotky")!)
+        let letiskaL14 = parse(jsonData: readLocalFile(forName: "letiska_l-14")!)
+        let postupyPreLetovePrevadzkoveSluzby = parse(jsonData: readLocalFile(forName: "postupy_pre_letove_prevadzkove_sluzby")!)
+        let pravidlaLietania = parse(jsonData: readLocalFile(forName: "pravidla_lietania")!)
+        let predpisOLps = parse(jsonData: readLocalFile(forName: "predpis_o_lps")!)
+        let prevadzkaLietadiel = parse(jsonData: readLocalFile(forName: "prevadzka_lietadiel")!)
+        
+        let data = parsedElektrotechnika + parsedAnglictina + parsedDoprava + pohonneJednotky + letiskaL14 + postupyPreLetovePrevadzkoveSluzby + pravidlaLietania + predpisOLps + prevadzkaLietadiel
+        
+        DataService.data.changeData(data: data)
     }
     
     private func setupAnimation() {
@@ -123,7 +134,24 @@ extension UIColor {
 
 extension String {
     var htmlToAttributedString: NSAttributedString? {
-        guard let data = data(using: .utf8) else { return nil }
+        let htmlTemplate = """
+            <!doctype html>
+            <html>
+              <head>
+                <style>
+                  body {
+                    font-family: -apple-system;
+                    font-size: 16px;
+                    text-align: center;
+                  }
+                </style>
+              </head>
+              <body>
+                \(self)
+              </body>
+            </html>
+            """
+        guard let data = htmlTemplate.data(using: .utf8) else { return nil }
         do {
             return try NSAttributedString(data: data, options: [.documentType: NSAttributedString.DocumentType.html, .characterEncoding:String.Encoding.utf8.rawValue], documentAttributes: nil)
         } catch {
