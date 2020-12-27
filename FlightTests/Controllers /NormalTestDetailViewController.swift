@@ -317,6 +317,9 @@ class NormalTestDetailViewController: UIViewController {
             gradientLayer.frame = CGRect.zero
             return gradientLayer
         }()
+        self.imageView.layer.cornerRadius = 8.0
+        self.imageView.clipsToBounds = true
+//        self.imageView.image = UIImage(named: "palubne_pristroje_x07_14.jpg")
         self.view.layer.insertSublayer(gradientLayer, at: 0)
         gradientLayer.frame = self.view.bounds
         UINavigationBar.appearance().barTintColor = UIColor(rgb: 0x2886BB)

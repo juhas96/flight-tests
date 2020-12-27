@@ -1,0 +1,4780 @@
+[
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3611"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "povrchová vlna",
+      "priama vlna",
+      "priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3612"
+  },
+  {
+    "questionText":"Správne označenie vĺn je v riadku",
+    "answers":[
+      "1-priestorová 2-priama 3-povrchová",
+      "1-priama 2-povrchová 3-priestorová",
+      "1-priestorová 2-povrchová 3-priama"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3613",
+    "questionImage":"radiotechnika_x01_03.jpg"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "troposféra",
+      "tropopauza",
+      "ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3614"
+  },
+  {
+    "questionText":"Ionosféra je z hľadiska vodivosti",
+    "answers":[
+      "úplne nevodivá",
+      "dobre vodivá",
+      "čiastočne vodivá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3615"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "elektrónov a neutrónov",
+      "elektrónov a voľných iontov",
+      "voľných iontov a neutrónov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3616"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "závislá - maximum dosahuje v noci",
+      "závislá - maximum dosahuje cez deň",
+      "nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3617"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná \"vrstva D\" sa nachádza vo výške",
+    "answers":[
+      "250 - 300 km",
+      "60 - 80 km",
+      "150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3618"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "slabne",
+      "spája sa s vrstvou E",
+      "rýchlo zaniká"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3619"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "závislú od denného chodu s veľkými výkyvmi",
+      "závislú od denného chodu s malými výkyvmi",
+      "nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3620"
+  },
+  {
+    "questionText":"Vrstva F<sub>1</sub> v noci",
+    "answers":[
+      "zostáva nezmenená",
+      "slabne",
+      "spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3621"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "rastie",
+      "klesá",
+      "je nemenná"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3622"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "odráža viac",
+      "odráža menej",
+      "nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3623"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "nemení",
+      "znižuje",
+      "zvyšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3624"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "povrchovými vlnami a priestorovými vlnami",
+      "povrchovými vlnami",
+      "priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3625"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "na väčšie vzdialenosti",
+      "na kratšie vzdialenosti",
+      "na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3626"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "priestorovou a povrchovou vlnou",
+      "priestorovou vlnou",
+      "povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3627"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov predstavuje denný a nočný chod ionosféry (plná čiara-vrstva existuje, čiarkovaná čiara-vrstva slabne)",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3628",
+    "questionImage":"radiotechnika_x01_18.jpg"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "povrchové",
+      "priestorové",
+      "priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3629"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "odrážajú",
+      "neodrážajú sa nikdy",
+      "odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X01",
+    "categoryName":"Rádiotechnika",
+    "id":"3630"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "ultrazvukových vĺn",
+      "elektromagnetických vĺn",
+      "akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3631"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "do dvojnásobnej vzdialenosti za obzor",
+      "do vzdialenosti priamej viditeľnosti",
+      "do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3632"
+  },
+  {
+    "questionText":"Vzťah medzi vlnovou dĺžkou a frekvenciou vyjadruje vzorec (kde: f - frekvencia, λ - vlnová dĺžka, c - rýchlosť šírenia el. mag. vlnenia vo vákuu)",
+    "answers":[
+      "f = c/λ",
+      "λ = f/c",
+      "f = λ/c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3633"
+  },
+  {
+    "questionText":" Pre vlny A, B, C znázornené na obrázku predpokladáme konštantný uhol vyžarovania. Ktorá vlna má najvyššiu frekvenciu?",
+    "answers":[
+      "B",
+      "A",
+      "C"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3634",
+    "questionImage":"radiotechnika_x02_04.jpg"
+  },
+  {
+    "questionText":"Šírenie dlhých a stredných vĺn je na prekážkach",
+    "answers":[
+      "závislé - odrážajú sa",
+      "nezávislé",
+      "závislé - vytvárajú tieň za prekážkami veľkých rozmerov viac ako 1/2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3635"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3636"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "nezávislé",
+      "závislé od pozemných prekážok väčších ako λ/2",
+      "závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3637"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "108 - 112 MHz",
+      "118 - 136, 975 MHz",
+      "112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3638"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "10, 2 - 13, 6 kHz",
+      "112 - 118 MHz",
+      "150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3639"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 300 - 3 000 kHz λ : 1 000 - 100 m",
+      "f: 3 - 30 kHz λ : 100 - 10 km",
+      "f: 300 - 3 000 MHz λ : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3640"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 30 - 300 kHz λ : 10 - 1 km",
+      "f: 3 - 30 MHz λ : 100 - 10 m",
+      "f: 3 - 30 kHz λ : 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3641"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 30 - 300 kHz λ : 10 - 1 km",
+      "f: 30 - 300 MHz λ : 10 - 1 m",
+      "f: 300 - 3 000 kHz λ : 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3642"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 30 - 3 000 kHz λ  : 1 000 - 100 m",
+      "f: 3 - 30 MHz λ  : 100 - 10 m",
+      "f: 30 - 300 MHz  λ : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3643"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 30 - 300 MHz λ : 10 - 1 m",
+      "f: 30 - 300 kHz λ : 10 - 1 km",
+      "f: 300 - 3 000 MHz λ : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3644"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "f: 30 - 300 MHz λ  : 10 - 1 m",
+      "f: 30 - 300 kHz λ  : 10 - 1 km",
+      "f: 300 - 3 000 MHz λ  : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3645"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "300 - 3 000 kHz λ : 1 - 0, 1 m",
+      "300 - 3 000 MHz λ : 10 - 1 m",
+      "3 - 30 GHz λ : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3646"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "demodulovanej nosnej vlny",
+      "modulovanej nosnej vlny",
+      "modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3647"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3648"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "modulovanú nosnú vlnu",
+      "modulačný signál",
+      "demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3649"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "oddelenia modulačného signálu od nosnej vlny",
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X02",
+    "categoryName":"Rádiotechnika",
+    "id":"3650"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "nastaviť ovládač hlasitosti na maximum",
+      "prepínač Squelch prepnúť z polohy O do polohy SQ",
+      "prepínač Squelch prepnúť z polohy SQ do polohy O"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3651"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "parabolickú anténu",
+      "sústavu dipólov",
+      "prútovnú anténu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3652"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "smerník rádiomajáku",
+      "kurzový uhol",
+      "kurzový uhol rádiomajáku"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3653"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "natočenia rámovej antény do smeru minimálneho príjmu",
+      "porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3654"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "vysielač VOR",
+      "len nesmerový rádiomaják NDB",
+      "ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3655"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "musia byť vypnuté",
+      "nesmú sa používať v režime vysielania",
+      "môže sa používať len rádiovýškomer"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3656"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "na držiak alebo priamo na magnetický kompas",
+      "na inštalované držiaky",
+      "odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3657"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "vykonať \"TEST\" podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené",
+      "skúšobne spustiť ELT namuálnym zapnutím",
+      "skúšobne spustiť ELT aktiváciou G-spínača"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3658"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3659"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "je zdrojom rušenia",
+      "je nebezpečný pre život posádky",
+      "neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3660"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "samovoľne z celého povrchu lietadla",
+      "vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3661"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "dostatočná veľkosť elektrostatického náboja",
+      "dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3662"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "v strede čo najväčších rovných plôch",
+      "na zaoblených plochách",
+      "na ostrých koncoch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3663"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "menším útlmom vo vrstve E",
+      "zánikom povrchovej vlny",
+      "interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3664"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "frekvenčná modulácia",
+      "fázová modulácia",
+      "amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3665"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "v súhlasnej fáze",
+      "vo fáze posunutej o 90o",
+      "v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3666"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "VKV",
+      "SV",
+      "UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3667"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3668"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "agregátmi a prístrojmi na palube",
+      "priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3669"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "minimálne",
+      "maximálne",
+      "0, 75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X03",
+    "categoryName":"Rádiotechnika",
+    "id":"3670"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov predstavuje smerovú charakteristiku rámovej antény?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3671",
+    "questionImage":"radiotechnika_x04_01.jpg"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "minimálneho príjmu",
+      "maximálneho príjmu",
+      "75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3672"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia U",
+    "answers":[
+      "minima",
+      "maxima",
+      "0, 75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3673"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "dvoch rámových antén",
+      "rámovej antény a parabolickej antény",
+      "rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3674"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov (čiarkovane) predstavuje smerovú charakteristiku rámovej a všesmerovej antény?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3675",
+    "questionImage":"radiotechnika_x04_05.jpg"
+  },
+  {
+    "questionText":"Pre letecké rádiostanice VKV sa najčastejšie používajú prútové antény dĺžky",
+    "answers":[
+      " λ / 2",
+      " λ / 3",
+      " λ / 4"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3676"
+  },
+  {
+    "questionText":"Ktorý z obrázkov charakterizuje náhradné elektrické zapojenie antény",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3677",
+    "questionImage":"radiotechnika_x04_07.jpg"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "hodnoty modulačného signálu",
+      "parametre nosnej vlny",
+      "nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3678"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "amplitúda a frekvencia modulačného signálu",
+      "amplitúda nosnej vlny",
+      "amplitúda modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3679"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "impulzná modulácia",
+      "amplitúdová modulácia",
+      "frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3680"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "NDB",
+      "VOR",
+      "ILS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3681"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "fázovo",
+      "frekvenčne",
+      "amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3682"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov znázorňuje amplitúdovú moduláciu?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika X04",
+    "categoryName":"Rádiotechnika",
+    "id":"3683",
+    "questionImage":"radiotechnika_x04_13.jpg"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "a) hodnoty modulačného signálu",
+      "b) parametre nosnej vlny",
+      "c) nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3684"
+  },
+  {
+    "questionText":"Vzťah medzi vlnovou dĺžkou a frekvenciou vyjadruje vzorec (kde: f - frekvencia, λ - vlnova dlzka, c - rýchlosť šírenia el. mag. vlnenia vo vákuu)",
+    "answers":[
+      "a) f = c/λ",
+      "b) λ = f/c",
+      "c) f = λ/c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3685"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "a) nezávislé",
+      "b) závislé od pozemných prekážok väčších ako λ/2",
+      "c) závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3686"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia U",
+    "answers":[
+      "a) minima",
+      "b) maxima",
+      "c) 0, 75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3687"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "a) priestorová vlna",
+      "b) povrchová vlna",
+      "c) priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3688"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "a) na väčšie vzdialenosti",
+      "b) na kratšie vzdialenosti",
+      "c) na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3689"
+  },
+  {
+    "questionText":"Vrstva F<sub>1</sub> v noci",
+    "answers":[
+      "a) zostáva nezmenená",
+      "b) slabne",
+      "c) spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3690"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "a) nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "b) závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "c) závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3691"
+  },
+  {
+    "questionText":"Ktorý z obrázkov charakterizuje náhradné elektrické zapojenie antény",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3692",
+    "questionImage":"radiotechnika_x04_07.jpg"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "a) 10, 2 - 13, 6 kHz",
+      "b) 112 - 118 MHz",
+      "c) 150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3693"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov znázorňuje amplitúdovú moduláciu?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3694",
+    "questionImage":"radiotechnika_x04_13.jpg"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "a) letu v blízkosti búrkových mrakov",
+      "b) letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "c) trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3695"
+  },
+  {
+    "questionText":" Pre vlny A, B, C znázornené na obrázku predpokladáme konštantný uhol vyžarovania. Ktorá vlna má najvyššiu frekvenciu?",
+    "answers":[
+      "B",
+      "A",
+      "C"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3696",
+    "questionImage":"radiotechnika_x02_04.jpg"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov predstavuje smerovú charakteristiku rámovej antény?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3697",
+    "questionImage":"radiotechnika_x04_01.jpg"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "a) je zdrojom rušenia",
+      "b) je nebezpečný pre život posádky",
+      "c) neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3698"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "a) parabolickú anténu",
+      "b) sústavu dipólov",
+      "c) prútovnú anténu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3699"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "a) atmosférickými poruchami",
+      "b) priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "c) atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3700"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "a) dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "b) dostatočná veľkosť elektrostatického náboja",
+      "c) dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3701"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná \"vrstva D\" sa nachádza vo výške",
+    "answers":[
+      "a) 250 - 300 km",
+      "b) 60 - 80 km",
+      "c) 150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3702"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 30 - 300 MHz λ  : 10 - 1 m",
+      "b) f: 30 - 300 kHz λ  : 10 - 1 km",
+      "c) f: 300 - 3 000 MHz λ  : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y1",
+    "categoryName":"Rádiotechnika",
+    "id":"3703"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "a) vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "b) nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "c) nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3704"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "a) VKV",
+      "b) SV",
+      "c) UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3705"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 30 - 300 kHz λ : 10 - 1 km",
+      "b) f: 30 - 300 MHz λ : 10 - 1 m",
+      "c) f: 300 - 3 000 kHz λ : 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3706"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "a) 108 - 112 MHz",
+      "b) 118 - 136, 975 MHz",
+      "c) 112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3707"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "a) NDB",
+      "b) VOR",
+      "c) ILS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3708"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "a) oddelenia modulačného signálu od nosnej vlny",
+      "b) zosilnenia prijatého signálu",
+      "c) zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3709"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 30 - 300 MHz λ : 10 - 1 m",
+      "b) f: 30 - 300 kHz λ : 10 - 1 km",
+      "c) f: 300 - 3 000 MHz λ : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3710"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "a) amplitúda a frekvencia modulačného signálu",
+      "b) amplitúda nosnej vlny",
+      "c) amplitúda modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3711"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "a) modulovanú nosnú vlnu",
+      "b) modulačný signál",
+      "c) demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3712"
+  },
+  {
+    "questionText":"Správne označenie vĺn je v riadku",
+    "answers":[
+      "1-priestorová 2-priama 3-povrchová",
+      "1-priama 2-povrchová 3-priestorová",
+      "1-priestorová 2-povrchová 3-priama"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3713",
+    "questionImage":"radiotechnika_x01_03.jpg"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "a) porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "b) natočenia rámovej antény do smeru minimálneho príjmu",
+      "c) porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3714"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "a) priestorovou a povrchovou vlnou",
+      "b) priestorovou vlnou",
+      "c) povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3715"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "a) slabne",
+      "b) spája sa s vrstvou E",
+      "c) rýchlo zaniká"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3716"
+  },
+  {
+    "questionText":"Šírenie dlhých a stredných vĺn je na prekážkach",
+    "answers":[
+      "a) závislé - odrážajú sa",
+      "b) nezávislé",
+      "c) závislé - vytvárajú tieň za prekážkami veľkých rozmerov viac ako 1/2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3717"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "a) závislá - maximum dosahuje v noci",
+      "b) závislá - maximum dosahuje cez deň",
+      "c) nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3718"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "a) elektrónov a neutrónov",
+      "b) elektrónov a voľných iontov",
+      "c) voľných iontov a neutrónov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3719"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "a) odrážajú",
+      "b) neodrážajú sa nikdy",
+      "c) odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3720"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "a) povrchovými vlnami a priestorovými vlnami",
+      "b) povrchovými vlnami",
+      "c) priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3721"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "a) minimálneho príjmu",
+      "b) maximálneho príjmu",
+      "c) 75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3722"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "a) minimálne",
+      "b) maximálne",
+      "c) 0, 75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y2",
+    "categoryName":"Rádiotechnika",
+    "id":"3723"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "a) vysielač VOR",
+      "b) len nesmerový rádiomaják NDB",
+      "c) ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3724"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "a) na držiak alebo priamo na magnetický kompas",
+      "b) na inštalované držiaky",
+      "c) odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3725"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "a) demodulovanej nosnej vlny",
+      "b) modulovanej nosnej vlny",
+      "c) modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3726"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "a) frekvenčná modulácia",
+      "b) fázová modulácia",
+      "c) amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3727"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "a) závislú od denného chodu s veľkými výkyvmi",
+      "b) závislú od denného chodu s malými výkyvmi",
+      "c) nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3728"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "a) povrchová vlna",
+      "b) priama vlna",
+      "c) priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3729"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "a) nemení",
+      "b) znižuje",
+      "c) zvyšuje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3730"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "a) musia byť vypnuté",
+      "b) nesmú sa používať v režime vysielania",
+      "c) môže sa používať len rádiovýškomer"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3731"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "a) ultrazvukových vĺn",
+      "b) elektromagnetických vĺn",
+      "c) akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3732"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "a) troposféra",
+      "b) tropopauza",
+      "c) ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3733"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "a) rastie",
+      "b) klesá",
+      "c) je nemenná"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3734"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "a) vykonať \"TEST\" podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené",
+      "b) skúšobne spustiť ELT namuálnym zapnutím",
+      "c) skúšobne spustiť ELT aktiváciou G-spínača"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3735"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov predstavuje denný a nočný chod ionosféry (plná čiara-vrstva existuje, čiarkovaná čiara-vrstva slabne)",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y3",
+    "categoryName":"Rádiotechnika",
+    "id":"3736",
+    "questionImage":"radiotechnika_x01_18.jpg"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "a) v súhlasnej fáze",
+      "b) vo fáze posunutej o 90o",
+      "c) v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3737"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 30 - 300 kHz λ : 10 - 1 km",
+      "b) f: 3 - 30 MHz λ : 100 - 10 m",
+      "c) f: 3 - 30 kHz λ : 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3738"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "a) fázovo",
+      "b) frekvenčne",
+      "c) amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3739"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 300 - 3 000 kHz λ : 1 000 - 100 m",
+      "b) f: 3 - 30 kHz λ  : 100 - 10 km",
+      "c) f: 300 - 3 000 MHz λ : 1 - 0, 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3740"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "a) dvoch rámových antén",
+      "b) rámovej antény a parabolickej antény",
+      "c) rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3741"
+  },
+  {
+    "questionText":"Pre letecké rádiostanice VKV sa najčastejšie používajú prútové antény dĺžky",
+    "answers":[
+      "a)  λ / 2",
+      "b)  λ / 3",
+      "c) λ  / 4"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3742"
+  },
+  {
+    "questionText":"Ionosféra je z hľadiska vodivosti",
+    "answers":[
+      "a) úplne nevodivá",
+      "b) dobre vodivá",
+      "c) čiastočne vodivá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3743"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "a) atmosférickými poruchami",
+      "b) agregátmi a prístrojmi na palube",
+      "c) priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3744"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "a) impulzná modulácia",
+      "b) amplitúdová modulácia",
+      "c) frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3745"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "a) cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "b) samovoľne z celého povrchu lietadla",
+      "c) vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3746"
+  },
+  {
+    "questionText":"Ktorý z nasledujúcich obrázkov (čiarkovane) predstavuje smerovú charakteristiku rámovej a všesmerovej antény?",
+    "answers":[
+      "a",
+      "b",
+      "c"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3747",
+    "questionImage":"radiotechnika_x04_05.jpg"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) f: 30 - 3 000 kHz λ  : 1 000 - 100 m",
+      "b) f: 3 - 30 MHz λ  : 100 - 10 m",
+      "c) f: 30 - 300 MHz λ  : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3748"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "a) nastaviť ovládač hlasitosti na maximum",
+      "b) prepínač Squelch prepnúť z polohy O do polohy SQ",
+      "c) prepínač Squelch prepnúť z polohy SQ do polohy O"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3749"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "a) v strede čo najväčších rovných plôch",
+      "b) na zaoblených plochách",
+      "c) na ostrých koncoch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3750"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka",
+    "answers":[
+      "a) 300 - 3 000 kHz  λ : 1 - 0, 1 m",
+      "b) 300 - 3 000 MHz λ  : 10 - 1 m",
+      "c) 3 - 30 GHz  λ : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3751"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "a) do dvojnásobnej vzdialenosti za obzor",
+      "b) do vzdialenosti priamej viditeľnosti",
+      "c) do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3752"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "a) smerník rádiomajáku",
+      "b) kurzový uhol",
+      "c) kurzový uhol rádiomajáku"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3753"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "a) menším útlmom vo vrstve E",
+      "b) zánikom povrchovej vlny",
+      "c) interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3754"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "a) povrchové",
+      "b) priestorové",
+      "c) priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3755"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "a) odráža viac",
+      "b) odráža menej",
+      "c) nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika Y4",
+    "categoryName":"Rádiotechnika",
+    "id":"3756"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3757"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "povrchová vlna",
+      "priama vlna",
+      "priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3758"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "troposféra",
+      "tropopauza",
+      "ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3759"
+  },
+  {
+    "questionText":"Ionosféra je z hľadiska vodivosti",
+    "answers":[
+      "úplne nevodivá",
+      "dobre vodivá",
+      "čiastočne vodivá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3760"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "elektrónov a voľných iontov",
+      "voľných iontov a neutrónov",
+      "elektrónov a neutrónov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3761"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "závislá - maximum dosahuje v noci",
+      "závislá - maximum dosahuje cez deň",
+      "nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3762"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná vrstva D sa nachádza vo výške",
+    "answers":[
+      "250 - 300 km nad povrchom zeme",
+      "60 - 80 km nad povrchom zeme",
+      "150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3763"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "rýchlo zaniká",
+      "slabne",
+      "spája sa s vrstvou E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3764"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "závislú od denného chodu s veľkými výkyvmi",
+      "závislú od denného chodu s malými výkyvmi",
+      "nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3765"
+  },
+  {
+    "questionText":"Vrstva F1 v noci",
+    "answers":[
+      "zostáva nezmenená",
+      "slabne",
+      "spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3766"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "klesá",
+      "je nemenná",
+      "rastie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3767"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "fázovo",
+      "frekvenčne",
+      "amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3768"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "je zdrojom rušenia",
+      "je nebezpečný pre život posádky",
+      "neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3769"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "menším útlmom vo vrstve E",
+      "zánikom povrchovej vlny",
+      "interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3770"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "300 - 3 000 kHz lambda : 1 - 0,1 m",
+      "300 - 3 000 MHz lambda : 10 - 1 m",
+      "3 - 30 GHz lambda : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3771"
+  },
+  {
+    "questionText":"Vrstva F1 v noci",
+    "answers":[
+      "zostáva nezmenená",
+      "slabne",
+      "spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3772"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "v súhlasnej fáze",
+      "vo fáze posunutej o 90°",
+      "v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3773"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "povrchové",
+      "priestorové",
+      "priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3774"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "zvyšuje",
+      "nemení",
+      "znižuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3775"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "modulovanú nosnú vlnu",
+      "modulačný signál",
+      "demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3776"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "do dvojnásobnej vzdialenosti za obzor",
+      "do vzdialenosti priamej viditeľnosti",
+      "do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3777"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "vysielač VOR",
+      "ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB",
+      "len nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3778"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "108 - 112 MHz",
+      "118 - 136,975 MHz",
+      "112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3779"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "troposféra",
+      "tropopauza",
+      "ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3780"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "na väčšie vzdialenosti",
+      "na kratšie vzdialenosti",
+      "na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3781"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "závislú od denného chodu s veľkými výkyvmi",
+      "závislú od denného chodu s malými výkyvmi",
+      "nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3782"
+  },
+  {
+    "questionText":"Ionosféra je z hľadiska vodivosti",
+    "answers":[
+      "úplne nevodivá",
+      "dobre vodivá",
+      "čiastočne vodivá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3783"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 3 000 kHz lambda : 1 000 - 100 m",
+      "f: 3 - 30 MHz lambda : 100 - 10 m",
+      "f: 30 - 300 MHz lambda : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3784"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "klesá",
+      "je nemenná",
+      "rastie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3785"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "odráža viac",
+      "odráža menej",
+      "nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3786"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "zvyšuje",
+      "nemení",
+      "znižuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3787"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "povrchovými vlnami a priestorovými vlnami",
+      "povrchovými vlnami",
+      "priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3788"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "na väčšie vzdialenosti",
+      "na kratšie vzdialenosti",
+      "na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3789"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "priestorovou a povrchovou vlnou",
+      "priestorovou vlnou",
+      "povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3790"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "povrchové",
+      "priestorové",
+      "priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3791"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "odrážajú",
+      "neodrážajú sa nikdy",
+      "odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3792"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "ultrazvukových vĺn",
+      "elektromagnetických vĺn",
+      "akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3793"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "do dvojnásobnej vzdialenosti za obzor",
+      "do vzdialenosti priamej viditeľnosti",
+      "do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3794"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3795"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "nezávislé",
+      "závislé od pozemných prekážok väčších ako λ/2",
+      "závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3796"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3797"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3798"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "minimálne",
+      "maximálne",
+      "0,75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3799"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3800"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "minimálneho príjmu",
+      "maximálneho príjmu",
+      "75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3801"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3802"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "ultrazvukových vĺn",
+      "elektromagnetických vĺn",
+      "akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3803"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda : 10 - 1 m",
+      "f: 30 - 300 kHz lambda : 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda : 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3804"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "priestorovou a povrchovou vlnou",
+      "priestorovou vlnou",
+      "povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3805"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 3 - 30 MHz lambda: 100 - 10 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3806"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "impulzná modulácia",
+      "amplitúdová modulácia",
+      "frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3807"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "prepínač Squelch prepnúť z polohy SQ do polohy O",
+      "nastaviť ovládač hlasitosti na maximum",
+      "prepínač Squelch prepnúť z polohy O do polohy SQ"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3808"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "108 - 112 MHz",
+      "118 - 136,975 MHz",
+      "112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3809"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "10,2 - 13,6 kHz",
+      "112 - 118 MHz",
+      "150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3810"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3811"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 3 - 30 MHz lambda: 100 - 10 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3812"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3813"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 3 000 kHz lambda : 1 000 - 100 m",
+      "f: 3 - 30 MHz lambda : 100 - 10 m",
+      "f: 30 - 300 MHz lambda : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3814"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3815"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda : 10 - 1 m",
+      "f: 30 - 300 kHz lambda : 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda : 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3816"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "300 - 3 000 kHz lambda : 1 - 0,1 m",
+      "300 - 3 000 MHz lambda : 10 - 1 m",
+      "3 - 30 GHz lambda : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3817"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "demodulovanej nosnej vlny",
+      "modulovanej nosnej vlny",
+      "modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3818"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3819"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3820"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "natočenia rámovej antény do smeru minimálneho príjmu",
+      "porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3821"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3822"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "odráža viac",
+      "odráža menej",
+      "nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3823"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "sústavu dipólov",
+      "prútovnú anténu",
+      "parabolickú anténu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3824"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "hodnoty modulačného signálu",
+      "parametre nosnej vlny",
+      "nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3825"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "oddelenia modulačného signálu od nosnej vlny",
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3826"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "samovoľne z celého povrchu lietadla",
+      "vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3827"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "frekvenčná modulácia",
+      "fázová modulácia",
+      "amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3828"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3829"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "na držiak alebo priamo na magnetický kompas",
+      "na inštalované držiaky",
+      "odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3830"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia Ui rámovej antény zaznamenáva najväčší vzrast v okolí",
+    "answers":[
+      "minima",
+      "maxima",
+      "0,75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3831"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "agregátmi a prístrojmi na palube",
+      "priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3832"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "v strede čo najväčších rovných plôch",
+      "na ostrých koncoch",
+      "na zaoblených plochách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3833"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "rýchlo zaniká",
+      "slabne",
+      "spája sa s vrstvou E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3834"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "môže sa používať len rádiovýškomer",
+      "musia byť vypnuté",
+      "nesmú sa používať v režime vysielania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3835"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "modulovanú nosnú vlnu",
+      "modulačný signál",
+      "demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3836"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "oddelenia modulačného signálu od nosnej vlny",
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3837"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "prepínač Squelch prepnúť z polohy SQ do polohy O",
+      "nastaviť ovládač hlasitosti na maximum",
+      "prepínač Squelch prepnúť z polohy O do polohy SQ"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3838"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "sústavu dipólov",
+      "prútovnú anténu",
+      "parabolickú anténu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3839"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "smerník rádiomajáku",
+      "kurzový uhol rádiomajáku",
+      "kurzový uhol"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3840"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "natočenia rámovej antény do smeru minimálneho príjmu",
+      "porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3841"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "vysielač VOR",
+      "ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB",
+      "len nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3842"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "môže sa používať len rádiovýškomer",
+      "musia byť vypnuté",
+      "nesmú sa používať v režime vysielania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3843"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "na držiak alebo priamo na magnetický kompas",
+      "na inštalované držiaky",
+      "odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3844"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "skúšobne spustiť ELT namuálnym zapnutím",
+      "skúšobne spustiť ELT aktiváciou G-spínača",
+      "vykonať TEST podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 7",
+    "categoryName":"Rádiotechnika",
+    "id":"3845"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "elektrónov a voľných iontov",
+      "voľných iontov a neutrónov",
+      "elektrónov a neutrónov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3846"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "NDB",
+      "ILS",
+      "VOR"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3847"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "odrážajú",
+      "neodrážajú sa nikdy",
+      "odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3848"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "povrchovými vlnami a priestorovými vlnami",
+      "povrchovými vlnami",
+      "priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3849"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "demodulovanej nosnej vlny",
+      "modulovanej nosnej vlny",
+      "modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3850"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "závislá - maximum dosahuje v noci",
+      "závislá - maximum dosahuje cez deň",
+      "nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3851"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "povrchová vlna",
+      "priama vlna",
+      "priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3852"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "VKV",
+      "SV",
+      "UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3853"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "amplitúda a frekvencia modulačného signálu",
+      "amplitúda modulačného signálu",
+      "amplitúda nosnej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 8",
+    "categoryName":"Rádiotechnika",
+    "id":"3854"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3855"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "je zdrojom rušenia",
+      "je nebezpečný pre život posádky",
+      "neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3856"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "samovoľne z celého povrchu lietadla",
+      "vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3857"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "dostatočná veľkosť elektrostatického náboja",
+      "dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3858"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "v strede čo najväčších rovných plôch",
+      "na ostrých koncoch",
+      "na zaoblených plochách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3859"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "menším útlmom vo vrstve E",
+      "zánikom povrchovej vlny",
+      "interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3860"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "frekvenčná modulácia",
+      "fázová modulácia",
+      "amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3861"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "v súhlasnej fáze",
+      "vo fáze posunutej o 90°",
+      "v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3862"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "VKV",
+      "SV",
+      "UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3863"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 9",
+    "categoryName":"Rádiotechnika",
+    "id":"3864"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "smerník rádiomajáku",
+      "kurzový uhol rádiomajáku",
+      "kurzový uhol"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3865"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "10,2 - 13,6 kHz",
+      "112 - 118 MHz",
+      "150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3866"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "dvoch rámových antén",
+      "rámovej antény a parabolickej antény",
+      "rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3867"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná vrstva D sa nachádza vo výške",
+    "answers":[
+      "250 - 300 km nad povrchom zeme",
+      "60 - 80 km nad povrchom zeme",
+      "150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3868"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "dostatočná veľkosť elektrostatického náboja",
+      "dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3869"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3870"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "skúšobne spustiť ELT namuálnym zapnutím",
+      "skúšobne spustiť ELT aktiváciou G-spínača",
+      "vykonať TEST podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3871"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "nezávislé",
+      "závislé od pozemných prekážok väčších ako λ/2",
+      "závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 10",
+    "categoryName":"Rádiotechnika",
+    "id":"3872"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "agregátmi a prístrojmi na palube",
+      "priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3873"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "minimálne",
+      "maximálne",
+      "0,75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3874"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "minimálneho príjmu",
+      "maximálneho príjmu",
+      "75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3875"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia Ui rámovej antény zaznamenáva najväčší vzrast v okolí",
+    "answers":[
+      "minima",
+      "maxima",
+      "0,75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3876"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "dvoch rámových antén",
+      "rámovej antény a parabolickej antény",
+      "rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3877"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "hodnoty modulačného signálu",
+      "parametre nosnej vlny",
+      "nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3878"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "amplitúda a frekvencia modulačného signálu",
+      "amplitúda modulačného signálu",
+      "amplitúda nosnej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3879"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "impulzná modulácia",
+      "amplitúdová modulácia",
+      "frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3880"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "NDB",
+      "ILS",
+      "VOR"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3881"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "fázovo",
+      "frekvenčne",
+      "amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika 11",
+    "categoryName":"Rádiotechnika",
+    "id":"3882"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "dvoch rámových antén",
+      "rámovej antény a parabolickej antény",
+      "rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3883"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3884"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "závislú od denného chodu s veľkými výkyvmi",
+      "závislú od denného chodu s malými výkyvmi",
+      "nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3885"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná vrstva D sa nachádza vo výške",
+    "answers":[
+      "250 - 300 km nad povrchom zeme",
+      "60 - 80 km nad povrchom zeme",
+      "150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3886"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "zvyšuje",
+      "nemení",
+      "znižuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3887"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "NDB",
+      "ILS",
+      "VOR"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3888"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "smerník rádiomajáku",
+      "kurzový uhol rádiomajáku",
+      "kurzový uhol"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3889"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 3 000 kHz lambda : 1 000 - 100 m",
+      "f: 3 - 30 MHz lambda : 100 - 10 m",
+      "f: 30 - 300 MHz lambda : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3890"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "agregátmi a prístrojmi na palube",
+      "priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3891"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "povrchová vlna",
+      "priama vlna",
+      "priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3892"
+  },
+  {
+    "questionText":"Ionizovaná vrstva, nazývaná vrstva D sa nachádza vo výške",
+    "answers":[
+      "250 - 300 km nad povrchom zeme",
+      "60 - 80 km nad povrchom zeme",
+      "150 - 250 km nad povrchom zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3893"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "rýchlo zaniká",
+      "slabne",
+      "spája sa s vrstvou E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3894"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "hodnoty modulačného signálu",
+      "parametre nosnej vlny",
+      "nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3895"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "v súhlasnej fáze",
+      "vo fáze posunutej o 90°",
+      "v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3896"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "vysielač VOR",
+      "ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB",
+      "len nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3897"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "na väčšie vzdialenosti",
+      "na kratšie vzdialenosti",
+      "na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3898"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "impulzná modulácia",
+      "amplitúdová modulácia",
+      "frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3899"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "troposféra",
+      "tropopauza",
+      "ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3900"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "10,2 - 13,6 kHz",
+      "112 - 118 MHz",
+      "150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3901"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "300 - 3 000 kHz lambda : 1 - 0,1 m",
+      "300 - 3 000 MHz lambda : 10 - 1 m",
+      "3 - 30 GHz lambda : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 1",
+    "categoryName":"Rádiotechnika",
+    "id":"3902"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "klesá",
+      "je nemenná",
+      "rastie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3903"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "je zdrojom rušenia",
+      "je nebezpečný pre život posádky",
+      "neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3904"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "dostatočná veľkosť elektrostatického náboja",
+      "dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3905"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "fázovo",
+      "frekvenčne",
+      "amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3906"
+  },
+  {
+    "questionText":"Ionizovaná vrstva E má hustotu iónov",
+    "answers":[
+      "závislú od denného chodu s veľkými výkyvmi",
+      "závislú od denného chodu s malými výkyvmi",
+      "nezávislú od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3907"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "minimálne",
+      "maximálne",
+      "0,75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3908"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "menším útlmom vo vrstve E",
+      "zánikom povrchovej vlny",
+      "interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3909"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia Ui rámovej antény zaznamenáva najväčší vzrast v okolí",
+    "answers":[
+      "minima",
+      "maxima",
+      "0,75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3910"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "nezávislé",
+      "závislé od pozemných prekážok väčších ako λ/2",
+      "závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3911"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3912"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "do dvojnásobnej vzdialenosti za obzor",
+      "do vzdialenosti priamej viditeľnosti",
+      "do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3913"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "závislá - maximum dosahuje v noci",
+      "závislá - maximum dosahuje cez deň",
+      "nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3914"
+  },
+  {
+    "questionText":"Ionosféra je z hľadiska vodivosti",
+    "answers":[
+      "úplne nevodivá",
+      "dobre vodivá",
+      "čiastočne vodivá"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3915"
+  },
+  {
+    "questionText":"Vrstva F1 v noci",
+    "answers":[
+      "zostáva nezmenená",
+      "slabne",
+      "spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3916"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "amplitúda a frekvencia modulačného signálu",
+      "amplitúda modulačného signálu",
+      "amplitúda nosnej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3917"
+  },
+  {
+    "questionText":"Na dosiahnutie jednoznačnej informácie o polohe vysielača sa používa kombinácia",
+    "answers":[
+      "dvoch rámových antén",
+      "rámovej antény a parabolickej antény",
+      "rámovej antény a všesmerovej antény"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3918"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "minimálneho príjmu",
+      "maximálneho príjmu",
+      "75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3919"
+  },
+  {
+    "questionText":"Vrstva F1 v noci",
+    "answers":[
+      "zostáva nezmenená",
+      "slabne",
+      "spája sa s vrstvou F2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3920"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "povrchové",
+      "priestorové",
+      "priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 2",
+    "categoryName":"Rádiotechnika",
+    "id":"3921"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "skúšobne spustiť ELT namuálnym zapnutím",
+      "skúšobne spustiť ELT aktiváciou G-spínača",
+      "vykonať TEST podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3922"
+  },
+  {
+    "questionText":"Ionizácia jednotlivých vrstiev ionosféry s výškou",
+    "answers":[
+      "klesá",
+      "je nemenná",
+      "rastie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3923"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "elektrónov a voľných iontov",
+      "voľných iontov a neutrónov",
+      "elektrónov a neutrónov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3924"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "108 - 112 MHz",
+      "118 - 136,975 MHz",
+      "112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3925"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "modulovanú nosnú vlnu",
+      "modulačný signál",
+      "demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3926"
+  },
+  {
+    "questionText":"Na šírenie elektromagnetického vlnenia má najväčší vplyv",
+    "answers":[
+      "troposféra",
+      "tropopauza",
+      "ionosféra"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3927"
+  },
+  {
+    "questionText":"Signál vysielaný nesmerovými rádiomajákmi NDB je modulovaný",
+    "answers":[
+      "fázovo",
+      "frekvenčne",
+      "amplitúdovo"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3928"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda : 10 - 1 m",
+      "f: 30 - 300 kHz lambda : 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda : 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3929"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "natočenia rámovej antény do smeru minimálneho príjmu",
+      "porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3930"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria okolo Zeme následkom jednoduchého alebo mnohonásobného odrazu od ionosféry sa nazývajú",
+    "answers":[
+      "povrchová vlna",
+      "priama vlna",
+      "priestorová vlna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3931"
+  },
+  {
+    "questionText":"Ak je plocha rýmovej antény nastavená kolmo na vysielač, indukuje sa na nej napätie, ktoré je",
+    "answers":[
+      "minimálne",
+      "maximálne",
+      "0,75 Ui max"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3932"
+  },
+  {
+    "questionText":"Pri zameriavaní vysielača rámovou anténou sa anténa nastavuje do smeru",
+    "answers":[
+      "minimálneho príjmu",
+      "maximálneho príjmu",
+      "75% maximálneho príjmu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3933"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "prepínač Squelch prepnúť z polohy SQ do polohy O",
+      "nastaviť ovládač hlasitosti na maximum",
+      "prepínač Squelch prepnúť z polohy O do polohy SQ"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3934"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "oddelenia modulačného signálu od nosnej vlny",
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3935"
+  },
+  {
+    "questionText":"K úniku vplyvom interferencie priestorovej a povrchovej vlny dochádza, ak do miesta príjmu prichádzajú vlny",
+    "answers":[
+      "v súhlasnej fáze",
+      "vo fáze posunutej o 90°",
+      "v protifáze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3936"
+  },
+  {
+    "questionText":"Vznikajúci elektrostatický náboj na povrchu lietadla",
+    "answers":[
+      "je zdrojom rušenia",
+      "je nebezpečný pre život posádky",
+      "neovplyvňuje let pri použití vhodných opatrení"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3937"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "na držiak alebo priamo na magnetický kompas",
+      "na inštalované držiaky",
+      "odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3938"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice prijíma prostredníctvom antény",
+    "answers":[
+      "modulovanú nosnú vlnu",
+      "modulačný signál",
+      "demodulovanú nosnú vlnu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3939"
+  },
+  {
+    "questionText":"Krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 3 000 kHz lambda : 1 000 - 100 m",
+      "f: 3 - 30 MHz lambda : 100 - 10 m",
+      "f: 30 - 300 MHz lambda : 10 - 1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3940"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "sústavu dipólov",
+      "prútovnú anténu",
+      "parabolickú anténu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 3",
+    "categoryName":"Rádiotechnika",
+    "id":"3941"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "môže sa používať len rádiovýškomer",
+      "musia byť vypnuté",
+      "nesmú sa používať v režime vysielania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3942"
+  },
+  {
+    "questionText":"Vo vysielači komunikačnej rádiostanice sa moduluje",
+    "answers":[
+      "vysokofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna zosilneným nízkofrekvenčným signálom",
+      "nízkofrekvenčná nosná vlna vysokofrekvenčným signálom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3943"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "frekvenčná modulácia",
+      "fázová modulácia",
+      "amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3944"
+  },
+  {
+    "questionText":"Pri amplitúdovej modulácii sa mení v závislosti od modulačného signálu",
+    "answers":[
+      "amplitúda a frekvencia modulačného signálu",
+      "amplitúda modulačného signálu",
+      "amplitúda nosnej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3945"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3946"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3947"
+  },
+  {
+    "questionText":"VKV zameriavače používajú ako základný prvok",
+    "answers":[
+      "sústavu dipólov",
+      "prútovnú anténu",
+      "parabolickú anténu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3948"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "ultrazvukových vĺn",
+      "elektromagnetických vĺn",
+      "akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3949"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3950"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "VKV",
+      "SV",
+      "UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3951"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "povrchovými vlnami a priestorovými vlnami",
+      "povrchovými vlnami",
+      "priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3952"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 3 - 30 MHz lambda: 100 - 10 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3953"
+  },
+  {
+    "questionText":"Na dobrý odvod statickej elektriny je dôležité",
+    "answers":[
+      "dokonalé vodivé prepojenie pevných aj pohyblivých častí lietadla",
+      "dostatočná veľkosť elektrostatického náboja",
+      "dokonalé vodivé prepojenie pohyblivých častí lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3954"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "v strede čo najväčších rovných plôch",
+      "na ostrých koncoch",
+      "na zaoblených plochách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3955"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "priestorovou a povrchovou vlnou",
+      "priestorovou vlnou",
+      "povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3956"
+  },
+  {
+    "questionText":"Nesmerové rádiomajáky (NDB) pracujú v pásme",
+    "answers":[
+      "10,2 - 13,6 kHz",
+      "112 - 118 MHz",
+      "150 - 1 750 kHz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3957"
+  },
+  {
+    "questionText":"Ultra krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda : 10 - 1 m",
+      "f: 30 - 300 kHz lambda : 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda : 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3958"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "demodulovanej nosnej vlny",
+      "modulovanej nosnej vlny",
+      "modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3959"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3960"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 4",
+    "categoryName":"Rádiotechnika",
+    "id":"3961"
+  },
+  {
+    "questionText":"Kolísanie príjmu stredných vĺn v noci je spôsobené",
+    "answers":[
+      "menším útlmom vo vrstve E",
+      "zánikom povrchovej vlny",
+      "interferenciou povrchovej a priestorovej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3962"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3963"
+  },
+  {
+    "questionText":"Dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 3 - 30 MHz lambda: 100 - 10 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3964"
+  },
+  {
+    "questionText":"Ako pozemné zariadenie k ARK môže slúžiť",
+    "answers":[
+      "vysielač VOR",
+      "ľubovoľný rádiový vysielač pracujúci vo frekvenčnom pásme 150 - 1 750 kHz a nesmerový rádiomaják NDB",
+      "len nesmerový rádiomaják NDB"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3965"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "odráža viac",
+      "odráža menej",
+      "nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3966"
+  },
+  {
+    "questionText":"Šírenie veľmi krátkych vĺn je od prekážok",
+    "answers":[
+      "nezávislé",
+      "závislé od pozemných prekážok väčších ako λ/2",
+      "závislé od všetkých pozemných prekážok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3967"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa šíria ako",
+    "answers":[
+      "povrchové",
+      "priestorové",
+      "priame"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3968"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "odrážajú",
+      "neodrážajú sa nikdy",
+      "odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3969"
+  },
+  {
+    "questionText":"Stredným vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3970"
+  },
+  {
+    "questionText":"Pre ktoré vlny sa stávajú prekážkou javy, ako sú hmla, dážď, sneh?",
+    "answers":[
+      "VKV",
+      "SV",
+      "UKV"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3971"
+  },
+  {
+    "questionText":"Modulovaním ovplyvňujeme",
+    "answers":[
+      "hodnoty modulačného signálu",
+      "parametre nosnej vlny",
+      "nosnú vlnu i modulačný signál"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3972"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu, a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3973"
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "oddelenia modulačného signálu od nosnej vlny",
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3974"
+  },
+  {
+    "questionText":"Vybíjacie kefky sú na lietadle umiestnené",
+    "answers":[
+      "v strede čo najväčších rovných plôch",
+      "na ostrých koncoch",
+      "na zaoblených plochách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3975"
+  },
+  {
+    "questionText":"Vlastnosť fázovej modulácie, kde sa posúva fáza nosnej vlny, sa využíva u rádionavigačných zariadení",
+    "answers":[
+      "NDB",
+      "ILS",
+      "VOR"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3976"
+  },
+  {
+    "questionText":"Rušenie príjmu rádiového signálu na lietadle je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "priemyselnými zdrojmi rušenia a prístrojmi a agregátmi na palube",
+      "atmosférickými poruchami, priemyselnými zdrojmi rušenia a agregátmi a prístrojmi na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3977"
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "ultrazvukových vĺn",
+      "elektromagnetických vĺn",
+      "akustických vĺn"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3978"
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré nazývame dlhými vlnami sa šíria",
+    "answers":[
+      "povrchovými vlnami a priestorovými vlnami",
+      "povrchovými vlnami",
+      "priamymi vlnami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3979"
+  },
+  {
+    "questionText":"Vysielač komunikačnej rádiostanice pracuje na princípe vyžarovania",
+    "answers":[
+      "demodulovanej nosnej vlny",
+      "modulovanej nosnej vlny",
+      "modulačného signálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3980"
+  },
+  {
+    "questionText":"Priebeh indukovaného napätia Ui rámovej antény zaznamenáva najväčší vzrast v okolí",
+    "answers":[
+      "minima",
+      "maxima",
+      "0,75 maxima"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 5",
+    "categoryName":"Rádiotechnika",
+    "id":"3981"
+  },
+  {
+    "questionText":"Veľmi krátke vlny sa od ionosféry",
+    "answers":[
+      "odrážajú",
+      "neodrážajú sa nikdy",
+      "odrážajú sa v mimoriadnych prípadoch, v období veľkej slnečnej činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3982"
+  },
+  {
+    "questionText":"Na rušenie pri šírení elektromagnetického vlnenia je najviac citlivá",
+    "answers":[
+      "frekvenčná modulácia",
+      "fázová modulácia",
+      "amplitúdová modulácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3983"
+  },
+  {
+    "questionText":"Dlhé vlny sa vplyvom zániku vrstvy D v noci šíria",
+    "answers":[
+      "na väčšie vzdialenosti",
+      "na kratšie vzdialenosti",
+      "na rovnaké vzdialenosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3984"
+  },
+  {
+    "questionText":"Letecké rádiostanice pracujú v pásme VKV",
+    "answers":[
+      "108 - 112 MHz",
+      "118 - 136,975 MHz",
+      "112 - 118 MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3985"
+  },
+  {
+    "questionText":"Elektromagnetické vlnenie so stúpajúcou frekvenciou sa od ionosféry",
+    "answers":[
+      "odráža viac",
+      "odráža menej",
+      "nezávisí to na frekvencii"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3986"
+  },
+  {
+    "questionText":"Ionosféra sa skladá z",
+    "answers":[
+      "elektrónov a voľných iontov",
+      "voľných iontov a neutrónov",
+      "elektrónov a neutrónov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3987"
+  },
+  {
+    "questionText":"Použitím sieťových filtrov na palube lietadla odstránime rušenie, ktoré je spôsobené",
+    "answers":[
+      "atmosférickými poruchami",
+      "agregátmi a prístrojmi na palube",
+      "priemyselnými zdrojmi rušenia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3988"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "samovoľne z celého povrchu lietadla",
+      "vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3989"
+  },
+  {
+    "questionText":"Po západe slnka vrstva D",
+    "answers":[
+      "rýchlo zaniká",
+      "slabne",
+      "spája sa s vrstvou E"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3990"
+  },
+  {
+    "questionText":"Pred letom lietadlá vybaveným núdzovým polohovým majákom (ELT) môžeme",
+    "answers":[
+      "skúšobne spustiť ELT namuálnym zapnutím",
+      "skúšobne spustiť ELT aktiváciou G-spínača",
+      "vykonať TEST podľa ustanovení letovej príručky alebo smernice prevádzkovateľa, ak je zariadením ELT lietadlo vybavené"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3991"
+  },
+  {
+    "questionText":"Praktický dosah lietadlovej rádiostanice je ",
+    "answers":[
+      "do dvojnásobnej vzdialenosti za obzor",
+      "do vzdialenosti priamej viditeľnosti",
+      "do trojnásobnej vzdialenosti za obzor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3992"
+  },
+  {
+    "questionText":"Šírenie krátkych vĺn je",
+    "answers":[
+      "nezávislé na prekážkach, šíria sa odrazom od ionosféry",
+      "závislé, vytvárajú sa tiene za prekážkami veľkých rozmerov",
+      "závislé od pozemných prekážok - ohýbajú sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3993"
+  },
+  {
+    "questionText":"Stredné vlny sa vo dne šíria",
+    "answers":[
+      "priestorovou a povrchovou vlnou",
+      "priestorovou vlnou",
+      "povrchovou vlnou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3994"
+  },
+  {
+    "questionText":"Veľmi krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 30 - 300 MHz lambda: 10 - 1 m",
+      "f: 30 - 300 kHz lambda: 10 - 1 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3995"
+  },
+  {
+    "questionText":"Dosah priestorovej vlny sa s rastúcou výškou odrazovej vrstvy",
+    "answers":[
+      "zvyšuje",
+      "nemení",
+      "znižuje"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3996"
+  },
+  {
+    "questionText":"Pri slabom a prerušovanom príjme signálu je potrebné",
+    "answers":[
+      "prepínač Squelch prepnúť z polohy SQ do polohy O",
+      "nastaviť ovládač hlasitosti na maximum",
+      "prepínač Squelch prepnúť z polohy O do polohy SQ"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3997"
+  },
+  {
+    "questionText":"Veľmi dlhým vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "f: 300 - 3 000 kHz lambda: 1 000 - 100 m",
+      "f: 3 - 30 kHz lambda: 100 - 10 km",
+      "f: 300 - 3 000 MHz lambda: 1 - 0,1 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3998"
+  },
+  {
+    "questionText":"Automatický rádiokompas pracuje na princípe",
+    "answers":[
+      "porovnávania napätia vznikajúceho na rámovej a všesmerovej anténe",
+      "natočenia rámovej antény do smeru minimálneho príjmu",
+      "porovnania prúdu vznikajúceho v rámovej a všesmerovej anténe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"3999"
+  },
+  {
+    "questionText":"Elektrostatický náboj sa vybíja",
+    "answers":[
+      "cez anténu rádiostanice, pokiaľ táto nie je v činnosti",
+      "samovoľne z celého povrchu lietadla",
+      "vybíjacími kefkami a vybíjacími lankami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"4000"
+  },
+  {
+    "questionText":"Hustota elektrónov v jednotlivých vrstvách ionosféry je",
+    "answers":[
+      "závislá - maximum dosahuje v noci",
+      "závislá - maximum dosahuje cez deň",
+      "nezávislá od denného chodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 6",
+    "categoryName":"Rádiotechnika",
+    "id":"4001"
+  },
+  {
+    "questionText":"Super krátkym vlnám prislúcha frekvencia a vlnová dĺžka ",
+    "answers":[
+      "300 - 3 000 kHz lambda : 1 - 0,1 m",
+      "300 - 3 000 MHz lambda : 10 - 1 m",
+      "3 - 30 GHz lambda : 10 - 1 cm"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4002"
+  },
+  {
+    "questionText":"V leteckých VKV rádiostaniciach sa používa ",
+    "answers":[
+      "impulzná modulácia",
+      "amplitúdová modulácia",
+      "frekvenčná modulácia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4003"
+  },
+  {
+    "questionText":"Slúchadlá komunikačnej súpravy odkladáme po ukončení letu",
+    "answers":[
+      "na držiak alebo priamo na magnetický kompas",
+      "na inštalované držiaky",
+      "odnesieme z paluby lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4004"
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "môže sa používať len rádiovýškomer",
+      "musia byť vypnuté",
+      "nesmú sa používať v režime vysielania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4005"
+  },
+  {
+    "questionText":"Automatický rádiokompas nám indikuje",
+    "answers":[
+      "smerník rádiomajáku",
+      "kurzový uhol rádiomajáku",
+      "kurzový uhol"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4006"
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa",
+      "trenia povrchu lietadla o okolitý vzduch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Rádiotechnika B 7",
+    "categoryName":"Rádiotechnika",
+    "id":"4007"
+  }
+]

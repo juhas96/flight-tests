@@ -98,7 +98,6 @@
 		142B6E7A25964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7225964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg */; };
 		142B6E7B25964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7325964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg */; };
 		142B6E7E25964FED00FB7609 /* meteorologia_x24_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */; };
-		142B6EA225964FFC00FB7609 /* meteorologia_x24_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */; };
 		142B6EA325964FFC00FB7609 /* meteorologia_x24_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */; };
 		142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8225964FFA00FB7609 /* meteorologia_x26_10.jpg */; };
 		142B6EA525964FFC00FB7609 /* meteorologia_x25_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 142B6E8325964FFA00FB7609 /* meteorologia_x25_14.jpg */; };
@@ -162,6 +161,11 @@
 		14D752C525657B500033B313 /* AllTestsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D752C425657B500033B313 /* AllTestsTableViewController.swift */; };
 		14DB3ED7256910B50044CD35 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DB3ED6256910B50044CD35 /* Question.swift */; };
 		14DB3EDB256911690044CD35 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DB3EDA256911690044CD35 /* Test.swift */; };
+		14EE349225988F2A0065F584 /* meteorologia.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE349125988F2A0065F584 /* meteorologia.json */; };
+		14EE3495259890390065F584 /* palubne_pristroje.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE3494259890390065F584 /* palubne_pristroje.json */; };
+		14EE3498259893820065F584 /* spojovaci_predpis_a_komunikacia.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */; };
+		14EE349B259893E70065F584 /* radiotechnika.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE349A259893E70065F584 /* radiotechnika.json */; };
+		14EE349E259894EA0065F584 /* letecke_pravne_predpisy.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */; };
 		62B6C31D86917353F5652271 /* Pods_FlightTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -257,7 +261,6 @@
 		142B6E7225964FE000FB7609 /* letecke_pohonne_jednotky_y32_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y32_08.jpg; sourceTree = "<group>"; };
 		142B6E7325964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = letecke_pohonne_jednotky_y33_11.jpg; sourceTree = "<group>"; };
 		142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_18.jpg; sourceTree = "<group>"; };
-		142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = meteorologia_x24_18.jpg; path = "../../../../Desktop/obrázky/meteorologia/meteorologia_x24_18.jpg"; sourceTree = "<group>"; };
 		142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x24_13.jpg; sourceTree = "<group>"; };
 		142B6E8225964FFA00FB7609 /* meteorologia_x26_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x26_10.jpg; sourceTree = "<group>"; };
 		142B6E8325964FFA00FB7609 /* meteorologia_x25_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x25_14.jpg; sourceTree = "<group>"; };
@@ -323,6 +326,11 @@
 		14D752C425657B500033B313 /* AllTestsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllTestsTableViewController.swift; sourceTree = "<group>"; };
 		14DB3ED6256910B50044CD35 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		14DB3EDA256911690044CD35 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		14EE349125988F2A0065F584 /* meteorologia.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = meteorologia.json; sourceTree = "<group>"; };
+		14EE3494259890390065F584 /* palubne_pristroje.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = palubne_pristroje.json; sourceTree = "<group>"; };
+		14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = spojovaci_predpis_a_komunikacia.json; sourceTree = "<group>"; };
+		14EE349A259893E70065F584 /* radiotechnika.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = radiotechnika.json; sourceTree = "<group>"; };
+		14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letecke_pravne_predpisy.json; sourceTree = "<group>"; };
 		19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlightTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E857DDF5146B2BA0F9B5CA5 /* Pods-FlightTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlightTests.release.xcconfig"; path = "Target Support Files/Pods-FlightTests/Pods-FlightTests.release.xcconfig"; sourceTree = "<group>"; };
 		C4D6BAE38E5553F877F7BBB9 /* Pods-FlightTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlightTests.debug.xcconfig"; path = "Target Support Files/Pods-FlightTests/Pods-FlightTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -368,6 +376,11 @@
 				142B6DD7259641B300FB7609 /* pravidla_lietania.json */,
 				142B6DDA2596423A00FB7609 /* predpis_o_lps.json */,
 				142B6DDD259642A900FB7609 /* prevadzka_lietadiel.json */,
+				14EE349125988F2A0065F584 /* meteorologia.json */,
+				14EE3494259890390065F584 /* palubne_pristroje.json */,
+				14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */,
+				14EE349A259893E70065F584 /* radiotechnika.json */,
+				14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */,
 			);
 			name = datas;
 			sourceTree = "<group>";
@@ -444,7 +457,6 @@
 				142B6E8125964FFA00FB7609 /* meteorologia_x24_13.jpg */,
 				142B6E9725964FFB00FB7609 /* meteorologia_x24_16.jpg */,
 				142B6E7D25964FED00FB7609 /* meteorologia_x24_18.jpg */,
-				142B6E8025964FFA00FB7609 /* meteorologia_x24_18.jpg */,
 				142B6EA025964FFC00FB7609 /* meteorologia_x25_02.jpg */,
 				142B6E9D25964FFC00FB7609 /* meteorologia_x25_04.jpg */,
 				142B6E9925964FFC00FB7609 /* meteorologia_x25_05.jpg */,
@@ -686,7 +698,6 @@
 				142B6E112596485700FB7609 /* vseobecne_vedomosti_y38_03.jpg in Resources */,
 				142B6E5E25964FD100FB7609 /* aerodynamika_x64_17.jpg in Resources */,
 				142B6DE42596483700FB7609 /* Assets.xcassets in Resources */,
-				142B6EA225964FFC00FB7609 /* meteorologia_x24_18.jpg in Resources */,
 				142B6EC125964FFC00FB7609 /* meteorologia_x26_12.jpg in Resources */,
 				142B6DD22596408B00FB7609 /* letiska_l-14.json in Resources */,
 				142B6EA325964FFC00FB7609 /* meteorologia_x24_13.jpg in Resources */,
@@ -710,6 +721,7 @@
 				142B6E5625964FD100FB7609 /* aerodynamika_x68_02.jpg in Resources */,
 				142B6ECD2596500A00FB7609 /* palubne_pristroje_y06_18.jpg in Resources */,
 				142B6E5725964FD100FB7609 /* aerodynamika_x66_08.jpg in Resources */,
+				14EE349B259893E70065F584 /* radiotechnika.json in Resources */,
 				142B6DD52596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json in Resources */,
 				142B6E122596485700FB7609 /* vseobecne_vedomosti_x37_08.png in Resources */,
 				142B6E142596485700FB7609 /* vseobecne_vedomosti_x37_10.jpg in Resources */,
@@ -731,6 +743,7 @@
 				142B6E0B2596485700FB7609 /* pozemne_vizualne_navestia_07.png in Resources */,
 				142B6E7425964FE000FB7609 /* letecke_pohonne_jednotky_y34_04.jpg in Resources */,
 				142B6E152596485700FB7609 /* vseobecne_vedomosti_y36_13.jpg in Resources */,
+				14EE3498259893820065F584 /* spojovaci_predpis_a_komunikacia.json in Resources */,
 				142B6E0A2596485700FB7609 /* vseobecne_vedomosti_y37_03.jpg in Resources */,
 				142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */,
 				142B6DDE259642A900FB7609 /* prevadzka_lietadiel.json in Resources */,
@@ -758,6 +771,7 @@
 				142B6E4E25964FD100FB7609 /* aerodynamika_x64_10.jpg in Resources */,
 				142B6EAF25964FFC00FB7609 /* meteorologia_x26_18.jpg in Resources */,
 				142B6ED02596500A00FB7609 /* palubne_pristroje_x08_09.jpg in Resources */,
+				14EE349E259894EA0065F584 /* letecke_pravne_predpisy.json in Resources */,
 				142B6E252596485700FB7609 /* radiotechnika_x04_07.jpg in Resources */,
 				142B6E5325964FD100FB7609 /* aerodynamika_x64_11.jpg in Resources */,
 				142B6E092596485700FB7609 /* pozemne_vizualne_navestia_02.png in Resources */,
@@ -768,6 +782,7 @@
 				142B6EA625964FFC00FB7609 /* meteorologia_x26_04.jpg in Resources */,
 				142B6EA925964FFC00FB7609 /* meteorologia_x25_15.jpg in Resources */,
 				142B6EAB25964FFC00FB7609 /* meteorologia_x26_01.jpg in Resources */,
+				14EE349225988F2A0065F584 /* meteorologia.json in Resources */,
 				142B6E132596485700FB7609 /* radiotechnika_x04_01.jpg in Resources */,
 				142B6EB725964FFC00FB7609 /* meteorologia_x27_02.jpg in Resources */,
 				142B6E0C2596485700FB7609 /* vseobecne_vedomosti_x37_09.jpg in Resources */,
@@ -791,6 +806,7 @@
 				142B6EB825964FFC00FB7609 /* meteorologia_x26_07.jpg in Resources */,
 				142B6E6725964FD100FB7609 /* aerodynamika_x63_20.jpg in Resources */,
 				14512F0D2579A5430047FA7D /* data.json in Resources */,
+				14EE3495259890390065F584 /* palubne_pristroje.json in Resources */,
 				142B6E5C25964FD100FB7609 /* aerodynamika_x66_11.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1014,7 +1030,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 5;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1022,7 +1038,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jkbjhs.FlightTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -1037,7 +1053,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 5;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1045,7 +1061,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jkbjhs.FlightTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

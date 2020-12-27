@@ -8,6 +8,7 @@ class TestViewController: UIViewController {
     @IBOutlet weak var firstAnswerButton: AnswerButton!
     @IBOutlet weak var secondAnswerButton: AnswerButton!
     @IBOutlet weak var thirdAnswerButton: AnswerButton!
+    @IBOutlet weak var imageView: UIImageView!
     
     var questions: [Question] = []
     
@@ -85,6 +86,13 @@ class TestViewController: UIViewController {
         firstAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
         secondAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
         thirdAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
+        
+        if (test.getQuestionImage() != "") {
+            imageView.isHidden = false
+            imageView.image = UIImage(named: test.getQuestionImage())
+        } else {
+            imageView.isHidden = true
+        }
     }
     
     

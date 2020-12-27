@@ -52,8 +52,20 @@ class HomeViewController: UIViewController {
         let pravidlaLietania = parse(jsonData: readLocalFile(forName: "pravidla_lietania")!)
         let predpisOLps = parse(jsonData: readLocalFile(forName: "predpis_o_lps")!)
         let prevadzkaLietadiel = parse(jsonData: readLocalFile(forName: "prevadzka_lietadiel")!)
+        let meteorologia = parse(jsonData: readLocalFile(forName: "meteorologia")!)
+        let palubnePristroje = parse(jsonData: readLocalFile(forName: "palubne_pristroje")!)
+        let spojovaciPredpisAKomunikacia = parse(jsonData: readLocalFile(forName: "spojovaci_predpis_a_komunikacia")!)
+        let radiotechnika = parse(jsonData: readLocalFile(forName: "radiotechnika")!)
+        let leteckePravnePredpisy = parse(jsonData: readLocalFile(forName: "letecke_pravne_predpisy")!)
         
-        let data = parsedElektrotechnika + parsedAnglictina + parsedDoprava + pohonneJednotky + letiskaL14 + postupyPreLetovePrevadzkoveSluzby + pravidlaLietania + predpisOLps + prevadzkaLietadiel
+        let data = parsedElektrotechnika + parsedAnglictina + parsedDoprava + pohonneJednotky + letiskaL14 + postupyPreLetovePrevadzkoveSluzby + pravidlaLietania + predpisOLps + prevadzkaLietadiel + meteorologia + palubnePristroje + spojovaciPredpisAKomunikacia + radiotechnika + leteckePravnePredpisy
+//
+//        var testNames: Set<String> = []
+//        leteckePravnePredpisy.forEach { (q) in
+//            testNames.insert(q.testName)
+//        }
+//        
+//        print(testNames.sorted())
         
         DataService.data.changeData(data: data)
     }
