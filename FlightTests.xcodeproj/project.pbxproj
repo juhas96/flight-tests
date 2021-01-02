@@ -151,6 +151,68 @@
 		147BE6202580E87300296434 /* thumbsup.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE61F2580E87300296434 /* thumbsup.json */; };
 		147BE6232580E87C00296434 /* sad-face.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE6222580E87C00296434 /* sad-face.json */; };
 		147C8E0C2582A3F900EC5413 /* PaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */; };
+		1488546825A0C6FC00964E29 /* meteorologia_y25_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542A25A0C6F900964E29 /* meteorologia_y25_12.jpg */; };
+		1488546925A0C6FC00964E29 /* meteorologia_y26_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542B25A0C6F900964E29 /* meteorologia_y26_17.jpg */; };
+		1488546A25A0C6FC00964E29 /* meteorologia_y30_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542C25A0C6F900964E29 /* meteorologia_y30_04.jpg */; };
+		1488546B25A0C6FC00964E29 /* meteorologia_y24_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542D25A0C6F900964E29 /* meteorologia_y24_10.jpg */; };
+		1488546C25A0C6FC00964E29 /* meteorologia_y26_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542E25A0C6F900964E29 /* meteorologia_y26_14.jpg */; };
+		1488546D25A0C6FC00964E29 /* meteorologia_y27_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542F25A0C6F900964E29 /* meteorologia_y27_05.jpg */; };
+		1488546E25A0C6FC00964E29 /* meteorologia_y27_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543025A0C6F900964E29 /* meteorologia_y27_17.jpg */; };
+		1488546F25A0C6FC00964E29 /* meteorologia_y27_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543125A0C6F900964E29 /* meteorologia_y27_19.jpg */; };
+		1488547025A0C6FC00964E29 /* meteorologia_y25_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543225A0C6FA00964E29 /* meteorologia_y25_17.jpg */; };
+		1488547125A0C6FC00964E29 /* meteorologia_x29_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543325A0C6FA00964E29 /* meteorologia_x29_03.jpg */; };
+		1488547225A0C6FC00964E29 /* meteorologia_x30_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543425A0C6FA00964E29 /* meteorologia_x30_06.jpg */; };
+		1488547325A0C6FC00964E29 /* meteorologia_y25_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543525A0C6FA00964E29 /* meteorologia_y25_06.jpg */; };
+		1488547425A0C6FC00964E29 /* meteorologia_y26_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543625A0C6FA00964E29 /* meteorologia_y26_06.jpg */; };
+		1488547525A0C6FC00964E29 /* meteorologia_y24_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543725A0C6FA00964E29 /* meteorologia_y24_11.jpg */; };
+		1488547625A0C6FC00964E29 /* meteorologia_y29_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543825A0C6FA00964E29 /* meteorologia_y29_02.jpg */; };
+		1488547725A0C6FC00964E29 /* meteorologia_y25_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543925A0C6FA00964E29 /* meteorologia_y25_04.jpg */; };
+		1488547825A0C6FC00964E29 /* meteorologia_y26_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543A25A0C6FA00964E29 /* meteorologia_y26_02.jpg */; };
+		1488547925A0C6FC00964E29 /* meteorologia_y25_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543B25A0C6FA00964E29 /* meteorologia_y25_15.jpg */; };
+		1488547A25A0C6FC00964E29 /* meteorologia_y29_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543C25A0C6FA00964E29 /* meteorologia_y29_05.jpg */; };
+		1488547B25A0C6FC00964E29 /* meteorologia_y27_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543D25A0C6FA00964E29 /* meteorologia_y27_14.jpg */; };
+		1488547C25A0C6FC00964E29 /* meteorologia_y30_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543E25A0C6FA00964E29 /* meteorologia_y30_11.jpg */; };
+		1488547D25A0C6FC00964E29 /* meteorologia_y26_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488543F25A0C6FA00964E29 /* meteorologia_y26_04.jpg */; };
+		1488547E25A0C6FC00964E29 /* meteorologia_y24_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544025A0C6FA00964E29 /* meteorologia_y24_05.jpg */; };
+		1488547F25A0C6FC00964E29 /* meteorologia_y25_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544125A0C6FA00964E29 /* meteorologia_y25_20.jpg */; };
+		1488548025A0C6FC00964E29 /* meteorologia_y24_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544225A0C6FA00964E29 /* meteorologia_y24_06.jpg */; };
+		1488548125A0C6FC00964E29 /* meteorologia_y27_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544325A0C6FA00964E29 /* meteorologia_y27_03.jpg */; };
+		1488548225A0C6FC00964E29 /* meteorologia_y25_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544425A0C6FA00964E29 /* meteorologia_y25_02.jpg */; };
+		1488548325A0C6FC00964E29 /* meteorologia_x28_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544525A0C6FA00964E29 /* meteorologia_x28_18.jpg */; };
+		1488548425A0C6FC00964E29 /* meteorologia_y30_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544625A0C6FB00964E29 /* meteorologia_y30_03.jpg */; };
+		1488548525A0C6FC00964E29 /* meteorologia_x28_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544725A0C6FB00964E29 /* meteorologia_x28_05.jpg */; };
+		1488548625A0C6FC00964E29 /* meteorologia_y28_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544825A0C6FB00964E29 /* meteorologia_y28_03.jpg */; };
+		1488548725A0C6FC00964E29 /* meteorologia_y28_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544925A0C6FB00964E29 /* meteorologia_y28_10.jpg */; };
+		1488548825A0C6FC00964E29 /* meteorologia_y25_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544A25A0C6FB00964E29 /* meteorologia_y25_13.jpg */; };
+		1488548925A0C6FC00964E29 /* meteorologia_y27_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544B25A0C6FB00964E29 /* meteorologia_y27_13.jpg */; };
+		1488548A25A0C6FC00964E29 /* meteorologia_y24_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544C25A0C6FB00964E29 /* meteorologia_y24_13.jpg */; };
+		1488548B25A0C6FC00964E29 /* meteorologia_y25_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544D25A0C6FB00964E29 /* meteorologia_y25_19.jpg */; };
+		1488548C25A0C6FC00964E29 /* meteorologia_y29_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544E25A0C6FB00964E29 /* meteorologia_y29_01.jpg */; };
+		1488548D25A0C6FC00964E29 /* meteorologia_y27_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488544F25A0C6FB00964E29 /* meteorologia_y27_10.jpg */; };
+		1488548E25A0C6FC00964E29 /* meteorologia_y29_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545025A0C6FB00964E29 /* meteorologia_y29_03.jpg */; };
+		1488548F25A0C6FC00964E29 /* meteorologia_y27_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545125A0C6FB00964E29 /* meteorologia_y27_09.jpg */; };
+		1488549025A0C6FC00964E29 /* meteorologia_y29_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545225A0C6FB00964E29 /* meteorologia_y29_07.jpg */; };
+		1488549125A0C6FC00964E29 /* meteorologia_y29_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545325A0C6FB00964E29 /* meteorologia_y29_16.jpg */; };
+		1488549225A0C6FC00964E29 /* meteorologia_y25_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545425A0C6FB00964E29 /* meteorologia_y25_14.jpg */; };
+		1488549325A0C6FC00964E29 /* meteorologia_x28_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545525A0C6FB00964E29 /* meteorologia_x28_15.jpg */; };
+		1488549425A0C6FC00964E29 /* meteorologia_y25_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545625A0C6FB00964E29 /* meteorologia_y25_01.jpg */; };
+		1488549525A0C6FC00964E29 /* meteorologia_y27_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545725A0C6FB00964E29 /* meteorologia_y27_12.jpg */; };
+		1488549625A0C6FC00964E29 /* meteorologia_x29_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545825A0C6FB00964E29 /* meteorologia_x29_06.jpg */; };
+		1488549725A0C6FC00964E29 /* meteorologia_y30_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545925A0C6FC00964E29 /* meteorologia_y30_01.jpg */; };
+		1488549825A0C6FC00964E29 /* meteorologia_y24_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545A25A0C6FC00964E29 /* meteorologia_y24_01.jpg */; };
+		1488549925A0C6FC00964E29 /* meteorologia_y24_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545B25A0C6FC00964E29 /* meteorologia_y24_09.jpg */; };
+		1488549A25A0C6FC00964E29 /* meteorologia_y26_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545C25A0C6FC00964E29 /* meteorologia_y26_03.jpg */; };
+		1488549B25A0C6FC00964E29 /* meteorologia_y27_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545D25A0C6FC00964E29 /* meteorologia_y27_04.jpg */; };
+		1488549C25A0C6FC00964E29 /* meteorologia_y29_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545E25A0C6FC00964E29 /* meteorologia_y29_15.jpg */; };
+		1488549D25A0C6FC00964E29 /* meteorologia_x28_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488545F25A0C6FC00964E29 /* meteorologia_x28_06.jpg */; };
+		1488549E25A0C6FC00964E29 /* meteorologia_y27_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546025A0C6FC00964E29 /* meteorologia_y27_02.jpg */; };
+		1488549F25A0C6FC00964E29 /* meteorologia_y24_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546125A0C6FC00964E29 /* meteorologia_y24_04.jpg */; };
+		148854A025A0C6FC00964E29 /* meteorologia_y29_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546225A0C6FC00964E29 /* meteorologia_y29_04.jpg */; };
+		148854A125A0C6FC00964E29 /* meteorologia_y27_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546325A0C6FC00964E29 /* meteorologia_y27_20.jpg */; };
+		148854A225A0C6FC00964E29 /* meteorologia_y26_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546425A0C6FC00964E29 /* meteorologia_y26_19.jpg */; };
+		148854A325A0C6FC00964E29 /* meteorologia_y27_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546525A0C6FC00964E29 /* meteorologia_y27_15.jpg */; };
+		148854A425A0C6FC00964E29 /* meteorologia_y28_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546625A0C6FC00964E29 /* meteorologia_y28_13.jpg */; };
+		148854A525A0C6FC00964E29 /* meteorologia_y26_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488546725A0C6FC00964E29 /* meteorologia_y26_11.jpg */; };
 		148E2D7E257A93D20027BCF9 /* TestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148E2D7D257A93D20027BCF9 /* TestDetailViewController.swift */; };
 		148E2D89257AA0D70027BCF9 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148E2D88257AA0D70027BCF9 /* DataService.swift */; };
 		149380612571CA4D000B809C /* EvaluateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149380602571CA4D000B809C /* EvaluateViewController.swift */; };
@@ -316,6 +378,68 @@
 		147BE61F2580E87300296434 /* thumbsup.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = thumbsup.json; sourceTree = "<group>"; };
 		147BE6222580E87C00296434 /* sad-face.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sad-face.json"; sourceTree = "<group>"; };
 		147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLabel.swift; sourceTree = "<group>"; };
+		1488542A25A0C6F900964E29 /* meteorologia_y25_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_12.jpg; sourceTree = "<group>"; };
+		1488542B25A0C6F900964E29 /* meteorologia_y26_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_17.jpg; sourceTree = "<group>"; };
+		1488542C25A0C6F900964E29 /* meteorologia_y30_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y30_04.jpg; sourceTree = "<group>"; };
+		1488542D25A0C6F900964E29 /* meteorologia_y24_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_10.jpg; sourceTree = "<group>"; };
+		1488542E25A0C6F900964E29 /* meteorologia_y26_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_14.jpg; sourceTree = "<group>"; };
+		1488542F25A0C6F900964E29 /* meteorologia_y27_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_05.jpg; sourceTree = "<group>"; };
+		1488543025A0C6F900964E29 /* meteorologia_y27_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_17.jpg; sourceTree = "<group>"; };
+		1488543125A0C6F900964E29 /* meteorologia_y27_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_19.jpg; sourceTree = "<group>"; };
+		1488543225A0C6FA00964E29 /* meteorologia_y25_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_17.jpg; sourceTree = "<group>"; };
+		1488543325A0C6FA00964E29 /* meteorologia_x29_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x29_03.jpg; sourceTree = "<group>"; };
+		1488543425A0C6FA00964E29 /* meteorologia_x30_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x30_06.jpg; sourceTree = "<group>"; };
+		1488543525A0C6FA00964E29 /* meteorologia_y25_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_06.jpg; sourceTree = "<group>"; };
+		1488543625A0C6FA00964E29 /* meteorologia_y26_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_06.jpg; sourceTree = "<group>"; };
+		1488543725A0C6FA00964E29 /* meteorologia_y24_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_11.jpg; sourceTree = "<group>"; };
+		1488543825A0C6FA00964E29 /* meteorologia_y29_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_02.jpg; sourceTree = "<group>"; };
+		1488543925A0C6FA00964E29 /* meteorologia_y25_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_04.jpg; sourceTree = "<group>"; };
+		1488543A25A0C6FA00964E29 /* meteorologia_y26_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_02.jpg; sourceTree = "<group>"; };
+		1488543B25A0C6FA00964E29 /* meteorologia_y25_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_15.jpg; sourceTree = "<group>"; };
+		1488543C25A0C6FA00964E29 /* meteorologia_y29_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_05.jpg; sourceTree = "<group>"; };
+		1488543D25A0C6FA00964E29 /* meteorologia_y27_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_14.jpg; sourceTree = "<group>"; };
+		1488543E25A0C6FA00964E29 /* meteorologia_y30_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y30_11.jpg; sourceTree = "<group>"; };
+		1488543F25A0C6FA00964E29 /* meteorologia_y26_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_04.jpg; sourceTree = "<group>"; };
+		1488544025A0C6FA00964E29 /* meteorologia_y24_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_05.jpg; sourceTree = "<group>"; };
+		1488544125A0C6FA00964E29 /* meteorologia_y25_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_20.jpg; sourceTree = "<group>"; };
+		1488544225A0C6FA00964E29 /* meteorologia_y24_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_06.jpg; sourceTree = "<group>"; };
+		1488544325A0C6FA00964E29 /* meteorologia_y27_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_03.jpg; sourceTree = "<group>"; };
+		1488544425A0C6FA00964E29 /* meteorologia_y25_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_02.jpg; sourceTree = "<group>"; };
+		1488544525A0C6FA00964E29 /* meteorologia_x28_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x28_18.jpg; sourceTree = "<group>"; };
+		1488544625A0C6FB00964E29 /* meteorologia_y30_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y30_03.jpg; sourceTree = "<group>"; };
+		1488544725A0C6FB00964E29 /* meteorologia_x28_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x28_05.jpg; sourceTree = "<group>"; };
+		1488544825A0C6FB00964E29 /* meteorologia_y28_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y28_03.jpg; sourceTree = "<group>"; };
+		1488544925A0C6FB00964E29 /* meteorologia_y28_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y28_10.jpg; sourceTree = "<group>"; };
+		1488544A25A0C6FB00964E29 /* meteorologia_y25_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_13.jpg; sourceTree = "<group>"; };
+		1488544B25A0C6FB00964E29 /* meteorologia_y27_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_13.jpg; sourceTree = "<group>"; };
+		1488544C25A0C6FB00964E29 /* meteorologia_y24_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_13.jpg; sourceTree = "<group>"; };
+		1488544D25A0C6FB00964E29 /* meteorologia_y25_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_19.jpg; sourceTree = "<group>"; };
+		1488544E25A0C6FB00964E29 /* meteorologia_y29_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_01.jpg; sourceTree = "<group>"; };
+		1488544F25A0C6FB00964E29 /* meteorologia_y27_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_10.jpg; sourceTree = "<group>"; };
+		1488545025A0C6FB00964E29 /* meteorologia_y29_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_03.jpg; sourceTree = "<group>"; };
+		1488545125A0C6FB00964E29 /* meteorologia_y27_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_09.jpg; sourceTree = "<group>"; };
+		1488545225A0C6FB00964E29 /* meteorologia_y29_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_07.jpg; sourceTree = "<group>"; };
+		1488545325A0C6FB00964E29 /* meteorologia_y29_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_16.jpg; sourceTree = "<group>"; };
+		1488545425A0C6FB00964E29 /* meteorologia_y25_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_14.jpg; sourceTree = "<group>"; };
+		1488545525A0C6FB00964E29 /* meteorologia_x28_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x28_15.jpg; sourceTree = "<group>"; };
+		1488545625A0C6FB00964E29 /* meteorologia_y25_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_01.jpg; sourceTree = "<group>"; };
+		1488545725A0C6FB00964E29 /* meteorologia_y27_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_12.jpg; sourceTree = "<group>"; };
+		1488545825A0C6FB00964E29 /* meteorologia_x29_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x29_06.jpg; sourceTree = "<group>"; };
+		1488545925A0C6FC00964E29 /* meteorologia_y30_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y30_01.jpg; sourceTree = "<group>"; };
+		1488545A25A0C6FC00964E29 /* meteorologia_y24_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_01.jpg; sourceTree = "<group>"; };
+		1488545B25A0C6FC00964E29 /* meteorologia_y24_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_09.jpg; sourceTree = "<group>"; };
+		1488545C25A0C6FC00964E29 /* meteorologia_y26_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_03.jpg; sourceTree = "<group>"; };
+		1488545D25A0C6FC00964E29 /* meteorologia_y27_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_04.jpg; sourceTree = "<group>"; };
+		1488545E25A0C6FC00964E29 /* meteorologia_y29_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_15.jpg; sourceTree = "<group>"; };
+		1488545F25A0C6FC00964E29 /* meteorologia_x28_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_x28_06.jpg; sourceTree = "<group>"; };
+		1488546025A0C6FC00964E29 /* meteorologia_y27_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_02.jpg; sourceTree = "<group>"; };
+		1488546125A0C6FC00964E29 /* meteorologia_y24_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y24_04.jpg; sourceTree = "<group>"; };
+		1488546225A0C6FC00964E29 /* meteorologia_y29_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y29_04.jpg; sourceTree = "<group>"; };
+		1488546325A0C6FC00964E29 /* meteorologia_y27_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_20.jpg; sourceTree = "<group>"; };
+		1488546425A0C6FC00964E29 /* meteorologia_y26_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_19.jpg; sourceTree = "<group>"; };
+		1488546525A0C6FC00964E29 /* meteorologia_y27_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y27_15.jpg; sourceTree = "<group>"; };
+		1488546625A0C6FC00964E29 /* meteorologia_y28_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y28_13.jpg; sourceTree = "<group>"; };
+		1488546725A0C6FC00964E29 /* meteorologia_y26_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_11.jpg; sourceTree = "<group>"; };
 		148E2D7D257A93D20027BCF9 /* TestDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDetailViewController.swift; sourceTree = "<group>"; };
 		148E2D88257AA0D70027BCF9 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		149380602571CA4D000B809C /* EvaluateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateViewController.swift; sourceTree = "<group>"; };
@@ -444,6 +568,68 @@
 		14D752A8256561B70033B313 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				1488544725A0C6FB00964E29 /* meteorologia_x28_05.jpg */,
+				1488545F25A0C6FC00964E29 /* meteorologia_x28_06.jpg */,
+				1488545525A0C6FB00964E29 /* meteorologia_x28_15.jpg */,
+				1488544525A0C6FA00964E29 /* meteorologia_x28_18.jpg */,
+				1488543325A0C6FA00964E29 /* meteorologia_x29_03.jpg */,
+				1488545825A0C6FB00964E29 /* meteorologia_x29_06.jpg */,
+				1488543425A0C6FA00964E29 /* meteorologia_x30_06.jpg */,
+				1488545A25A0C6FC00964E29 /* meteorologia_y24_01.jpg */,
+				1488546125A0C6FC00964E29 /* meteorologia_y24_04.jpg */,
+				1488544025A0C6FA00964E29 /* meteorologia_y24_05.jpg */,
+				1488544225A0C6FA00964E29 /* meteorologia_y24_06.jpg */,
+				1488545B25A0C6FC00964E29 /* meteorologia_y24_09.jpg */,
+				1488542D25A0C6F900964E29 /* meteorologia_y24_10.jpg */,
+				1488543725A0C6FA00964E29 /* meteorologia_y24_11.jpg */,
+				1488544C25A0C6FB00964E29 /* meteorologia_y24_13.jpg */,
+				1488545625A0C6FB00964E29 /* meteorologia_y25_01.jpg */,
+				1488544425A0C6FA00964E29 /* meteorologia_y25_02.jpg */,
+				1488543925A0C6FA00964E29 /* meteorologia_y25_04.jpg */,
+				1488543525A0C6FA00964E29 /* meteorologia_y25_06.jpg */,
+				1488542A25A0C6F900964E29 /* meteorologia_y25_12.jpg */,
+				1488544A25A0C6FB00964E29 /* meteorologia_y25_13.jpg */,
+				1488545425A0C6FB00964E29 /* meteorologia_y25_14.jpg */,
+				1488543B25A0C6FA00964E29 /* meteorologia_y25_15.jpg */,
+				1488543225A0C6FA00964E29 /* meteorologia_y25_17.jpg */,
+				1488544D25A0C6FB00964E29 /* meteorologia_y25_19.jpg */,
+				1488544125A0C6FA00964E29 /* meteorologia_y25_20.jpg */,
+				1488543A25A0C6FA00964E29 /* meteorologia_y26_02.jpg */,
+				1488545C25A0C6FC00964E29 /* meteorologia_y26_03.jpg */,
+				1488543F25A0C6FA00964E29 /* meteorologia_y26_04.jpg */,
+				1488543625A0C6FA00964E29 /* meteorologia_y26_06.jpg */,
+				1488546725A0C6FC00964E29 /* meteorologia_y26_11.jpg */,
+				1488542E25A0C6F900964E29 /* meteorologia_y26_14.jpg */,
+				1488542B25A0C6F900964E29 /* meteorologia_y26_17.jpg */,
+				1488546425A0C6FC00964E29 /* meteorologia_y26_19.jpg */,
+				1488546025A0C6FC00964E29 /* meteorologia_y27_02.jpg */,
+				1488544325A0C6FA00964E29 /* meteorologia_y27_03.jpg */,
+				1488545D25A0C6FC00964E29 /* meteorologia_y27_04.jpg */,
+				1488542F25A0C6F900964E29 /* meteorologia_y27_05.jpg */,
+				1488545125A0C6FB00964E29 /* meteorologia_y27_09.jpg */,
+				1488544F25A0C6FB00964E29 /* meteorologia_y27_10.jpg */,
+				1488545725A0C6FB00964E29 /* meteorologia_y27_12.jpg */,
+				1488544B25A0C6FB00964E29 /* meteorologia_y27_13.jpg */,
+				1488543D25A0C6FA00964E29 /* meteorologia_y27_14.jpg */,
+				1488546525A0C6FC00964E29 /* meteorologia_y27_15.jpg */,
+				1488543025A0C6F900964E29 /* meteorologia_y27_17.jpg */,
+				1488543125A0C6F900964E29 /* meteorologia_y27_19.jpg */,
+				1488546325A0C6FC00964E29 /* meteorologia_y27_20.jpg */,
+				1488544825A0C6FB00964E29 /* meteorologia_y28_03.jpg */,
+				1488544925A0C6FB00964E29 /* meteorologia_y28_10.jpg */,
+				1488546625A0C6FC00964E29 /* meteorologia_y28_13.jpg */,
+				1488544E25A0C6FB00964E29 /* meteorologia_y29_01.jpg */,
+				1488543825A0C6FA00964E29 /* meteorologia_y29_02.jpg */,
+				1488545025A0C6FB00964E29 /* meteorologia_y29_03.jpg */,
+				1488546225A0C6FC00964E29 /* meteorologia_y29_04.jpg */,
+				1488543C25A0C6FA00964E29 /* meteorologia_y29_05.jpg */,
+				1488545225A0C6FB00964E29 /* meteorologia_y29_07.jpg */,
+				1488545E25A0C6FC00964E29 /* meteorologia_y29_15.jpg */,
+				1488545325A0C6FB00964E29 /* meteorologia_y29_16.jpg */,
+				1488545925A0C6FC00964E29 /* meteorologia_y30_01.jpg */,
+				1488544625A0C6FB00964E29 /* meteorologia_y30_03.jpg */,
+				1488542C25A0C6F900964E29 /* meteorologia_y30_04.jpg */,
+				1488543E25A0C6FA00964E29 /* meteorologia_y30_11.jpg */,
 				142B6EC82596500A00FB7609 /* palubne_pristroje_x07_14.jpg */,
 				142B6ECA2596500A00FB7609 /* palubne_pristroje_x08_09.jpg */,
 				142B6EC62596500A00FB7609 /* palubne_pristroje_x08_14.png */,
@@ -674,29 +860,46 @@
 				142B6E6825964FD100FB7609 /* aerodynamika_x67_19.jpg in Resources */,
 				142B6EAD25964FFC00FB7609 /* meteorologia_x25_07.jpg in Resources */,
 				142B6E6425964FD100FB7609 /* aerodynamika_x65_04.jpg in Resources */,
+				148854A525A0C6FC00964E29 /* meteorologia_y26_11.jpg in Resources */,
 				142B6E242596485700FB7609 /* pozemne_vizualne_navestia_08.png in Resources */,
 				142B6E5025964FD100FB7609 /* aerodynamika_x65_10.jpg in Resources */,
 				142B6E7725964FE000FB7609 /* letecke_pohonne_jednotky_x35_11.jpg in Resources */,
 				142B6EBB25964FFC00FB7609 /* meteorologia_x25_05.jpg in Resources */,
+				1488547C25A0C6FC00964E29 /* meteorologia_y30_11.jpg in Resources */,
 				142B6ECF2596500A00FB7609 /* palubne_pristroje_y06_01.jpg in Resources */,
 				142B6EBE25964FFC00FB7609 /* meteorologia_x25_12.jpg in Resources */,
+				1488549425A0C6FC00964E29 /* meteorologia_y25_01.jpg in Resources */,
 				142B6EBD25964FFC00FB7609 /* meteorologia_x24_07.jpg in Resources */,
+				1488547E25A0C6FC00964E29 /* meteorologia_y24_05.jpg in Resources */,
 				142B6E5425964FD100FB7609 /* aerodynamika_x64_07.jpg in Resources */,
+				1488548B25A0C6FC00964E29 /* meteorologia_y25_19.jpg in Resources */,
 				142B6EC225964FFC00FB7609 /* meteorologia_x25_02.jpg in Resources */,
+				1488547825A0C6FC00964E29 /* meteorologia_y26_02.jpg in Resources */,
+				1488548E25A0C6FC00964E29 /* meteorologia_y29_03.jpg in Resources */,
 				1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */,
 				142B6EB925964FFC00FB7609 /* meteorologia_x24_16.jpg in Resources */,
 				142B6DE52596483700FB7609 /* background.jpg in Resources */,
+				1488546C25A0C6FC00964E29 /* meteorologia_y26_14.jpg in Resources */,
+				1488548125A0C6FC00964E29 /* meteorologia_y27_03.jpg in Resources */,
 				142B6E7E25964FED00FB7609 /* meteorologia_x24_18.jpg in Resources */,
 				142B6E5D25964FD100FB7609 /* aerodynamika_x66_06.jpg in Resources */,
 				142B6DC625963D5C00FB7609 /* elektrotechnika.json in Resources */,
 				142B6EB525964FFC00FB7609 /* meteorologia_x26_03.jpg in Resources */,
+				1488549125A0C6FC00964E29 /* meteorologia_y29_16.jpg in Resources */,
 				142B6EB325964FFC00FB7609 /* meteorologia_x25_19.jpg in Resources */,
+				1488547625A0C6FC00964E29 /* meteorologia_y29_02.jpg in Resources */,
+				1488546825A0C6FC00964E29 /* meteorologia_y25_12.jpg in Resources */,
 				1408C5E725802C7C00F79C0E /* BreeSerif-Regular.ttf in Resources */,
 				142B6EAC25964FFC00FB7609 /* meteorologia_x25_08.jpg in Resources */,
 				142B6E1A2596485700FB7609 /* pozemne_vizualne_navestia_10.png in Resources */,
+				1488546E25A0C6FC00964E29 /* meteorologia_y27_17.jpg in Resources */,
+				1488547925A0C6FC00964E29 /* meteorologia_y25_15.jpg in Resources */,
 				142B6E102596485700FB7609 /* vseobecne_vedomosti_y36_16.jpg in Resources */,
 				142B6E112596485700FB7609 /* vseobecne_vedomosti_y38_03.jpg in Resources */,
+				1488548325A0C6FC00964E29 /* meteorologia_x28_18.jpg in Resources */,
+				1488546F25A0C6FC00964E29 /* meteorologia_y27_19.jpg in Resources */,
 				142B6E5E25964FD100FB7609 /* aerodynamika_x64_17.jpg in Resources */,
+				148854A025A0C6FC00964E29 /* meteorologia_y29_04.jpg in Resources */,
 				142B6DE42596483700FB7609 /* Assets.xcassets in Resources */,
 				142B6EC125964FFC00FB7609 /* meteorologia_x26_12.jpg in Resources */,
 				142B6DD22596408B00FB7609 /* letiska_l-14.json in Resources */,
@@ -709,34 +912,50 @@
 				142B6ECE2596500A00FB7609 /* palubne_pristroje_x07_14.jpg in Resources */,
 				142B6E192596485700FB7609 /* pozemne_vizualne_navestia_06.png in Resources */,
 				142B6E6125964FD100FB7609 /* aerodynamika_x66_09.jpg in Resources */,
+				1488549525A0C6FC00964E29 /* meteorologia_y27_12.jpg in Resources */,
 				142B6E4A25964FD100FB7609 /* aerodynamika_x71_06.jpg in Resources */,
+				148854A425A0C6FC00964E29 /* meteorologia_y28_13.jpg in Resources */,
 				142B6E4C25964FD100FB7609 /* aerodynamika_x65_02.jpg in Resources */,
+				1488548D25A0C6FC00964E29 /* meteorologia_y27_10.jpg in Resources */,
 				142B6E5525964FD100FB7609 /* aerodynamika_x68_15.jpg in Resources */,
 				142B6E5F25964FD100FB7609 /* aerodynamika_x66_07.jpg in Resources */,
+				1488548925A0C6FC00964E29 /* meteorologia_y27_13.jpg in Resources */,
 				142B6E4B25964FD100FB7609 /* aerodynamika_x71_05.jpg in Resources */,
 				142B6E1E2596485700FB7609 /* radiotechnika_x01_03.jpg in Resources */,
 				142B6E1D2596485700FB7609 /* radiotechnika_x04_05.jpg in Resources */,
 				142B6E5B25964FD100FB7609 /* aerodynamika_x68_10.jpg in Resources */,
 				142B6E0D2596485700FB7609 /* letecka_navigacia_x16_08.jpg in Resources */,
+				148854A325A0C6FC00964E29 /* meteorologia_y27_15.jpg in Resources */,
 				142B6E5625964FD100FB7609 /* aerodynamika_x68_02.jpg in Resources */,
 				142B6ECD2596500A00FB7609 /* palubne_pristroje_y06_18.jpg in Resources */,
 				142B6E5725964FD100FB7609 /* aerodynamika_x66_08.jpg in Resources */,
+				1488548825A0C6FC00964E29 /* meteorologia_y25_13.jpg in Resources */,
 				14EE349B259893E70065F584 /* radiotechnika.json in Resources */,
 				142B6DD52596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json in Resources */,
 				142B6E122596485700FB7609 /* vseobecne_vedomosti_x37_08.png in Resources */,
 				142B6E142596485700FB7609 /* vseobecne_vedomosti_x37_10.jpg in Resources */,
 				142B6E0E2596485700FB7609 /* pozemne_vizualne_navestia_04.png in Resources */,
 				142B6DCF25963FB500FB7609 /* letecke_pohonne_jednotky.json in Resources */,
+				1488549A25A0C6FC00964E29 /* meteorologia_y26_03.jpg in Resources */,
+				1488547725A0C6FC00964E29 /* meteorologia_y25_04.jpg in Resources */,
+				1488549F25A0C6FC00964E29 /* meteorologia_y24_04.jpg in Resources */,
+				1488548725A0C6FC00964E29 /* meteorologia_y28_10.jpg in Resources */,
 				142B6E212596485700FB7609 /* vseobecne_vedomosti_x38_03.jpg in Resources */,
 				142B6E7625964FE000FB7609 /* letecke_pohonne_jednotky_y31_04.jpg in Resources */,
 				142B6E5A25964FD100FB7609 /* aerodynamika_y63_11.jpg in Resources */,
+				1488549925A0C6FC00964E29 /* meteorologia_y24_09.jpg in Resources */,
+				1488548525A0C6FC00964E29 /* meteorologia_x28_05.jpg in Resources */,
+				1488547B25A0C6FC00964E29 /* meteorologia_y27_14.jpg in Resources */,
 				142B6EB225964FFC00FB7609 /* meteorologia_x25_16.jpg in Resources */,
 				142B6E7525964FE000FB7609 /* letecke_pohonne_jednotky_x31_09.jpg in Resources */,
 				1450EC4225600CD900750D03 /* Assets.xcassets in Resources */,
 				142B6E4925964FD100FB7609 /* aerodynamika_x66_04.jpg in Resources */,
 				142B6E1B2596485700FB7609 /* vseobecne_vedomosti_x38_15.jpg in Resources */,
 				142B6DD8259641B300FB7609 /* pravidla_lietania.json in Resources */,
+				1488548F25A0C6FC00964E29 /* meteorologia_y27_09.jpg in Resources */,
+				1488549725A0C6FC00964E29 /* meteorologia_y30_01.jpg in Resources */,
 				142B6EB625964FFC00FB7609 /* meteorologia_x26_06.jpg in Resources */,
+				1488549B25A0C6FC00964E29 /* meteorologia_y27_04.jpg in Resources */,
 				142B6E7925964FE000FB7609 /* letecke_pohonne_jednotky_x33_19.jpg in Resources */,
 				142B6ECB2596500A00FB7609 /* palubne_pristroje_y10_03.jpg in Resources */,
 				1450EC3D25600CD800750D03 /* Main.storyboard in Resources */,
@@ -746,7 +965,9 @@
 				14EE3498259893820065F584 /* spojovaci_predpis_a_komunikacia.json in Resources */,
 				142B6E0A2596485700FB7609 /* vseobecne_vedomosti_y37_03.jpg in Resources */,
 				142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */,
+				1488548425A0C6FC00964E29 /* meteorologia_y30_03.jpg in Resources */,
 				142B6DDE259642A900FB7609 /* prevadzka_lietadiel.json in Resources */,
+				1488547425A0C6FC00964E29 /* meteorologia_y26_06.jpg in Resources */,
 				142B6ECC2596500A00FB7609 /* palubne_pristroje_x08_14.png in Resources */,
 				142B6EA825964FFC00FB7609 /* meteorologia_x26_08.jpg in Resources */,
 				142B6DE62596483700FB7609 /* airplane.json in Resources */,
@@ -755,18 +976,31 @@
 				142B6E7B25964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg in Resources */,
 				142B6E6025964FD100FB7609 /* aerodynamika_x66_12.jpg in Resources */,
 				142B6EAE25964FFC00FB7609 /* meteorologia_x25_10.jpg in Resources */,
+				1488546A25A0C6FC00964E29 /* meteorologia_y30_04.jpg in Resources */,
 				142B6EB425964FFC00FB7609 /* meteorologia_x26_17.jpg in Resources */,
+				1488548025A0C6FC00964E29 /* meteorologia_y24_06.jpg in Resources */,
 				147BE6232580E87C00296434 /* sad-face.json in Resources */,
+				1488546925A0C6FC00964E29 /* meteorologia_y26_17.jpg in Resources */,
+				1488547D25A0C6FC00964E29 /* meteorologia_y26_04.jpg in Resources */,
 				1408C5E02580298900F79C0E /* cloud.json in Resources */,
 				142B6E6A25964FD100FB7609 /* aerodynamika_y63_16.jpg in Resources */,
 				142B6E4F25964FD100FB7609 /* aerodynamika_x71_01.jpg in Resources */,
+				1488548A25A0C6FC00964E29 /* meteorologia_y24_13.jpg in Resources */,
+				148854A225A0C6FC00964E29 /* meteorologia_y26_19.jpg in Resources */,
+				1488549625A0C6FC00964E29 /* meteorologia_x29_06.jpg in Resources */,
 				142B6E6525964FD100FB7609 /* aerodynamika_x66_05.jpg in Resources */,
 				142B6E5125964FD100FB7609 /* aerodynamika_x69_15.jpg in Resources */,
 				142B6EB125964FFC00FB7609 /* meteorologia_x24_04.jpg in Resources */,
 				142B6E222596485700FB7609 /* vseobecne_vedomosti_y37_10.png in Resources */,
+				1488548625A0C6FC00964E29 /* meteorologia_y28_03.jpg in Resources */,
+				1488547525A0C6FC00964E29 /* meteorologia_y24_11.jpg in Resources */,
+				1488547F25A0C6FC00964E29 /* meteorologia_y25_20.jpg in Resources */,
+				1488546D25A0C6FC00964E29 /* meteorologia_y27_05.jpg in Resources */,
 				142B6E182596485700FB7609 /* pozemne_vizualne_navestia_09.png in Resources */,
 				142B6DC925963E0400FB7609 /* letecka_anglictina.json in Resources */,
+				1488548225A0C6FC00964E29 /* meteorologia_y25_02.jpg in Resources */,
 				147BE6202580E87300296434 /* thumbsup.json in Resources */,
+				1488548C25A0C6FC00964E29 /* meteorologia_y29_01.jpg in Resources */,
 				142B6E6925964FD100FB7609 /* aerodynamika_x69_16.jpg in Resources */,
 				142B6E4E25964FD100FB7609 /* aerodynamika_x64_10.jpg in Resources */,
 				142B6EAF25964FFC00FB7609 /* meteorologia_x26_18.jpg in Resources */,
@@ -774,7 +1008,9 @@
 				14EE349E259894EA0065F584 /* letecke_pravne_predpisy.json in Resources */,
 				142B6E252596485700FB7609 /* radiotechnika_x04_07.jpg in Resources */,
 				142B6E5325964FD100FB7609 /* aerodynamika_x64_11.jpg in Resources */,
+				1488549225A0C6FC00964E29 /* meteorologia_y25_14.jpg in Resources */,
 				142B6E092596485700FB7609 /* pozemne_vizualne_navestia_02.png in Resources */,
+				1488549C25A0C6FC00964E29 /* meteorologia_y29_15.jpg in Resources */,
 				142B6E5925964FD100FB7609 /* aerodynamika_x68_14.jpg in Resources */,
 				142B6E1C2596485700FB7609 /* pozemne_vizualne_navestia_05.png in Resources */,
 				142B6DCC25963F1900FB7609 /* letecka_doprava.json in Resources */,
@@ -782,14 +1018,18 @@
 				142B6EA625964FFC00FB7609 /* meteorologia_x26_04.jpg in Resources */,
 				142B6EA925964FFC00FB7609 /* meteorologia_x25_15.jpg in Resources */,
 				142B6EAB25964FFC00FB7609 /* meteorologia_x26_01.jpg in Resources */,
+				1488549D25A0C6FC00964E29 /* meteorologia_x28_06.jpg in Resources */,
 				14EE349225988F2A0065F584 /* meteorologia.json in Resources */,
 				142B6E132596485700FB7609 /* radiotechnika_x04_01.jpg in Resources */,
 				142B6EB725964FFC00FB7609 /* meteorologia_x27_02.jpg in Resources */,
 				142B6E0C2596485700FB7609 /* vseobecne_vedomosti_x37_09.jpg in Resources */,
 				142B6E6225964FD100FB7609 /* aerodynamika_x66_10.jpg in Resources */,
+				1488549325A0C6FC00964E29 /* meteorologia_x28_15.jpg in Resources */,
+				1488549825A0C6FC00964E29 /* meteorologia_y24_01.jpg in Resources */,
 				142B6E202596485700FB7609 /* pozemne_vizualne_navestia_03.png in Resources */,
 				142B6E1F2596485700FB7609 /* letecka_navigacia_x16_01.jpg in Resources */,
 				142B6EC325964FFC00FB7609 /* meteorologia_x24_09.jpg in Resources */,
+				1488547325A0C6FC00964E29 /* meteorologia_y25_06.jpg in Resources */,
 				142B6EBF25964FFC00FB7609 /* meteorologia_x25_04.jpg in Resources */,
 				142B6E072596485700FB7609 /* radiotechnika_x02_04.jpg in Resources */,
 				1408C5E32580299B00F79C0E /* plane.json in Resources */,
@@ -797,17 +1037,25 @@
 				142B6E172596485700FB7609 /* radiotechnika_x01_18.jpg in Resources */,
 				142B6E4D25964FD100FB7609 /* aerodynamika_y63_09.jpg in Resources */,
 				142B6E7825964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg in Resources */,
+				1488547125A0C6FC00964E29 /* meteorologia_x29_03.jpg in Resources */,
 				142B6E6325964FD100FB7609 /* aerodynamika_x68_13.jpg in Resources */,
 				142B6EBA25964FFC00FB7609 /* meteorologia_x25_06.jpg in Resources */,
 				142B6EA725964FFC00FB7609 /* meteorologia_x26_16.jpg in Resources */,
+				1488547A25A0C6FC00964E29 /* meteorologia_y29_05.jpg in Resources */,
 				142B6EAA25964FFC00FB7609 /* meteorologia_x25_09.jpg in Resources */,
+				1488547025A0C6FC00964E29 /* meteorologia_y25_17.jpg in Resources */,
+				1488549025A0C6FC00964E29 /* meteorologia_y29_07.jpg in Resources */,
 				142B6EC025964FFC00FB7609 /* meteorologia_x27_04.jpg in Resources */,
 				142B6E082596485700FB7609 /* radiotechnika_x04_13.jpg in Resources */,
 				142B6EB825964FFC00FB7609 /* meteorologia_x26_07.jpg in Resources */,
+				1488547225A0C6FC00964E29 /* meteorologia_x30_06.jpg in Resources */,
 				142B6E6725964FD100FB7609 /* aerodynamika_x63_20.jpg in Resources */,
+				1488549E25A0C6FC00964E29 /* meteorologia_y27_02.jpg in Resources */,
 				14512F0D2579A5430047FA7D /* data.json in Resources */,
+				148854A125A0C6FC00964E29 /* meteorologia_y27_20.jpg in Resources */,
 				14EE3495259890390065F584 /* palubne_pristroje.json in Resources */,
 				142B6E5C25964FD100FB7609 /* aerodynamika_x66_11.jpg in Resources */,
+				1488546B25A0C6FC00964E29 /* meteorologia_y24_10.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
