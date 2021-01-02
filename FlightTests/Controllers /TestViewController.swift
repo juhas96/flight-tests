@@ -84,8 +84,8 @@ class TestViewController: UIViewController {
         thirdAnswerButton?.backgroundColor = UIColor.white
         
         firstAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
-        secondAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
-        thirdAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 0).htmlToAttributedString, for: .normal)
+        secondAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 1).htmlToAttributedString, for: .normal)
+        thirdAnswerButton?.setAttributedTitle(test.getAnswerOnPosition(position: 2).htmlToAttributedString, for: .normal)
         
         if (test.getQuestionImage() != "") {
             imageView.isHidden = false

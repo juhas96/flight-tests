@@ -1045,7 +1045,7 @@
     "testName":"Letecké pohonné jednotky X35 - letecký test",
     "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
     "id":"825",
-    "questionPosition":"letecke_pohonne_jednotky_x35_11.jpg"
+    "questionImage":"letecke_pohonne_jednotky_x35_11.jpg"
   },
   {
     "questionText":"Veľmi chudobná zmes a malý predstih zážihu spôsobí dohorievanie zmesi i počas výfuku. Pri expanzii sa v týchto podmienkach odovzdávanie tepla do motora ",
@@ -1098,7 +1098,8 @@
     "testName":"Letecké pohonné jednotky Y31 - letecký test",
     "categoryName":"LETECKÉ POHONNÉ JEDNOTKY",
     "id":"829",
-    "questionPosition":4
+    "questionPosition":4,
+    "questionImage":"letecke_pohonne_jednotky_x35_11.jpg"
   },
   {
     "questionText":"Pod pojmom vyváženie motora rozumieme vyváženie zotrvačných síl",

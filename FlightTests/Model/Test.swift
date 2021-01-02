@@ -45,6 +45,14 @@ struct Test {
         }
     }
     
+    func getCorrectAnswerPositionByQuestionId(questionNumber: Int) -> Int {
+        if test.count > 0 {
+            return test[questionNumber].correctAnswerPosition
+        } else {
+            return -1
+        }
+    }
+    
     mutating func initFirstQuestionId() {
         if test.count > 0 {
             self.questionId = test[0].id!
@@ -57,8 +65,8 @@ struct Test {
                 questionNumber += 1
                 self.questionId = self.test[questionNumber].id!
             } else {
-                questionNumber = test.count
-                self.questionId = self.test[questionNumber - 1].id!
+                questionNumber = test.count - 1
+                self.questionId = self.test[questionNumber].id!
             }
         }
     }
