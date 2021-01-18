@@ -31,9 +31,11 @@ class TestDetailViewController: UIViewController {
         self.view.layer.insertSublayer(gradientLayer, at: 0)
         gradientLayer.frame = self.view.bounds
         var data = DataService.data.getData()
+        print(data.count)
         test.test = data.filter({ (Question) -> Bool in
-            return Question.testName == self.testName
+            return Question.categoryName.lowercased() == self.testName.lowercased()
         })
+        print(test.test.count)
         self.setupUI()
         self.updateUI()
     }
