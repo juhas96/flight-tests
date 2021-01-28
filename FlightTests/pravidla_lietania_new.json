@@ -1,0 +1,1705 @@
+[
+  {
+    "questionText":"Cestovná hladina je:",
+    "answers":[
+      "a) výška, v ktorej lietadlo letí,",
+      "b) hladina dodržovaná lietadlom počas značnej časti letu,",
+      "c) výška letu meraná výškomerom."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"1",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Dohľadnosť je:",
+    "answers":[
+      "a) vidieť dopredu z lietadla za letu,",
+      "b) schopnosť vidieť a rozpoznávať vyznačené neosvetlené predmety vo dne a svetlá v noci dané meteorologickými podmienkami a vyjadrená v jednotkách dĺžkovej miery,",
+      "c) schopnosť vidieť a rozpoznávať neosvetlené predmety vo dne a svetlá v noci z kabíny lietadla za letu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"2",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Hladina je:",
+    "answers":[
+      "a) hladina atmosférického tlaku vzťahovaná ku mbar tlakovému údaju 1013,2 hPa (1013,2 mbar),",
+      "b) hladina atmosférického tlaku vzťahovaná  na hladinu mora a oddelená od  ostatných  hladín stanovenými tlakovými intervalmi,",
+      "c) všeobecný výraz používaný na vyjadrenie vertikálnej polohy lietadla znamenajúci buď výšku nad zemou, nadmorskú výšku alebo letovú hladinu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"3",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Hlásny bod je:",
+    "answers":[
+      "a) stanovené zemepisné miesto (zvyčajne s rádionavigačným zariadením), vzhľadom na ktoré sa môže hlásiť poloha lietadla,",
+      "b) miesto, odkiaľ posádka podáva informácie o polohe, prevádzkových a poveternostných podmienkach letu,",
+      "c) stanovené zemepisné miesto, ku ktorému sa vzťahujú hlásenia letu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"4",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Informáciu, ktorou sa pilot upozorňuje na inú známu alebo pozorovanú leteckú prevádzku v blízkosti jeho lietadla alebo zamýšľanej trate, a ktorá má pilotovi pomôcť vyhnúť sa zrážke, vydáva:",
+    "answers":[
+      "a) letecká informačná služba,",
+      "b) letecký úrad,",
+      "c) stanovište letových prevádzkových služieb."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"5",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Inštrukcie riadenia letovej prevádzky sú príkazy vydané riadením letovej prevádzky, ktorých účelom je:",
+    "answers":[
+      "a) prikázať pilotovi, aby vykonal určitú činnosť,",
+      "b) požiadať pilota, aby vykonal určitú činnosť,",
+      "c) odporučiť pilotovi, aby vykonal určitú činnosť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"6",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Koncová riadená oblasť je:",
+    "answers":[
+      "a) riadená oblasť ustanovená zvyčajne v miestach, kde sa letové cesty a letové línie zbiehajú v blízkosti jedného alebo viac hlavných letísk,",
+      "b) riadený vzdušný priestor siahajúci od povrchu zeme do stanovenej výšky zahrňujúci letové cesty a letové línie zbiehajúce sa v blízkosti jedného alebo viac hlavných letísk,",
+      "c) riadená oblasť ustanovená v blízkosti jedného alebo viac hlavných letísk siahajúca hore od stanovenej výšky nad zemou."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"7",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Kurz je:",
+    "answers":[
+      "a) vypočítaný smer letu s ohľadom na opravy od magnetického severu",
+      "b) smer pozdĺžnej osi lietadla, vyjadrený v stupňoch od severu",
+      "c) vypočítaný smer letu opravený o znos vetra a kompasové chyby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"8",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Letecká informačná príručka je:",
+    "answers":[
+      "a) príručka vydaná výrobcom, obsahujúca informácie o výkonoch a obmedzeniach lietadla,",
+      "b) príručka vydaná štátom alebo poverenou organizáciou obsahujúca letecké informácie trvalého charakteru dôležité pre leteckú prevádzku,",
+      "c) príručka vydaná prevádzkovateľom obsahujúca letecké informácie trvalého charakteru"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"9",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Letecký úrad je:",
+    "answers":[
+      "a) vrcholný orgán vo veciach civilného letectva,",
+      "b) Štátna letecká inšpekcia,",
+      "c) kontrolný orgán leteckého prevádzkovateľa."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"10",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Letisko je:",
+    "answers":[
+      "a) vymedzená plocha na zemi alebo na vode (vrátane budov, zariadení a vybavenia) a určená buď úplne alebo čiastočne na prílety, odlety a pohyby lietadiel na zemi,",
+      "b) plocha vymedzená na vzlet a pristátie na zemi alebo na vode (vrátane budov, zariadení a vybavenia),",
+      "c) zvlášť vymedzená, upravená a vybavená obdĺžniková časť prevádzkovej plochy pozemného letiska určená na pristátia a vzlety lietadiel."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"11",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Letisko AFIS je letisko, na ktorom je známej prevádzke poskytovaná:",
+    "answers":[
+      "a) letová informačná služba,",
+      "b) letová poradná služba,",
+      "c) letová informačná a pohotovostná služba."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"12",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Letiskový okruh je vzdušný priestor stanovených rozmerov ustanovený okolo letiska na ochranu:",
+    "answers":[
+      "a) leteckej prevádzky,",
+      "b) letiskovej prevádzky,",
+      "c) letovej prevádzky."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"13",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Letisková prevádzka znamená:",
+    "answers":[
+      "a) činnosť všetkých lietadiel počas letu alebo lietadiel pohybujúcich sa na prevádzkovej ploche,",
+      "b) akúkoľvek prevádzku na prevádzkovej ploche letiska,",
+      "c) akúkoľvek prevádzku na prevádzkovej ploche letiska a všetky lietadlá na letiskovom okruhu, vstupujúce do nej alebo ju opúšťajúce."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"14",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Letová cesta je",
+    "answers":[
+      "a) schválená trať pre lety medzi dvoma miestami,",
+      "b)  riadená oblasť alebo jej časť vymedzeného vzdušného priestoru, v hraniciach ktorého musí byť let vykonaný a vybavená rádionavigačnými zariadeniami,",
+      "c) vymedzená vzdušná trať medzi dvoma alebo niekoľkými miestami vybavená rádionavigačnými prostriedkami."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"15",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Letová dohľadnosť je:",
+    "answers":[
+      "a) schopnosť vidieť a rozpoznávať vyznačené predmety vo dne a svetlá v noci,",
+      "b) dohľadnosť dopredu z kabíny lietadla za letu,",
+      "c) schopnosť vidieť a rozpoznávať vyznačené predmety vo dne a svetlá v noci z kabíny lietadla."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"16",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Letová hladina je:",
+    "answers":[
+      "a) hladina dodržovaná lietadlom počas značnej časti letu,",
+      "b) hladina stáleho atmosférického tlaku vzťahovaná ku stanovenému tlakovému údaju 1013,2 hPa a oddelená od ostatných takýchto hladín stanovenými tlakovými intervalmi,",
+      "c) výraz používaný na vyjadrenie vertikálnej polohy lietadla znamenajúci buď výšku nad zemou alebo nad morom."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"17",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Tlakový výškomer, keď je nastavený na QNH zobrazí:",
+    "answers":[
+      "a) výšku nad zemou,",
+      "b) výšku nad letiskom,",
+      "c) nadmorskú výšku (altitude)."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"18",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Letové povolenie je povolenie vydané veliteľovi lietadla vykonať let alebo v lete pokračovať za podmienok určených:",
+    "answers":[
+      "a) stanoviskom riadenia letovej prevádzky,",
+      "b) ohlasovňu letových prevádzkových služieb,",
+      "c) zástupcom prevádzkovateľa."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"19",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Letový plán zahrňuje:",
+    "answers":[
+      "a) stanovené údaje o zamýšľanom lete lietadla,",
+      "b) údaje o lete lietadla pri navigačnom lete,",
+      "c) stanovené údaje o každom lete."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"20",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Letová prevádzka zahrňuje:",
+    "answers":[
+      "a) všetky činnosti a služby slúžiace lietaniu ako celku,",
+      "b) všetky lietadlá za letu a im poskytované služby,",
+      "c)  všetky lietadlá za letu alebo pohybujúce sa na prevádzkovej ploche."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"21",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Minimálna použiteľná výška je stanovená minimálna nadmorská výška, zaisťujúca nad najvyššou prekážkou v CTR, TMA alebo v stanovenom priestore, v ktorom je zahrnutý ochranný priestor lietadla, vertikálnu vzdialenosť najmenej:",
+    "answers":[
+      "a) 900 m (3 000 stôp),",
+      "b) 600 m (2 000stôp),",
+      "c) 300 m (1 000 stôp)."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"22",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Náhradné letisko je:",
+    "answers":[
+      "a) letisko uvedené v letovom pláne, na ktorom lietadlo môže pristáť, ak nie je let na letisko plánovaného pristátia možný alebo žiadúci,",
+      "b) akékoľvek letisko, na ktorom lietadlo môže pristáť, ak nie je let na letisko plánovaného pristátia možný alebo žiadúci,",
+      "c) letisko na plánovanej trati, na ktorom lietadlo môže pristáť kedykoľvek, ak rozhodne veliteľ lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"23",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Nebezpečný priestor je vymedzený vzdušný priestor, v ktorom je vo vyhlásenej dobe činnosť pre lety lietadiel:",
+    "answers":[
+      "a) nebezpečná,",
+      "b) zakázaná,",
+      "c) obmedzená."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"24",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Obmedzený priestor je vymedzený vzdušný priestor, v ktorom je možné vykonávať lety:",
+    "answers":[
+      "a) iba vo dne,",
+      "b) pri dodržaní určitých zvláštnych podmienok,",
+      "c) len so súhlasom AFIS."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"25",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Prevádzková plocha je:",
+    "answers":[
+      "a) časť letiska určená na vzlety a pristátia lietadiel,",
+      "b) časť letiska určená na rolovanie a státie lietadiel,",
+      "c) časť letiska určená na vzlety, pristátia a rolovanie lietadiel s výnimkou odbavovacích plôch."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"26",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Predpokladaný čas príletu pre VFR lety je:",
+    "answers":[
+      "a) čas, v ktorom sa predpokladá, že lietadlo priletí nad letisko,",
+      "b) čas, v ktorom sa predpokladá pristátie lietadla na letisku,",
+      "c) čas, v ktorom sa predpokladá, že lietadlo priletí nad stanovený bod, z ktorého sa predpokladá začatie priblíženia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"27",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Predpokladaný čas začatia rolovania je predpokladaný:",
+    "answers":[
+      "a) čas, v ktorom sa lietadlo pohne z odbavovacej plochy,",
+      "b) čas, v ktorom lietadlo začne pohyb súvisiaci so vzletom,",
+      "c) čas v ktorom lietadlo začne pohyb po rolovacej dráhe."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"28",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Prízemná dohľadnosť je:",
+    "answers":[
+      "a) dohľadnosť na letisku hlásená oprávneným pozorovateľom,",
+      "b) dohľadnosť dopredu z kabíny lietadla,",
+      "c) schopnosť vidieť a rozpoznávať vyznačené neosvetlené predmety vo dne a svetlá v noci."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"29",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Riadené letisko je:",
+    "answers":[
+      "a) letisko, na ktorom sa poskytuje služba riadenia letovej prevádzky letom VFR,",
+      "b) letisko, na ktorom sa poskytujú služby letom IFR,",
+      "c) letisko, na ktorom sa letiskovej prevádzke poskytuje služba riadenia letovej prevádzky."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"30",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Riadený let je:",
+    "answers":[
+      "a) akýkoľvek let, na ktorý bol podaný letový plán,",
+      "b) akýkoľvek let, ktorý je predmetom letového povolenia,",
+      "c) akýkoľvek let, ktorý sa koná v riadenej oblasti."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"31",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Riadená oblasť je:",
+    "answers":[
+      "a) riadený vzdušný priestor siahajúci hore od stanovenej výšky nad zemou,",
+      "b) riadený vzdušný priestor vymedzený letiskovým poriadkom,",
+      "c) riadený vzdušný priestor okolo letiska."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"32",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Skupinový let je let dvoch alebo viac lietadiel vykonávajúcich spoločnú úlohu, pričom ich vzájomná vzdialenosť nie je väčšia ako:",
+    "answers":[
+      "a) 50 m,",
+      "b) 100 m,",
+      "c) 150 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"33",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Trať je:",
+    "answers":[
+      "a) stanovená trať určená na usmerňovanie toku letovej prevádzky,",
+      "b) dráha letu lietadla premietnutá na povrch zeme, jej smer sa v ktoromkoľvek bode vyjadruje v stupňoch meraných od severu,",
+      "c) stanovená trať letu, ktorej smer sa v ktoromkoľvek bode vyjadruje v stupňoch meraných od severu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"34",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Veliteľ lietadla je:",
+    "answers":[
+      "a) pilot lietadla zodpovedný za stav lietadla a jeho posádky, prípravu a vykonanie letu,",
+      "b) pilot lietadla zodpovedný za dodržanie všetkých predpisov a nariadení počas letu,",
+      "c) pilot lietadla zodpovedný za vykonanie letu a bezpečnosti cestujúcich a prepravovaného nákladu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"35",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Výška letu nad letiskom je:",
+    "answers":[
+      "a) výška letu lietadla meraná výškomerom nastaveným na QNH daného letiska,",
+      "b) výška letu lietadla meraná výškomerom nastaveným na QFE daného letiska,",
+      "c) výška letu lietadla meraná výškomerom nastaveným na QFF daného letiska."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"36",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Zvláštny let VFR je:",
+    "answers":[
+      "a) let VFR v riadenom okrsku letiska pri výške základne oblačnosti pod 150 m,",
+      "b) let VFR, ktorému vydala služba riadenia letovej prevádzky povolenie na let v riadenom okrsku v meteorologických podmienkach horších ako VMC,",
+      "c) riadený let VFR mimoriadnej dôležitosti."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"37",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Pravidlá lietania upravujú lety nad územím štátu:",
+    "answers":[
+      "a) všetkých lietadiel,",
+      "b) všetkých dopravných lietadiel,",
+      "c) všetkých civilných lietadiel."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"38",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Veliteľ lietadla:",
+    "answers":[
+      "a) zodpovedá za vykonanie letu podľa pravidiel lietania, len ak získal povolenie na riadený let,",
+      "b) zodpovedá za vykonanie vzletu podľa pravidiel lietania, ak obdržal povolenie od služieb riadenia letovej prevádzky,",
+      "c) zodpovedá za vykonanie letu podľa pravidiel lietania, či už lietadlo riadi sám alebo nie, vynímajúc prípady, kedy si okolnosti vynútia odchýlku od týchto pravidiel v záujme bezpečnosti."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"39",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Pred začatím letu je veliteľ lietadla povinný oboznámiť sa:",
+    "answers":[
+      "a) s leteckou informačnou príručkou,",
+      "b) s letovou a prevádzkovou príručkou,",
+      "c) so všetkými informáciami potrebnými na vykonanie zamýšľaného letu, ktoré sú k dispozícii."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"40",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Predletová príprava musí zahrňovať starostlivé preštudovanie platných meteorologických správ a predpovedí, stanovenie požiadavky pohonných látok a určenie náhradných postupov pre prípad, že nebude možné let dokončiť tak, ako bol zamýšľaný na:",
+    "answers":[
+      "a) lety mimo letiskového okruhu a na všetky lety podľa prístrojov,",
+      "b) všetky lety,",
+      "c) lety podľa prístrojov."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"41",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Veliteľ lietadla a členovia posádky nesmú začať let, ak je ich schopnosť znížená, najmä:",
+    "answers":[
+      "a) vplyvom alkoholického nápoja, omamného prostriedku, lieku, únavou, nevoľnosťou, úrazom alebo chorobou,",
+      "b) vplyvom alkoholického nápoja, drog a liekov,",
+      "c) vplyvom alkoholického nápoja, omamného prostriedku, chorobou, nevoľnosťou alebo únavou."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"42",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Let sa musí vykonávať a s lietadlom sa musí zaobchádzať tak, aby:",
+    "answers":[
+      "a) nedošlo k leteckej nehode,",
+      "b) nebola ohrozená bezpečnosť cestujúcich a posádky lietadla, osôb a majetku na zemi,",
+      "c) nebola ohrozená bezpečnosť cestujúcich, nákladu, osôb a majetku na zemi."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"43",
+    "questionPosition":43
+  },
+  {
+    "questionText":"S výnimkou vzletu alebo pristátia, alebo s výnimkou povolenia vydaného leteckým úradom, sa musí let nad husto zastavanými miestami alebo nad zhromaždenými ľuďmi na voľnom priestranstve konať vo výške:",
+    "answers":[
+      "a) ktorá dovolí v prípade vzniknutého nebezpečenstva pristáť bez ohrozenia osôb alebo majetku na zemi,",
+      "b) ktorá dovolí v prípade vzniknutého nebezpečenstva pristáť bez ohrozenia posádky a osôb na zemi,",
+      "c) ktorá dovolí v prípade nebezpečenstva pristáť bez poškodenia lietadla."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"44",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Cestovné hladiny, v ktorých sa má let alebo jeho časť uskutočniť, pri letoch v prevodnej výške a pod ňou, a pri letoch v nadmorskej výške 1 500 m a pod ňou musia byť:",
+    "answers":[
+      "a) výšky nad zemou,",
+      "b) nadmorské výšky,",
+      "c) výšky nad letiskom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"45",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Hladiny, v ktorých sa má let alebo jeho časť uskutočniť, musia byť u letov po trati, ktoré sa uskutočňujú, do 300 m nad zemou:",
+    "answers":[
+      "a) výšky nad zemou,",
+      "b) nadmorskej výšky,",
+      "c) výšky nad letiskom."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"46",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Zhadzovať akékoľvek predmety počas letu alebo rozprašovať chemické látky sa môžu len:",
+    "answers":[
+      "a) v dobe medzi východom a západom slnka,",
+      "b) za podmienok stanovených prevádzkovateľom a podľa príslušných smerníc,",
+      "c) za podmienok stanovených leteckým úradom a podľa príslušných informácií a povolení."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"47",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Akrobatické lety:",
+    "answers":[
+      "a) sa môžu vykonávať len na schválených letiskách medzi východom a západom slnka,",
+      "b) sa môžu vykonávať len vo vymedzených priestoroch a podľa príslušných informácií a povolení,",
+      "c) sa môžu vykonávať len za podmienok stanovených orgánom štátneho dozoru v civilnom letectve a podľa príslušných informácií a povolení."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"48",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Lietadlo nemôže lietať v takej vzdialenosti od iného lietadla, ktorá by:",
+    "answers":[
+      "a) bola menšia ako 150 m,",
+      "b) mohla obmedziť iné lietadlo,",
+      "c) vytvárala nebezpečie zrážky."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"49",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Lietadlo majúce prednosť musí udržovať svoj kurz a rýchlosť:",
+    "answers":[
+      "a) tieto podmienky nemôže meniť,",
+      "b) tieto podmienky môže zmeniť iba na základe súhlasu stanovišťa leteckých prevádzkových služieb,",
+      "c) toto pravidlo však nezbavuje veliteľa lietadla zodpovednosti vykonať také opatrenia, ktoré najlepšie zabránia zrážke."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"50",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Lietadlo, ktoré je podľa pravidiel povinné dať prednosť inému lietadlu to vykoná s výnimkou prípadov, kedy sa druhé lietadlo nachádza v bezpečnej vzdialenosti tak, že sa:",
+    "answers":[
+      "a) vyhne, aby bola medzi lietadlami dodržaná vodorovná vzdialenosť 300 m,",
+      "b) vyhne tým, že nadletí, podletí alebo križuje jeho trať pred ním,",
+      "c) vyhne tak, aby bola medzi lietadlami dodržaná vertikálna vzdialenosť 150 m."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"51",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Ak letia dve lietadlá na pretínajúcich sa tratiach v približne rovnakej hladine, musí sa lietadlo, ktoré má druhé po svojej pravej strane vyhnúť, vynímajúc tieto prípady, keď:",
+    "answers":[
+      "a) sa klzáky musia vyhnúť balónom a vzducholodiam,",
+      "b) sa vzducholoď musí vyhnúť balónom a lietadlám, ktoré majú vo vleku iné lietadlá alebo predmety,",
+      "c) sa motorové lietadlá ťažšie ako vzduch musia vyhnúť vzducholodiam, klzákom a balónom."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"52",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Ak letia dve lietadlá na protismerných tratiach, každé z nich sa vyhne zmenou kurzu:",
+    "answers":[
+      "a) vpravo,",
+      "b) vľavo,",
+      "c) vpravo alebo vľavo tak, aby čo najlepšie zabránili zrážke."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"53",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Predlietávajúce lietadlo je to, ktoré sa približuje k inému lietadlu zozadu na čiare zvierajúcej s rovinou súmernosti predlietavaného lietadla uhol menší ako:",
+    "answers":[
+      "a) 70 stupňov,",
+      "b) 60 stupňov,",
+      "c) 80 stupňov."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"54",
+    "questionPosition":54
+  },
+  {
+    "questionText":"Lietadlo za letu alebo pohybujúce sa na zemi musí dať prednosť lietadlu, ktoré:",
+    "answers":[
+      "a) dostalo povolenie na priblíženie na pristátie,",
+      "b) pristáva alebo je v poslednej fáze priblíženia na pristátie,",
+      "c) je na letiskovom okruhu, pričom je zrejmé, že bude pristávať na tomto letisku."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"55",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Ak sa približujú dve alebo viac lietadiel ťažších ako vzduch k jednému letisku, aby na ňom pristáli, musí:",
+    "answers":[
+      "a) lietadlo letiace vľavo dať prednosť lietadlám prilietavajúcim z pravej strany,",
+      "b) vyššie letiace lietadlo dať prednosť lietadlu letiacemu nižšie,",
+      "c) pomalšie lietadlo dať prednosť rýchlejšiemu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"56",
+    "questionPosition":56
+  },
+  {
+    "questionText":"Veliteľ lietadla, ktorému je známe, že iné lietadlo je nútené núdzovo pristáť:",
+    "answers":[
+      "a) musí dať tomuto lietadlu prednosť,",
+      "b) môže pristáť s tým, že okamžite uvoľní dráhu,",
+      "c) môže pristáť, ak je v poslednej fáze priblíženia na pristátie."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"57",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Ak rolujú dve lietadlá oproti alebo približne oproti sebe, piloti oboch lietadiel sú povinní zastaviť alebo ak je to uskutočniteľné, vyhnúť sa:",
+    "answers":[
+      "a) vľavo tak, aby medzi lietadlami bola zaistená dostatočná vzdialenosť,",
+      "b) vpravo tak, aby vzdialenosť medzi koncami krídel bola najmenej 15 m,",
+      "c) vpravo tak, aby medzi lietadlami bola zabezpečená dostatočná vzdialenosť."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"58",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Lietadlo, ktoré je predbiehané iným lietadlom má prednosť a pilot predbiehajúceho lietadla je povinný udržovať od predbiehaného lietadla:",
+    "answers":[
+      "a) vzdialenosť minimálne 5 m,",
+      "b) vzdialenosť minimálne 10 m,",
+      "c) dostatočnú vzdialenosť."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"59",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Na zabránenie zrážky dvoch lietadiel na pohybovej ploche letiska, ak sa križujú dráhy rolujúcich lietadiel, tak lietadlo musí dať prednosť lietadlu:",
+    "answers":[
+      "a) rolujúcemu na vzlet,",
+      "b) rolujúcemu zľava,",
+      "c) rolujúcemu sprava."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"60",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Lietadlo rolujúce po prevádzkovej ploche (pred vzletom) musí dať prednosť lietadlu:",
+    "answers":[
+      "a) ktoré vzlieta alebo sa nachádza v polohe na vzlet,",
+      "b) väčšiemu,",
+      "c) rýchlejšiemu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"61",
+    "questionPosition":61
+  },
+  {
+    "questionText":"Lietadlo, ktoré roluje po prevádzkovej ploche, musí zastaviť a čakať.",
+    "answers":[
+      "a) pred každou križovatkou,",
+      "b) pred všetkými rozsvietenými stop priečkami,",
+      "c) vždy pred vstupom na VPD."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"62",
+    "questionPosition":62
+  },
+  {
+    "questionText":"Všetky lietadlá počas letu musia mať v dobe medzi západom a východom slnka alebo v inej dobe nariadenej zodpovedným orgánom letových prevádzkových služieb, rozsvietené:",
+    "answers":[
+      "a) polohové svetlá,",
+      "b) protizrážkové a polohové svetlá,",
+      "c) protizrážkový maják"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"63",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Velitelia lietadiel v blízkosti letiska alebo pohybujúcich sa na letisku, sú povinní podľa jednotlivých fáz letu:",
+    "answers":[
+      "a) dodržiavať pokyny RLP bez ohľadu na ostatnú prevádzku,",
+      "b) pozorovať ostatnú letiskovú prevádzku za účelom zabránenia zrážkam,",
+      "c) prednostne umožniť odlety ostatných lietadiel."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"64",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Cvičné lety so zakrytou kabínou sa môžu vykonávať:",
+    "answers":[
+      "a) na lietadle so sedadlami vedľa seba,",
+      "b) na lietadle s naplno pracujúcim dvojitým riadením",
+      "c)\tna lietadle vybavenom prevádzkyschopným prístrojovým rádionavigačným a spojovacím zariadením."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"65",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Velitelia lietadiel sú povinní pristávať a vzlietať proti vetru, pokiaľ bezpečnosť, konfigurácia vzletovej a pristávacej dráhy alebo prevádzkové úvahy neurčia, že je výhodný iný smer, pričom pristátie alebo vzlet s bočným alebo zadným vetrom môže byť vykonaný iba v limite povolenom:",
+    "answers":[
+      "a) pre daný typ lietadla,",
+      "b) v letiskovom poriadku,",
+      "c) v AlP-e."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"66",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Veliteľ lietadla, ktoré je vybavené rádiostanicou, pri prílete na letisko, na ktorom sa poskytuje letisková letová informačná služba, musí na príslušnom kmitočte (buď zverejnenom pre jednotlivé letiská alebo na kmitočte určenom pre všeobecné letectvo) hlásiť mimo iného:",
+    "answers":[
+      "a) svoju polohu a miesto vzletu,",
+      "b) údaje z letového plánu,",
+      "c) miesto zamýšľaného vstupu do letiskového okruhu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"67",
+    "questionPosition":67
+  },
+  {
+    "questionText":"S výnimkou letov na zvláštne účely a letov vo výške 300 m nad zemou a nižšie, kedy pilot nepožaduje žiadne z letových prevádzkových služieb, musí byť letový plán predložený:",
+    "answers":[
+      "a) na každý let mimo okrsok letiska,",
+      "b) na každý let,",
+      "c) na každý let mimo TMA."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"68",
+    "questionPosition":68
+  },
+  {
+    "questionText":"S výnimkou letov na zvláštne účely, t.j. letov pre leteckú záchrannú službu, letov leteckej pátracej a záchrannej služby a letov policajných vrtuľníkov v CTR a týchto letov mimo CTR nad 300 m nad zemou do nadmorskej výšky 1 500 m, pri ktorých pilot nepožaduje poskytovať žiadnu z letových prevádzkových služieb, informácie o zamýšľanom lete musia byť predložené stanovisku letových prevádzkových služieb formou:",
+    "answers":[
+      "a) letového plánu,",
+      "b) oznámenia o lete,",
+      "c) letového odporučenia."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"69",
+    "questionPosition":69
+  },
+  {
+    "questionText":"S výnimkou stálych letových plánov, letový plán musí byť predložený pred odletom.",
+    "answers":[
+      "a) ohlasovni letových prevádzkových služieb,",
+      "b) oblastnému stanovisku letových prevádzkových služieb,",
+      "c) letiskovému stanovisku letových prevádzkových služieb."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"70",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Letový plán musí byť predložený pred odletom ohlasovni letových prevádzkových služieb alebo počas letu podávaný príslušnému stanovisku letových prevádzkových služieb, s výnimkou:",
+    "answers":[
+      "a) letu v riadenom okrsku,",
+      "b) stálych letových plánov,",
+      "c) výcvikových letov."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"71",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Letový plán musí byť predložený (s výnimkou plánov podávaných počas letu, ak sa jedná o let pre záchranu ľudského života alebo pri vynútenom prelete hraníc letových informačných oblasti) pred odletom najmenej:",
+    "answers":[
+      "a) 120 minút,",
+      "b) 60 minút,",
+      "c) 30 minút."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"72",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Letový plán musí okrem iného obsahovať:",
+    "answers":[
+      "a) letisko odletu, predpokladaný čas začatia rolovania, cestovnú rýchlosť, cestovné hladiny, trať letu,",
+      "b) letisko odletu, dátum a čas odletu, trať letu,",
+      "c) letisko odletu, dátum a čas odletu, vypočítané časy jednotlivých úsekov trate."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"73",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Platnosť letového pianu konči:",
+    "answers":[
+      "a) ohlásením pristátia,",
+      "b) plánovaným časom pristátia,",
+      "c) 30 minút po plánovanom čase pristátia."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"74",
+    "questionPosition":74
+  },
+  {
+    "questionText":"Pri pristátí na neriadenom letisku musí byť hlásenie o pristátí podané po pristátí:",
+    "answers":[
+      "a) čo možno najskôr,",
+      "b) do 20 minút,",
+      "c) do 30 minút."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"75",
+    "questionPosition":75
+  },
+  {
+    "questionText":"Pilot lietadla pri pristátí na neriadenom letisku môže odovzdať správu o pristátí lietadla rádiom zo vzduchu za predpokladu, že sa ohlási po vzlete z tohoto letiska najneskôr do:",
+    "answers":[
+      "a) 20 minút po pristátí,",
+      "b) 30 minút po pristátí,",
+      "c) 45 minút po pristátí."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"76",
+    "questionPosition":76
+  },
+  {
+    "questionText":"Hlásenie o pristátí odovzdané lietadlom musí obsahovať:",
+    "answers":[
+      "a) typ lietadla, miesto a čas vzletu, miesto a čas pristátia, výšku letu, trať letu,",
+      "b) identifikáciu lietadla, typ lietadla, miesto a čas vzletu a pristátia, trať letu a priestor činnosti,",
+      "c) identifikáciu lietadla, letisko vzletu, letisko pristátia, čas pristátia."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"77",
+    "questionPosition":77
+  },
+  {
+    "questionText":"Oznámenie o lete musí obsahovať tieto údaje v uvedenom poradí:",
+    "answers":[
+      "a) poznávaciu značku lietadla, typ lietadla, miesto a čas vzletu, miesto a čas pristátia, výšku letu, trať letu alebo priestor činnosti,",
+      "b) letisko vzletu, letisko pristátia, výšku letu, trať letu alebo priestor činnosti,",
+      "c) poznávaciu značku lietadla, názov prevádzkovateľa, miesto a čas vzletu a pristátia, trať letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"78",
+    "questionPosition":78
+  },
+  {
+    "questionText":"Skratka UTC vyjadruje:",
+    "answers":[
+      "a) svetový koordinovaný čas,",
+      "b) stredoeurópsky čas,",
+      "c) čas vzťažný k nultému poludníku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"79",
+    "questionPosition":79
+  },
+  {
+    "questionText":"Kontrola času musí byť vykonaná pred začatím:",
+    "answers":[
+      "a) každého času,",
+      "b) riadeného letu,",
+      "c) dopravného letu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"80",
+    "questionPosition":80
+  },
+  {
+    "questionText":"Ku každému letu  až na výnimky musí veliteľ  lietadla získať letové  povolenie od  príslušného stanoviska riadenia letovej prevádzky. Letové povolenie na riadený let sa musí získať vždy:",
+    "answers":[
+      "a) pred vstupom do riadeného okrsku,",
+      "b) pred jeho začatím alebo pred prechodom na taký let,",
+      "c) minimálne 30 minút pred jeho začatím."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"81",
+    "questionPosition":81
+  },
+  {
+    "questionText":"Kedykoľvek veliteľ lietadla žiada prednostné  povolenie a  príslušné stanovisko riadenia letovej prevádzky tak požaduje, musí:",
+    "answers":[
+      "a) doplniť letový plán,",
+      "b) požiadať o zmenu letového plánu,",
+      "c) svoju žiadosť odôvodniť."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"82",
+    "questionPosition":82
+  },
+  {
+    "questionText":"Na riadenom letisku nesmie lietadlo na prevádzkovej ploche bez povolenia letiskovej riadiacej veže:",
+    "answers":[
+      "a) rolovať,",
+      "b) spustiť pohonné jednotky,",
+      "c) plniť LPH."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"83",
+    "questionPosition":83
+  },
+  {
+    "questionText":"Veliteľ lietadla musí dodržovať platný letový plán alebo príslušné časti platného letového plánu, pokiaľ si nevyžiada a nezíska zmeny u príslušného stanoviska riadenia letovej prevádzky alebo pokiaľ vzniknutý stav núdze si nevynúti jeho okamžitý zákrok. V takomto prípade musí veliteľ lietadla ohlásiť príslušného stanovisku riadenia letovej prevádzky vykonané opatrenia, ktoré boli nevyhnutné stavom núdze, a to:",
+    "answers":[
+      "a) do 3 minút,",
+      "b) ihneď, akonáhle to okolnosti dovolia,",
+      "c) okamžite."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"84",
+    "questionPosition":84
+  },
+  {
+    "questionText":"Pokiaľ nie je stanovené alebo príslušným stanoviskom riadenia letovej prevádzky nariadené inak, musí byť riadený let v letovej ceste vykonaný:",
+    "answers":[
+      "a) po osi letovej cesty,",
+      "b) v medziach vyznačenej letovej cesty,",
+      "c) v koridore plus mínus 3 km od osi letovej cesty."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"85",
+    "questionPosition":85
+  },
+  {
+    "questionText":"V prípade, že u riadeného letu dôjde k neúmyselnej odchýlke od platného letového plánu, musia byť pri odchýlke od plánovanej trate vykonané tieto opatrenia:",
+    "answers":[
+      "a) vykonať opravu kurzu letu tak, aby sa lietadlo vrátilo na plánovanú trať do 3 minút,",
+      "b) vykonať opravu kurzu letu tak, aby sa lietadlo vrátilo na plánovanú trať do najbližšieho hlásneho bodu,",
+      "c) vykonať ihneď opatrenie na opravu kurzu letu, aby sa lietadlo vrátilo na plánovanú trať čo najskôr."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"86",
+    "questionPosition":86
+  },
+  {
+    "questionText":"V prípade, že u riadeného letu dôjde k neúmyselnej odchýlke u vypočítaného času od platného letového plánu, ak vypočítaná doba preletu u budúceho určeného hlásneho bodu, hranice letovej oblasti alebo príletu na letisko zamýšľaného pristátia, podľa toho čo príde skôr, sa odlišuje, musí veliteľ lietadla čo možno najskôr, oznámiť novú vypočítanú dobu príslušnému stanovisku riadenia letovej prevádzky. Ak odchýlka je:",
+    "answers":[
+      "a) 3 minúty alebo viac,",
+      "b) 2 minúty alebo viac,",
+      "c) 5 minút alebo viac."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"87",
+    "questionPosition":87
+  },
+  {
+    "questionText":"Pokiaľ zodpovedný orgán letových prevádzkových služieb alebo príslušné stanovisko riadenia letovej prevádzky nestanoví inak, musí posádka lietadla vykonávajúca riadený let hlásiť príslušnému stanovisku čas a hladinu preletu každého povinného hlásneho bodu, spolu s akýmikoľvek požadovanými informáciami:",
+    "answers":[
+      "a) okamžite,",
+      "b) do 3 minút,",
+      "c) čo možno najskôr."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"88",
+    "questionPosition":88
+  },
+  {
+    "questionText":"S výnimkou pristátia na riadenom letisku, musí riadený let ohlásiť čo najskôr príslušnému stanovisku riadenia letovej prevádzky:",
+    "answers":[
+      "a) či dodržal alebo nedodržal plánovanú dobu letu,",
+      "b) že prestáva byť predmetom poskytovaných služieb riadenia letovej prevádzky,",
+      "c) či sa počas letu nevyskytli nejaké nedostatky."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"89",
+    "questionPosition":89
+  },
+  {
+    "questionText":"Ak letí lietadlo v meteorologických podmienkach pre let za viditeľnosti, musí veliteľ lietadla, ak dôjde ku strate spojenia pri riadenom lete:",
+    "answers":[
+      "a) pokračovať v lete za viditeľnosti a pristáť na najbližšom vhodnom letisku a ohlásiť pristátie najrýchlejším možným prostriedkom príslušnému stanovisku riadenia letovej prevádzky,",
+      "b) pokračovať v lete za viditeľnosti, pristáť na cieľovom letisku a ohlásiť pristátie najrýchlejším možným prostriedkom príslušnému stanovisku riadenia letovej prevádzky,",
+      "c) pokračovať v lete na cieľové letisko a pristátie ohlásiť na letisko vzletu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"90",
+    "questionPosition":90
+  },
+  {
+    "questionText":"S výnimkou zvláštnych letov VFR sa lety VFR musia vykonávať tak, aby lietadlo vo vzdušnom priestore triedy B letelo pri rovnakej alebo väčšej vzdialenosti od oblakov ako:",
+    "answers":[
+      "a) mimo oblakov,",
+      "b) horizontálne 1 500 m, vertikálne 300 m,",
+      "c) horizontálne 5 km, vertikálne 300 m."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"91",
+    "questionPosition":91
+  },
+  {
+    "questionText":"S výnimkou zvláštnych letov VFR sa lety VFR musia vykonávať tak, aby lietadlo vo vzdušnom priestore triedy G v a pod 900 m AMSL alebo 300 m nad terénom podľa toho, čo je vyššie, letelo pri rovnakej alebo väčšej vzdialenosti od oblakov ako:",
+    "answers":[
+      "a) horizontálne 5 km vertikálne 300 m,",
+      "b) mimo oblakov za dohľadnosti zeme,",
+      "c) horizontálne 1,5 km vertikálne 300 m."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"92",
+    "questionPosition":92
+  },
+  {
+    "questionText":"S výnimkou zvláštnych letov VFR sa lety VFR musia vykonávať tak, aby lietadlo vo vzdušnom priestore triedy D letelo pri rovnakej alebo väčšej letovej dohľadnosti vo výške pod 3 050 m AMSL ako:",
+    "answers":[
+      "a) 8 km,",
+      "b) 3 km,",
+      "c) 5 km."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"93",
+    "questionPosition":93
+  },
+  {
+    "questionText":"Letová dohľadnosť vo vzdušných priestoroch triedy CDE je vo výške v a nad 3 050 m AMSL, na vykonávanie letov VFR musí byť aspoň:",
+    "answers":[
+      "a) 8 km,",
+      "b) 5 km,",
+      "c) 3 km."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"94",
+    "questionPosition":94
+  },
+  {
+    "questionText":"Letová dohľadnosť vo vzdušnom priestore triedy E vo výške pod 3 050 m AMSL, na vykonávanie letov VFR musí byť aspoň:",
+    "answers":[
+      "a) 5 km,",
+      "b) 8 km,",
+      "c) 1,5 km."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"95",
+    "questionPosition":95
+  },
+  {
+    "questionText":"Zvláštne lety VFR v riadenej oblasti sa môžu vykonávať mimo oblakov za stálej viditeľnosti zeme pri minimálnej prízemnej i letovej dohľadnosti:",
+    "answers":[
+      "a) 1 500 m,",
+      "b) 1 200 m,",
+      "c) 1 000 m."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"96",
+    "questionPosition":96
+  },
+  {
+    "questionText":"S výnimkou, kedy je získané letové povolenie od stanoviska riadenia letovej prevádzky na vykonanie zvláštneho letu VFR, vzlety alebo pristátia lietadiel letiacich podľa VFR, vrátane ich zaraďovania do letiskového okruhu alebo lety v ňom, na danom letisku vo vnútri riadeného okrsku sa môžu vykonávať, ak nie je základňa oblačnosti nižšia ako:",
+    "answers":[
+      "a) 300 m,",
+      "b) 450 m,",
+      "c) 200 m."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"97",
+    "questionPosition":97
+  },
+  {
+    "questionText":"S výnimkou, kedy je získané letové povolenie od stanoviska riadenia letovej prevádzky na vykonanie zvláštneho letu VFR, vzlety alebo pristátie lietadiel letiacich podľa VFR, vrátane ich zaraďovania do letiskového okruhu alebo letu v ňom na danom letisku vo vnútri riadenej oblasti, sa môže vykonávať, ak nie prízemná dohľadnosť menšia ako:",
+    "answers":[
+      "a) 3 km,",
+      "b) 5 km,",
+      "c) 8 km."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"98",
+    "questionPosition":98
+  },
+  {
+    "questionText":"U letov VFR, vrátane zvláštnych letov VFR, je za dodržanie meteorologických podmienok stanovených pre tieto lety plne zodpovedný:",
+    "answers":[
+      "a) riadiaci letovej prevádzky,",
+      "b) prevádzkovateľ,",
+      "c) veliteľ lietadla."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"99",
+    "questionPosition":99
+  },
+  {
+    "questionText":"Lety VFR sa nesmú vykonávať, pokiaľ nebolo leteckým úradom stanovené inak, nad letovou hladinou:",
+    "answers":[
+      "a) 900 m,",
+      "b) 3 000 m,",
+      "c) 6 100 m."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"100",
+    "questionPosition":100
+  },
+  {
+    "questionText":"S výnimkou vzletu alebo pristátia, alebo s výnimkou povolenia vydaného leteckým úradom, musí byť VFR let vykonávaný nad husto zastavanými miestami alebo zhromaždiskom ľudí na voľnom priestranstve vo výške, ktorá nesmie byť menšia ako:",
+    "answers":[
+      "a) 150 m nad najvyššou prekážkou v okruhu 300 m od lietadla,",
+      "b) 300 m nad najvyššou prekážkou v okruhu 500 m od lietadla,",
+      "c) 300 m nad najvyššou prekážkou v okruhu 600 m od lietadla."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"101",
+    "questionPosition":101
+  },
+  {
+    "questionText":"S výnimkou vzletu alebo pristátia, alebo s výnimkou povolenia vydaného leteckým úradom musí byť let VFR vykonávaný nad zemou alebo vodou vo výške nie menšej ako:",
+    "answers":[
+      "a) 300 m,",
+      "b) 150 m,",
+      "c) 100 m."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"102",
+    "questionPosition":102
+  },
+  {
+    "questionText":"Lety VFR medzi západom a východom slnka musia byť vykonávané v súlade s podmienkami stanovenými:",
+    "answers":[
+      "a) Štátnou leteckou inšpekciou,",
+      "b) leteckým úradom,",
+      "c) prevádzkovateľom."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"103",
+    "questionPosition":103
+  },
+  {
+    "questionText":"Lietadlo pri lete VFR sa musí vyhnúť všetkým neriadeným letiskám na trati vo vzdialenosti najmenej:",
+    "answers":[
+      "a) 8 km,",
+      "b) 3 km,",
+      "c) 5 km."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"104",
+    "questionPosition":104
+  },
+  {
+    "questionText":"Lety VFR lietadiel, ktoré nie sú vybavené pre lety IFR, musia byť vykonávané za stálej viditeľnosti zeme, pričom let nad oblakmi môže byť vykonaný, ak je možno vykonávať let podľa porovnávacej orientácie a ak nie je celkové pokrytie oblohy oblačnosťou väčšie ako:",
+    "answers":[
+      "a) 4/8,",
+      "b) 3/8,",
+      "c) 5/8."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"105",
+    "questionPosition":105
+  },
+  {
+    "questionText":"Pri letoch na neriadené letisko, alebo keď sa nepodarí nadviazať rádiové spojenie so stanoviskom AFIS daného letiska, je veliteľ lietadla povinný:",
+    "answers":[
+      "a) vysielať naslepo hlásenia na príslušnom kmitočte daného letiska obsahujúce miesto vstupu do letovej informačnej zóny alebo miesto zaradenia do okruhu a polohy na okruhu,",
+      "b) odletieť na náhradné letisko,",
+      "c) pristáť na danom letisku."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"106",
+    "questionPosition":106
+  },
+  {
+    "questionText":"Keď je odlet vykonávaný z neriadeného letiska je veliteľ lietadla povinný vysielať naslepo mimo iné informácie o:",
+    "answers":[
+      "a) vstupe na vzletovú a pristávaciu dráhu,",
+      "b) rolovaní,",
+      "c) spúšťaní."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"107",
+    "questionPosition":107
+  },
+  {
+    "questionText":"Ak sa lietadlu dáva za letu príkaz svetelným návestím orgánom letiskovej služby riadenia, potom stále zelené svetlo znamená:",
+    "answers":[
+      "a) vráťte sa na pristátie,",
+      "b) pristátie povolené,",
+      "c) povolené pokračovať v lete po okruhu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"108",
+    "questionPosition":108
+  },
+  {
+    "questionText":"Ak sa lietadlu na zemi dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom stále zelené svetlo znamená:",
+    "answers":[
+      "a) rolovanie povolené,",
+      "b) vstup na dráhu povolený,",
+      "c) vzlet povolený"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"109",
+    "questionPosition":109
+  },
+  {
+    "questionText":"Ak sa lietadlu na zemi dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom stále červené svetlo znamená:",
+    "answers":[
+      "a) vráťte sa na miesto, odkiaľ ste vyšli,",
+      "b) opusťte pristávaciu plochu,",
+      "c) stojte."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"110",
+    "questionPosition":110
+  },
+  {
+    "questionText":"Ak sa lietadlu počas letu dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom stále červené svetlo znamená:",
+    "answers":[
+      "a) vráťte sa na pristátie,",
+      "b) letisko nie je bezpečné, nepristávajte,",
+      "c) uvoľnite cestu inému lietadlu a pokračujte v lete na okruhu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"111",
+    "questionPosition":111
+  },
+  {
+    "questionText":"Ak sa lietadlu počas letu dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom rad zelených zábleskov znamená:",
+    "answers":[
+      "a) uvoľnite cestu inému lietadlu,",
+      "b) pristátie povolené,",
+      "c) vráťte sa na pristátie."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"112",
+    "questionPosition":112
+  },
+  {
+    "questionText":"Ak sa lietadlu t3 zemi dáva príkaz svetelným návestím organom letiskovej služby riadenia, potom rad červených zábleskov znamená:",
+    "answers":[
+      "a) vráťte sa na miesto, odkiaľ ste vyšli,",
+      "b) opusťte pristávaciu plochu,",
+      "c) bez ohľadu na predchádzajúce pokyny zatiaľ stojte."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"113",
+    "questionPosition":113
+  },
+  {
+    "questionText":"Ak sa lietadlu počas letu dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom rad červených zábleskov znamená:",
+    "answers":[
+      "a) uvoľnite cestu inému lietadlu a pokračujte v lete na okruhu,",
+      "b) vráťte sa na pristátie,",
+      "c) letisko nie je bezpečné, nepristávajte."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"114",
+    "questionPosition":114
+  },
+  {
+    "questionText":"Ak sa lietadlu na zemi dáva príkaz svetelným návestím orgánom letiskovej služby riadenia, potom rad zelených zábleskov znamená:",
+    "answers":[
+      "a) rolovanie povolené,",
+      "b) opusťte pristávaciu plochu,",
+      "c) vráťte sa na miesto, odkiaľ ste vyšli."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"115",
+    "questionPosition":115
+  },
+  {
+    "questionText":"Horizontálna červená štvorcová doska so žltými uhlopriečkami vyložená v návestnej ploche znamená:",
+    "answers":[
+      "a) opatrne pristávať,",
+      "b) nespôsobilosť prevádzkovej plochy,",
+      "c) že pristátie na dotyčnom letisku je zakázané a zákaz sa pravdepodobne predĺži."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"116",
+    "questionPosition":116
+  },
+  {
+    "questionText":"Horizontálna červená štvorcová doska s jednou žltou uhlopriečkou vyložená v návestnej ploche znamená:",
+    "answers":[
+      "a) že vzhľadom na nevyhovujúci stav prevádzkovej plochy alebo z akejkoľvek inej príčiny, sa musí priblíženie a pristátie vykonávať zvlášť opatrne,",
+      "b) nespôsobilosť prevádzkovej plochy,",
+      "c) že vzhľadom k nevyhovujúcemu stavu prevádzkovej plochy ša musí pristávať opatrne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"117",
+    "questionPosition":117
+  },
+  {
+    "questionText":"Horizontálna biela \"činka\" vyložená v návestnej ploche znamená:",
+    "answers":[
+      "a) nutnosť zvláštnej opatrnosti pri približovaní a pri pristátí,",
+      "b) že lietadlá musia vzlietať a pristávať len na vzletových a pristávacích dráhach, ale iné pohyby nie sú obmedzené,",
+      "c) že lietadlá musia vzlietať, pristávať a rolovať iba na vzletových, pristávacích a na rolovacích dráhach."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"118",
+    "questionPosition":118
+  },
+  {
+    "questionText":"Horizontálna biela \"činka\" s čiernymi pruhmi kolmo na pozdĺžnu os na oboch kruhových koncoch činky, vyložená v návestnej ploche znamená:",
+    "answers":[
+      "a) že lietadlá musia pristávať, vzlietať a rolovať iba na vzletových, pristávacích a na rolovacích dráhach,",
+      "b) že vzhľadom na nevyhovujúci stav prevádzkovej plochy alebo z akejkoľvek inej príčiny sa musí priblíženie a pristavanie vykonávať zvlášť opatrne,",
+      "c) že lietadlá musia pristávať a vzlietať len na vzletových a pristávacích dráhach, avšak iné pohyby nemusia byť obmedzené len na vzletové, pristávacie a rolovacie dráhy."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"119",
+    "questionPosition":119
+  },
+  {
+    "questionText":"Kríže v jednej nápadnej farbe, žltej alebo bielej, vyložené horizontálne na prevádzkovej ploche alebo inej časti, vyznačujú:",
+    "answers":[
+      "a) zákaz pristáť,",
+      "b) zvýšenú opatrnosť pri rolovaní,",
+      "c) plochu uzavretú pre pohyby lietadiel."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"120",
+    "questionPosition":120
+  },
+  {
+    "questionText":"Dvojitý biely kríž, umiestnený horizontálne v návestnej ploche znamená, že:",
+    "answers":[
+      "a) na letisku sa vykonávajú výsadky,",
+      "b) na letisku je kombinovaná prevádzka,",
+      "c) na letisku je prevádzka klzákov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"121",
+    "questionPosition":121
+  },
+  {
+    "questionText":"Pravá paža vzpažená, ľavá pripažená:",
+    "answers":[
+      "a) ďalšie úkony vykonávajte podľa pokynov riadiaceho odbavovacej plochy,",
+      "b) stojte,",
+      "c) rolujte na túto stojánku."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"122",
+    "questionPosition":122
+  },
+  {
+    "questionText":"Paže vzpažené nad hlavou dlaňami obrátenými dovnútra:",
+    "answers":[
+      "a) rolujte priamo vpred,",
+      "b) rolujte na túto stojánku,",
+      "c) ďalší úkon vykonávajte podľa pokynov riadiaceho odbavovacej plochy."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"123",
+    "questionPosition":123
+  },
+  {
+    "questionText":"Paže čiastočne rozpažené dlaňami dozadu opakujú pohyb nahor a dozadu z úrovne ramien:",
+    "answers":[
+      "a) rolujte na túto stojánku,",
+      "b) rolujte priamo vpred,",
+      "c) ďalšie úkony vykonávajte podľa pokynov riadiaceho odbavovacej plochy."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"124",
+    "questionPosition":124
+  },
+  {
+    "questionText":"Lietadlo, proti ktorému zasahuje iné lietadlo, musí okamžite sledovať inštrukcie odovzdávané zasahujúcim lietadlom, uposlúchnuť a odpovedať na vizuálne stanovisko letových prevádzkových služieb, pokúsiť sa nadviazať rádiové spojenie so zasahujúcim lietadlom alebo s príslušným stanoviskom riadiacim zasahovanie, pomocou všeobecného volania s udaním svojej identifikácie a povahy letu na tiesňovom kmitočte:",
+    "answers":[
+      "a) 121,5 MHz,",
+      "b) 124,15 MHz,",
+      "c) 123,45 MHz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"125",
+    "questionPosition":125
+  },
+  {
+    "questionText":"Ak sa inštrukcie odovzdané lietadlu narušiteľa pomocou rádiového spojenia a akýchkoľvek zdrojov líšia od inštrukcií odovzdávaných zasahujúcim lietadlom pomocou vizuálneho návestia, lietadlo proti ktorému sa zasahuje musí okamžite žiadať o vyjasnenie a pritom sa:",
+    "answers":[
+      "a) naďalej riadiť vizuálnymi inštrukciami odovzdávanými zasahujúcim lietadlom,",
+      "b) vzdialiť sa zo zakázaného priestoru,",
+      "c) zatočiť do vnútrozemia a kývať krídlami."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"126",
+    "questionPosition":126
+  },
+  {
+    "questionText":"Na návesť zasahujúceho lietadla vo dne alebo v noci \"Ste narušíte!', nasledujte ma\" (kývanie lietadiel a záblesky navigačných svetiel v nepravidelných intervaloch, vykonávané v polohe mierne nad a pred lietadlom a spravidla vľavo od narušiteľa), odpovedá narušiteľ:",
+    "answers":[
+      "a) kývaním lietadla okolo pozdĺžnej osi,",
+      "b) kývaním lietadla a zábleskami navigačných svetiel v nepravidelných intervaloch a nasledovaním,",
+      "c) pohybovaním krídeliek a smerového kormidla."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"127",
+    "questionPosition":127
+  },
+  {
+    "questionText":"Na návesť zasahujúceho lietadla vo dne alebo v noci \"Pristaňte na tomto letisku\" odpovedá narušiteľ:",
+    "answers":[
+      "a) kývaním lietadla okolo pozdĺžnej osi,",
+      "b) opakovaným rozsvietením navigačných svetiel,",
+      "c) vysunutím podvozku, zapnutím pristávacích svetiel a nasledovaním zasahujúceho lietadla."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"128",
+    "questionPosition":128
+  },
+  {
+    "questionText":"Lety VFR v smere od 180 stupňov do 359 stupňov môžu byť vykonávané v letovej hladine:",
+    "answers":[
+      "a) 55, 75, 95, 115,",
+      "b) 45, 65, 85, 105,",
+      "c) 20, 40, 60, 80"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"129",
+    "questionPosition":129
+  },
+  {
+    "questionText":"Lety VFR v smere od 000 stupňov do 179 stupňov môžu byť vykonávané v nadmorskej výške:",
+    "answers":[
+      "a) 1 350, 2 000, 2 600, 3 200,",
+      "b) 900, 1 500, 2 150, 2 750,",
+      "c) 1 050, 1 700, 2 300, 2 900."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"130",
+    "questionPosition":130
+  },
+  {
+    "questionText":"Vo frazeológii sa hladina letu vyjadrená výrazom „Altitude“ rozumie:",
+    "answers":[
+      "a) výška nad zemou,",
+      "b) nadmorská výška,",
+      "c) výška nad letiskom."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Pravidlá lietania",
+    "categoryName":"Pravidlá lietania",
+    "id":"131",
+    "questionPosition":131
+  }
+]

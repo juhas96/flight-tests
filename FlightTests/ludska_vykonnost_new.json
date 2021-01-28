@@ -1,0 +1,496 @@
+[
+  {
+    "questionText":"Zloženie atmosféry (v poradí podľa percentuálneho obsahu):",
+    "answers":[
+      "a) kyslík, dusík, oxid uhličitý, vzácne plyny,",
+      "b) dusík, oxid uhličitý, vzácne plyny,",
+      "c) dusík, kyslík, oxid uhličitý, vzácne plyny."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"555",
+    "questionPosition":1
+  },
+  {
+    "questionText":"V prípade, že je znížený prívod kyslíka do mozgu v dôsledku poklesu atmosférického tlaku dochádza k:",
+    "answers":[
+      "a) hyperventilácii,",
+      "b) hypoxii,",
+      "c) kinetóze."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"556",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Aká je príčina hypoxie v letectve?",
+    "answers":[
+      "a) nedostatok kyslíka z poklesu parciálneho tlaku,",
+      "b) nedostatok kyslíka zo zvýšeného tlaku,",
+      "c) nedostatok kyslíka z poklesu atmosférického tlaku s nadmorskou výškou."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"557",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Príznaky hypoxie:",
+    "answers":[
+      "a) úzkosť, bolesti hlavy, celková slabosť, únava, pocit tepla a chladu, zrýchlené dýchanie a tepová frekvencia,",
+      "b) malátnosť, zvracanie, celková slabosť,",
+      "c) únava, pocit tepla a chladu, mravenčenie, zrýchlené dýchanie, teplota."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"558",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Eustachova trubica spája:",
+    "answers":[
+      "a) hrtan a pľúca,",
+      "b) nosohltan a stredné ucho,",
+      "c) tenké črevo a hrubé črevo."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"559",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Optický klam – ilúzia spôsobuje:",
+    "answers":[
+      "a) správne videnie,",
+      "b) nesprávne hodnotenie veľkosti a vzdialenosti predmetu,",
+      "c) neostré videnie."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"560",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Astigmatizmus je:",
+    "answers":[
+      "a) chyba zraku,",
+      "b) chyba sluchu,",
+      "c) chyba reči."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"561",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Chyby zraku – čo je astigmatizmus:",
+    "answers":[
+      "a) je stav, kedy je lomivosť oka v rôznych rovinách rôzna,",
+      "b) je stav, kedy je lomivosť oka v rôznych rovinách rovnaká,",
+      "c) je stav, kedy je lomivosť oka v rôznych rovinách rôzna, takže rovnobežné lúče sa nelámu do jedného bodu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"562",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Aby sme v noci videli daný predmet dobre, musíme sa pozerať:",
+    "answers":[
+      "a) často mrkať očami,",
+      "b) zaostriť oko do nekonečna,",
+      "c) pozerať sa v rozpätí 15 - 20° okolo pozorovaného predmetu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"563",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Aké sú opatrenia proti vzniku barotraumy stredného ucha?",
+    "answers":[
+      "a) pokračovať v klesaní pri nižšej rýchlosti,",
+      "b) prestať klesať, nastúpať znovu a potom znova začať klesanie pri nižšej rýchlosti,",
+      "c) pokračovať v klesaní pri vyššej rýchlosti."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"564",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Akými prostriedkami ja možné chrániť sluch?",
+    "answers":[
+      "a) špeciálnymi „špuntami“, zvuk izolujúcimi slúchadlami, rezonančnými slúchadlami ,",
+      "b) slúchadlami zvuk izolujúcimi,",
+      "c) zvuk izolujúcimi slúchadlami a „špuntami“."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"565",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Čo vyvoláva kinetózu?",
+    "answers":[
+      "a) nadmerné podráždenie vestibulárneho aparátu pri nepravidelných pohyboch alebo nesúlad podnetov vestibulárneho aparátu s vnemami iných zmyslov,",
+      "b) podráždenie vestibulárneho aparátu pri pravidelných pohyboch alebo nesúlad podnetov vestibulárneho aparátu s vnemami iných zmyslov,",
+      "c) iba nadmerné podráždenie vestibulárneho aparátu pri nepravidelných pohyboch."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"566",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Lieky proti kinetóze sú pre výkonných letcov:",
+    "answers":[
+      "a) dovolené,",
+      "b) zakázané,",
+      "c) v malom množstve použiteľné."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"567",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Po požití sa alkohol odbúrava u muža s hmotnosťou 70 kg konštantnou rýchlosťou 7 – 10 g za hodinu, čo zodpovedá poklesu o:",
+    "answers":[
+      "a) 0,3 – 0,4 g/kg za hodinu,",
+      "b) 0,15 – 02 g/kg za hodinu,",
+      "c) 0,5 – 0,6 g/kg za hodinu."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"568",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Vstrebávanie alkoholu v krvi prebieha:",
+    "answers":[
+      "a) 30 – 40 mg % za 1 hod,",
+      "b) 10 – 15 mg % za 1 hod,",
+      "c) 3 – 7 mg % za 1 hod."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"569",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Energiu dodávajú telu najmä:",
+    "answers":[
+      "a) alkohol a nikotín,",
+      "b) adrenalín a cukry,",
+      "c) proteíny a uhľohydráty."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"570",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Stopové prvky (zinok, magnézium, jód,...) sa získavajú:",
+    "answers":[
+      "a) každodennej zdravej a vyváženej stravy,",
+      "b) z každodennej stravy,",
+      "c) z vitamínových alebo minerálnych prípravkov."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"571",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Krátkodobá pamäť uchováva informáciu:",
+    "answers":[
+      "a) 20 sekúnd,",
+      "b) 5 minút,",
+      "c) 1 hodinu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"572",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Motorická pamäť slúži:",
+    "answers":[
+      "a) na nácvik zložitých činností a je podkladom pre automatizáciu pohybových  aktivít,",
+      "b) k ukladaniu informácií v mozgu,",
+      "c) ako krátkodobá pamäť."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"573",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Pre uľahčenie a skrátenie prístupu k informáciám v dlhodobej pamäti je užitočné:",
+    "answers":[
+      "a) v myšlienkach si tieto informácie opakovať, kedykoľvek si spomeniete,",
+      "b) v myšlienkach si tieto informácie opakovať pred tým, než je ich potrebné použiť,",
+      "c) si tieto informácie zapísať."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"574",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Pri akom manévri môže pilot najčastejšie dostať vertigo (závrat), keď bude otáčať hlavou?",
+    "answers":[
+      "a) pri štarte,",
+      "b) pri nakláňaní sa do zatáčky,",
+      "c) pri stúpaní a klesaní."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"575",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Stresová situácia prebieha v po sebe nasledujúcich fázach:",
+    "answers":[
+      "a) poplachová fáza, rovnovážna fáza, fáza vyčerpania,",
+      "b) rovnovážna fáza, fáza vyčerpania,",
+      "c) rovnovážna fáza, poplachová fáza, fáza vyčerpania."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"576",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Akým spôsobom je možné eliminovať dlhodobo pôsobiaci stres na pilota:",
+    "answers":[
+      "a) nie je možné nijakým spôsobom,",
+      "b) zvyšovaním odolnosti cieleným tréningom a udržiavaním telesnej a duševnej kondície,",
+      "c) "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"577",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Čo ovplyvňuje správanie sa človeka:",
+    "answers":[
+      "a) sociálne prostredie,",
+      "b) kultúrne prostredie,",
+      "c) biologické vlastnosti, sociálne prostredie a vplyv kultúry."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"578",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Stres sa prejavuje:",
+    "answers":[
+      "a) agresivitou, potením, zrýchleným tepom, sčervenaním tváre,",
+      "b) agresivitou, prejavom úniku a gestikuláciou,",
+      "c) väčším vylučovaním potu."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"579",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Čo je rozhodujúcim faktorom vo veľmi vypätej situácii?",
+    "answers":[
+      "a) tímové vyhodnotenie danej situácie,",
+      "b) individuálne subjektívne vyhodnotenie danej situácie,",
+      "c) sebavedomie."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"580",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Model, na základe ktorého sa analyzujú chyby pri lietaní sa nazýva:",
+    "answers":[
+      "a) SHELL,",
+      "b) SCHELL,",
+      "c) SHEL."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"581",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Po hĺbkovom potápaní je možné letieť najskôr za ...",
+    "answers":[
+      "a) 8 hodín,",
+      "b) 12 hodín,",
+      "c) 24 hodín."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"582",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Kedy je možné hovoriť o systéme, že je tolerantný k chybám? Keď...",
+    "answers":[
+      "a) je nedostatočne presný, teda pripustí aj prípadné chyby,",
+      "b) následky chyby znížia bezpečnosť ale posádka nie je v bezprostrednom ohrození,",
+      "c) následky chyby závažným spôsobom neznížia bezpečnosť."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"583",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Rozhodovanie je:",
+    "answers":[
+      "a) výber, ako dosiahnuť cieľ,",
+      "b) stresová situácia, ku ktorej by nemalo dochádzať,",
+      "c) príležitosť sa predviesť."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"584",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Čo je vnímanie?",
+    "answers":[
+      "a) proces, ktorým zachytávame to, čo v prítomnom okamihu pôsobí na naše zmyslové orgány,",
+      "b) to čo si predstavujeme,",
+      "c) proces, pri ktorom pôsobia naše zmyslové orgány."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"585",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Čo zaraďujeme medzi výsledky vnímania?",
+    "answers":[
+      "a) pocity, vnemy, ilúzie, klamy, halucinácie,",
+      "b) rozhodnutia, predmety, vidiny,",
+      "c) "
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"586",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Čo patrí medzi funkcie komunikácie v posádke?",
+    "answers":[
+      "a) výmena informácií, formovanie vzťahov, udržovanie pozornosti,",
+      "b) upozorňovanie a karhanie,",
+      "c) ?"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"587",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Medzi stresory ovplyvňujúce pilota patria:",
+    "answers":[
+      "a) horúčava, chlad, hluk,",
+      "b) tma,",
+      "c) rádio."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"588",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Vzťah LIVEWARE – HARDWARE znamená:",
+    "answers":[
+      "a) vzťah medzi človekom a prostredím,",
+      "b) vzťah medzi človekom a strojom,",
+      "c) postupy a ľudia."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"589",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Vzťah LIVEWARE – SOFTWARE znamená:",
+    "answers":[
+      "a) vzťah medzi človekom a strojom,",
+      "b) postupy a ľudia,",
+      "c) vzťah medzi človekom a systémom."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"590",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Vzťah LIVEWARE – ENVIRONMENT znamená:",
+    "answers":[
+      "a) vzťah medzi človekom a prostredím,",
+      "b) vzťah medzi človekom a strojom,",
+      "c) postupy a ľudia."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"591",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Vzájomné vzťahy medzi ľuďmi a ich vplyv na výkon posádky vyjadruje vzťah:",
+    "answers":[
+      "a) LIVEWARE – SOFTWARE,",
+      "b) LIVEWARE – ENVIRONMENT,",
+      "c) LIVEWARE – LIVEWARE ."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ľudská výkonnosť a obmedzenia",
+    "categoryName":"Ľudská výkonnosť a obmedzenia",
+    "id":"592",
+    "questionPosition":38
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "questionText":"Letecký zákon je základným normatívnym aktom štátu upravujúcim otázky",
+    "answers":[
+      "a) letovej prevádzky nad územím SR",
+      "b) leteckej prevádzky v SR",
+      "c) civilného letectva SR"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"529",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Starostlivosť o rozvoj slovenského civilného letectva prináleží",
+    "answers":[
+      "a) Slovenskej správe letísk",
+      "b) Štátnej leteckej inšpekcii",
+      "c) Ministerstvu dopravy, pôšt a telekomunikácii"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"530",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Slovenskú štátnu príslušnosť majú",
+    "answers":[
+      "a) všetky lietadlá prevádzkované slovenskými prevádzkovateľmi",
+      "b) všetky civilné lietadlá umiestnené v SR",
+      "c) civilné lietadlá zapísané v slovenskom leteckom, registri"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"531",
+    "questionPosition":3
+  },
+  {
+    "questionText":"O zápise do slovenského leteckého registra vydá Štátna letecká inšpekcia",
+    "answers":[
+      "a) potvrdenie",
+      "b) osvedčenie",
+      "c) registračné potvrdenie"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"532",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Každému civilnému lietadlu sa pri zápise do slovenského leteckého registra pridelí",
+    "answers":[
+      "a) značka štátnej príslušnosti",
+      "b) poznávacia značka",
+      "c) osvedčenie o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"533",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Letecký personál tvoria",
+    "answers":[
+      "a) posádky civilných lietadiel a pozemný letecký personál",
+      "b) výkonní letci a obsluhujúci personál",
+      "c) posádky civilných lietadiel a ostatný obsluhujúci personál"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"534",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Členovia leteckého personálu musia byť na výkon svojej činnosti",
+    "answers":[
+      "a) odborne spôsobilí",
+      "b) zdravotne a odborne spôsobilí",
+      "c) zdravotne spôsobilí s požadovaným vzdelaním"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"535",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Preukazy spôsobilosti leteckého personálu vydáva",
+    "answers":[
+      "a) Ministerstvo dopravy, spojov a verejných prác",
+      "b) každý prevádzkovateľ",
+      "c) Letecký úrad"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"536",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Velitelia civilných lietadiel, okrem samostatných letov žiaka - pilota vo výcviku, môžu byť len výkonní letci s kvalifikáciou",
+    "answers":[
+      "a) pilota",
+      "b) kapitána lietadla",
+      "c) inštruktora"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"537",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Za medzinárodný let sa považuje každý let civilného lietadla, pri ktorom vymedzená letová cesta alebo schválená trať vedie",
+    "answers":[
+      "a) z medzinárodného letiska na iné medzinárodné letisko",
+      "b) cez štátne hranice",
+      "c) z vnútroštátneho letiska na letisko s medzinárodnou prevádzkou"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"538",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Pri vykonávaní medzinárodných letov civilných lietadiel musia byť dodržované aj predpisy",
+    "answers":[
+      "a) o uľahčovaní medzinárodného styku",
+      "b) o pohraničnej kontrole a colné a devízové predpisy",
+      "c) štátu, v ktorom bolo civilné lietadlo vyrobené"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"539",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Letecký úrad okrem iného",
+    "answers":[
+      "a) prideľuje civilným lietadlám registračnú (poznávaciu) značku",
+      "b) riadi a zabezpečuje civilnú leteckú prevádzku",
+      "c) vydáva letiskové poriadky pre verejné letiská"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"540",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Publikácia vydaná štátom alebo ním poverenou organizáciou obsahujúca letecké informácie dlhodobého charakteru, ktoré sú dôležité pre leteckú prevádzku, je:",
+    "answers":[
+      "a) letová príručka",
+      "b) prevádzková príručka",
+      "c) letecká informačná príručka"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"541",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Letecká informačná príručka musí byť opravovaná buď výmenou listov alebo ručne",
+    "answers":[
+      "a) pravidelne 1x za rok",
+      "b) pravidelne 2x za rok",
+      "c) v takých časových intervaloch, ktoré zabezpečujú jej udržovanie v platnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"542",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Oznámenie obsahujúce informácie o zriadení, stave alebo zmene nejakého leteckého zariadenia, služby alebo postupov, alebo informáciu o nebezpečenstve, ktorých včasná znalosť je nevyhnutná pre pracovníkov zapojených do leteckej prevádzky, sú publikované v",
+    "answers":[
+      "a) AlPe",
+      "b) NOTAMe",
+      "c) SNOWTAMe"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"543",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Informácie, ktoré nezodpovedajú podmienkam na vydanie NOTAMu alebo publikovaniu v AlPe, ale vzťahujú sa na bezpečnosť letov, leteckej prevádzky alebo sa týkajú otázok technických, administratívnych alebo právnych, sú publikované v",
+    "answers":[
+      "a) leteckej príručke",
+      "b) leteckom obežníku",
+      "c) letovej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"544",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Akonáhle veliteľ lietadla spozoruje nehodu, alebo že je iné lietadlo v tiesni, vynímajúc prípady kedy nie je schopný alebo by to ohrozilo bezpečnosť jeho letu, alebo že ďalšie sledovanie by bolo zbytočné, je povinný",
+    "answers":[
+      "a) oznámiť túto skutočnosť príslušnému úradu",
+      "b) vyčkávať v priestore nehody až do príchodu zástupcu prevádzkovateľa",
+      "c)\tnestratiť lietadlo v tiesni z dohľadu, určiť polohu lietadla v tiesni, oznámiť túto skutočnosť stanovisku riadenia letovej prevádzky alebo záchrannému koordinačnému stredisku a postupovať podľa ich pokynov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"545",
+    "questionPosition":17
+  },
+  {
+    "questionText":"V prípade, že lietadlo, ktoré spozorovalo nehodu alebo lietadlo v tiesni, nemôže nadviazať spojenie s príslušným záchranným koordinačným strediskom alebo službou riadenia letovej prevádzky, odovzdá informácie",
+    "answers":[
+      "a) príslušnému úradu",
+      "b) Leteckému úradu",
+      "c) niektorému lietadlu, ktoré je schopné udržovať spojenie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"546",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Ak zachytí veliteľ lietadla rádiotelefonické alebo radiotelegrafické tiesňové volanie alebo správu o tiesni, musí okrem iného",
+    "answers":[
+      "a)\tpokúsiť sa o nadviazanie spojenia s lietadlom v tiesni",
+      "b)\tupovedomiť stanovisko riadenia letovej prevádzky alebo príslušné záchranné koordinačné stredisko, pričom uvedie všetky údaje, ktoré má k dispozícii",
+      "c)\turčiť polohu lietadla v tiesni"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"547",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Vizuálny signálny kód zem - vzduch používaný osobami, ktoré prežili leteckú nehodu, návestie v tvare písmena \"V\" znamená",
+    "answers":[
+      "a) áno, potvrdzujem",
+      "b) nie, negatív",
+      "c) žiadame pomoc"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"548",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Odborná komisia na vyšetrovanie nehôd musí zabezpečiť ochranu poškodeného lietadla alebo trosiek a nákladu pred ďalším poškodením a neprípustnou manipuláciou po dobu nevyhnutnú na účely",
+    "answers":[
+      "a) ochrany majetku proti krádežiam",
+      "b) vyšetrenia",
+      "c) spracovanie fotoobjektívnej dokumentácie"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"549",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Zaistenie poškodeného lietadla alebo trosiek a nákladu musí zabezpečovať ochranu proti",
+    "answers":[
+      "a) ďalšiemu poškodeniu alebo zhoršeniu stavu, proti prístupu nepovolaných osôb a proti krádežiam",
+      "b) znemožneniu objektívneho vyšetrovania",
+      "c) znehodnoteniu stôp"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"550",
+    "questionPosition":22
+  },
+  {
+    "questionText":"S troskami lietadla, poškodeným lietadlom,  prípadne s nákladom sa môže manipulovať alebo pohybovať len za účelom",
+    "answers":[
+      "a) záchrany osôb, zvierat, pošty a cenností",
+      "b) zabráneniu ďalšieho poškodenia",
+      "c) zaistenia stôp na vyšetrovanie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"551",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Letecký úrad môže trvale alebo dočasne odobrať preukaz spôsobilosti člena leteckého personálu alebo obmedziť oprávnenie uvedené v preukaze, ak by ponechanie oprávnenia alebo preukazu spôsobilosti bolo",
+    "answers":[
+      "a) v rozpore s predpismi",
+      "b) na úkor bezpečnosti leteckej prevádzky",
+      "c) proti záujmom prevádzkovateľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"552",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Letecký úrad odoberie členovi leteckého personálu preukaz spôsobilosti",
+    "answers":[
+      "a) ak sa nezúčastní praktického preskúšania",
+      "b) ak sa nezúčastní teoretického preskúšania",
+      "c) ak odmietne vyšetrenie na obsah alkoholu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"553",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Strata spôsobilosti člena lietajúceho personálu môže okrem iného nastať z dôvodov",
+    "answers":[
+      "a) zdravotných",
+      "b) osobných",
+      "c) organizačných"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Medzinárodné letecké právo",
+    "categoryName":"Medzinárodné letecké právo",
+    "id":"554",
+    "questionPosition":26
+  }
+]

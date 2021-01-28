@@ -1,0 +1,548 @@
+[
+  {
+    "questionText":"Dotyková zóna je časť vzletovej a pristávacej dráhy za jej prahom, na ktorej sa predpokladá",
+    "answers":[
+      "a) dosadnutie pristávajúceho lietadla",
+      "b) prvý dotyk pristávajúceho lietadla",
+      "c) zastavenie pristávajúceho lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"293",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Dráhová dohľadnosť RVR je vzdialenosť, na ktorej sú z pilotnej kabíny lietadla, nachádzajúceho sa nad osou VPD:",
+    "answers":[
+      "a) viditeľné predmety v smere vzletu",
+      "b) viditeľné vo dne a rozoznateľné v noci svetelné návestidla ohraničujúce VPD",
+      "c) viditeľné denné dráhové značky alebo svetelné návestidla ohraničujúce VPD alebo vyznačujúce os VPD"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"294",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Nadmorská výška letiska je",
+    "answers":[
+      "a) nadmorská výška najvyššieho bodu vzletových a pristávacích plôch,",
+      "b) nadmorská výška vzťažného bodu letiska",
+      "c) priemerná výška vypočítaná z nadmorských výšok prahu a konca najdlhšej z VPD"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"295",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Návestná plocha je plocha na letisku, určená na kladenie",
+    "answers":[
+      "a) pozemných vizuálnych návestí",
+      "b) návestí týkajúcich sa leteckej dopravy",
+      "c) návestí pre lietadlá, ktoré nie sú vybavené rádiostanicou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"296",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Odbavovacia plocha je",
+    "answers":[
+      "a) vymedzená plocha na pozemnom letisku, určená k umiestneniu lietadiel na nastupovanie a vystupovanie cestujúcich alebo nakládku a vykládku pošty a nákladu, na ich plnenie pohonnými hmotami, odstavovanie alebo ošetrovanie",
+      "b) časť letiska určená na vzlety, pristátia a rolovanie lietadiel, k umiestneniu lietadiel na nastupovanie a vystupovanie cestujúcich alebo nakládku a vykládku pošty a nákladu",
+      "c) vymedzená plocha na pozemnom alebo vodnom letisku, určená k umiestneniu lietadiel na obchodné a technické odbavenie alebo údržbu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"297",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Pohybová plocha je",
+    "answers":[
+      "a) časť letiska určená na vzlety, pristátia a rolovanie lietadiel, s výnimkou odbavovacích plôch",
+      "b) časť letiska určená na vzlety, pristátia a rolovanie lietadiel, na ktorej môže byť lietadlo zastavené alebo predbehnuté",
+      "c) časť letiska určená na vzlety, pristátia a rolovanie lietadiel, pozostávajúca z prevádzkovej plochy a odbavovacích plôch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"298",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Rolovacia dráha je",
+    "answers":[
+      "a) vymedzená pravouhlá plocha, vrátane dojazdovej dráhy, na ktorej môže byť lietadlo zastavené alebo predbehnuté za účelom zvýšenia bezpečnosti",
+      "b) vymedzený pás na pozemnom letisku nadväzujúci na okraj spevneného povrchu určený na zníženie nebezpečenstva poškodenia lietadla v prípade jeho vybočenia z VPD",
+      "c) vymedzený pás na pozemnom letisku zriadený na rolovanie lietadiel a určený na spojenie jednej časti letiska s druhou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"299",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Prah VPD je",
+    "answers":[
+      "a) prah umiestnený inde ako na začiatku vzletovej a pristávacej dráhy",
+      "b) začiatok tej časti VPD, ktorá je použiteľná na pristátie",
+      "c) začiatok tej časti VPD, kde sa zvyčajne očakáva prvý dotyk pristávajúceho lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"300",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Prevádzková plocha je časť letiska určená na vzlety, pristátia a rolovanie lietadiel s výnimkou",
+    "answers":[
+      "a) parkovacích plôch",
+      "b) pohybových plôch",
+      "c) odbavovacích plôch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"301",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Ukazovateľ smeru pristátia je zariadenie vizuálne indikujúce smer, určený na",
+    "answers":[
+      "a) pristátia",
+      "b) vzlety",
+      "c) vzlety a pristátia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"302",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Vyčkávacie miesto je vyznačené miesto, na ktorom môže byť lietadlo alebo iný mobilný prostriedok na zaistenie potrebnej bezpečnej vzdialenosti od VPD",
+    "answers":[
+      "a) zadržané",
+      "b) zastavené",
+      "c) odstavené"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"303",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Vyčkávacia plocha je plocha, na ktorej môže byť lietadlo za účelom zvýšenia plynulosti pozemnej prevádzky",
+    "answers":[
+      "a) zadržané",
+      "b) zastavené alebo predbehnuté",
+      "c) odstavené"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"304",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Dĺžka VPD, ktorá je vyhlásená za použiteľnú a vyhovujúcu na rozjazd lietadla pri vzlete, je použiteľná dĺžka",
+    "answers":[
+      "a) rozjazdu (TORA)",
+      "b) vzletu (DODÁ)",
+      "c) prerušeného vzletu (ASDA)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"305",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Použiteľná dĺžka VPD na rozjazd, zväčšená o dĺžku predpolia, ak je zriadené, je použiteľná dĺžka",
+    "answers":[
+      "a) rozjazdu (TORA)",
+      "b) vzletu (TODA)",
+      "c) prerušeného vzletu (ASDA)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"306",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Použiteľná dĺžka VPD na rozjazd, zväčšená o dĺžku dojazdovej dráhy, ak je zriadená, je použiteľná dĺžka",
+    "answers":[
+      "a) vzletu (TODA)",
+      "b) prerušeného vzletu (ASDA)",
+      "c) pristátia (LDA)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"307",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Dĺžka VPD, ktorá je vyhlásená za použiteľnú a vhodnú na dosadnutie a dojazd pristávajúceho lietadla, je použiteľná dĺžka",
+    "answers":[
+      "a) prerušeného pristátia (PLDA)",
+      "b) prerušeného vzletu (ASDA)",
+      "c) pristátia (LDA)"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"308",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Vzletová a pristávacia dráha (VPD) je vymedzená pravouhlá plocha na pozemnom letisku upravená na",
+    "answers":[
+      "a) vzlety a pristátia lietadiel",
+      "b) rolovanie a vzlety lietadiel",
+      "c) pristátia a rolovanie lietadiel"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"309",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Vzletový a pristávací pás je vymedzená plocha, vrátane VPD a dojazdovej dráhy, ak je zriadená, určená",
+    "answers":[
+      "a) na vzlet lietadiel s vyššou vzletovou hmotnosťou",
+      "b) na pristátie lietadiel s väčšou zložkou bočného vetra",
+      "c) na zníženie nebezpečia poškodenia lietadiel v prípade jeho vybočenia z VPD"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"310",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Vzťažný bod letiska je bod určujúci",
+    "answers":[
+      "a) polohu letiska vzhľadom k mestu",
+      "b) zemepisnú polohu letiska",
+      "c) geometrický stred letiska"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"311",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Poloha vzťažného bodu letiska musí byť stanovená trvalé a to čo najbližšie súčasnému alebo výhľadovo plánovanému",
+    "answers":[
+      "a) geometrickému stredu letiska",
+      "b) stredu križujúcich sa VPD",
+      "c) miestu odbavovacej plochy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"312",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Poloha vzťažného bodu letiska musí byť udaná (zemepisná šírka a dĺžka) v najbližších",
+    "answers":[
+      "a) stupňoch",
+      "b) minútach",
+      "c) sekundách"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"313",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Na každom letisku musí byť určené jedno alebo viacej miest na predletovú skúšku výškomera, najvhodnejšie na",
+    "answers":[
+      "a) VPD",
+      "b) vyčkávacej ploche",
+      "c) odbavovacej ploche"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"314",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Pri posunutí prahu VPD vyvolanom prevádzkyneschopnou časťou VPD, musí byť zabezpečená upravená plocha bez prekážok medzi prevádzkyschopnou časťou a posunutým prahom dĺžky, najmenej",
+    "answers":[
+      "a)\t100 m",
+      "b) 75 m",
+      "c) 60 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"315",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Každá VPD, vrátane dojazdových dráh, ak sú zriadené, musia byť obklopené",
+    "answers":[
+      "a) letiskovým pásom",
+      "b) pohybovou plochou",
+      "c) vzletovým a pristávacím pásom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"316",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Dojazdová dráha musí mať rovnakú šírku ako",
+    "answers":[
+      "a) VPD - vzletová a pristávacia dráha",
+      "b) VPP - vzletový a pristávací pás",
+      "c) koncová bezpečnostná plocha"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"317",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Každé letisko musí byť vybavené najmenej jedným",
+    "answers":[
+      "a) ukazovateľom smeru vetra",
+      "b) letiskovým majákom",
+      "c) leteckým svetelným majákom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"318",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Ukazovateľ smeru vetra musí byť umiestnený tak, aby bol viditeľný z lietadiel počas letu alebo na pohybovej ploche a aby nebol ovplyvňovaný",
+    "answers":[
+      "a) prúdom vzduchu od motora rolujúcich lietadiel",
+      "b) rušivými vzdušnými prúdmi vyvolanými susednými objektmi",
+      "c) pohybmi lietadiel alebo osôb"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"319",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Pokiaľ je na letisku používaný ukazovateľ smeru pristátia, musí byť umiestnený",
+    "answers":[
+      "a) v blízkosti letiskovej riadiacej veže",
+      "b) na výraznom mieste",
+      "c) v blízkosti najdlhšej VPD"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"320",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Ukazovateľ smeru pristátia musí mať tvar písmena",
+    "answers":[
+      "a) T",
+      "b) X",
+      "c) L"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"321",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Návestnou svetlometkou musí byť vybavená riadiaca veža všetkých",
+    "answers":[
+      "a) obsadených letísk",
+      "b) letísk s riadenou prevádzkou",
+      "c) letísk"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"322",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Návestidlá prahových priečok a návestidlá vonkajších polopriečok musia do smeru priblíženia vydávať stále svetlo farby",
+    "answers":[
+      "a) bielej",
+      "b) červenej",
+      "c) zelenej"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"323",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Koncové svetelné návestidla musia vydávať v smere VPD stále svetlo farby",
+    "answers":[
+      "a) bielej",
+      "b) červenej",
+      "c) zelenej"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"324",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Návestidlá osovej rady rolovacej dráhy, iné než rolovacej dráhy na odbočenie, musia vydávať stále svetlo farby",
+    "answers":[
+      "a) bielej",
+      "b) červenej",
+      "c) zelenej"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"325",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Návestidlá postranných okrajov rolovacích dráh musia vydávať stále svetlo farby",
+    "answers":[
+      "a) modrej",
+      "b) bielej",
+      "c) červenej"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"326",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Návestidlá vyčkávacieho miesta na rolovacej dráhe musia pozostávať z dvoch striedavo rozsvecovaných svetiel farby",
+    "answers":[
+      "a) červenej",
+      "b) zelenej",
+      "c) žltej"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"327",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Príkazový znak na križovatkách rolovacej dráhy s VPD musí byť vyhotovený",
+    "answers":[
+      "a) čiernym popisom na bielom podklade",
+      "b) bielym popisom na červenom podklade",
+      "c) žltým popisom na modrom podklade"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"328",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Hraničné značky musia byť umiestnené na tých letiskách, kde vzletová a pristávacia plocha",
+    "answers":[
+      "a) je nespevnená",
+      "b) je bez VPD",
+      "c) je spevnená"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"329",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Prekážkové návestidla vysokej svietivosti sa majú použiť na označenie objektu vtedy, ak jeho výška je nad:",
+    "answers":[
+      "a)\t50 m",
+      "b) 100 m",
+      "c) 150 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"330",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Prekážkové návestidla vysokej svietivosti musia vydávať záblesky",
+    "answers":[
+      "a) oranžové",
+      "b) biele",
+      "c) červené"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"331",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Značka nepoužiteľnosti VPD musí mať tvar kríža a musí mať jednoduchú výraznú farbu",
+    "answers":[
+      "a) žltú alebo bielu",
+      "b) červenú alebo bielu",
+      "c) žltú alebo červenú"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"332",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Ak je VPD alebo rolovacia dráha, alebo ich časť uzatvorená trvalé, musia všetky normálne značky na VPD alebo rolovacej dráhe byť",
+    "answers":[
+      "a) odstránené",
+      "b) zakryté",
+      "c) ponechané v pôvodnom stave"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"333",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Ak je plocha pred prahom VPD spevnená v dĺžke väčšej ako 60 m a nie je dostatočne kontrastná proti VPD a nie je vhodná na normálne používanie lietadlami, musí byť po celej dĺžke označená značkami v tvare",
+    "answers":[
+      "a) krížov",
+      "b) krížov alebo šípov",
+      "c) šípov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letiská L-14",
+    "categoryName":"Letiská L-14",
+    "id":"334",
+    "questionPosition":42
+  }
+]

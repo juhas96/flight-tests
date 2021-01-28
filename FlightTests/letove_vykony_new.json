@@ -1,0 +1,210 @@
+[
+  {
+    "questionText":"Maximálna vzletová hmotnosť lietadla",
+    "answers":[
+      "a)je menšia ako maximálna pristávacia hmotnosť",
+      "b)je hmotnosť lietadla pri vzlete",
+      "c)je najvyššia prípustná hmotnosť lietadla pri vzlete"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"593",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Celkovú hmotnosť lietadla pred vzletom stanovíme",
+    "answers":[
+      "a)odhadom",
+      "b)výpočtom podľa letovej príručky ",
+      "c)na základe hlásenia od technika"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"594",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Gradient stúpania je definovaný ako",
+    "answers":[
+      "a)prírastok výšky vyjadrený v percentách odletenej horizontálnej vzdialenosti pre danú konfiguráciu",
+      "b)zmena výšky vyjadrená v percentách odletenej horizontálnej vzdialenosti pre danú konfiguráciu, režim práce motorov a podmienky letu",
+      "c)prírastok výšky vyjadrený v percentách odletenej horizontálnej vzdialenosti pre danú konfiguráciu, režim práce motorov a podmienky letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"595",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Použiteľná dĺžka vzletu TODA (Take-off Distance Available) je definovaná",
+    "answers":[
+      "a)ako dĺžka rovnajúca sa súčtu TORA ( Take-off Run Available) + predpolie, ktoré je využiteľné pre vzlet",
+      "b)ako dĺžka rovnajúca sa súčinu TORA (Take-off Run Available) a predpolie, ktoré je využiteľné pre vzlet",
+      "c)ako dĺžka rovnajúca sa podielu TORA (Take-off Run Available) k predpoliu, ktoré je využiteľné pre vzlet"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"596",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Požiadavky na stúpanie po vzlete určujú",
+    "answers":[
+      "a)vzletovú hmotnosť pre nadmorskú výšku a teplotu okolia a výšku nad prekážkami po vzlete",
+      "b)maximálnu vzletovú hmotnosť pre danú nadmorskú výšku a teplotu okolia",
+      "c)maximálnu prípustnú vzletová hmotnosť pre danú nadmorskú výšku a teplotu okolia a výšku nad prekážkami po vzlete"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"597",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Čo je dostup ?",
+    "answers":[
+      "a)tlaková výška, v ktorej je gradient stúpania rovný nule (absolútny alebo teoretický dostúp) alebo dosahuje bližšie definovanej hodnoty, ktorá sa napr. používa na stanovenie praktického dostupu",
+      "b)tlaková výška, v ktorej je hodnota stúpania približne nulová alebo dosahuje bližšie definovanej hodnoty, ktorá sa napr. používa na stanovenie praktického dostupu",
+      "c)vztlaková výška, v ktorej je gradient stúpania rovný nule (absolútny alebo teoretický dostup) alebo dosahuje bližšie definovanú hodnoty, ktorá sa napr. používa na stanovenie praktického dostupu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"598",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Kde sa dajú zistiť hmotnostné a výkonnostné limity daného lietadla",
+    "answers":[
+      "a)v Prevádzkovej príručke",
+      "b)v Letovej príručke",
+      "c)v AIP SR"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"599",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Čo je dôležité uvážiť pri stanovení výšky letu",
+    "answers":[
+      "a)že lietadlo bude v stanovenom ochrannom priestore vždy vo výške vyššej ako 1 000 ft (300 m) nad prekážkou, v hornatom teréne alebo rozhodnutím leteckého úradu môže byť zvýšená na 2 000 f t",
+      "b)že lietadlo bude v stanovenom ochrannom priestore vždy vo výške 1 000 ft (300 m) nad prekážkou",
+      "c)že lietadlo bude v stanovenom ochrannom priestore vždy vo výške vyššej ako 2 000 ft (300 m) nad prekážkou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"600",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Ak nie je zodpovedným orgánom letových prevádzkových služieb stanovené inak, letový plán s výnimkou stálych letových plánov, musí byt predložený pred odletom",
+    "answers":[
+      "a)oblastnému stanovisku letových prevádzkových služieb",
+      "b)ohlasovni letových prevádzkových služieb na letisku odletu",
+      "c)letiskovému stanovisku letových prevádzkových služieb"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"601",
+    "questionPosition":9
+  },
+  {
+    "questionText":"S čím je posádka povinná sa zoznámiť pred letom",
+    "answers":[
+      "a)AIP SR, NOTAMy, AIC",
+      "b)so všetkými informáciami o trati letu, letisku pristátia, náhradnom letisku a všetkými letiskami, ležiacimi v blízkosti na trati",
+      "c)s informáciami o trati letu a letisku pristátia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"602",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Stúpavosť",
+    "answers":[
+      "a)je horizontálna zložka pravej vzdušnej rýchlosti",
+      "b)je približne gradient stúpania krát pravá vzdušná rýchlosť delené 100",
+      "c)je vertikálna zložka pravej vzdušnej rýchlosti smerom dole"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"603",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Pri vysúvaní klapiek v priebehu pokračujúceho priameho letu sa ...",
+    "answers":[
+      "a)aerodynamický stred posúva dopredu",
+      "b)aerodynamický stred zostáva na pôvodnom mieste",
+      "c)aerodynamický stred sa posúva dozadu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"604",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Pádová rýchlosť sa zvyšuje...",
+    "answers":[
+      "a)pri zasunutí podvozku",
+      "b)po vysunutí vztlakových klapiek",
+      "c)so zvyšujúcou sa hmotnosťou lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"605",
+    "questionPosition":13
+  },
+  {
+    "questionText":"V ktorej fáze letu je aerodynamický účinok námrazy najhorší ?",
+    "answers":[
+      "a)pri klesaní",
+      "b)pri stúpaní",
+      "c)v poslednej fáze rotácie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"606",
+    "questionPosition":14
+  },
+  {
+    "questionText":"So vzrastajúcou nadmorskou výškou letu a s konštantnou rýchlosťou...",
+    "answers":[
+      "a)statická aj dynamická stabilita budú klesať",
+      "b)statická stabilita bude narastať a dynamická stabilita bude klesať",
+      "c)statická stabilita bude klesať a dynamická stabilita bude narastať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"607",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Aké typy letového plánu existujú",
+    "answers":[
+      "a)letový plán ICAO, stály letový plán a letový plán podaný za letu",
+      "b)letový plán ICAO",
+      "c)stály letový plán ICAO"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Letové výkony",
+    "categoryName":"Letové výkony",
+    "id":"608",
+    "questionPosition":16
+  }
+]

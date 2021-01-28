@@ -151,6 +151,31 @@
 		147BE6202580E87300296434 /* thumbsup.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE61F2580E87300296434 /* thumbsup.json */; };
 		147BE6232580E87C00296434 /* sad-face.json in Resources */ = {isa = PBXBuildFile; fileRef = 147BE6222580E87C00296434 /* sad-face.json */; };
 		147C8E0C2582A3F900EC5413 /* PaddingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */; };
+		148327DF25BED2D200242D38 /* prevadzka_lietadiel_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327DE25BED2D200242D38 /* prevadzka_lietadiel_new.json */; };
+		148327E225BED35400242D38 /* predpisy_letovych_sluzieb_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327E125BED35400242D38 /* predpisy_letovych_sluzieb_new.json */; };
+		148327E525BED3CD00242D38 /* letiska_l_14_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327E425BED3CD00242D38 /* letiska_l_14_new.json */; };
+		148327E825BED45600242D38 /* postupy_pre_letove_sluzby_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327E725BED45600242D38 /* postupy_pre_letove_sluzby_new.json */; };
+		148327EB25BED4A300242D38 /* lietadla_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327EA25BED4A300242D38 /* lietadla_new.json */; };
+		148327EE25BED53A00242D38 /* medzinarodne_letecke_pravo_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327ED25BED53A00242D38 /* medzinarodne_letecke_pravo_new.json */; };
+		148327F125BED5AC00242D38 /* ludska_vykonnost_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327F025BED5AC00242D38 /* ludska_vykonnost_new.json */; };
+		148327F425BED61B00242D38 /* letove_vykony_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327F325BED61B00242D38 /* letove_vykony_new.json */; };
+		148327F725BED67B00242D38 /* palubne_pristroje_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327F625BED67B00242D38 /* palubne_pristroje_new.json */; };
+		148327FA25BED6D100242D38 /* elektrotechnika_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327F925BED6D100242D38 /* elektrotechnika_new.json */; };
+		148327FD25BED72800242D38 /* spojovaci_predpis_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327FC25BED72800242D38 /* spojovaci_predpis_new.json */; };
+		1483280025BEDC9700242D38 /* test_2_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 148327FF25BEDC9700242D38 /* test_2_new.json */; };
+		1483280925BEE1D100242D38 /* lietadla_43.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280225BEE1D100242D38 /* lietadla_43.png */; };
+		1483280A25BEE1D100242D38 /* palubne_pristroje_54.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280325BEE1D100242D38 /* palubne_pristroje_54.png */; };
+		1483280B25BEE1D100242D38 /* lietadla_55.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280425BEE1D100242D38 /* lietadla_55.png */; };
+		1483280C25BEE1D100242D38 /* palubne_pristroje_69.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280525BEE1D100242D38 /* palubne_pristroje_69.png */; };
+		1483280D25BEE1D100242D38 /* palubne_pristroje_74.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280625BEE1D100242D38 /* palubne_pristroje_74.png */; };
+		1483280E25BEE1D100242D38 /* lietadla_29.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280725BEE1D100242D38 /* lietadla_29.png */; };
+		1483280F25BEE1D100242D38 /* lietadla_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483280825BEE1D100242D38 /* lietadla_30.png */; };
+		1483281725BEE34900242D38 /* test_116.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281125BEE34800242D38 /* test_116.png */; };
+		1483281825BEE34900242D38 /* test_141.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281225BEE34800242D38 /* test_141.png */; };
+		1483281925BEE34900242D38 /* test_115.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281325BEE34900242D38 /* test_115.png */; };
+		1483281A25BEE34900242D38 /* test_93.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281425BEE34900242D38 /* test_93.png */; };
+		1483281B25BEE34900242D38 /* test_145.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281525BEE34900242D38 /* test_145.png */; };
+		1483281C25BEE34900242D38 /* test_146.png in Resources */ = {isa = PBXBuildFile; fileRef = 1483281625BEE34900242D38 /* test_146.png */; };
 		1488546825A0C6FC00964E29 /* meteorologia_y25_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542A25A0C6F900964E29 /* meteorologia_y25_12.jpg */; };
 		1488546925A0C6FC00964E29 /* meteorologia_y26_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542B25A0C6F900964E29 /* meteorologia_y26_17.jpg */; };
 		1488546A25A0C6FC00964E29 /* meteorologia_y30_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1488542C25A0C6F900964E29 /* meteorologia_y30_04.jpg */; };
@@ -228,6 +253,7 @@
 		14EE3498259893820065F584 /* spojovaci_predpis_a_komunikacia.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */; };
 		14EE349B259893E70065F584 /* radiotechnika.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE349A259893E70065F584 /* radiotechnika.json */; };
 		14EE349E259894EA0065F584 /* letecke_pravne_predpisy.json in Resources */ = {isa = PBXBuildFile; fileRef = 14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */; };
+		14F0AA3625BE0BF10092C301 /* pravidla_lietania_new.json in Resources */ = {isa = PBXBuildFile; fileRef = 14F0AA3525BE0BF10092C301 /* pravidla_lietania_new.json */; };
 		62B6C31D86917353F5652271 /* Pods_FlightTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -378,6 +404,31 @@
 		147BE61F2580E87300296434 /* thumbsup.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = thumbsup.json; sourceTree = "<group>"; };
 		147BE6222580E87C00296434 /* sad-face.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sad-face.json"; sourceTree = "<group>"; };
 		147C8E0B2582A3F900EC5413 /* PaddingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLabel.swift; sourceTree = "<group>"; };
+		148327DE25BED2D200242D38 /* prevadzka_lietadiel_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = prevadzka_lietadiel_new.json; sourceTree = "<group>"; };
+		148327E125BED35400242D38 /* predpisy_letovych_sluzieb_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = predpisy_letovych_sluzieb_new.json; sourceTree = "<group>"; };
+		148327E425BED3CD00242D38 /* letiska_l_14_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letiska_l_14_new.json; sourceTree = "<group>"; };
+		148327E725BED45600242D38 /* postupy_pre_letove_sluzby_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = postupy_pre_letove_sluzby_new.json; sourceTree = "<group>"; };
+		148327EA25BED4A300242D38 /* lietadla_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = lietadla_new.json; sourceTree = "<group>"; };
+		148327ED25BED53A00242D38 /* medzinarodne_letecke_pravo_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = medzinarodne_letecke_pravo_new.json; sourceTree = "<group>"; };
+		148327F025BED5AC00242D38 /* ludska_vykonnost_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ludska_vykonnost_new.json; sourceTree = "<group>"; };
+		148327F325BED61B00242D38 /* letove_vykony_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letove_vykony_new.json; sourceTree = "<group>"; };
+		148327F625BED67B00242D38 /* palubne_pristroje_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = palubne_pristroje_new.json; sourceTree = "<group>"; };
+		148327F925BED6D100242D38 /* elektrotechnika_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = elektrotechnika_new.json; sourceTree = "<group>"; };
+		148327FC25BED72800242D38 /* spojovaci_predpis_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = spojovaci_predpis_new.json; sourceTree = "<group>"; };
+		148327FF25BEDC9700242D38 /* test_2_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test_2_new.json; sourceTree = "<group>"; };
+		1483280225BEE1D100242D38 /* lietadla_43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lietadla_43.png; sourceTree = "<group>"; };
+		1483280325BEE1D100242D38 /* palubne_pristroje_54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palubne_pristroje_54.png; sourceTree = "<group>"; };
+		1483280425BEE1D100242D38 /* lietadla_55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lietadla_55.png; sourceTree = "<group>"; };
+		1483280525BEE1D100242D38 /* palubne_pristroje_69.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palubne_pristroje_69.png; sourceTree = "<group>"; };
+		1483280625BEE1D100242D38 /* palubne_pristroje_74.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palubne_pristroje_74.png; sourceTree = "<group>"; };
+		1483280725BEE1D100242D38 /* lietadla_29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lietadla_29.png; sourceTree = "<group>"; };
+		1483280825BEE1D100242D38 /* lietadla_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lietadla_30.png; sourceTree = "<group>"; };
+		1483281125BEE34800242D38 /* test_116.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_116.png; sourceTree = "<group>"; };
+		1483281225BEE34800242D38 /* test_141.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_141.png; sourceTree = "<group>"; };
+		1483281325BEE34900242D38 /* test_115.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_115.png; sourceTree = "<group>"; };
+		1483281425BEE34900242D38 /* test_93.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_93.png; sourceTree = "<group>"; };
+		1483281525BEE34900242D38 /* test_145.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_145.png; sourceTree = "<group>"; };
+		1483281625BEE34900242D38 /* test_146.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_146.png; sourceTree = "<group>"; };
 		1488542A25A0C6F900964E29 /* meteorologia_y25_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y25_12.jpg; sourceTree = "<group>"; };
 		1488542B25A0C6F900964E29 /* meteorologia_y26_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y26_17.jpg; sourceTree = "<group>"; };
 		1488542C25A0C6F900964E29 /* meteorologia_y30_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteorologia_y30_04.jpg; sourceTree = "<group>"; };
@@ -455,6 +506,7 @@
 		14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = spojovaci_predpis_a_komunikacia.json; sourceTree = "<group>"; };
 		14EE349A259893E70065F584 /* radiotechnika.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = radiotechnika.json; sourceTree = "<group>"; };
 		14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = letecke_pravne_predpisy.json; sourceTree = "<group>"; };
+		14F0AA3525BE0BF10092C301 /* pravidla_lietania_new.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pravidla_lietania_new.json; sourceTree = "<group>"; };
 		19225FCBD3940B16B3620281 /* Pods_FlightTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlightTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E857DDF5146B2BA0F9B5CA5 /* Pods-FlightTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlightTests.release.xcconfig"; path = "Target Support Files/Pods-FlightTests/Pods-FlightTests.release.xcconfig"; sourceTree = "<group>"; };
 		C4D6BAE38E5553F877F7BBB9 /* Pods-FlightTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlightTests.debug.xcconfig"; path = "Target Support Files/Pods-FlightTests/Pods-FlightTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -505,6 +557,19 @@
 				14EE3497259893820065F584 /* spojovaci_predpis_a_komunikacia.json */,
 				14EE349A259893E70065F584 /* radiotechnika.json */,
 				14EE349D259894EA0065F584 /* letecke_pravne_predpisy.json */,
+				14F0AA3525BE0BF10092C301 /* pravidla_lietania_new.json */,
+				148327DE25BED2D200242D38 /* prevadzka_lietadiel_new.json */,
+				148327E125BED35400242D38 /* predpisy_letovych_sluzieb_new.json */,
+				148327E425BED3CD00242D38 /* letiska_l_14_new.json */,
+				148327E725BED45600242D38 /* postupy_pre_letove_sluzby_new.json */,
+				148327EA25BED4A300242D38 /* lietadla_new.json */,
+				148327ED25BED53A00242D38 /* medzinarodne_letecke_pravo_new.json */,
+				148327F025BED5AC00242D38 /* ludska_vykonnost_new.json */,
+				148327F325BED61B00242D38 /* letove_vykony_new.json */,
+				148327F625BED67B00242D38 /* palubne_pristroje_new.json */,
+				148327F925BED6D100242D38 /* elektrotechnika_new.json */,
+				148327FC25BED72800242D38 /* spojovaci_predpis_new.json */,
+				148327FF25BEDC9700242D38 /* test_2_new.json */,
 			);
 			name = datas;
 			sourceTree = "<group>";
@@ -568,6 +633,19 @@
 		14D752A8256561B70033B313 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				1483281425BEE34900242D38 /* test_93.png */,
+				1483281325BEE34900242D38 /* test_115.png */,
+				1483281125BEE34800242D38 /* test_116.png */,
+				1483281225BEE34800242D38 /* test_141.png */,
+				1483281525BEE34900242D38 /* test_145.png */,
+				1483281625BEE34900242D38 /* test_146.png */,
+				1483280725BEE1D100242D38 /* lietadla_29.png */,
+				1483280825BEE1D100242D38 /* lietadla_30.png */,
+				1483280225BEE1D100242D38 /* lietadla_43.png */,
+				1483280425BEE1D100242D38 /* lietadla_55.png */,
+				1483280325BEE1D100242D38 /* palubne_pristroje_54.png */,
+				1483280525BEE1D100242D38 /* palubne_pristroje_69.png */,
+				1483280625BEE1D100242D38 /* palubne_pristroje_74.png */,
 				1488544725A0C6FB00964E29 /* meteorologia_x28_05.jpg */,
 				1488545F25A0C6FC00964E29 /* meteorologia_x28_06.jpg */,
 				1488545525A0C6FB00964E29 /* meteorologia_x28_15.jpg */,
@@ -870,6 +948,7 @@
 				142B6EBE25964FFC00FB7609 /* meteorologia_x25_12.jpg in Resources */,
 				1488549425A0C6FC00964E29 /* meteorologia_y25_01.jpg in Resources */,
 				142B6EBD25964FFC00FB7609 /* meteorologia_x24_07.jpg in Resources */,
+				1483281825BEE34900242D38 /* test_141.png in Resources */,
 				1488547E25A0C6FC00964E29 /* meteorologia_y24_05.jpg in Resources */,
 				142B6E5425964FD100FB7609 /* aerodynamika_x64_07.jpg in Resources */,
 				1488548B25A0C6FC00964E29 /* meteorologia_y25_19.jpg in Resources */,
@@ -878,11 +957,13 @@
 				1488548E25A0C6FC00964E29 /* meteorologia_y29_03.jpg in Resources */,
 				1450EC4525600CD900750D03 /* LaunchScreen.storyboard in Resources */,
 				142B6EB925964FFC00FB7609 /* meteorologia_x24_16.jpg in Resources */,
+				1483280C25BEE1D100242D38 /* palubne_pristroje_69.png in Resources */,
 				142B6DE52596483700FB7609 /* background.jpg in Resources */,
 				1488546C25A0C6FC00964E29 /* meteorologia_y26_14.jpg in Resources */,
 				1488548125A0C6FC00964E29 /* meteorologia_y27_03.jpg in Resources */,
 				142B6E7E25964FED00FB7609 /* meteorologia_x24_18.jpg in Resources */,
 				142B6E5D25964FD100FB7609 /* aerodynamika_x66_06.jpg in Resources */,
+				148327E525BED3CD00242D38 /* letiska_l_14_new.json in Resources */,
 				142B6DC625963D5C00FB7609 /* elektrotechnika.json in Resources */,
 				142B6EB525964FFC00FB7609 /* meteorologia_x26_03.jpg in Resources */,
 				1488549125A0C6FC00964E29 /* meteorologia_y29_16.jpg in Resources */,
@@ -901,6 +982,7 @@
 				142B6E5E25964FD100FB7609 /* aerodynamika_x64_17.jpg in Resources */,
 				148854A025A0C6FC00964E29 /* meteorologia_y29_04.jpg in Resources */,
 				142B6DE42596483700FB7609 /* Assets.xcassets in Resources */,
+				148327FD25BED72800242D38 /* spojovaci_predpis_new.json in Resources */,
 				142B6EC125964FFC00FB7609 /* meteorologia_x26_12.jpg in Resources */,
 				142B6DD22596408B00FB7609 /* letiska_l-14.json in Resources */,
 				142B6EA325964FFC00FB7609 /* meteorologia_x24_13.jpg in Resources */,
@@ -910,7 +992,9 @@
 				142B6EBC25964FFC00FB7609 /* meteorologia_x24_11.jpg in Resources */,
 				142B6EB025964FFC00FB7609 /* meteorologia_x26_20.jpg in Resources */,
 				142B6ECE2596500A00FB7609 /* palubne_pristroje_x07_14.jpg in Resources */,
+				1483280025BEDC9700242D38 /* test_2_new.json in Resources */,
 				142B6E192596485700FB7609 /* pozemne_vizualne_navestia_06.png in Resources */,
+				1483280A25BEE1D100242D38 /* palubne_pristroje_54.png in Resources */,
 				142B6E6125964FD100FB7609 /* aerodynamika_x66_09.jpg in Resources */,
 				1488549525A0C6FC00964E29 /* meteorologia_y27_12.jpg in Resources */,
 				142B6E4A25964FD100FB7609 /* aerodynamika_x71_06.jpg in Resources */,
@@ -922,6 +1006,7 @@
 				1488548925A0C6FC00964E29 /* meteorologia_y27_13.jpg in Resources */,
 				142B6E4B25964FD100FB7609 /* aerodynamika_x71_05.jpg in Resources */,
 				142B6E1E2596485700FB7609 /* radiotechnika_x01_03.jpg in Resources */,
+				1483281725BEE34900242D38 /* test_116.png in Resources */,
 				142B6E1D2596485700FB7609 /* radiotechnika_x04_05.jpg in Resources */,
 				142B6E5B25964FD100FB7609 /* aerodynamika_x68_10.jpg in Resources */,
 				142B6E0D2596485700FB7609 /* letecka_navigacia_x16_08.jpg in Resources */,
@@ -930,6 +1015,7 @@
 				142B6ECD2596500A00FB7609 /* palubne_pristroje_y06_18.jpg in Resources */,
 				142B6E5725964FD100FB7609 /* aerodynamika_x66_08.jpg in Resources */,
 				1488548825A0C6FC00964E29 /* meteorologia_y25_13.jpg in Resources */,
+				1483280D25BEE1D100242D38 /* palubne_pristroje_74.png in Resources */,
 				14EE349B259893E70065F584 /* radiotechnika.json in Resources */,
 				142B6DD52596412100FB7609 /* postupy_pre_letove_prevadzkove_sluzby.json in Resources */,
 				142B6E122596485700FB7609 /* vseobecne_vedomosti_x37_08.png in Resources */,
@@ -953,6 +1039,7 @@
 				142B6E1B2596485700FB7609 /* vseobecne_vedomosti_x38_15.jpg in Resources */,
 				142B6DD8259641B300FB7609 /* pravidla_lietania.json in Resources */,
 				1488548F25A0C6FC00964E29 /* meteorologia_y27_09.jpg in Resources */,
+				148327F125BED5AC00242D38 /* ludska_vykonnost_new.json in Resources */,
 				1488549725A0C6FC00964E29 /* meteorologia_y30_01.jpg in Resources */,
 				142B6EB625964FFC00FB7609 /* meteorologia_x26_06.jpg in Resources */,
 				1488549B25A0C6FC00964E29 /* meteorologia_y27_04.jpg in Resources */,
@@ -962,22 +1049,30 @@
 				142B6E0B2596485700FB7609 /* pozemne_vizualne_navestia_07.png in Resources */,
 				142B6E7425964FE000FB7609 /* letecke_pohonne_jednotky_y34_04.jpg in Resources */,
 				142B6E152596485700FB7609 /* vseobecne_vedomosti_y36_13.jpg in Resources */,
+				1483281A25BEE34900242D38 /* test_93.png in Resources */,
 				14EE3498259893820065F584 /* spojovaci_predpis_a_komunikacia.json in Resources */,
 				142B6E0A2596485700FB7609 /* vseobecne_vedomosti_y37_03.jpg in Resources */,
 				142B6EA425964FFC00FB7609 /* meteorologia_x26_10.jpg in Resources */,
 				1488548425A0C6FC00964E29 /* meteorologia_y30_03.jpg in Resources */,
 				142B6DDE259642A900FB7609 /* prevadzka_lietadiel.json in Resources */,
 				1488547425A0C6FC00964E29 /* meteorologia_y26_06.jpg in Resources */,
+				148327E225BED35400242D38 /* predpisy_letovych_sluzieb_new.json in Resources */,
 				142B6ECC2596500A00FB7609 /* palubne_pristroje_x08_14.png in Resources */,
+				14F0AA3625BE0BF10092C301 /* pravidla_lietania_new.json in Resources */,
+				1483281B25BEE34900242D38 /* test_145.png in Resources */,
 				142B6EA825964FFC00FB7609 /* meteorologia_x26_08.jpg in Resources */,
+				1483280E25BEE1D100242D38 /* lietadla_29.png in Resources */,
 				142B6DE62596483700FB7609 /* airplane.json in Resources */,
 				142B6E5825964FD100FB7609 /* aerodynamika_x69_05.jpg in Resources */,
+				148327F425BED61B00242D38 /* letove_vykony_new.json in Resources */,
 				142B6E162596485700FB7609 /* letecka_navigacia_y19_01.jpg in Resources */,
 				142B6E7B25964FE000FB7609 /* letecke_pohonne_jednotky_y33_11.jpg in Resources */,
 				142B6E6025964FD100FB7609 /* aerodynamika_x66_12.jpg in Resources */,
 				142B6EAE25964FFC00FB7609 /* meteorologia_x25_10.jpg in Resources */,
 				1488546A25A0C6FC00964E29 /* meteorologia_y30_04.jpg in Resources */,
 				142B6EB425964FFC00FB7609 /* meteorologia_x26_17.jpg in Resources */,
+				148327DF25BED2D200242D38 /* prevadzka_lietadiel_new.json in Resources */,
+				1483280925BEE1D100242D38 /* lietadla_43.png in Resources */,
 				1488548025A0C6FC00964E29 /* meteorologia_y24_06.jpg in Resources */,
 				147BE6232580E87C00296434 /* sad-face.json in Resources */,
 				1488546925A0C6FC00964E29 /* meteorologia_y26_17.jpg in Resources */,
@@ -990,7 +1085,9 @@
 				1488549625A0C6FC00964E29 /* meteorologia_x29_06.jpg in Resources */,
 				142B6E6525964FD100FB7609 /* aerodynamika_x66_05.jpg in Resources */,
 				142B6E5125964FD100FB7609 /* aerodynamika_x69_15.jpg in Resources */,
+				1483280B25BEE1D100242D38 /* lietadla_55.png in Resources */,
 				142B6EB125964FFC00FB7609 /* meteorologia_x24_04.jpg in Resources */,
+				148327EB25BED4A300242D38 /* lietadla_new.json in Resources */,
 				142B6E222596485700FB7609 /* vseobecne_vedomosti_y37_10.png in Resources */,
 				1488548625A0C6FC00964E29 /* meteorologia_y28_03.jpg in Resources */,
 				1488547525A0C6FC00964E29 /* meteorologia_y24_11.jpg in Resources */,
@@ -1006,6 +1103,7 @@
 				142B6EAF25964FFC00FB7609 /* meteorologia_x26_18.jpg in Resources */,
 				142B6ED02596500A00FB7609 /* palubne_pristroje_x08_09.jpg in Resources */,
 				14EE349E259894EA0065F584 /* letecke_pravne_predpisy.json in Resources */,
+				1483281C25BEE34900242D38 /* test_146.png in Resources */,
 				142B6E252596485700FB7609 /* radiotechnika_x04_07.jpg in Resources */,
 				142B6E5325964FD100FB7609 /* aerodynamika_x64_11.jpg in Resources */,
 				1488549225A0C6FC00964E29 /* meteorologia_y25_14.jpg in Resources */,
@@ -1014,10 +1112,12 @@
 				142B6E5925964FD100FB7609 /* aerodynamika_x68_14.jpg in Resources */,
 				142B6E1C2596485700FB7609 /* pozemne_vizualne_navestia_05.png in Resources */,
 				142B6DCC25963F1900FB7609 /* letecka_doprava.json in Resources */,
+				148327F725BED67B00242D38 /* palubne_pristroje_new.json in Resources */,
 				142B6E232596485700FB7609 /* pozemne_vizualne_navestia_01.png in Resources */,
 				142B6EA625964FFC00FB7609 /* meteorologia_x26_04.jpg in Resources */,
 				142B6EA925964FFC00FB7609 /* meteorologia_x25_15.jpg in Resources */,
 				142B6EAB25964FFC00FB7609 /* meteorologia_x26_01.jpg in Resources */,
+				1483281925BEE34900242D38 /* test_115.png in Resources */,
 				1488549D25A0C6FC00964E29 /* meteorologia_x28_06.jpg in Resources */,
 				14EE349225988F2A0065F584 /* meteorologia.json in Resources */,
 				142B6E132596485700FB7609 /* radiotechnika_x04_01.jpg in Resources */,
@@ -1037,10 +1137,12 @@
 				142B6E172596485700FB7609 /* radiotechnika_x01_18.jpg in Resources */,
 				142B6E4D25964FD100FB7609 /* aerodynamika_y63_09.jpg in Resources */,
 				142B6E7825964FE000FB7609 /* letecke_pohonne_jednotky_x33_11.jpg in Resources */,
+				148327FA25BED6D100242D38 /* elektrotechnika_new.json in Resources */,
 				1488547125A0C6FC00964E29 /* meteorologia_x29_03.jpg in Resources */,
 				142B6E6325964FD100FB7609 /* aerodynamika_x68_13.jpg in Resources */,
 				142B6EBA25964FFC00FB7609 /* meteorologia_x25_06.jpg in Resources */,
 				142B6EA725964FFC00FB7609 /* meteorologia_x26_16.jpg in Resources */,
+				1483280F25BEE1D100242D38 /* lietadla_30.png in Resources */,
 				1488547A25A0C6FC00964E29 /* meteorologia_y29_05.jpg in Resources */,
 				142B6EAA25964FFC00FB7609 /* meteorologia_x25_09.jpg in Resources */,
 				1488547025A0C6FC00964E29 /* meteorologia_y25_17.jpg in Resources */,
@@ -1050,12 +1152,14 @@
 				142B6EB825964FFC00FB7609 /* meteorologia_x26_07.jpg in Resources */,
 				1488547225A0C6FC00964E29 /* meteorologia_x30_06.jpg in Resources */,
 				142B6E6725964FD100FB7609 /* aerodynamika_x63_20.jpg in Resources */,
+				148327E825BED45600242D38 /* postupy_pre_letove_sluzby_new.json in Resources */,
 				1488549E25A0C6FC00964E29 /* meteorologia_y27_02.jpg in Resources */,
 				14512F0D2579A5430047FA7D /* data.json in Resources */,
 				148854A125A0C6FC00964E29 /* meteorologia_y27_20.jpg in Resources */,
 				14EE3495259890390065F584 /* palubne_pristroje.json in Resources */,
 				142B6E5C25964FD100FB7609 /* aerodynamika_x66_11.jpg in Resources */,
 				1488546B25A0C6FC00964E29 /* meteorologia_y24_10.jpg in Resources */,
+				148327EE25BED53A00242D38 /* medzinarodne_letecke_pravo_new.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1278,7 +1382,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 9;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1286,7 +1390,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jkbjhs.FlightTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -1301,7 +1405,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 9;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 34V4L3C2GB;
 				INFOPLIST_FILE = FlightTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1309,7 +1413,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jkbjhs.FlightTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

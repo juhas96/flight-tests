@@ -1,0 +1,1367 @@
+[
+  {
+    "questionText":"DUPLEX",
+    "answers":[
+      "spôsob, pri ktorom sa výmena správ medzi dvoma stanicami vykonáva naraz v oboch smeroch",
+      "spôsob, pri ktorom sa výmena správ medzi dvoma stanicami vykonáva striedavo len v jednom smere",
+      " "
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"983",
+    "questionPosition":1
+  },
+  {
+    "questionText":"SIMPLEX",
+    "answers":[
+      "spôsob, pri ktorom sa výmena správ medzi dvoma stanicami vykonáva naraz v oboch smeroch",
+      "spôsob, pri ktorom sa výmena správ medzi dvoma stanicami vykonáva striedavo len v jednom smere",
+      " "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"984",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Číslo 800 sa slovami vysiela",
+    "answers":[
+      "osem nula nula",
+      "osem sto",
+      " "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"985",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Číslo 2 000 sa slovami vysiela",
+    "answers":[
+      "dva tisíc",
+      "dva nula nula nula ",
+      " "
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"986",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Číslo 17 000 sa slovami vysiela",
+    "answers":[
+      "jeden sedem nula nula nula",
+      "jeden sedem tisíc",
+      "sedemnásť tisíc"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"987",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Číslo 25 400 sa slovami vysiela",
+    "answers":[
+      "dva päť štyri nula nula",
+      "dva päť tisíc štyri nula nula",
+      "dva päť tisíc štyri sto"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"988",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Číslo 200,5 sa slovami vysiela",
+    "answers":[
+      "dve sto čiara päť",
+      "dva nula nula čiara päť",
+      " "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"989",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Číslo 18 900 sa slovami vysiela",
+    "answers":[
+      "jeden osem deväť nula nula",
+      "jeden osem tisíc deväť sto",
+      "osemnásť tisíc deväť sto"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"990",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Číslo (nie frekvencia) 100,725 sa slovami vysiela",
+    "answers":[
+      "jeden sto čiarka sedem dva päť",
+      "jeden nula nula čiarka sedem dva päť",
+      "sto čiarka sedemstodvadsať päť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"991",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Rýchlosť hovoru pri RTF spojení nemá prevyšovať",
+    "answers":[
+      "50 slov za minútu",
+      "80 slov za minútu",
+      "100 slov za minútu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"992",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Letiskový maják“",
+    "answers":[
+      "ABN",
+      "ABM",
+      "AD"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"993",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Lietadlo“",
+    "answers":[
+      "ACL",
+      "ACFT",
+      "ACN"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"994",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Letisko“",
+    "answers":[
+      "AC",
+      "AD",
+      "ACL"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"995",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Nad úrovňou zeme“",
+    "answers":[
+      "GND",
+      "AGA",
+      "AGL"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"996",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Zem“",
+    "answers":[
+      "GND",
+      "AGL",
+      "GS"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"997",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Správa o pristátí“",
+    "answers":[
+      "APR",
+      "ARR",
+      "BCN"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"998",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Stúpajte do...“,   „Stúpam do...“",
+    "answers":[
+      "AMS",
+      "BFR",
+      "ASC"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"999",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Automatická informačná služba koncovej riadenej oblasti“",
+    "answers":[
+      "ATIS",
+      "ATTN",
+      "DRSN"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1000",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Riadený okrsok“",
+    "answers":[
+      "DOM",
+      "CTR",
+      "CPL"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1001",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Klesajte do...“   „Klesám do...“",
+    "answers":[
+      "MOC",
+      "DES",
+      "DEST"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1002",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Vzdialenosť“",
+    "answers":[
+      "DEG",
+      "DIST",
+      "DEST"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1003",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Vyberte správn skratku pre „Predpokladaný čas príletu“",
+    "answers":[
+      "FPL",
+      "ETD",
+      "ETA"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1004",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Letová informačná oblasť“",
+    "answers":[
+      "FIR",
+      "FIC",
+      "FISA"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1005",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Kmitočet“",
+    "answers":[
+      "EMERG",
+      "FG",
+      "FREQ"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1006",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Žiadosť“, „Požadované“",
+    "answers":[
+      "FIR",
+      "FREQ",
+      "REQ"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1007",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Vyčkávanie“",
+    "answers":[
+      "HOL",
+      "HLDG",
+      "HDG"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1008",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Služba je k dispozícii podľa potrieb prevádzky“",
+    "answers":[
+      "HOL",
+      "HO",
+      "HR"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1009",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Opakujte“, „Opakujem“",
+    "answers":[
+      "RV",
+      "RTE",
+      "RPT"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1010",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Mimo prevádzky“, „Mimo služby“",
+    "answers":[
+      "UNL",
+      "U/S",
+      "UNREL"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1011",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Automatický zameriavač“",
+    "answers":[
+      "ADIZ",
+      "ADF",
+      "AFIS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1012",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Odlet“ alebo „Odletieť“",
+    "answers":[
+      "CVF",
+      "DEP",
+      "DES"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1013",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Vyberte správny kód pre „Tlak, indikujúci výšku nad úrovňou letiska“",
+    "answers":[
+      "QNH",
+      "QFF",
+      "QFE"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1014",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Vyberte správny kód pre „Tlak, prepočítaný na strednú hladinu mora“",
+    "answers":[
+      "QNH",
+      "QFF",
+      "QFE"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1015",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Vyberte správny kód pre „Tlak, indikujúci nadmorskú výšku“",
+    "answers":[
+      "QNH",
+      "QFF",
+      "QFE"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1016",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Slovo „rozumiem“ znamená",
+    "answers":[
+      "áno",
+      "prijal som všetko z vášho posledného vysielania",
+      "rozumiem vášmu vysielaniu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1017",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Slovo „vykonám“ znamená",
+    "answers":[
+      "rozumiem vašej správe a budem podľa nej postupovať",
+      "áno",
+      "prijal som všetko z vášho posledného vysielania"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1018",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Slovo „príjem“ znamená",
+    "answers":[
+      "prijal som všetko z vášho posledného vysielania",
+      "moje vysielanie skončilo, očakávam vašu odpoveď",
+      "rozhovor je ukončený a neočakáva sa odpoveď"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1019",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Slovo „koniec“ znamená",
+    "answers":[
+      "moje vysielanie skončilo, očakávam vašu odpoveď",
+      "rozhovor je ukončený a neočakáva sa odpoveď",
+      "prijal som všetko z vášho posledného vysielania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1020",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Slovo „čakajte“ znamená",
+    "answers":[
+      "čakajte, zavolám vás",
+      "čakajte a zavolajte neskôr",
+      "čakajte, nevypínajte rádio"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1021",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Slovo „opakujte“ znamená",
+    "answers":[
+      "opakujte všetko (alebo časť správy) presne tak, ako ste ju prijali",
+      "opakujte všetko (alebo určitú časť správy)",
+      "opakujte volanie"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1022",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Slovo „správne“ znamená",
+    "answers":[
+      "to je správne",
+      "povolenie na požadovaný úkon je schválené",
+      "rozumel som vašej správe"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1023",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Fráza „ako počujete“ znamená",
+    "answers":[
+      "aká je čitateľnosť môjho vysielania ?",
+      "rozumeli ste mi správne ?",
+      "počujete dobre ?"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1024",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Slovo „oznámte“ znamená",
+    "answers":[
+      "rád by som vedel, alebo prajem si obdržať",
+      "odovzdajte mi nasledujúce informácie",
+      "oznámte mi vašu žiadosť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1025",
+    "questionPosition":43
+  },
+  {
+    "questionText":"Slovo „povolené“ znamená",
+    "answers":[
+      "povolenie na požadovaný úkon je schválené",
+      "oprávnený pokračovať za určitých podmienok",
+      "môžete vysielať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1026",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Stanica leteckej telekomunikačnej služby v SR musí používať",
+    "answers":[
+      "stredoeurópsky čas",
+      "greenwichský čas",
+      "svetový koordinovaný čas"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1027",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Skupina času sa skladá",
+    "answers":[
+      "z dvoch čísel",
+      "zo štyroch čísel",
+      "zo šiestich čísel"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1028",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Stanice leteckej pohyblivej služby používajú",
+    "answers":[
+      "stredoeurópsky čas",
+      "greenwichský čas",
+      "svetový koordinovaný čas"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1029",
+    "questionPosition":47
+  },
+  {
+    "questionText":"UTC je skratka",
+    "answers":[
+      "greenwichského času",
+      "svetového koordinovaného času",
+      "stredoeurópskeho času"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1030",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Lietadlová stanica udržuje rádiové spojenie s riadiacou stanicou zem – vzduch",
+    "answers":[
+      "vždy",
+      "vždy, ak je to možné",
+      "podľa vlastného uváženia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1031",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Lietadlová stanica môže prejsť na iný kmitočet",
+    "answers":[
+      "iba na príkaz leteckej stanice",
+      "po oznámení svojho úmyslu leteckej stanici",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1032",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Rádiové spojenie môže byť ukončené",
+    "answers":[
+      "na pokyn leteckej stanice",
+      "podľa uváženia lietadlovej stanice",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1033",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Písomný alebo automatický záznam musí viesť",
+    "answers":[
+      "každá stanica leteckej telekomunikačnej služby",
+      "každá stanica leteckej telekomunikačnej služby s výnimkou lietadlových staníc",
+      "každá lietadlová stanica"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1034",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Telekomunikačné záznamy sa musia uchovávať po dobu najmenej",
+    "answers":[
+      "20 dní",
+      "30 dní",
+      "60 dní"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1035",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Súčasťou skúšobného vysielania sú slová",
+    "answers":[
+      "skúška zariadenia",
+      "skúška vysielania",
+      "skúška rádia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1036",
+    "questionPosition":54
+  },
+  {
+    "questionText":"Čitateľnosť skúšobného vysielania sa udáva",
+    "answers":[
+      "piatimi stupňami",
+      "troma stupňami",
+      "štyrmi stupňami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1037",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Pri skúšobnom vysielaní dokonalá čitateľnosť je uvádzaná stupňom",
+    "answers":[
+      "1",
+      "5",
+      "4"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1038",
+    "questionPosition":56
+  },
+  {
+    "questionText":"Pri skúšobnom vysielaní stupeň 4 označuje, že správa je",
+    "answers":[
+      "čitateľná",
+      "čitateľná, ale s obtiažami",
+      "dokonale čitateľná"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1039",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Pri skúšobných vysielaniach slová „Chvíľami nečitateľné“ označujú stupeň čitateľnosti",
+    "answers":[
+      "4",
+      "1",
+      "2"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1040",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Môže skúšobné vysielanie obsahovať frázu „Skúška vysielania“?",
+    "answers":[
+      "áno",
+      "nie",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1041",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Môže skúšobné vysielanie obsahovať frázu „Skúška rádia“?",
+    "answers":[
+      "áno",
+      "nie",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1042",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Letecká telekomunikačná služba sa rozdeľuje na: leteckú pevnú službu, leteckú pohyblivú službu, leteckú rádionavigačnú službu, leteckú rozhlasovú službu",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1043",
+    "questionPosition":61
+  },
+  {
+    "questionText":"Služba medzi leteckými a lietadlovými stanicami alebo medzi lietadlovými stanicami navzájom – ide o definíciu nasledujúcej služby",
+    "answers":[
+      "letecká pevná služba",
+      "letecká pohyblivá služba",
+      "letecká rozhlasová služba"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1044",
+    "questionPosition":62
+  },
+  {
+    "questionText":"Ide o správne prednostné poradie správ, dopravovaných leteckou pohyblivou službou?: tiesňové, pilnostné (súrne), o rádiovom zameraní, na zabezpečenie bezpečnosti letov, meteosprávy, o pravidelnosti letov.",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1045",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Ide o správne prednostné poradie správ, dopravovaných leteckou pohyblivou službou?: tiesňové, pilnostné, na zabezpečenie letov, o rádiovom zameraní, meteosprávy, o pravidelnosti letov",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1046",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Fráza „Vysielam naslepo“ sa použije",
+    "answers":[
+      "pri neznalosti frekvencie volanej stanice",
+      "pri neúspešnom nadviazaní spojenia",
+      "pri poruche prijímača"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1047",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Ak lietadlová stanica nie je schopná nadviazať spojenie s leteckou stanicou na určenom kmitočte",
+    "answers":[
+      "použije frázu „Vysielam naslepo“",
+      "pokúsi sa o nadviazanie spojenia na inom kmitočte na danú trať",
+      "ostane na príjme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1048",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Letecká stanica je",
+    "answers":[
+      "pozemná stanica leteckej pohyblivej služby",
+      "stanica leteckej pevnej služby",
+      "pohyblivá stanica leteckej pohyblivej služby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1049",
+    "questionPosition":67
+  },
+  {
+    "questionText":"Volacia značka leteckej stanice je tvorená",
+    "answers":[
+      "zemepisným názvom jej polohy a službou (stanovišťom), ktorá je k dispozícii",
+      "iba zemepisným názvom",
+      "službou, ktorá je k dispozícii"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1050",
+    "questionPosition":68
+  },
+  {
+    "questionText":"V prípade, že bolo nadviazané uspokojivé spojenie , služba (stanovište) sa vo volacej značke",
+    "answers":[
+      "nemôže vynechať",
+      "môže vynechať",
+      "musí vynechať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1051",
+    "questionPosition":69
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice oblastnej služby riadenia letov je názov",
+    "answers":[
+      "APPROACH",
+      "DELIVERY",
+      "CONTROL"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1052",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice približovacieho stanovišťa je názov",
+    "answers":[
+      "CONTROL",
+      "APPROACH",
+      "RADIO"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1053",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice letiskového stanoviska je názov",
+    "answers":[
+      "CONTROL",
+      "RADIO",
+      "VEŽA"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1054",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice približovacieho radarového stanoviska je názov:",
+    "answers":[
+      "RADAR",
+      "APPROACH",
+      "GROUND"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1055",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice letovej informačnej služby je názov",
+    "answers":[
+      "CONTROL",
+      "APRON",
+      "INFORMÁCIE"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1056",
+    "questionPosition":74
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice riadenia pohybu na zemi je názov",
+    "answers":[
+      "APRON",
+      "GROUND",
+      "RADIO"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1057",
+    "questionPosition":75
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice riadenia na odbavovacej ploche je názov",
+    "answers":[
+      "APRON",
+      "GROUND",
+      "APPROACH"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1058",
+    "questionPosition":76
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice na výdaj odletových povolení je názov",
+    "answers":[
+      "CONTROL",
+      "APRON",
+      "DELIVERY"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1059",
+    "questionPosition":77
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice pre lety VFR je názov",
+    "answers":[
+      "RADIO",
+      "INFORMÁCIE",
+      "TOWER"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1060",
+    "questionPosition":78
+  },
+  {
+    "questionText":"Volaciu značku lietadla možno tvoriť: 1. volacou značkou, zodpovedajúcou poznávacej značke lietadla, 2.rádiotelefónnym označením prevádzkovateľa lietadla, za ktorým nasledujú posledné štyri znaky poznávacej značky lietadla, 3. rádiotelefónnym označením prevádzkovateľa lietadla, za ktorým nasleduje označenie letu",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1061",
+    "questionPosition":79
+  },
+  {
+    "questionText":"Pri nadviazaní spojenia možno použiť",
+    "answers":[
+      "skrátenú volaciu značku",
+      "iba neskrátenú volaciu značku",
+      "skrátenú alebo neskrátenú volaciu značku"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1062",
+    "questionPosition":80
+  },
+  {
+    "questionText":"Skrátenú volaciu značku lietadla možno použiť",
+    "answers":[
+      "podľa vlastného uváženia",
+      "až po skrátení leteckou stanicou",
+      "kedykoľvek"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1063",
+    "questionPosition":81
+  },
+  {
+    "questionText":"Správne skrátenie poznávacej značky „CSA OK INY“ je nasledovné",
+    "answers":[
+      "CSA ONY",
+      "CS ONY",
+      "CSA NY"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1064",
+    "questionPosition":82
+  },
+  {
+    "questionText":"Správne skrátenie poznávacej značky „OM SNY“ je nasledovné",
+    "answers":[
+      "ONY",
+      "SNY",
+      "OSY"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1065",
+    "questionPosition":83
+  },
+  {
+    "questionText":"Správne skrátenie poznávacej značky „OM DLS“ je nasledovné",
+    "answers":[
+      "DLS",
+      "OLS",
+      "KLS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1066",
+    "questionPosition":84
+  },
+  {
+    "questionText":"Vyberte správne skrátenie nasledujúcej rádiotelefonickej volacej značky lietadla „MAGISTER OK LOW“",
+    "answers":[
+      "MAGISTER OOW",
+      "MAGISTER OW",
+      "OK LOW"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1067",
+    "questionPosition":85
+  },
+  {
+    "questionText":"Vyberte správne skrátenie nasledujúcej rádiotelefonickej volacej značky lietadla „ČSA 444“",
+    "answers":[
+      "ČSA 44",
+      "nemožno skrátiť",
+      "ČSA 4"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1068",
+    "questionPosition":86
+  },
+  {
+    "questionText":"Kmitočet 121,5 MHz je vyhradený",
+    "answers":[
+      "pre rádiové návestidlá",
+      "pre tiesňovú prevádzku",
+      "pre systém ILS"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1069",
+    "questionPosition":87
+  },
+  {
+    "questionText":"Tiesňová frekvencia je",
+    "answers":[
+      "121,5 MHz",
+      "121,5 KHz",
+      "122,5 MHz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1070",
+    "questionPosition":88
+  },
+  {
+    "questionText":"Tiesňová a pilnostná prevádzka musí byť vedená na kmitočte",
+    "answers":[
+      "121,5 MHz",
+      "ktorý je v danej dobe používaný",
+      "na ktoromkoľvek inom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1071",
+    "questionPosition":89
+  },
+  {
+    "questionText":"Definícia: podmienky, hroziace vážnym alebo bezprostredným nebezpečím, vyžadujúce okamžitú pomoc, je definícia",
+    "answers":[
+      "tiesne",
+      "pilnosti",
+      "prednosti letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1072",
+    "questionPosition":90
+  },
+  {
+    "questionText":"„MAY DAY“ je rádiotelefonický signál správy",
+    "answers":[
+      "pilnostnej",
+      "tiesňovej",
+      "správy na zaistenie bezpečnosti letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1073",
+    "questionPosition":91
+  },
+  {
+    "questionText":"Je zloženie tiesňovej správy správne?: tiesňový signál „MAY DAY“ 3x, názov stanice, ktorej je správa adresovaná, označenie lietadla, povaha tiesňového stavu, úmysel veliteľa lietadla ,poloha, hladina, kurz",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1074",
+    "questionPosition":92
+  },
+  {
+    "questionText":"Stanica, ktorej je správa lietadla v tiesni adresovaná, alebo prvá stanica, ktorá tiesňovú správu prijala, musí: okamžite potvrdiť tiesňovú správu, prevziať riadenie spojenia, odovzdať informáciu stanovisku letových prevádzkových služieb a prevádzkovateľovi, uložiť ticho pre ostatné stanice na danom kmitočte",
+    "answers":[
+      "áno",
+      "nie",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1075",
+    "questionPosition":93
+  },
+  {
+    "questionText":"Právo uložiť ticho má stanica",
+    "answers":[
+      "iba stanica riadiaca",
+      "ktorákoľvek iná stanica",
+      "stanica v tiesni a stanica riadiaca"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1076",
+    "questionPosition":94
+  },
+  {
+    "questionText":"Pri uložení ticha sú použité frázy",
+    "answers":[
+      "„zastavte vysielanie“",
+      "„MAY DAY“",
+      "„zastavte vysielanie – MAY DAY“"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1077",
+    "questionPosition":95
+  },
+  {
+    "questionText":"Tiesňová korešpondencia",
+    "answers":[
+      "má prednosť pred všetkými ostatnými druhmi spojenia",
+      "z hľadiska prednosti nasleduje za pilnostnou korešpondenciou",
+      "nemá prednosti pred ostatným spojením"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1078",
+    "questionPosition":96
+  },
+  {
+    "questionText":"Stanica, ktorá vie o tiesňovej prevádzke a nie je riadiaca",
+    "answers":[
+      "nesmie vysielať na danom kmitočte",
+      "môže vysielať za účelom poskytnutia pomoci",
+      "môže vysielať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1079",
+    "questionPosition":97
+  },
+  {
+    "questionText":"Tiesňovú prevádzku môže ukončiť",
+    "answers":[
+      "stanica v tiesni",
+      "stanica riadiaca",
+      "stanica v tiesni alebo riadiaca stanica"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1080",
+    "questionPosition":98
+  },
+  {
+    "questionText":"Správa, rušiaca tiesňovú prevádzku a uloženie ticha obsahuje frázu",
+    "answers":[
+      "„obdobie ticha ukončené“",
+      "„tiesňová prevádzka ukončená“",
+      "„MAY DAY ukončené“"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1081",
+    "questionPosition":99
+  },
+  {
+    "questionText":"Definícia podmienky, týkajúcej sa bezpečnosti lietadla alebo iného dopravného prostriedku, alebo bezpečnosti niektorých osôb na jeho palube alebo v dohľade, ktoré ale nevyžadujú okamžitú pomoc, je definícia",
+    "answers":[
+      "pilnosti",
+      "tiesne",
+      "prednosti letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1082",
+    "questionPosition":100
+  },
+  {
+    "questionText":"„PAN PAN“ je rádiotelefónny signál správy",
+    "answers":[
+      "tiesňovej",
+      "pilnostnej",
+      "správy o rádiovom zameraní"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1083",
+    "questionPosition":101
+  },
+  {
+    "questionText":"Je zloženie pilnostnej správy správne?: pilnostný signál „PAN PAN“ 3x, názov stanice, ktorej je správa adresovaná, označenie lietadla, povaha pilnostného signálu, poloha, hladina, kurz",
+    "answers":[
+      "áno",
+      "nie",
+      "neviem"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1084",
+    "questionPosition":102
+  },
+  {
+    "questionText":"Pilnostná správa má prednosti",
+    "answers":[
+      "pred všetkými ostatnými druhmi spojenia",
+      "pred všetkými ostatnými druhmi spojenia, vynímajúc tiesňovú prevádzku",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1085",
+    "questionPosition":103
+  },
+  {
+    "questionText":"„PAN PAN MEDICAL“ je rádiotelefónny signál správy",
+    "answers":[
+      "pilnostnej",
+      "tiesňovej",
+      "správy na zaistenie bezpečnosti letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1086",
+    "questionPosition":104
+  },
+  {
+    "questionText":"Musí pilnostná správa lietadla vykonávajúceho sanitný let obsahovať nasledujúce údaje?: volaciu značku lietadla, polohu lietadla, zamýšľanú trať, vypočítané časy (vzletu, pristátia a pod.), ďalšie informácie dôležité pre let",
+    "answers":[
+      "áno",
+      "nie",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Spojovací predpis",
+    "categoryName":"Spojovací predpis",
+    "id":"1087",
+    "questionPosition":105
+  }
+]

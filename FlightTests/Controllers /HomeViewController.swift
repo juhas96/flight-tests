@@ -43,22 +43,21 @@ class HomeViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         
         setupAnimation()
-        let parsedElektrotechnika = parse(jsonData: readLocalFile(forName: "elektrotechnika")!)
-        let parsedAnglictina = parse(jsonData: readLocalFile(forName: "letecka_anglictina")!)
-        let parsedDoprava = parse(jsonData: readLocalFile(forName: "letecka_doprava")!)
-        let pohonneJednotky = parse(jsonData: readLocalFile(forName: "letecke_pohonne_jednotky")!)
-        let letiskaL14 = parse(jsonData: readLocalFile(forName: "letiska_l-14")!)
-        let postupyPreLetovePrevadzkoveSluzby = parse(jsonData: readLocalFile(forName: "postupy_pre_letove_prevadzkove_sluzby")!)
-        let pravidlaLietania = parse(jsonData: readLocalFile(forName: "pravidla_lietania")!)
-        let predpisOLps = parse(jsonData: readLocalFile(forName: "predpis_o_lps")!)
-        let prevadzkaLietadiel = parse(jsonData: readLocalFile(forName: "prevadzka_lietadiel")!)
-        let meteorologia = parse(jsonData: readLocalFile(forName: "meteorologia")!)
-        let palubnePristroje = parse(jsonData: readLocalFile(forName: "palubne_pristroje")!)
-        let spojovaciPredpisAKomunikacia = parse(jsonData: readLocalFile(forName: "spojovaci_predpis_a_komunikacia")!)
-        let radiotechnika = parse(jsonData: readLocalFile(forName: "radiotechnika")!)
-        let leteckePravnePredpisy = parse(jsonData: readLocalFile(forName: "letecke_pravne_predpisy")!)
+        let parsedElektrotechnika = parse(jsonData: readLocalFile(forName: "elektrotechnika_new")!)
+        let test_2 = parse(jsonData: readLocalFile(forName: "test_2_new")!)
+        let parsedSpojovaciPredpis = parse(jsonData: readLocalFile(forName: "spojovaci_predpis_new")!)
+        let parsedPalubnePristoje = parse(jsonData: readLocalFile(forName: "palubne_pristroje_new")!)
+        let parsedLetoveVykony = parse(jsonData: readLocalFile(forName: "letove_vykony_new")!)
+        let parsedLudskaVykonnost = parse(jsonData: readLocalFile(forName: "ludska_vykonnost_new")!)
+        let parsedMedzinarodneLeteckePravo = parse(jsonData: readLocalFile(forName: "medzinarodne_letecke_pravo_new")!)
+        let parsedLietadla = parse(jsonData: readLocalFile(forName: "lietadla_new")!)
+        let parsedPostupyPreLetoveSluzby = parse(jsonData: readLocalFile(forName: "postupy_pre_letove_sluzby_new")!)
+        let parsedLetiskaL14 = parse(jsonData: readLocalFile(forName: "letiska_l_14_new")!)
+        let predpisyLetovychSluzieb = parse(jsonData: readLocalFile(forName: "predpisy_letovych_sluzieb_new")!)
+        let prevadzkaLietadiel = parse(jsonData: readLocalFile(forName: "prevadzka_lietadiel_new")!)
+        let pravidlaLietania = parse(jsonData: readLocalFile(forName: "pravidla_lietania_new")!)
         
-        let data = parsedElektrotechnika + parsedAnglictina + parsedDoprava + pohonneJednotky + letiskaL14 + postupyPreLetovePrevadzkoveSluzby + pravidlaLietania + predpisOLps + prevadzkaLietadiel + meteorologia + palubnePristroje + spojovaciPredpisAKomunikacia + radiotechnika + leteckePravnePredpisy
+        let data = parsedElektrotechnika + test_2 + parsedSpojovaciPredpis + parsedPalubnePristoje + parsedLetoveVykony + parsedLudskaVykonnost + parsedMedzinarodneLeteckePravo + parsedLietadla + parsedPostupyPreLetoveSluzby + parsedLetiskaL14 + predpisyLetovychSluzieb + prevadzkaLietadiel + pravidlaLietania
 //
 //        var testNames: Set<String> = []
 //        leteckePravnePredpisy.forEach { (q) in

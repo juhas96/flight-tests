@@ -1,0 +1,1332 @@
+[
+  {
+    "questionText":"Definícia lietadla",
+    "answers":[
+      "a) lietadlo je zariadenie schopné udržať sa v atmosfére následkom iných reakcií vzduchu, ako sú reakcie vzduchu so zemským povrchom",
+      "b) zariadenie schopné prepravovať osoby alebo náklad pohybom v atmosfére, ktoré je aspoň čiastočne riaditeľné",
+      "c) akékoľvek zariadenie schopné pohybu v zemskej atmosfére"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"427",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Letún je",
+    "answers":[
+      "a) lietadlo, ktoré vytvára vztlak na pevných plochách",
+      "b) lietadlo ťažšie ako vzduch s nepohyblivými nosnými plochami",
+      "c)motorové lietadlo ťažšie ako vzduch, u ktorého je vztlak potrebný k letu vyvodzovaný aerodynamickými silami na nosných plochách v danej konfigurácii nepohyblivými"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"428",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Vrtuľník je",
+    "answers":[
+      "a) lietadlo s rotujúcou nosnou plochou",
+      "b) motorové lietadlo ťažšie ako vzduch s rotujúcou nosnou plochou",
+      "c) motorové lietadlo s kombinovanými nosnými plochami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"429",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Klzák je",
+    "answers":[
+      "a) Lietadlo ťažšie ako vzduch s pevnými nosnými plochami",
+      "b) Lietadlo ťažšie ako vzduch, bezmotorové, s nosnými plochami nepohyblivými",
+      "c) Lietadlo ťažšie ako vzduch, bezmotorové"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"430",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Ľahké lietadlo je lietadlo do maximálnej vzletovej hmotností",
+    "answers":[
+      "a) 5 600 kg",
+      "b) 5 700 kg",
+      "c) 5 800 kg"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"431",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Normálna trieda lietadiel môže vykonávať za letu",
+    "answers":[
+      "a) akékoľvek obraty, pri ktorých sa neprekročí maximálny povolený násobok zaťaženia",
+      "b) iba obraty, pri ktorých vzniká kladný násobok zaťaženia",
+      "c) iba tie obraty, ktorú slúžia k normálnemu letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"432",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Cvičná trieda lietadiel môže vykonávať za letu",
+    "answers":[
+      "a) akékoľvek obraty, pri ktorých sa neprekročí maximálny povolený násobok zaťaženia",
+      "b) obraty, ktoré neslúžia iba k normálnemu letu, ale len tie, ktoré sú uvedené v letovej príručke lietadla",
+      "c) iba tie obraty, ktoré slúžia k normálnemu letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"433",
+    "questionPosition":7
+  },
+  {
+    "questionText":"V prenose väčších plošných zaťažení (poťah krídla, trupu) sa najlepšie uplatňujú materiály",
+    "answers":[
+      "a) zliatiny horčíka alebo umelé hmoty",
+      "b) oceľové plechy alebo umelé hmoty",
+      "c) hliníkové zliatiny alebo kompozitové materiály"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"434",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Krídlo letúna plní hlavnú funkciu pri",
+    "answers":[
+      "a) vytváraní potrebné vztlaku a umiestnení palivových nádrží",
+      "b) vytváraní potrebného vztlaku a stabilizácii tvaru profilu",
+      "c) vytváraní potrebného vztlaku a zabezpečení požadovaných letových vlastností"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"435",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Torzná skriňa krídla prenáša",
+    "answers":[
+      "a) chybové momenty",
+      "b) posúvajúce sily",
+      "c) krútiace momenty a posúvajúce sily"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"436",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Zosilnené rebro plní funkciu",
+    "answers":[
+      "a) ako rebro profilové a navyše prenáša miestne pôsobiace sústredené zaťaženie",
+      "b) pri prenose sústredených zaťažení",
+      "c) stabilizácie tvaru profilu a miestneho odvádzania plošných síl od pripevneného poťahu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"437",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Nosníkové krídlo je do trupu uchytené pomocou",
+    "answers":[
+      "a) závesov v koreňovej časti krídla",
+      "b) skrutkového spojenia",
+      "c) príruby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"438",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Priehradovú konštrukciu trupu tvoria",
+    "answers":[
+      "a) priestorový nosník z prútov, vystužený nosným poťahom",
+      "b) zosilnený poťah a prepážky",
+      "c) pozdĺžne priečne a diagonálne prúty, poťah nenosný"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"439",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Polo škrupinovú konštrukciu trupu tvoria",
+    "answers":[
+      "a} pozdĺžne vystužený nosný poťah a prepážky",
+      "b) pozdĺžne nosníky a poťahy",
+      "c) pozdĺžne priečne a diagonálne prúty"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"440",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Spojovacie uzly priehradovej konštrukcie trupu dobre prenášajú",
+    "answers":[
+      "a) sústredené zaťaženia, na prenášanie plošných zaťažení sú nevhodné",
+      "b) plošné zaťaženia, na prenášanie sústredených zaťažení sú nevhodné",
+      "c) plošné aj sústredené zaťaženia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"441",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Zosilnená prepážka trupu plní funkciu",
+    "answers":[
+      "a) ako prepážka tvarová a navyše prenáša sústredené zaťaženie od pripojeného uzla",
+      "b) pri prenášaní sústredených zaťažení",
+      "c) pri stabilizácii priečneho tvaru trupu a v miestnom odvádzaní plošných síl od pripojeného poťahu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"442",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Tvarová prepážka trupu plní funkciu",
+    "answers":[
+      "a) ako prepážka zosilnená, je však slabšia",
+      "b) pri prenášaní sústredených zaťažení",
+      "c) pri stabilizácii priečneho tvaru trupu a v miestnom odvádzaní plošných síl od pripojeného poťahu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"443",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Kormidlá letúna sú najviac namáhané",
+    "answers":[
+      "a) krútením v priečnom reze",
+      "b) tlakom",
+      "c) ohybom v normálnej rovine"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"444",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Hmotové vyváženie kormidiel",
+    "answers":[
+      "a) zmenšuje sily v riadení",
+      "b) vylepšuje ich aero-elastické charakteristiky",
+      "c) zmenšuje ohybov é namáhanie kormidiel"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"445",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Hlavné podvozkové nohy trojbodového podvozku sú",
+    "answers":[
+      "a) vybavené mechanickými brzdami s nezávislým ovládaním a nie sú smerovo riaditeľné",
+      "b) vybavené mechanickými brzdami s jediným spoločným ovládaním a nie sú smerovo riaditeľné",
+      "c) smerovo riaditeľné, bez mechanických bŕzd"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"446",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Pristávací podvozok s hydraulickým ovládaním je vo vysunutej polohe zamknutý",
+    "answers":[
+      "a) hydraulickými zámkami",
+      "b) mechanickými zámkami",
+      "c) hydraulickými a mechanickými zámkami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"447",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Tlmič bočných kmitov je spravidla",
+    "answers":[
+      "a) hydraulický",
+      "b) hydro-pneumatický",
+      "c) pneumatický"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"448",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Mechanické brzdy podvozkových kolies menia kinetickú energiu pohybujúceho sa letúna na",
+    "answers":[
+      "a) teplo čiastočne odvádzané do okolitej atmosféry",
+      "b) mechanickú energiu pretáčania kolesa okolo osi",
+      "c) reakciu odvádzanú do podvozkovej nohy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"449",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Protišmykové zariadenie v brzdovom systéme zabraňuje",
+    "answers":[
+      "a) zablokovaniu kolesa pri státí letúna na zemi",
+      "b) zablokovaniu kolesa pri brzdení počas pohybu letúna po zemi",
+      "c) použitiu bŕzd v zákrute"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"450",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Priame riadenie umožňuje ovládať kormidla",
+    "answers":[
+      "a) hydraulickými silovými mechanizmami",
+      "b) elektrickou sústavou",
+      "c) mechanickým prevodom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"451",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Riadidlá sú v priamom riadení",
+    "answers":[
+      "a) plochy vytvárajúce potrebnú aerodynamickú silu",
+      "b) mechanické prvky prevodu sily v riadení",
+      "c) mechanické prvky ovládania riadenia v kabíne"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"452",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Aerodynamické prostriedky odľahčovania síl v riadení upravujú",
+    "answers":[
+      "a) závesový moment aerodynamických síl na kormidle",
+      "b) veľkosť aerodynamickej sily na kormidle",
+      "c) rozsah výchyliek kormidla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"453",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Na obrázku je s znázornený",
+    "answers":[
+      "a) hydraulický akumulátor v okruhu hydraulickej sústavy",
+      "b) tlakomer hydraulickej sústavy",
+      "c) pozemný zdroj tlaku hydraulickej sústavy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"454",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Na obrázku je znázornený",
+    "answers":[
+      "a) odľahčovací automat hydraulickej sústavy",
+      "b) jednosmerný ventil hydraulickej sústavy",
+      "c) odľahčovací kohút"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"455",
+    "questionPosition":29,
+    "questionImage": "lietadla_29.png"
+  },
+  {
+    "questionText":"Na obrázku je znázornený",
+    "answers":[
+      "a) dvoj činný pracovný valec hydraulickej sústavy",
+      "b) jedno činný pracovný valec hydraulickej sústavy",
+      "c) jednosmerný ventil hydraulickej sústavy"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"456",
+    "questionPosition":30,
+    "questionImage": "lietadla_30.png"
+  },
+  {
+    "questionText":"Hydraulický zámok",
+    "answers":[
+      "a) zabraňuje nežiaducemu pohybu piestu v pracovnom valci hydraulickej sústavy pri určitej polohe",
+      "a) zabraňuje prívodu hydraulickej kvapaliny pri pohybe piestu",
+      "c) umožňuje plynulý prietok hydraulickej kvapaliny pracovným valcom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"457",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Vodivé prepojenie všetkých častí palivovej sústavy",
+    "answers":[
+      "a) zvyšuje jej pevnosť",
+      "b) vyrovnáva tepelné rozdiely častí palivovej sústavy",
+      "c) zamedzuje možnosť výbojov v systéme"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"458",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Kovové samonosné nádrže ľahkých lietadiel musia byť vybavené",
+    "answers":[
+      "a) dopravným čerpadlom zaisťujúcim dostatočný tlak v palivovej sústave",
+      "b) vzdušnením, prepojeným s okolitou atmosférou a vnútornými prepážkami",
+      "c) systémom na rýchle vypustenie paliva"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"459",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Potrubie a hadice v palivovej sústave slúžia na",
+    "answers":[
+      "a) prepojenie jednotlivých častí palivového",
+      "b) naplnenie paliva do palivových nádrži",
+      "c) čistenie pretekajúceho paliva"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"460",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Hlavné palivové nádrže typickej palivovej sústavy ľahkých cvičných letúnov sú",
+    "answers":[
+      "a) samonosné kovové nádrže v krídlach",
+      "b) integrálne palivové nádrže v krídlach",
+      "c) kovové nádrže v trupe"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"461",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Pri plnení paliva musí z bezpečnostných dôvodov byť",
+    "answers":[
+      "a) prítomný požiarnik s hasiacim prístrojom",
+      "b) uzemnené lietadlo a nádrž vodivo prepojená s plniacim zariadením",
+      "c) zamedzený styk plniaceho zariadenia s palivovou nádržou lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"462",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Klimatizačné zariadenie lietadiel lietajúcich v malých výškach zabezpečuje spravila",
+    "answers":[
+      "a) len požadovanú teplotu vzduchu v kabíne",
+      "b) požadovanú teplotu a vlhkosť vzduchu",
+      "c) požadovanú teplotu, a potrebný tlak vzduchu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"463",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Výškové systémy lietadiel lietajúcich vo veľkých výškach zabezpečujú",
+    "answers":[
+      "a) požadovanú teplotu, vzduchu v kabíne",
+      "b) požadovanú teplotu a vlhkosť vzduchu v kabíne",
+      "c) požadovaný tlak, teplotu a vlhkosť vzduchu v kabíne"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"464",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Pomocný hasiaci prístroj v kabíne",
+    "answers":[
+      "a) môže ako hasidlo používať aj tetrachtór",
+      "b) nesmie používať tetrachtór ako hasidlo",
+      "c) má ako hasidlo tetrachlór"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"465",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Kyslíkové systémy zabezpečujú",
+    "answers":[
+      "a) kyslík potrebný na správny chod motora vo väčších výškach letu",
+      "b) prívod kyslíka do pneumatického systému",
+      "c) kyslík na krátkodobý pobyt človeka vo väčších výškach letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"466",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Hlavné časti kyslíkových systémov tvoria",
+    "answers":[
+      "a) kompresory, potrubie, kohúty, pracovné valce",
+      "b) kyslíkové fľaše, potrubie, kohúty, redukčné ventily",
+      "c) kyslíkové fľaše, potrubie a hadice, kohúty, dýchacie prístroje"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"467",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Najviac namáhané konštrukčné uzly (závesné kovania, čapy,, uchytenie pohonnej jednotky ...) sú spravidla",
+    "answers":[
+      "a) z ľahkých zliatin hliníka",
+      "b) z ocele",
+      "c) z kompozitových materiálov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"468",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Najvýznamnejšie zaťaženie krídla letúnu za letu je spôsobené:",
+    "answers":[
+      "a) ohybovým momentom v normálnej rovine MON",
+      "b) ohybovým momentom v normálnej rovine MOT",
+      "c) krútiacim momentom MK"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"469",
+    "questionPosition":43,
+    "questionImage": "lietadla_43.png"
+  },
+  {
+    "questionText":"Zaťaženie od podvozku sa najviac prejaví",
+    "answers":[
+      "a) použitím bŕzd pri rolovaní",
+      "b) osovou reakciou podvozkovej nohy od pristávacieho nárazu",
+      "c) pri rozbehovej fáze letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"470",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Zaťaženie letúna pri neustálených letových režimoch je dané kombináciou",
+    "answers":[
+      "a) aerodynamických síl a ťahu pohonnej sústavy",
+      "b) aerodynamických síl, ťahu pohonne] sústavy, hmotových síl a gyroskopických momentov",
+      "c) aerodynamických si!, zaťažení od podvozku a hmotových síl"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"471",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Dynamické zaťaženia pôsobiace na lietadlo ovplyvňujú jeho",
+    "answers":[
+      "a) životnosť",
+      "b) statickú pevnosť",
+      "c) výkony"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"472",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Trup letúna je",
+    "answers":[
+      "a) priestorový nosník na umiestnenie posádky, osôb a nakladú, ktorý súčasne prenáša zaťaženia od ostatných pripojených časti",
+      "b) duté teleso na umiestnenie osôb a nákladu",
+      "c) pevnostný element zabezpečujúci pevné spojenie všetkých častí Letúna do jedného celku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"473",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Pozdĺžny pevnostný systém krídla tvoria",
+    "answers":[
+      "a) nosníky, pozdĺžniky a nosný poťah",
+      "b) nosníky a rebrá",
+      "c) poťah a rebrá"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"474",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Nosník krídla zachytáva najmä",
+    "answers":[
+      "a) posúvajúce sily od zaťaženia v dotyčnicovej rovine",
+      "b) krútiace momenty od zaťaženia prš manévroch",
+      "c) ohybové momenty v normálnej rovine"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"475",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Hlavný nosník jedno nosníkového krídla je umiestnený",
+    "answers":[
+      "a) vo vystuženej nábežnej hrade krídla",
+      "b) v mieste najväčšej hrúbky profilu krídla",
+      "c) v odtokovej časti krídla s uchytením krídeliek a klapiek"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"476",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Chvostové plochy letúna",
+    "answers":[
+      "a) zabezpečujú požadované letové vlastnosti",
+      "b) zabezpečujú požadované letové vlastnosti a sú zdrojom pasívneho odporu",
+      "c) čiastočne vytvárajú potrebný vztlak"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"477",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Vodorovná chvostová plocha letúna zabezpečuje",
+    "answers":[
+      "a) pozdĺžnu stabilitu a riaditeľnosť letúna",
+      "b) vhodnú polohu ťažiska letúna, centráž",
+      "c) stranovú stabilitu a riaditeľnosť  letúna"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"478",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Zvislá chvostová plocha zabezpečuje",
+    "answers":[
+      "a) pozdĺžnu stabilitu a riaditeľnosť",
+      "b) vhodnú polohu ťažiska a centráž",
+      "c) stranovú stabilitu a riaditeľnosť"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"479",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Pristávacie zariadenie s usporiadaním s predným kolesom pri traverzovom pristátí",
+    "answers":[
+      "a) nemá vplyv na vznik momentu, ktorý zrovnáva, alebo vychyľuje os  lietadla voči smeru jeho pohybu",
+      "b) vytvára destabilizujúci moment, ktorý zväčšuje uhol medzi pozdĺžnou osou lietadla a vektorom jeho pohybu",
+      "c) vytvára stabilizujúci moment, ktorý vracia pozdĺžnu os lietadla do smeru jeho pohybu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"480",
+    "questionPosition":54
+  },
+  {
+    "questionText":"Schematický obrázok znázorňuje hlavný tlmič podvozkovej nohy",
+    "answers":[
+      "a) hydraulický, pákový",
+      "b) pneumatický, teleskopický",
+      "c) hydro-pneumatický., teleskopický"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"481",
+    "questionPosition":55,
+    "questionImage": "lietadla_55.png"
+  },
+  {
+    "questionText":"Tlmič bočných kmitov prednej podvozkovej nohy tlmí",
+    "answers":[
+      "a) ohybovo-torzné kmity podvozkovej nohy",
+      "b) smerové výchylky riadeného kolesa",
+      "c) reakcie od pristávacieho nárazu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"482",
+    "questionPosition":56
+  },
+  {
+    "questionText":"Na ovládanie vysoko účinných kotúčových bŕzd sa spravidla používa:",
+    "answers":[
+      "a) mechanický pákový prevod",
+      "b) hydraulický systém",
+      "c) pneumatický systém"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"483",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Kinematika priameho riadenia musí zabezpečiť",
+    "answers":[
+      "a)nezávislosť a súčasnosť v ovládaní jednotlivých kormidiel",
+      "b)súčasné ovládanie jednotlivých kormidiel",
+      "c)obmedzenie výchyliek kormidiel v závislosti na rýchlosti letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"484",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Kormidla letúna vyvodzujú požadovaný účinok. v riadení",
+    "answers":[
+      "a) zmenou polohy hmotového ťažiska letúna",
+      "b) zmenou momentov aerodynamických síl vzhľadom k hmotovému ťažisku letúna",
+      "c) zmenou momentu ťahu pohonnej jednotky vzhľadom k ťažisku"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"485",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Prevod v priamom riadení je konštrukčne riešený",
+    "answers":[
+      "a) elektrickou alebo hydraulickou sústavou",
+      "b) tuhými tiahlami alebo ohybnými lanami",
+      "c) tuhými tiahlami alebo hydraulickou sústavou"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"486",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Zariadenie na zvýšenie vztlaku",
+    "answers":[
+      "a) zvyšuje dosiahnuteľné hodnoty vztlaku a rýchlosti",
+      "b) zvyšuje dosiahnuteľné hodnoty vztlaku a znižuje minimálnu rýchlosť letu",
+      "c) zabezpečuje zvýšenie vztlaku pri letoch vo veľkých výškach"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"487",
+    "questionPosition":61
+  },
+  {
+    "questionText":"Klapky sú pevnostné namáhané predovšetkým",
+    "answers":[
+      "a) závesovým momentom aerodynamických síl na vychýlenej klapke",
+      "b) silami ovládacích mechanizmov v uzamknutej polohe",
+      "c) energiou turbulentného prúdu v úplave za krídlom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"488",
+    "questionPosition":62
+  },
+  {
+    "questionText":"Obmedzenie rýchlosti pre vychýlenie klapiek je zapríčinené",
+    "answers":[
+      "a) možnosťou poškodenia ovládania klapky",
+      "b) nedostatočnou tuhosťou klapky a možnosťou zmeny profilu",
+      "c) nárastom plošných aerodynamických síl a možnosťou zbortenia klapky s rastúcou rýchlosťou letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"489",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Aerodynamické prostriedky zvýšenia odporu sú",
+    "answers":[
+      "a) brzdiace klapky na krídlach a brzdiace štítky na trupe",
+      "b) aerodynamické plôšky na kormidlách",
+      "c) spoilery alebo interceptory kombinované s krídelkami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"490",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Hydraulický systém je na letúne použitý",
+    "answers":[
+      "a) na spúšťanie a riadenie pohonnej jednotky",
+      "b) ako súčasť primárnej konštrukcie letúna",
+      "c) ako silová sústava na obsluhu niektorých mechanizmov a zariadení letúna"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"491",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Silový účinok je v hydraulickej sústave vyvodený",
+    "answers":[
+      "a) tlakom hydraulickej kvapaliny v pracovnom valci",
+      "b) plynulým prietokom hydraulickej kvapaliny pracovným valcom",
+      "c) zvýšením objemu privedenej hydraulickej kvapaliny do pracovného valca"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"492",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Znečistenie hydraulickej kvapaliny",
+    "answers":[
+      "a) nevedie k zmenám vlastností hydraulickej sústavy",
+      "b) vedie k zmenám vlastností hydraulickej kvapaliny, avšak funkcia sústavy sa nezhoršuje",
+      "c) vedie k zmenám vlastností hydraulickej kvapaliny, zhoršuje sa funkcia sústavy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"493",
+    "questionPosition":67
+  },
+  {
+    "questionText":"Silový účinok pneumatickej sústavy sa prejavuje",
+    "answers":[
+      "a) tlakom vzduchu v pracovnom valci",
+      "h) plynulým prietokom vzduchu pracovným valcom",
+      "c) privádzaním vzduchu z okolitej atmosféry do sústavy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"494",
+    "questionPosition":68
+  },
+  {
+    "questionText":"Hlavné časti pneumatickej sústavy tvoria",
+    "answers":[
+      "a) turbína, potrubie, tlakový akumulátor",
+      "b) expanzná jednotka, potrubie, ovládacie klapky",
+      "c) kompresor, potrubie, pracovný valec, čistiace a odkaľovacie zariadenie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"495",
+    "questionPosition":69
+  },
+  {
+    "questionText":"Palivové systémy lietadiel plnia svoju hlavnú funkciu v",
+    "answers":[
+      "a) dodávke potrebného množstva paliva pri dostatočnom tlaku vo všetkých použiteľných režimoch a výškach letu",
+      "b) uložení a predhrievaní dostatočného množstva paliva",
+      "c) rýchlom naplnení dostatočného množstva paliva do nádrží lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"496",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Palivová sústava je tvorená",
+    "answers":[
+      "a) nádržami, čističmi paliva a vstrekovacím zariadením",
+      "b) nádržami, potrubím, čističmi, kohútmi, čerpadlami a kontrolnými prístrojmi",
+      "c) nádržami, tlakovými akumulátormi a dopravnými čerpadlami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"497",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Čističe v palivovej sústave",
+    "answers":[
+      "a) odlučujú vodu a zachytávajú mechanické nečistoty z pretekajúceho paliva",
+      "b) zabraňujú prietoku znečisteného paliva",
+      "c) odstraňujú nečistoty z. paliva plneného do nádrže lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"498",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Čerpadlá v palivovej sústave zabezpečujú",
+    "answers":[
+      "a) plnenie nádrží palivovej sústavy",
+      "b) dodávku paliva s potrebným tlakom",
+      "c) odsávanie prebytočného paliva z palivovej sústavy motora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"499",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Na kontrolu funkcie palivovej sústavy je ľahký cvičný letún vybavený ukazovateľmi",
+    "answers":[
+      "a) množstva paliva v nádržiach a tlaku paliva za dopravným čerpadlom",
+      "b) prietoku paliva v sústave a tlaku pred čerpadlom",
+      "c) prietoku paliva a tlaku paliva za čerpadlom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"500",
+    "questionPosition":74
+  },
+  {
+    "questionText":"Dopravné čerpadlo musí mať taký výkon, aby dopravilo množstvo paliva potrebné pre",
+    "answers":[
+      "a) nominálny režim práce motora",
+      "b) maximálny vzletový režim práce motora",
+      "c) cestovný ekonomický režim práce motora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"501",
+    "questionPosition":75
+  },
+  {
+    "questionText":"Lietadlá spôsobilé na akrobaciu musia mať v palivovej sústave",
+    "answers":[
+      "a) akrobatickú úpravu všetkých hlavných nádrží",
+      "b) akrobatickú úpravu prídavnej nádrže",
+      "c) minimálne jednu nádrž s akrobatickou úpravou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"502",
+    "questionPosition":76
+  },
+  {
+    "questionText":"Plnenie nádrží ľahkých cvičných lietadiel je",
+    "answers":[
+      "a) spádové, plnením cez hrdlo umiestnené na hornej strane nádrže",
+      "b) tlakové, zo spodnej strany",
+      "c) tlakové, z bočnej strany"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"503",
+    "questionPosition":77
+  },
+  {
+    "questionText":"Plniť do nádrží lietadla možno",
+    "answers":[
+      "a) akékoľvek letecké palivo",
+      "b) len palivo predpísané na daný typ lietadla, bez vody a mechanických nečistôt",
+      "c) len letecký benzín alebo letecký petrolej podľa druhu použitého motora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"504",
+    "questionPosition":78
+  },
+  {
+    "questionText":"Protipožiarne zariadenie ľahkého jednomotorového lietadla je prispôsobené na hasenie prípadného požiaru",
+    "answers":[
+      "a) palivovej inštalácie v motorovom priestore",
+      "b) palivovej inštalácie v trupe",
+      "c) nádrží v krídl"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"505",
+    "questionPosition":79
+  },
+  {
+    "questionText":"Hlásiče požiaru sú vybavené",
+    "answers":[
+      "a) svetelnou a akustickou signalizáciou na palube",
+      "b) indikáciou tlaku v protipožiarnom systéme",
+      "c) ukazovateľom množstva hasiacej látky v systéme"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"506",
+    "questionPosition":80
+  },
+  {
+    "questionText":"Proti námrazové systémy sú zamerané na odstránenie námrazy vznikajúcej na",
+    "answers":[
+      "a) aerodynamický tvarovaných plochách lietadla",
+      "b) trupe a motorových gondolách",
+      "c) vstupnom ústrojenstve pohonných jednotiek"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"507",
+    "questionPosition":81
+  },
+  {
+    "questionText":"Mechanické spôsoby odmrazovania za letu sú založené na princípe",
+    "answers":[
+      "a) zmeny tlaku v pružnom elemente nábežnej hrany plochy s následnou zmenou objemu",
+      "b) vibračného zariadenia",
+      "c) gumených stieračov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"508",
+    "questionPosition":82
+  },
+  {
+    "questionText":"Letová príručka lietadla",
+    "answers":[
+      "a) je založená u výrobcu lietadla a nemusí byť na palube lietadla",
+      "b) musí byť na palube lietadla",
+      "c) nemusí byť na palube lietadla, ale prevádzkovateľ ju musí mať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"509",
+    "questionPosition":83
+  },
+  {
+    "questionText":"Letová príručka lietadla",
+    "answers":[
+      "a) poskytuje informácie pre obsluhujúci personál",
+      "b) poskytuje informácie dôležité pre posádku",
+      "c) je propagačným materiálom o lietadle"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"510",
+    "questionPosition":84
+  },
+  {
+    "questionText":"Návod na obsluhu a. údržbu",
+    "answers":[
+      "a) poskytuje informácie pre obsluhujúci personál",
+      "b) poskytuje informácie dôležité pre posádku",
+      "c) je propagačným materiálom o lietadle"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"511",
+    "questionPosition":85
+  },
+  {
+    "questionText":"V lietadlové] knihe",
+    "answers":[
+      "a) nájdeme technický popis lietadla",
+      "b) nachádzame postupy na obsluhu lietadla",
+      "c) sú uvedené denné záznamy o prevádzke lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"512",
+    "questionPosition":86
+  },
+  {
+    "questionText":"V motorovej knihe",
+    "answers":[
+      "a) nájdeme technický popis motora",
+      "b) nachádzame postupy na obsluhu motora",
+      "c) sú vedené denné záznamy o prevádzke motora zabudovaného do lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"513",
+    "questionPosition":87
+  },
+  {
+    "questionText":"Pilot je povinný závadu zistenú po ukončení letu",
+    "answers":[
+      "a) odstrániť",
+      "b) nahlásiť technickému personálu po ukončení telu",
+      "c) oznámiť výrobcovi"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"514",
+    "questionPosition":88
+  },
+  {
+    "questionText":"Osvedčenie letovej spôsobilosti je",
+    "answers":[
+      "a) založené len v leteckom registri",
+      "b) založené len u výrobcu lietadla",
+      "c) základným technickým dokladom, ktorý musí  byť na palube lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"515",
+    "questionPosition":89
+  },
+  {
+    "questionText":"Maximálna doba platností osvedčenia letovej spôsobilostí lietadla je",
+    "answers":[
+      "a)\t12 mesiacov",
+      "b)\t6 mesiacov",
+      "c)\t18 mesiacov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"516",
+    "questionPosition":90
+  },
+  {
+    "questionText":"Platnosť osvedčenia letovej spôsobilosti sa obnovuje",
+    "answers":[
+      "a) dodatočnou skúškou spôsobilosti orgánom LÚ",
+      "b) kontrolou u prevádzkovateľa",
+      "c) komisiou výrobcu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"517",
+    "questionPosition":91
+  },
+  {
+    "questionText":"Osvedčenie letovej spôsobilosti lietadla",
+    "answers":[
+      "a) stráca svoju platnosť len v prípade uplynutia vyznačenej doby platnosti",
+      "b) stráca svoju platnosť len vyhlásením LÚ",
+      "c) stráca svoju platnosť aj v prípade nedodržania predpísaných postupov obsluhy a údržby"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"518",
+    "questionPosition":92
+  },
+  {
+    "questionText":"Závady vzniknuté na lietadle počas prevádzky",
+    "answers":[
+      "a) odstraňuje kvalifikovaná osoba - technik",
+      "b) odstraňuje obsluhujúci personál",
+      "c) odstraňuje posádka lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"519",
+    "questionPosition":93
+  },
+  {
+    "questionText":"Povolenie k technického preletu",
+    "answers":[
+      "a) vydáva prevádzkovateľ na vykonanie záletu",
+      "b) vydáva výrobca pre letové skúšky prototypov",
+      "c) vydáva LÚ na prelet poškodeného lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"520",
+    "questionPosition":94
+  },
+  {
+    "questionText":"Maximálna vzletová hmotnosť lietadla",
+    "answers":[
+      "a) je najvyššia prípustná hmotnosť lietadla pri vzlete",
+      "b) je menšia ako maximálna pristávacia hmotnosť",
+      "c) je hmotnosť lietadla pri vzlete"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"521",
+    "questionPosition":95
+  },
+  {
+    "questionText":"Pohotovostná hmotnosť lietadla je",
+    "answers":[
+      "a) súčet prázdnej hmotnosti a hmotnosti prevádzkových hmôt, potrebných na let",
+      "b) hmotnosť lietadla pred vzletom",
+      "c) hmotnosť lietadla za letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"522",
+    "questionPosition":96
+  },
+  {
+    "questionText":"Kontrolou umiestnenia osôb a nákladu pred letom",
+    "answers":[
+      "a) zisťujeme skutočnú letovú hmotnosť lietadla",
+      "b) zisťujeme centráž lietadla",
+      "c) zisťujeme, čí sú zabezpečené proti posunutiu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"523",
+    "questionPosition":97
+  },
+  {
+    "questionText":"Celkovú hmotnosť lietadla pred letom, stanovíme",
+    "answers":[
+      "a) odhadom",
+      "b) na základe hlásenia od technika",
+      "c) výpočtom podľa letovej príručky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"524",
+    "questionPosition":98
+  },
+  {
+    "questionText":"Nesprávnym rozložením osôb a nákladu",
+    "answers":[
+      "a) sa nič nestane",
+      "b) možno prekročiť povolenú hmotnosť",
+      "c) možno prekročiť povolené hodnoty centráže a tak výrazne zhoršiť letové vlastnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"525",
+    "questionPosition":99
+  },
+  {
+    "questionText":"Správne rozloženie osôb a nákladu kontrolujeme",
+    "answers":[
+      "a) podľa technického popisu",
+      "b) podľa letovej príručky",
+      "c) podľa lietadlovej knihy"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"526",
+    "questionPosition":100
+  },
+  {
+    "questionText":"Maximálne užitočné zaťaženie lietadla kontrolujeme podľa",
+    "answers":[
+      "a) lietadlovej knihy lietadla",
+      "b) technického popisu",
+      "c) letovej príručky lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"527",
+    "questionPosition":101
+  },
+  {
+    "questionText":"So zmenou centrále lietadla sa menia",
+    "answers":[
+      "a) letové vlastnosti - stabilita a riaditeľnosť",
+      "b) prevádzkové rýchlosti lietadla",
+      "c) hmotnosť lietadla za letu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Lietadlá",
+    "categoryName":"Lietadlá",
+    "id":"528",
+    "questionPosition":102
+  }
+]

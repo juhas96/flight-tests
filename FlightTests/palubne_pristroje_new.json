@@ -1,0 +1,1409 @@
+[
+  {
+    "questionText":"Magnetizmus je",
+    "answers":[
+      "a) všeobecná vlastnosť akéhokoľvek telesa z ľubovoľného materiálu",
+      "b) vlastný len určitým látkam a materiálom",
+      "c) prejav len existujúceho magnetického poľa Zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"609",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Magnetizmus ako fyzikálny jav môže byť",
+    "answers":[
+      "a) prirodzený a umelý",
+      "b) len prirodzený",
+      "c) len umelo vytváraný"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"610",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Medzi zdroje prirodzeného magnetizmu nepatrí",
+    "answers":[
+      "a) Zem (zemeguľa)",
+      "b) magnetické železné rudy",
+      "c) elektromagnety a kovové umelé hmoty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"611",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Magnet ako taký je charakteristický",
+    "answers":[
+      "a) pólmi a magnetickým poľom",
+      "b) dĺžkou, prierezom a farbou",
+      "c) orientáciou voči svetovým stranám"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"612",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Zemský magnetizmus je",
+    "answers":[
+      "a) prejav pôsobenia Zeme na okolie, daný magnetickým poľom, meniacim sa v každom mieste zemského povrchu",
+      "b) prejav povrchu Zeme spôsobený predovšetkým magneticky aktívnymi materiálmi v jeho kôre",
+      "c) časovo sa meniace elektromagnetické žiarenie, vychádzajúce zo zemských pólov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"613",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Zemské magnetické pole je v danom mieste určené",
+    "answers":[
+      "a) smerom zemepisného poludníka",
+      "b) smerom vektoru zemského magnetického poľa",
+      "c) výsledným vektorom magnetického poľa a Coriolisovho zrýchlenia na určitom mieste povrchu Zeme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"614",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Prístroje na určenie kurzu, ktoré využívajú na svoju činnosť zemské magnetické pole indikujú",
+    "answers":[
+      "a) všeobecný magnetický vektor v danom mieste",
+      "b) zvislú zložku vektora zemského magnetického poľa",
+      "c) vodorovnú zložku vektora zemského magnetického poľa"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"615",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Inklináciu spôsobuje",
+    "answers":[
+      "a) zvislá zložka vektora magnetického poľa Zeme v danom mieste",
+      "b) vodorovná zložka tohoto vektora",
+      "c) nesúhlas zemského geografického a magnetického pólu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"616",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Zotrvačník (technický zotrvačník) je",
+    "answers":[
+      "a) teleso všeobecného tvaru, otáčajúce sa v priestore okolo pevnej osi",
+      "b) rotačné teleso, otáčajúce sa okolo osi rotácie veľkou rýchlosťou",
+      "c) otáčajúce sa rotačné teleso, ktoré nemení svoju polohu voči podložke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"617",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Zotrvačník s tromi stupňami voľnosti má",
+    "answers":[
+      "a) tri rámy",
+      "b) dva rámy",
+      "c) jeden rám"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"618",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Precesia je",
+    "answers":[
+      "a) pohyb systému zotrvačníka s tromi stupňami voľnosti ako dôsledok pôsobenia stáleho rušivého momentu",
+      "b) pohyb systému zotrvačníka s dvoma stupňami voľnosti ako dôsledok pôsobenia stáleho rušivého momentu",
+      "c) odozva zotrvačníka s tromi stupňami voľnosti na krátkodobo pôsobiaci impulz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"619",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Základnou vlastnosťou točiaceho sa zotrvačníka s tromi stupňami voľnosti je",
+    "answers":[
+      "a) sledovať pohyby lietadla v priestore",
+      "b) schopnosť merať uhlové rýchlosti pootočenia lietadla okolo niektorej osi",
+      "c) udržiavať v stálej polohe svoju os rotácie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"620",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Medzinárodná štandardná atmosféra (MSA alebo ISA) je",
+    "answers":[
+      "a) súhrn presných hodnôt a priebehov vybraných veličín v závislosti od výšky",
+      "b) hodnota tlaku, teploty a hustoty vzduchu v počiatočnej výške merania",
+      "c) súhrn údajov o atmosfére pri určitých podobných a viac-menej sa opakujúcich (štandardných) situáciách"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"621",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Základné hodnoty tlaku a teploty podľa MSA pre nulovú výšku sú",
+    "answers":[
+      "a) P0 = 1013,25 hPa, T0 = 288,15 K",
+      "b) P0 = 1013,25 hPa, T0 = 273,15 K",
+      "c) P0 = 1013,25   Pa, T0 = 288,15 K"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"622",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Vertikálny teplotný gradient na štandardný kilometer MSA pre výšky 0 ÷ 11 km, 11 ÷  20 km a 20 ÷  32 km je nasledovný",
+    "answers":[
+      "a)  + 6,5°          + 1°                 0°",
+      "b)  – 6,5°              0°               +1°",
+      "c)  – 1°                 0°               +1°"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"623",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Statický tlak je z hľadiska aerometrických prístrojov definovaný ako",
+    "answers":[
+      "a) kolmá zložka silového pôsobenia akéhokoľvek telesa na podložku",
+      "b) tlak stĺpca vzduchu na hladine mora",
+      "c) tlak na povrchu dostatočne malého telesa, pohybujúceho sa rovnakou rýchlosťou ako prúdiace médium"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"624",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Celkový tlak je z hľadiska aerometrických prístrojov definovaný ako",
+    "answers":[
+      "a) súčet statického a dynamického tlaku",
+      "b) rozdiel statického a dynamického tlaku",
+      "c) je rovný dynamickému tlaku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"625",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Dynamický tlak je z hľadiska aerometrických prístrojov daný ako",
+    "answers":[
+      "a) rozdiel celkového a statického tlaku",
+      "b) rozdiel statického a celkového  tlaku",
+      "c) súčet celkového a statického tlaku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"626",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Priamy magnetický kompas s otočným systémom indikuje",
+    "answers":[
+      "a) všeobecný dotyčnicový vektor intenzity zemského magnetického poľa",
+      "b) vodorovnú zložku magnetického poľa Zeme v danom mieste",
+      "c) výslednicu vodorovnej a priečnej zložky intenzity zemského magnetického poľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"627",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Vplyv, ktorý zásadne ovplyvňuje činnosť kompasu s otočným systémom, je",
+    "answers":[
+      "a) deviácia",
+      "b) inklinácia",
+      "c) devalvácia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"628",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Súčasťou priameho magnetického kompasu s otočným systémom nie je",
+    "answers":[
+      "a) indikačné vyrovnávacie závažie",
+      "b) indukčná magnetická sonda",
+      "c) indikačná magnetická ružica"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"629",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Činnosť magnetického kompasu s otočným systémom neovplyvňuje pôsobenie",
+    "answers":[
+      "a) deviácie",
+      "b) inklinácie",
+      "c) zmeny atmosférického tlaku a teploty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"630",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Tlmiaca kvapalina v magnetickom kompase s otočným systémom slúži na",
+    "answers":[
+      "a) zlepšenie čitateľnosti stupnice kompasu",
+      "b) zámerné vyplnenie voľného priestoru telesa kompasu",
+      "c) riadené tlmenie pohybu otočného systému"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"631",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Chyby v údajoch magnetického kompasu s otočným systémom sú najmenšie",
+    "answers":[
+      "a) počas letu v turbulentnom ovzduší",
+      "b) pri vykonávaní zákrut s náklonom väčším ako 15°",
+      "c) počas horizontálneho ustáleného letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"632",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Diaľkové kompasy vznikli z dôvodov",
+    "answers":[
+      "a) možnosti zväčšiť konštrukčné časti a tým zlepšiť čitateľnosť stupnice",
+      "b) zlepšiť citlivosť systému, ktorý má väčšiu plochu",
+      "c) vylúčiť vplyv rušivých magnetických polí na vysielač"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"633",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Vysielač diaľkového kompasu sa umiestňuje",
+    "answers":[
+      "a) v klimatizovanej kabíne (najlepšie v kabíne posádky)",
+      "b) v ťažisku lietadla",
+      "c) v mieste minimálneho ovplyvnenia rušivými magnetickými poľami"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"634",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Súčasťou každého diaľkového kompasu (rovnako ako pilotného kompasu) je",
+    "answers":[
+      "a) kompenzačná tabuľka alebo graf",
+      "b) individuálne osvetľovacie zariadenie",
+      "c) vhodné zariadenie na uchytenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"635",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Gyromagnetické a gyroindukčné kompasy sú používané, pretože sa",
+    "answers":[
+      "a) touto kombináciou zlepšujú vlastnosti magnetického alebo indukčného kompasu",
+      "b) týmto spojením zlepšujú vlastnosti navigačných gyroskopov",
+      "c) takto dosiahlo zlepšenie čitateľnosti spoločného ukazovateľa oboch zariadení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"636",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Do systému gyromagnetického a gyroindukčného kompasu nepatrí",
+    "answers":[
+      "a) indukčný vysielač s kompenzáciou deviačných vplyvov",
+      "b) gyroskopický vypínač korekcie",
+      "c) gyroskopický vysielač a magnetický diaľkový kompas"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"637",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Riadiacimi členmi gyromagnetického a gyroindukčného kompasu sú ",
+    "answers":[
+      "a) gyroskop s vysielačom magnetického kurzu (s otočným systémom alebo indukčným vysielačom)",
+      "b) len kompas s otočným systémom alebo indukčný kompas",
+      "c) špeciálny nastavovací a regulačný blok elektroniky alebo nastavovacie zariadenie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"638",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Kompenzovanie kompasu je činnosť na vylúčenie",
+    "answers":[
+      "a) deklinácie",
+      "b) inklinácie",
+      "c) deviácie"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"639",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Deviácia je spôsobená",
+    "answers":[
+      "a) magnetickými anomáliami (nepravidelnosťami)",
+      "b) nesúhlasom severného zemského a magnetického pólu",
+      "c) rušivými magnetickými vplyvmi magnetických materiálov na lietadle"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"640",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Kompenzácia kompasu je postup",
+    "answers":[
+      "a) smerujúci k stanoveniu a vylúčeniu vplyvu deviácie",
+      "b) určený na stanovenie chýb kompasu spôsobenými rušivými zotrvačnými sylami",
+      "c) určený na komplexné určenie chýb kompasu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"641",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Na kompenzovanie kompasu sa používa",
+    "answers":[
+      "a) elektrické a mechanické zariadenie",
+      "b) magnetické ihlové alebo otočné kompenzačné zariadenie",
+      "c) elektrolytická alebo ortuťová libela"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"642",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Smerový zotrvačník (gyroskop) je gyroskopický prístroj",
+    "answers":[
+      "a) s tromi stupňami voľnosti a vodorovnou osou rotácie gyroskopu",
+      "b) s dvomi stupňami voľnosti a vodorovnou osou rotácie gyroskopu",
+      "c) s tromi stupňami voľnosti a zvislou osou rotácie gyroskopu"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"643",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Ukazovateľ gyroskopického prístroja na meranie kurzu lietadla sa nastavuje",
+    "answers":[
+      "a) nenastavuje sa",
+      "b) automaticky bez potreby nastavenia",
+      "c) tak, aby indikátor ukazoval kurz súhlasný s magnetickým kompasom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"644",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Únik (chyba) polohy osi smerového zotrvačníka sa opravuje pomocou",
+    "answers":[
+      "a) približnej polohy lietadla v priestore",
+      "b) údajov odčítaných na magnetickom kompase v priamočiarom ustálenom lete",
+      "c) údajov o kurze lietadla získaných iným (napr. radarovým) zameraním"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"645",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Korekčné zariadenie smerového zotrvačníka slúži na",
+    "answers":[
+      "a) nastavovanie osi rotácie gyroskopu do vertikálnej polohy",
+      "b) nastavenie kolmosti vnútorného a vonkajšieho rámika v horizontálnom lete",
+      "c) vylúčenie vplyvu zotrvačných síl na prístroj"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"646",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Smerový zotrvačník má byť pri rolovaní ( z konštrukčného hľadiska)",
+    "answers":[
+      "a) odaretovaný",
+      "b) zaaretovaný",
+      "c) v ľubovoľnom stave"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"647",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Umelý horizont je gyroskopický prístroj",
+    "answers":[
+      "a) s tromi stupňami voľnosti a vodorovnou osou otáčania zotrvačníka",
+      "b) s dvomi stupňami voľnosti a zvislou osou otáčania",
+      "c) s tromi stupňami voľnosti a zvislou osou otáčania gyroskopu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"648",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Umelý horizont je letový prístroj určený na",
+    "answers":[
+      "a) sledovanie a meranie polohy lietadla v priestore",
+      "b) meranie veľkosti uhlových pohybov lietadla okolo zvislej osi",
+      "c) sledovanie a meranie časových zmien polohy lietadla vo vodorovnej rovine"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"649",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Polohu osi rotácie zotrvačníka umelého horizontu udržuje",
+    "answers":[
+      "a) elektrická alebo ortuťová libela",
+      "b) korekčné zariadenie spolu so snímačom na určenie polohy osi",
+      "c) len korekčné zariadenie prístroja"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"650",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Aretačné zariadenie umelého horizontu neslúži na",
+    "answers":[
+      "a) zaaretovanie a nastavenie prístroja",
+      "b) korigovanie nesprávnych údajov na čelnej strane prístroja počas činnosti",
+      "c) fixáciu (upevnenie) systému prístroja z dôvodov jeho ochrany pred poškodením"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"651",
+    "questionPosition":43
+  },
+  {
+    "questionText":"Každý umelý horizont musí byť vybavený",
+    "answers":[
+      "a) ovládacím prvkom na nastavenie tlakovej stupnice",
+      "b) osvetlením a signalizáciou správnej činnosti",
+      "c) kompenzačnou tabuľkou pozdĺžnych a priečnych náklonov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"652",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Zatáčkomer je prístroj určený na",
+    "answers":[
+      "a) meranie polomeru zákruty",
+      "b) meranie uhlovej rýchlosti zatáčania lietadla a vertikálnej rýchlosti",
+      "c) meranie zmyslu, resp. uhlovej rýchlosti zatáčania"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"653",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Zatáčkomer je gyroskopický prístroj",
+    "answers":[
+      "a) s tromi stupňami voľnosti a zvislou osou otáčania gyroskopu",
+      "b) s tromi stupňami voľnosti a vodorovnou osou otáčania gyroskopu",
+      "c) s dvomi stupňami voľnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"654",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Direkčná pružina ako súčasť zákrutomeru slúži na",
+    "answers":[
+      "a) udržiavanie vodorovnej polohy rámika",
+      "b) protipôsobenie direkčným momentom",
+      "c)  nie je súčasťou mechanizmu prístroja "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"655",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Rámik zatáčkomera sa vychyľuje",
+    "answers":[
+      "a) do zákruty",
+      "b) zo zákruty",
+      "c) rámik sa nevychyľuje, len ručička reaguje na uhlovú rýchlosť zatáčania"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"656",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Priečny relatívny sklonomer (gulička) slúži na",
+    "answers":[
+      "a) meranie výslednice síl pôsobiacich na lietadlo pri zatáčaní",
+      "b) doplnenie čelnej časti zákrutomeru",
+      "c) určenie zmyslu zatáčky podľa polohy ručičky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"657",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Zatáčkomer je považovaný za",
+    "answers":[
+      "a) hlavný letový prístroj",
+      "b) pomocný letový prístroj",
+      "c) prístroj na kontrolu otáčok motora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"658",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Medzi systémy celkového a statického tlaku nepatrí",
+    "answers":[
+      "a) Venturiho trubica",
+      "b) samostatný snímač statického tlaku",
+      "c) snímač ukazovateľa plniaceho tlaku"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"659",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Pitotova statická snímacia trubica sníma",
+    "answers":[
+      "a) podtlak a statický tlak",
+      "b) dynamický tlak a podtlak",
+      "c) celkový a statický tlak"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"660",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Každá snímacia trubica na snímanie celkového a statického tlaku musí mať pri letoch v oblasti námrazy",
+    "answers":[
+      "a) vhodne tvarovaný a dostatočne dlhý držiak",
+      "b) ochranný kryt so signalizačnou zástavkou",
+      "c) vyhrievacie zariadenie so signalizáciou činnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"661",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Nasledovný obrázok znázorňuje ",
+    "answers":[
+      "a) Bernouliho trubicu",
+      "b) Pitot – statickú trubicu",
+      "c) Venturiho trubicu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"662",
+    "questionPosition":54,
+    "questionImage": "palubne_pristroje_54.png"
+  },
+  {
+    "questionText":"Súčasťou rozvodu celkového a statického tlaku na lietadle nie sú",
+    "answers":[
+      "a) odkaľovacie nádoby",
+      "b) vzduchový filter",
+      "c) rozdvojky a hadice rozvodu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"663",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Elektrické teplomery vonkajšieho vzduchu používajú ako snímač zväčša",
+    "answers":[
+      "a) kvapalinový teplomer",
+      "b) odporovú sondu",
+      "c) indukčný snímač"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"664",
+    "questionPosition":56
+  },
+  {
+    "questionText":"Údaj o teplote vonkajšieho vzduchu je potrebný na",
+    "answers":[
+      "a) korekciu údajov teplôt hláv valcov",
+      "b) činnosť tlakomeru plniaceho tlaku",
+      "c) činnosť signalizátorov námrazy a tiež korekciu na tento parameter v aerodynamických centrálach"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"665",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Rýchlomer ako tlakomerný prístroj je",
+    "answers":[
+      "a) absolútny tlakomer",
+      "b) relatívny tlakomer",
+      "c) nie je vôbec tlakomerom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"666",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Rýchlomer pre nízke rýchlosti meria",
+    "answers":[
+      "a) náporový tlak",
+      "b) celkový tlak",
+      "c) dynamický tlak"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"667",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Ak jednoduchý rýchlomer ukazuje určitú rýchlosť vo výške, je táto vzhľadom na rýchlosť lietadla voči zemi",
+    "answers":[
+      "a) menšia",
+      "b) väčšia",
+      "c) nemení sa"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"668",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Indikovaná rýchlosť je dôležitá z hľadiska",
+    "answers":[
+      "a) navigácie",
+      "b) aerodynamiky",
+      "c) aeroelastických javov na lietadle"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"669",
+    "questionPosition":61
+  },
+  {
+    "questionText":"Indikovaná rýchlosť (IAS) a pravá vzdušná rýchlosť (TAS) majú rovnakú hodnotu",
+    "answers":[
+      "a) vo výške nula metrov nad morom",
+      "b) vo výške 11 000 metrov nad morom",
+      "c) sú rovnaké v celom rozsahu výšok a rýchlostí"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"670",
+    "questionPosition":62
+  },
+  {
+    "questionText":"Barometrická metóda merania výšky je založená na princípe",
+    "answers":[
+      "a) merania rýchlosti vo zvislom smere",
+      "b) porovnávania tlakov pri stúpaní alebo klesaní lietadla",
+      "c) merania statického tlaku rozdeleného s výškou podľa štandardnej atmosféry"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"671",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Barometrický výškomer je z hľadiska princípu činnosti",
+    "answers":[
+      "a) absolútny tlakomer",
+      "b) diferenčný tlakomer",
+      "c) piezoelektrický tlakomerný spínač s teplotnou kompenzáciou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"672",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Tlakomerné krabice barometrického výškomeru sú",
+    "answers":[
+      "a) uzavreté",
+      "b) otvorené",
+      "c) otvorené s možnosťou regulácie dodávky statického tlaku"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"673",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Súčasťou mechanizmu barometrického výškomera je",
+    "answers":[
+      "a) vyhrievanie na vylúčenie vplyvu zmien teploty a vlhkosti vzduchu",
+      "b) kontaktné zariadenie na signalizáciu určitej výšky, resp, tlakovej hladiny",
+      "c) teplotná kompenzácia na vylúčenie vplyvu teploty na zmenu deformačných charakteristík a dĺžok súčastí mechanizmu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"674",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Nastavovacie zariadenie na barometrickom výškomere slúži na",
+    "answers":[
+      "a) ovládanie stupnice a ručičiek a ich nastavenie na nulu",
+      "b) nastavenie hodnoty tlaku tej tlakovej hladiny, ktorú budeme brať ako počiatok merania",
+      "c) vylúčenie vplyvu teplôt na zmeny dĺžok súčastí prevodového mechanizmu a tým odchýlku indikácie od nuly"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"675",
+    "questionPosition":67
+  },
+  {
+    "questionText":"Barometrický výškomer je s ohľadom na princíp činnosti nenahraditeľným na",
+    "answers":[
+      "a) presné meranie výšky v každom mieste povrchu Zeme (aj plôch)",
+      "b) presné stanovenie nadmorskej výšky určitého miesta vzhľadom na hladinu mora",
+      "c) riadenie letovej prevádzky a rozdelenie lietadiel do letových hladín na zabezpečenie ich bezpečnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"676",
+    "questionPosition":68
+  },
+  {
+    "questionText":"Ktorý z uvedených obrázkov ukazuje principiálnu schému výškomera?",
+    "answers":[
+      "a)",
+      "b)",
+      "c)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"677",
+    "questionPosition":69,
+    "questionImage": "palubne_pristroje_69.png"
+  },
+  {
+    "questionText":"Z hľadiska princípu činnosti je váriometer tlakomer",
+    "answers":[
+      "a) absolútny",
+      "b) relatívny",
+      "c) meria len statický tlak"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"678",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Meranie v barometrickom váriometri sa deje na základe porovnania",
+    "answers":[
+      "a) statického a dynamického tlaku",
+      "b) statického a celkového tlaku",
+      "c) statického tlaku a tlaku v porovnávacom objeme (nádobe)"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"679",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Merať vertikálnu rýchlosť ako časovú zmenu výšky letu umožňuje",
+    "answers":[
+      "a) sústava dvoch alebo viac tlakomerných krabíc",
+      "b) uzavretá mäkká tlakomerná krabica",
+      "c) tlakomerná krabica a vhodne umiestnená kapilára"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"680",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Časové meškanie, ako hlavná chyba váriometra, je spôsobené:",
+    "answers":[
+      "a) relatívne malými zmenami statického tlaku,",
+      "b) trením v uložení osí a prevodov,",
+      "c) kapilárou a kapilárnym prúdením cez ňu."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"681",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Na ktorom z obrázkov je správne zakreslená principiálna schéma membránového váriometra?",
+    "answers":[
+      "a)",
+      "b)",
+      "c)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"682",
+    "questionPosition":74,
+    "questionImage": "palubne_pristroje_74.png"
+  },
+  {
+    "questionText":"Letecké elektrické teplomery súčasných konštrukcií využívajú na svoju činnosť prevažne princíp",
+    "answers":[
+      "a) dilatačný a bimetalický",
+      "b) bimetalický a rádioizotopový",
+      "c) odporový a termoelektrický"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"683",
+    "questionPosition":75
+  },
+  {
+    "questionText":"Snímačom odporového teplomeru je",
+    "answers":[
+      "a) teplomerná odporová sonda drôtová",
+      "b) termoelektrický snímač",
+      "c) vhodne zvolený a tvarovaný bimetal"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"684",
+    "questionPosition":76
+  },
+  {
+    "questionText":"Odporový teplomer na svoju činnosť musí byť napojený",
+    "answers":[
+      "a) na palubnú elektrickú sieť",
+      "b) na vonkajší elektrický zdroj",
+      "c) nepotrebuje žiadny zdroj energie"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"685",
+    "questionPosition":77
+  },
+  {
+    "questionText":"Odporová metóda merania teploty je vhodná na",
+    "answers":[
+      "a) meranie vysokých a veľmi vysokých teplôt",
+      "b) meranie stredných teplôt (do 300° C)",
+      "c) nemá obmedzenie pri meraní"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"686",
+    "questionPosition":78
+  },
+  {
+    "questionText":"Termoelektrické teplomery využívajú na svoju činnosť",
+    "answers":[
+      "a) efekt, súvisiaci so zmenou odporu materiálu s teplotou",
+      "b) fotoelektrický jav (pri výbere vhodných kovov)",
+      "c) tzv. termoelektrický jav"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"687",
+    "questionPosition":79
+  },
+  {
+    "questionText":"Na veľkosť termoelektromotorickej sily termočlánku nemá vplyv",
+    "answers":[
+      "a) výber materiálov termočlánku a ich geometrické rozmery",
+      "b) kolísanie napätia palubnej elektrickej siete",
+      "c) rozdiel teplôt tzv. teplého a studeného konca termočlánku"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"688",
+    "questionPosition":80
+  },
+  {
+    "questionText":"Komplex termoelektrického teplomera tvorí",
+    "answers":[
+      "a) termoelektrická sonda (podsviečková vložka)",
+      "b) termoelektrická sonda a pomerový prístroj vhodného typu",
+      "c) odporová sonda a galvanometer (bez uvažovania spojov. vedenia)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"689",
+    "questionPosition":81
+  },
+  {
+    "questionText":"Termoelektrické teplomery sú vhodné na meranie",
+    "answers":[
+      "a) stredných a vysokých teplôt",
+      "b) nízkych teplôt (napr. vonkajšie teploty)",
+      "c) nemajú obmedzenie pri meraní"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"690",
+    "questionPosition":82
+  },
+  {
+    "questionText":"Termoelektrické teplomery nie sú vhodné na meranie",
+    "answers":[
+      "a) teploty plynov v prúdovom motore",
+      "b) teplôt hláv valcov",
+      "c) teploty mazacích olejov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"691",
+    "questionPosition":83
+  },
+  {
+    "questionText":"Medzi snímače tlakomerov nepatrí",
+    "answers":[
+      "a) tlakomerná membrána a vlnovec",
+      "b) tlakomerná trubica a krabica",
+      "c) pružný mechanický element a pružina"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"692",
+    "questionPosition":84
+  },
+  {
+    "questionText":"Mierou meraného tlaku v súčasných mechanických leteckých tlakomeroch je",
+    "answers":[
+      "a) zmena tvaru deformovaného materiálu",
+      "b) posun tzv. čela tlakomerného elementu",
+      "c) len zmena elektrického odporu potenciometra vo vysielači prístroja"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"693",
+    "questionPosition":85
+  },
+  {
+    "questionText":"Diaľkový prenos u súčasných leteckých tlakomerov je prevažne",
+    "answers":[
+      "a) mechanický",
+      "b) hydraulický",
+      "c) elektrický"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"694",
+    "questionPosition":86
+  },
+  {
+    "questionText":"Elektrické diaľkové tlakomery používajú na diaľkový prenos",
+    "answers":[
+      "a) premenný odpor a galvanometer",
+      "b) piezoelektrický kryštál a pomerový prístroj",
+      "c) potenciometer alebo indukčný vysielač a pomerový prístroj"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"695",
+    "questionPosition":87
+  },
+  {
+    "questionText":"Ktoré zo zapojení sa najčastejšie používa v zapojení diaľkových tlakomerov?",
+    "answers":[
+      "a) sériové",
+      "b) môstikové",
+      "c) sériovo – paralelné"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"696",
+    "questionPosition":88
+  },
+  {
+    "questionText":"Zeleným oblúkom je na čelnom skle ukazovateľov tlaku vyznačený",
+    "answers":[
+      "a) prevádzkový rozsah tlakov",
+      "b) rozsah tlakov, pri ktorých má látka optimálnu teplotu",
+      "c) celý rozsah meraných tlakov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"697",
+    "questionPosition":89
+  },
+  {
+    "questionText":"Na meranie otáčok sa nepoužíva metóda",
+    "answers":[
+      "a) magnetická, magnetická s elektrickým prenosom",
+      "b) rádiotechnická",
+      "c) odstredivá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"698",
+    "questionPosition":90
+  },
+  {
+    "questionText":"Magnetický otáčkomer pracuje na princípe",
+    "answers":[
+      "a) magnetickej indukcie a vírivých prúdov",
+      "b) magnetického odporu a magnetických prúdov",
+      "c) vzniku elektrického prúdu pri otáčaní"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"699",
+    "questionPosition":91
+  },
+  {
+    "questionText":"Na diaľkový prenos je u otáčkomerov použitý prevažne",
+    "answers":[
+      "a) mechanický prenos s odstredivým systémom",
+      "b) hydraulický prenos s kvapalinovo – frikčným členom",
+      "c) elektrický prenos s magnetickým systémom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"700",
+    "questionPosition":92
+  },
+  {
+    "questionText":"Údaj otáčkomera je uvedený",
+    "answers":[
+      "a) v otáčkach za sekundu",
+      "b) počtom otáčok za dobu činnosti motora",
+      "c) otáčkami za minútu alebo v percentách"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"701",
+    "questionPosition":93
+  },
+  {
+    "questionText":"Zeleným oblúkom je na čelnom skle otáčkomera sa značí",
+    "answers":[
+      "a) optimálny rozsah otáčok (využiteľný s ohľadom na hospodárnosť)",
+      "b) prevádzkový rozsah otáčok",
+      "c) minimálne otáčky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"702",
+    "questionPosition":94
+  },
+  {
+    "questionText":"Palivomery merajú",
+    "answers":[
+      "a) špecifickú hmotnosť a objem paliva",
+      "b) prietok a spotrebu v jednotkách za čas",
+      "c) hmotnosť alebo výšku paliva v známych objemoch"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"703",
+    "questionPosition":95
+  },
+  {
+    "questionText":"Palivomery nevyužívajú ako metódu merania",
+    "answers":[
+      "a) turbínovú (tachometrickú) a dynamickú (klapkovú)",
+      "b) plavákovú alebo rádioizotopickú",
+      "c) kapacitnú alebo hydrostatickú"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"704",
+    "questionPosition":96
+  },
+  {
+    "questionText":"Na činnosť väčšiny palivomerov nemá vplyv",
+    "answers":[
+      "a) zmena teploty a druhu paliva",
+      "b) zmena statického tlaku a vlhkosti vzdychu",
+      "c) zmena tvaru nádrže a miesto uloženia snímača"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"705",
+    "questionPosition":97
+  },
+  {
+    "questionText":"Činnosť plavákových a kapacitných palivomerov ovplyvňuje zásadne táto chyba metódy",
+    "answers":[
+      "a) trenie a zadrhávanie mechanických súčastí",
+      "b) zmena hladiny paliva spôsobená pohybom lietadla",
+      "c) zmena množstva paliva v nádrži"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"706",
+    "questionPosition":98
+  },
+  {
+    "questionText":"Palivomer býva doplnený signalizáciou",
+    "answers":[
+      "a) maximálneho množstva paliva",
+      "b) zmeny teploty a tým aj objemu paliva",
+      "c) minimálneho množstva paliva"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"707",
+    "questionPosition":99
+  },
+  {
+    "questionText":"Podľa definície je polohoznak",
+    "answers":[
+      "a) zariadenie na meranie polohy lietadla v priestore",
+      "b) ukazovateľ, ukazujúci polohu určitého zariadenia na lietadle",
+      "c) systém na indikáciu polohy plynových pák ovládania motorov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"708",
+    "questionPosition":100
+  },
+  {
+    "questionText":"Medzi polohoznaky nepatrí",
+    "answers":[
+      "a) ukazovateľ podvozku, klapiek",
+      "b) ukazovateľ uhla nábehu a vybočenia",
+      "c) ukazovateľ polohy stabilizátora, vyváženia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"709",
+    "questionPosition":101
+  },
+  {
+    "questionText":"Ukazovateľ polohy podvozku musí mať zabudované v indikátore",
+    "answers":[
+      "a) tlačítko na kontrolu svietivosti indikačných žiaroviek",
+      "b) prepínač intenzity svietivosti žiaroviek alebo ich clonu",
+      "c) označenie čísla podvozkových nôh"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"710",
+    "questionPosition":102
+  },
+  {
+    "questionText":"Polohoznaky s diaľkovým prenosom používajú prevažne ako snímače",
+    "answers":[
+      "a) pneumatické, mechanická a rádioaktívne členy",
+      "b) tlakomerné krabice, gyroskopy, bimetalické snímače",
+      "c) potenciometre, indukčné vysielače, selsyn"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"711",
+    "questionPosition":103
+  },
+  {
+    "questionText":"Úlohou signalizátorov námrazy je",
+    "answers":[
+      "a) merať teplotu okolitého vzduchu a upozorňovať na nulovú izotermu",
+      "b) reagovať na vznik námrazy, resp. informovať o jej intenzite",
+      "c) regulovať vykurovanie kabíny (pokiaľ je použité)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"712",
+    "questionPosition":104
+  },
+  {
+    "questionText":"Medzi metódy merania námrazy nepatrí",
+    "answers":[
+      "a) magnetická metóda",
+      "b) rádioaktívna metóda",
+      "c) pneumatická metóda"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"713",
+    "questionPosition":105
+  },
+  {
+    "questionText":"Indikátory námrazy sú na lietadle umiestňované",
+    "answers":[
+      "a) na ľubovoľnom netienenom mieste",
+      "b) na prednej časti lietadla",
+      "c) v mieste predpokladaného prvého vzniku námrazy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"714",
+    "questionPosition":106
+  },
+  {
+    "questionText":"Súčasťou statického signalizátora námrazy nie je",
+    "answers":[
+      "a) osvetlenie na vizuálnu kontrolu",
+      "b) systém merania hrúbky a intenzity námrazy",
+      "c) systém vyhrievania signalizátora"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"715",
+    "questionPosition":107
+  },
+  {
+    "questionText":"Námraza sa obyčajne signalizuje",
+    "answers":[
+      "a) poklesom otáčok motora",
+      "b) rozsvietením (alebo blikaním) svetla na svetelnom informačnom table",
+      "c) ručičkovým ukazovateľom so zabudovaným teploty vonkajšieho vzduchu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Palubné prístroje",
+    "categoryName":"Palubné prístroje",
+    "id":"716",
+    "questionPosition":108
+  }
+]

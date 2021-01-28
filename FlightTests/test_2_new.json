@@ -1,0 +1,2322 @@
+[
+  {
+    "questionText":"Cestovná hladina je ",
+    "answers":[
+      "a) Výška, v ktorej lietadlo letí",
+      "b) Hladina dodržovaná lietadlom počas značnej časti letu",
+      "c) Výška letu lietadla meraná výškomerom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1088",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Letová prevádzka zahrňuje",
+    "answers":[
+      "a) Všetky činnosti a služby slúžiace lietaniu ako celku",
+      "b) Všetky lietadlá za letu a im poskytované služby",
+      "c) Všetky lietadlá za letu alebo pohybujúce sa na prevádzkovej ploche"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1089",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Predpokladaný čas príletu pre VFR lety je",
+    "answers":[
+      "a) Čas, v ktorom sa predpokladá, že lietadlo priletí nad letisko",
+      "b) Čas, v ktorom sa predpokladá pristátie lietadla na letisku",
+      "c) Čas, v ktorom sa predpokladá, že lietadlo priletí nad stanovený bod, z ktorého sa predpokladá začatie priblíženia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1090",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Pred začatím letu je veliteľ lietadla povinný oboznámiť sa",
+    "answers":[
+      "a) S leteckou informačnou príručkou",
+      "b) S letovou a prevádzkovou príručkou",
+      "c) So všetkými informáciami potrebnými na vykonanie zamýšľaného letu, ktoré sú k dispozícií"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1091",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Zhadzovať akékoľvek predmety počas letu alebo rozprašovať chemické látky sa môžu len",
+    "answers":[
+      "a) V dobe medzi východom a západom slnka",
+      "b) Za podmienok stanovených leteckým úradom a podľa príslušných informácií a povolení",
+      "c) Za podmienok stanovených prevádzkovateľom a podľa príslušných smerníc"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1092",
+    "questionPosition":5
+  },
+  {
+    "questionText":"S výnimkou letov na zvláštne účely a letov vo výške 300 m nad zemou a nižšie, kedy pilot nepožaduje žiadne z letových prevádzkových služieb, musí byť letový plán predložený",
+    "answers":[
+      "a) Na každý let mimo okrsok letiska",
+      "b) Na každý let",
+      "c) Na každý let mimo TMA"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1093",
+    "questionPosition":6
+  },
+  {
+    "questionText":"S výnimkou vzletu alebo pristátia, alebo s výnimkou povolenia vydaného leteckým úradom musí byť let VFR vykonávaný nad zemou alebo vodou vo výške nie menšej ako",
+    "answers":[
+      "a) 300 m",
+      "b) 150 m",
+      "c) 100 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1094",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Kríže v jednej nápadnej farbe, žltej alebo bielej, vyložené horizontálne na prevádzkovej ploche alebo inej časti, vyznačujú",
+    "answers":[
+      "a) Zákaz pristáť",
+      "b) Zvýšenú opatrnosť pri rolovaní",
+      "c) Plochu uzavretú pre pohyby lietadiel"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1095",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Pohotovostnú službu poskytuje",
+    "answers":[
+      "a) Stredisko pátrania a záchrany ",
+      "b) Záchranná a požiarna služba letiska",
+      "c) Každé stanovisko riadenia letovej prevádzky v priestore svojej pôsobnosti"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1096",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Zmenu letu podľa prístrojov na let za viditeľnosti oznamuje veliteľ lietadla frázou",
+    "answers":[
+      "a) Ruším let podľa prístrojov",
+      "b) Ruším IFR let",
+      "c) Ruším prístrojový let"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1097",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Vertikálne rozostupy sa zaisťujú",
+    "answers":[
+      "a) Dodržovaním predpísaných postupov na nastavenie výškomerov",
+      "b)  Dodržovaním pridelených hladín",
+      "c) Pridelením rôznych hladín lietadlám"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1098",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Lietadlu, ktoré je v stave núdze sa",
+    "answers":[
+      "a) Musí dať prednosť pred všetkými ostatnými",
+      "b) Zvyčajne dáva prednosť pred všetkými ostatnými",
+      "c) Dáva prednosť pred všetkými ostatnými na základe rozhodnutia veliteľa lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1099",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Približovacie svetlá sa musia zapínať cez deň",
+    "answers":[
+      "a) Ak o to požiada veliteľ približujúceho sa lietadla",
+      "b) Pre prípady uvedené v letiskovom poriadku",
+      "c) 5 minút pred západom slnka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1100",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Pri križovatkách rolovacích dráh sa lietadlu nachádzajúcemu sa na rolovacej dráhe nemôže povoliť, aby vyčkávalo bližšie k inej rolovacej dráhe, ako",
+    "answers":[
+      "a) 30 m",
+      "b) 50 m",
+      "c) Je vyčkávacie miesto vymedzené stop priečkou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1101",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Všetky povolenia na vstup, pristátie a vzlet lietadla sa musia",
+    "answers":[
+      "a) Potvrdiť kladným spôsobom",
+      "b) Doslovne opakovať",
+      "c) Potvrdiť, kde je tak požadované orgánom letových prevádzkových služieb"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1102",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Identifikácia lietadla vo formulári letového plánu sa môže vyjadriť",
+    "answers":[
+      "a) ICAO označením prevádzkovateľa nasledované označením leteckého spoja",
+      "b) Štátnou značkou lietadla",
+      "c) Identifikačnou značkou lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1103",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Lety na zvláštne účely sú lety",
+    "answers":[
+      "a) Výcvikové lety vykonávané do výšky 300 m nad zemou",
+      "b) Štátne dôležité lety",
+      "c) Pre leteckú záchrannú službu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1104",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Vo formulári letového plánu ZZZZ v poli letiska odletu znamená, že",
+    "answers":[
+      "a) Letový plán bol prijatý počas letu",
+      "b) Letisko nemá pridelenú skratku",
+      "c) Letisko je aeroklub"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1105",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Držiteľom koľkých preukazov spôsobilosti JAR-FCL môže byť pilot?",
+    "answers":[
+      "a) Jedného .",
+      "b) Maximálne 3.",
+      "c) Počet je neobmedzený."
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1106",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Žiadateľ o vydanie PPL(A) musí mať platné osvedčenie zdravotnej spôsobilosti",
+    "answers":[
+      "a) 1. triedy.",
+      "b) 3. triedy.",
+      "c) 1. alebo 2. triedy."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1107",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Môže byť žiadateľovi vydaný PPL(A) bez typovej kvalifikácie alebo kvalifikácie na triedu?",
+    "answers":[
+      "a) Áno. Platnosť preukazu spôsobilosti nie je podmienená platnosťou kvalifikácií.",
+      "b) Nie. Musí byť držiteľom  typovej kvalifikácie alebo kvalifikácie na triedu na letún, na ktorom sa    vykonala praktická skúška.",
+      "c) Áno, pokiaľ o to žiadateľ požiada letecký úrad a úspešne vykoná teoretické skúšky."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1108",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Typové kvalifikácie a kvalifikácie na triedu pre viacmo\u001ftorové letúny platia",
+    "answers":[
+      "a) počas 36 mesiacov od dátumu vydania alebo od dátumu uplynutia platnosti.",
+      "b) počas 24 mesiacov od dátumu vydania alebo od dátumu uplynutia platnosti.",
+      "c) počas 12 mesiacov od dátumu vydania alebo od dátumu uplynutia platnosti."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1109",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Pre vydanie preukazu spôsobilosti musí žiadateľ úspešne absolvovať vstupné lekárske vyšetrenie, výcvik a skúšky  (teoretické a praktické )",
+    "answers":[
+      "a) v rôznych štátoch ICAO",
+      "b) v štáte, ktorého letecký úrad mu vydá preukaz spôsobilosti.",
+      "c) v rôznych štátoch JAA."
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1110",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Aké má oprávnenia držiteľ PPL(A)?",
+    "answers":[
+      "a) Môže vykonávať za úplatu funkciu veliaceho pilota alebo 2. pilota ktoréhokoľvek letúna na neob\u001fchodné lety.",
+      "b) Môže vykonávať, za úplatu, funkciu veliaceho pilota na jednopilotných letúnoch.",
+      "c) Môže vykonávať, nie však za úplatu, funkciu veliaceho pilota alebo 2. pilota ktoréhokoľvek letúnana neob\u001fchodné lety."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1111",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Základnou charakteristikou leteckého motora s preplňovaním je, že so zväčšovaním výšky od zeme po nominálnu výšku udržuje",
+    "answers":[
+      "a) Konštantný výkon motora",
+      "b) Konštantné otáčky motora",
+      "c) Konštantný plniaci tlak"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1112",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Výkon motora bez kompresora od zeme do výšky 5 000 m poklesne probližne o",
+    "answers":[
+      "a) 30%",
+      "b) 50%",
+      "c) 70%"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1113",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Pevná vrtuľa je navrhnutá tak, aby umožňovala najvyššie otáčky motora",
+    "answers":[
+      "a) Pri vzlete",
+      "b) Pri stúpaní",
+      "c) Pri horizontálnom lete"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1114",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Počas horúceho počasia sa zmes na spustenie",
+    "answers":[
+      "a) Nastaví na bohatú",
+      "b) Nastaví na chudobnú",
+      "c) Nastaví na neutrálnu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1115",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Čierny dym z výfuku pri všetkých režimoch je príznakom",
+    "answers":[
+      "a) Nesprávnej funkcie piestových krúžkov",
+      "b) Motor pracuje s bohatou zmesou",
+      "c) Spaľuje sa veľmi veľa oleja (chybná funkcia stieracích krúžkov)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1116",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Letová príručka lietadla ",
+    "answers":[
+      "a) Je založená u výrobcu lietadla a nemusí byť na palube lietadla",
+      "b) Musí byť na palube lietadla",
+      "c) Nemusí byť na palube lietadla, ale prevádzkovateľ ju musí mať"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1117",
+    "questionPosition":30
+  },
+  {
+    "questionText":"V ktorej dennej dobe pozorujeme najčastejšie tvorenie radiačnej hmly",
+    "answers":[
+      "a) Počas celej noci",
+      "b) Pred východom slnka",
+      "c) Počas prvej polovice noci"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1118",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Nebezpečné javy pre letovú prevádzku spojené s teplým frontom sú",
+    "answers":[
+      "a) Námraza, nízka oblačnosť, znížená dohľadnosť",
+      "b) Turbulencia, búrky, krúpy",
+      "c) Silný vietor, strih vetra, turbulencia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1119",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Ktorá z nasledujúcich správ o počasí je výstrahou pred podmienkami, ktoré by mohli byť nebezpečné pre lietadlá za letu.",
+    "answers":[
+      "a) SIGMET",
+      "b) GAMET",
+      "c) METAR-SPECI"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1120",
+    "questionPosition":33
+  },
+  {
+    "questionText":"METAR je",
+    "answers":[
+      "a) Správa, obsahujúca meteorologické údaje získané pozorovaním a meraním pozemnej stanice, určená letectvu",
+      "b) Predpoveď poveternostných javov významných pre letectvo s platnosťou 9 hodín",
+      "c) Letová predpoveď spojená s TREND, alebo niektorým indikátorom zmeny počasia a tiež obmedzenou dobou platnosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1121",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Podmienky pre heslo CAVOK sú dané stĺpcom a, b alebo c?",
+    "answers":[
+      "a) VIS v km: aspoň 5, Základňa oblačnosti: aspoň 1500, Nevyskytujú sa javy: búrky a hmla",
+      "b) VIS v km: aspoň 10, Základňa oblačnosti: aspoň 1500, Nevyskytujú sa javy: búrky a Cb",
+      "c) VIS v km: aspoň 10, Základňa oblačnosti: aspoň 1500 a nad maximálnou MHS, Nevyskytujú sa javy: zrážky, búrky, hmla a zvírený sneh"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1122",
+    "questionPosition":35
+  },
+  {
+    "questionText":"V meteorológii smer vetra uvádza:",
+    "answers":[
+      "a) Smer - odkiaľ vietor vanie",
+      "b) Smer - kam vietor vanie",
+      "c) Na severnej hemisfére sa uvádza hodnota smeru kam vietor vanie, na južnej pologuli je to naopak"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1123",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Skupina VV003 v správe METAR sa správne dešifruje",
+    "answers":[
+      "a) Dohľadnosť na danom letisku má hodnotu 30 m",
+      "b) Oblohu nie je možné rozoznať a vertikálna dohľadnosť má hodnotu 90 m",
+      "c) Dohľadnosť má nulovú hodnotu a takýto stav sa udrží ešte aspoň 3 hodiny"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1124",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Kde je správne v skratkách ICAO (kód METAR) uvedené pokrytie oblohy oblačnosťou „jasno“",
+    "answers":[
+      "a) BKN",
+      "b) SKC",
+      "c) SCT"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1125",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Na ktorom obrázku je oblačnosť typu Cb",
+    "answers":[
+      "a)",
+      "b)",
+      "c)"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1126",
+    "questionPosition":39,
+    "questionImage": "palubne_pristroje_74.png"
+  },
+  {
+    "questionText":"V definícii štandardnej atmosféry sú hodnoty tlaku a teploty na strednej hladine mora",
+    "answers":[
+      "a) 1015 HPa, +10 oC",
+      "b) 1013,25 HPa, +15 oC",
+      "c) 1013,25 HPa, +21 oC"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1127",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Ako sa nazýva rozdiel medzi teplotou a teplotou rosného bodu",
+    "answers":[
+      "a) Deficit rosného bodu ",
+      "b) Suchá teplota",
+      "c) Pomer nasýtenia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1128",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Náhle zmeny počasia je možné očakávať s :",
+    "answers":[
+      "a) Príchodom studeného frontu ",
+      "b) Príchodom teplého frontu",
+      "c) Príchodom oklúzneho frontu "
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1129",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Nízku oblačnosť tvorí",
+    "answers":[
+      "a) Ac – altocumulus",
+      "b) St – stratus",
+      "c) Ci – cirrus"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1130",
+    "questionPosition":43
+  },
+  {
+    "questionText":"Tlakový gradient je definovaný ako",
+    "answers":[
+      "a) Zmena tlaku v akomkoľvek smere, pripadajúca na určitú vzdialenosť",
+      "b) Zmena tlaku v horizontálnom smere",
+      "c) Zmena tlaku v smere vertikálnom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1131",
+    "questionPosition":44
+  },
+  {
+    "questionText":"TAF je označením ",
+    "answers":[
+      "a) Meteorologickej správy obsahujúcej dvojhodinovú predpoveď",
+      "b) Letovej predpovede",
+      "c) Letiskovej predpovede"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1132",
+    "questionPosition":45
+  },
+  {
+    "questionText":"V oblasti tlakovej níže vanie vietor pri zemi",
+    "answers":[
+      "a) V smere pohybu hodinových ručičiek",
+      "b) Proti smere pohybu hodinových ručičiek",
+      "c) Smer vetra nesúvisí so smerom pohybu hodinových ručičiek"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1133",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Dráhovou dohľadnosťou (RVR) nazývame",
+    "answers":[
+      "a) Subjektívne určenú dohľadnosť na vzletovej a pristávacej dráhe",
+      "b) Akúkoľvek horizontálnu dohľadnosť zmeranou v oblasti systému vzletových a pristávacích dráh letiska",
+      "c) Objektívne zmeranú horizontálnu dohľadnosťou pozdĺž osy príslušnej vzletovej a pristávacej dráhy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1134",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Akú hodnotu má výškový barometrický stupeň pri zemskom povrchu",
+    "answers":[
+      "a) 1 HPa/11m výšky",
+      "b) 1 HPa/16m výšky",
+      "c) 1 HPa/8m výšky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1135",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Stavová krivka je definovaná ako",
+    "answers":[
+      "a) Čiara o rovnakých hodnotách teploty",
+      "b) Krivka znázorňujúca priebeh teploty v závislosti na výške v reálnej atmosfére",
+      "c) Krivka so stálou hodnotou zmeny teploty na každých 100m výšky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1136",
+    "questionPosition":49
+  },
+  {
+    "questionText":"BECMG",
+    "answers":[
+      "a) Je jediný indikátor zmeny ktorý sa nespája s časovou skupinou               ",
+      "b) Je označenie výstražnej informácie na nebezpečné poveternostné javy spojené s atmosferickým frontom ",
+      "c) Je indikátor zmeny ktorý sa používa na popis zmien pri ktorých sa očakáva, že meteorologické podmienky dosiahnu alebo prekročia stanovené hodnoty postupným alebo nepravidelným spôsobom."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1137",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Rozdiel zemepisných dĺžok medzi bodmi OBT 1: 04ْ  14´ 28´´ E a OBT 2:   02ْ  30´ 30´´  je:",
+    "answers":[
+      "a) 1ْ  43´ 58´´",
+      "b) 6ْ  44´ 58´´",
+      "c) 2ْ  44´ 58´´"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1138",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Zemepisnú šírku vyjadrujeme:",
+    "answers":[
+      "a) Stupňami od rovníka ( od 0ْ  do 90ْ  )",
+      "b) Stupňami od pólu",
+      "c) Kilometrami (km) od rovníka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1139",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Jeden m (meter) je (prevod m na stopy):",
+    "answers":[
+      "a) 30,48   ft",
+      "b)   3,28   ft",
+      "c)   0,328 ft"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1140",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Plán je:",
+    "answers":[
+      "a) Zobrazenie veľkej časti povrchu zeme",
+      "b) Kolmý priemet zemského obrazu do horizontálnej roviny",
+      "c) Základný mapový dokument pilota"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1141",
+    "questionPosition":54
+  },
+  {
+    "questionText":"Medzi aké druhy máp patria mapy v mierkach:  od 1: 500  do 1: 10 000?",
+    "answers":[
+      "a) Malých mierok",
+      "b) Veľkých mierok",
+      "c) Stredných mierok"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1142",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Slnečný čas je odvodený zo:",
+    "answers":[
+      "a) Zdanlivého pohybu slnka po oblohe",
+      "b) Zdanlivého pohybu hviezd na oblohe",
+      "c) Z pohybu Zeme po ekliptike"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1143",
+    "questionPosition":56
+  },
+  {
+    "questionText":"GMT je svetový čas ",
+    "answers":[
+      "a) Geometrický",
+      "b) Astronomický",
+      "c) Geodetický"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1144",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Čas SEČ je voči času UTC posunutý o:",
+    "answers":[
+      "a) + 2 hod.",
+      "b) + 1 hod.",
+      "c)    0 hod"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1145",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Frekvencia na spojenie (napr. TWR Žilina ) je publikovaná v AIP-e, časť",
+    "answers":[
+      "a) ENR",
+      "b) GEN",
+      "c) AD"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1146",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Skratka NOTAM znamená",
+    "answers":[
+      "a) Oznámenie o vydaní leteckého obežníka",
+      "b) Oznámenie o lete",
+      "c) Oznámenie obsahujúce informácie o stave zariadenia alebo o zmene zariadenia, služby alebo postupy, alebo postupy, alebo informácie o nebezpečí, ich včasná znalosť je nevyhnutná pre pracovníkov zapojených do letovej prevádzky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1147",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Vizuálna približovacia mapa v mierke 1 : 200 000 je znázornená na výreze",
+    "answers":[
+      "a) správne je A",
+      "b) správne je B",
+      "c) správne je C"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1148",
+    "questionPosition":61,
+    "questionImage": "test_115.png"
+  },
+  {
+    "questionText":"Prilietavate k letisku Holešov. Z údajov publikovaných na priloženej leteckej mape ICAO je zrejmé, že   pre letisko Holešov je pravdivý údaj:",
+    "answers":[
+      "a) magnetický smer L (ľavej) dráhy je 231o, dĺžka dráhy je 1 800 m",
+      "b) dĺžka dráhy je 1 8 km",
+      "c) nadmorská výška letiska je 231 m a dĺžka najdlhšej dráhy je 1 800 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1149",
+    "questionPosition":62,
+    "questionImage": "test_116.png"
+  },
+  {
+    "questionText":"Pri príprave na navigačný let  ( z hľadiska leteckej navigácie ) musí pilot pred letom",
+    "answers":[
+      "a) mať platný pilotný preukaz",
+      "b) preštudovať publikácie AIP a NOTAM a presvedčiť sa, že trať letu nezasahuje do stálych, ani pre danú dobu aktivovaných zakázaných a obmedzených priestorov",
+      "c) preštudovať letovú príručku pre daný typ lietadla"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1150",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Pre približný prevod NM na km možno pri výpočtoch „spamäti“ použiť vzťah",
+    "answers":[
+      "a) NM :  2 – 10%",
+      "b) NM × 2 – 20%",
+      "c) NM x 2 – 10%"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1151",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Keď pilot po prelete orientačného bodu zistí znos, vráti sa na pôvodnú trať tak, že",
+    "answers":[
+      "a) Obráti pozdĺžnu os lietadla o dvojnásobný uhol znosu smerom k trati a letí novým kurzom rovnakú dobu, akú letel od orientačného bodu, nad ktorým bol ešte na trati",
+      "b) Opraví kurz letu o uhol znosu a letí týmto novým kurzom",
+      "c) Opraví kurz lietadla o dvojnásobný uhol znosu a pripočíta 180ْ"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1152",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Pri porovnávacej navigácii pilot orientuje mapu tak",
+    "answers":[
+      "a) Aby popis mapy bol vždy čitateľný, čiže aby vrchný okraj mapy smeroval vždy k palubnej doske",
+      "b) K severu zemepisnému",
+      "c) K význačnému orientačnému bodu na trati"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1153",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Z mapy sme zistili, že traťový uhol Tuz = 120ْ . Deklinácia je D = + 4ْ , deviácia je d = - 3ْ . Vypočítajte kurz lietadla pre bezvetrie.",
+    "answers":[
+      "a) Kk = 119ْ",
+      "b) Kk = 121ْ",
+      "c) Kk = 120ْ Keď:  Kz  - kurz zemepisný, Km – kurz magnetický, Kk – kurz kompasový, D – deklinácia, d – deviácia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1154",
+    "questionPosition":67
+  },
+  {
+    "questionText":"Bod posledného návratu je ",
+    "answers":[
+      "a) Kritický bod pri uvažovaní množstva paliva",
+      "b) Akčný rádius s obmedzením rýchlosti letu",
+      "c) Vzdialenosť na trati, kde až môže lietadlo doletieť, aby pri obmedzenom množstve paliva sa mohlo ešte vrátiť na letisko vzletu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1155",
+    "questionPosition":68
+  },
+  {
+    "questionText":"Vypočítajte polomer zatáčky, keď letíte rýchlosťou Vp = 160 km/h s náklonom ß = 30ْ .",
+    "answers":[
+      "a) R =    950 m",
+      "b) R =    350 m",
+      "c) R = 1,358 km"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1156",
+    "questionPosition":69
+  },
+  {
+    "questionText":"Využitie pozemného rádiolokátoru slúži",
+    "answers":[
+      "a) Na navigáciu posádky počas letu",
+      "b) Na sledovanie polohy lietadla prevádzkovateľom",
+      "c) Na sledovanie polohy lietadla službou RLP"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1157",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Priestorová navigácia umožňuje",
+    "answers":[
+      "a) Let po letových cestách, vrátane informácie o výške a čase",
+      "b) Let v priestore po letových cestách a aj letových líniách",
+      "c) Let lietadla po ľubovoľnej trati aj mimo schválených letových ciest a línií"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1158",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Vypočítajte potrebné množstvo LPH, vrátane navigačnej zásoby (45´), pre trať Lučenec – Nitra, ak je dané: Vp = 180 km/h, S = 120 km. Uvažujte so spotrebou 40 l/h, a s letom po okruhu 2 x 5´.",
+    "answers":[
+      "a) 69 l",
+      "b) 33 l",
+      "c) 63 l"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1159",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Atmosféra alebo vzdušný obal zeme sa delí na štyri vrstvy. Najnižšia z nich - troposféra dosahuje do výšky asi",
+    "answers":[
+      "a)   8   km",
+      "b) 11,5 km",
+      "c) 13    km"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1160",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Pitot-statická trubica je snímač",
+    "answers":[
+      "a) statického a dynamického tlaku ",
+      "b) dynamického a celkového tlaku",
+      "c) statického a celkového tlaku"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1161",
+    "questionPosition":74
+  },
+  {
+    "questionText":"Vztlaková čiara symetrického profilu je na obrázku",
+    "answers":[
+      "a)",
+      "b)",
+      "c)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1162",
+    "questionPosition":75,
+    "questionImage": "test_141.png"
+  },
+  {
+    "questionText":"Pri lete vo väčších výškach je rýchlosť vo výške v porovnaní s rýchlosťou pri zemi",
+    "answers":[
+      "a) menšia",
+      "b) rovnaká",
+      "c) väčšia"
+      ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1163",
+    "questionPosition":76
+  },
+  {
+    "questionText":"Časti štartu sú",
+    "answers":[
+      "a) rozbeh, vzlet, stúpanie",
+      "b) rozbeh, odpútanie, rozlet, prechod, stúpanie",
+      "c) rozbeh, odpútanie, prechod, stúpanie"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1164",
+    "questionPosition":77
+  },
+  {
+    "questionText":"Chvostové plochy slúžia k zabezpečeniu",
+    "answers":[
+      "a) stability, riaditeľnosti, vyvážiteľnosti (z hľadiska momentovej rovnováhy k ťažisku)",
+      "b) stability hmotového vyváženia, vytvorenia vyvažovacích síl",
+      "c) stability kompenzácie vplyvu vertikálnych a horizontálnych poryvov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1165",
+    "questionPosition":78
+  },
+  {
+    "questionText":"Prietok vzduchu diskom vrtule pre režim vrtuľový je správne znázornený na obrázku",
+    "answers":[
+      "a)",
+      "b)",
+      "c)"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1166",
+    "questionPosition":79,
+    "questionImage": "test_145.png"
+  },
+  {
+    "questionText":"Naznačený uhol na obrázku je",
+    "answers":[
+      "a) uhol nastavenia vrtule",
+      "b) uhol geometrického stúpania",
+      "c) uhol nábehu listu vrtule"
+    ],
+    "correctAnswerPosition": 2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1167",
+    "questionPosition":80,
+    "questionImage": "test_146.png"
+  },
+  {
+    "questionText":"Rýchlosť zvuku sa s výškou",
+    "answers":[
+      "a) nemení",
+      "b) zmenšuje",
+      "c) vzrastá"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1168",
+    "questionPosition":81
+  },
+  {
+    "questionText":"Pri kritickom Machovom čísle dochádza",
+    "answers":[
+      "a) na profile k takému urýchleniu prúdu vzduchu, že jeho miestna rýchlosť dosiahne rýchlosť    zvuku a vznikne slabá priama rázová vlna",
+      "b) ku vzniku rázovej vlny na nábežnej hrane",
+      "c) ku vzniku rázovej vlny na nábežnej a odtokovej hrane"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1169",
+    "questionPosition":82
+  },
+  {
+    "questionText":"Účinnosť je definovaná ako",
+    "answers":[
+      "a) pomer príkonu k výkonu",
+      "b) pomer výkonu k príkonu",
+      "c) súčin príkonu a výkonu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1170",
+    "questionPosition":83
+  },
+  {
+    "questionText":"Čím väčšia bude štíhlosť krídla, tým",
+    "answers":[
+      "a) väčší bude jeho indukovaný odpor",
+      "b)  menší bude jeho indukovaný odpor",
+      "c) sa indukovaný odpor lietadla zväčší"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1171",
+    "questionPosition":84
+  },
+  {
+    "questionText":"Aké sily pôsobia na lietadlo pri rovnovážnych režimoch letu?",
+    "answers":[
+      "a) tiaž lietadla, odstredivá sila, aerodynamická sila",
+      "b) tiaž lietadla, odstredivá sila, ťah pohonnej jednotky",
+      "c) tiaž lietadla, odstredivá sila, celková aerodynamická sila, ťah pohonnej jednotky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1172",
+    "questionPosition":85
+  },
+  {
+    "questionText":"Aby lietadlo letelo určitým režimom vodorovného letu, je treba, aby pohonná jednotka vyvodila tzv. potrebný výkon, ktorý vyjadruje vzťah",
+    "answers":[
+      "a) Pp = Y . v",
+      "b) Pp = X . v",
+      "c) Pp = X . v2"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1173",
+    "questionPosition":86
+  },
+  {
+    "questionText":"Pri vykonaní sklzovej zákruty sa lietadlo vytáča (pozdĺžna os smeruje)",
+    "answers":[
+      "a) do zákruty",
+      "b) von zo zákruty",
+      "c) nevytáča sa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1174",
+    "questionPosition":87
+  },
+  {
+    "questionText":"Mierou stlačiteľnosti vzduchu je",
+    "answers":[
+      "a) Machovo číslo",
+      "b) Reynoldsovo číslo",
+      "c) rýchlosť zvuku"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1175",
+    "questionPosition":88
+  },
+  {
+    "questionText":"Merítkom pozdĺžnej obratnosti je tzv. sila na násobok. Pri jej vyvodení sa násobok",
+    "answers":[
+      "a) zväčší o jedna",
+      "b) zväčší o dve",
+      "c) zmenší o jedna"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1176",
+    "questionPosition":89
+  },
+  {
+    "questionText":"Za základné rozdelenie letových vlastností považujeme delenie na",
+    "answers":[
+      "a) stabilitu s pevným a voľným riadením",
+      "b) stabilitu a riaditeľnosť",
+      "c) statickú a dynamickú stabilitu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1177",
+    "questionPosition":90
+  },
+  {
+    "questionText":"Neutrálny bod lietadla je bod, pre ktorý platí",
+    "answers":[
+      "a) súčiniteľ klopivého momentu je konštantný a nezávislý od uhlu nábehu",
+      "b) súčiniteľ klopivého momentu je nulový",
+      "c) je pôsobiskom vztlaku lietadla"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1178",
+    "questionPosition":91
+  },
+  {
+    "questionText":"Režimy práce vrtule sú",
+    "answers":[
+      "a) vrtulový, autorotácie, režim nulového ťahu",
+      "b) vrtulový, režim nulového ťahu, brzdenia (reverzie), nulového výkonu",
+      "c) vrtulový, vrtuľníkový, režim nulového ťahu, brzdenia, autorotácie, mlynkový režim"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1179",
+    "questionPosition":92
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Správa o pristátí“",
+    "answers":[
+      "a) APR",
+      "b) ARR",
+      "c) BCN"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1180",
+    "questionPosition":93
+  },
+  {
+    "questionText":"Vyberte správny kód pre „Tlak, indikujúci nadmorskú výšku“",
+    "answers":[
+      "a) QNH",
+      "b) QFF",
+      "c) QFE"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1181",
+    "questionPosition":94
+  },
+  {
+    "questionText":"Slovo „správne“ znamená",
+    "answers":[
+      "a) To je správne",
+      "b) Povolenie na požadovaný úkon je schválený",
+      "c) Rozumel som Vašej správe"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1182",
+    "questionPosition":95
+  },
+  {
+    "questionText":"UTC je skratka",
+    "answers":[
+      "a) Greenwichského času",
+      "b) Svetového koordinovaného času",
+      "c) Stredoeurópskeho času"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1183",
+    "questionPosition":96
+  },
+  {
+    "questionText":"Rádiové spojenie môže byť ukončené",
+    "answers":[
+      "a) Na pokyn leteckej stanice",
+      "b) Podľa uváženia lietadlovej stanice",
+      "c) Podľa potreby"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1184",
+    "questionPosition":97
+  },
+  {
+    "questionText":"Súčasťou skúšobného vysielania sú slová",
+    "answers":[
+      "a) Skúška zariadenia",
+      "b) Skúška vysielania",
+      "c) Skúška rádia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1185",
+    "questionPosition":98
+  },
+  {
+    "questionText":"Čitateľnosť skúšobného vysielania sa udáva",
+    "answers":[
+      "a) Piatimi stupňami",
+      "b) Troma stupňami",
+      "c) Štyrmi stupňami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1186",
+    "questionPosition":99
+  },
+  {
+    "questionText":"Ak lietadlová stanica nie je schopná nadviazať spojenie s leteckou stanicou na určenom kmitočte",
+    "answers":[
+      "a) Použije frázu „vysielam naslepo“",
+      "b) Pokúsi a o nadviazanie spojenia na inom kmitočte na danú trať",
+      "c) Ostane na príjme"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1187",
+    "questionPosition":100
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice letiskového stanoviska je názov",
+    "answers":[
+      "a) CONTROL",
+      "b) RADIO",
+      "c) VEŽA"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1188",
+    "questionPosition":101
+  },
+  {
+    "questionText":"Správne skrátenie volacej značky „CSA OK INY“ je nasledovné",
+    "answers":[
+      "a) CSA ONY",
+      "b) CS ONY",
+      "c) CSA NY"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1189",
+    "questionPosition":102
+  },
+  {
+    "questionText":"Tiesňová korešpondencia",
+    "answers":[
+      "a) Má prednosť pred všetkými ostatnými druhmi spojenia",
+      "b) Z hľadiska prednosti nasleduje za pilnostnou korešpondenciou",
+      "c) Nemá prednosti pred ostatným spojením"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1190",
+    "questionPosition":103
+  },
+  {
+    "questionText":"„PAN PAN“ je rádiotelefónny signál správy",
+    "answers":[
+      "a) Tiesňovej",
+      "b) Pilnostnej",
+      "c) Správy o rádiovom zameraní"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1191",
+    "questionPosition":104
+  },
+  {
+    "questionText":"Slovo „čakajte“ znamená",
+    "answers":[
+      "čakajte, zavolám Vás",
+      "čakajte a zavolajte neskôr",
+      "čakajte, nevypínajte rádio"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1192",
+    "questionPosition":105
+  },
+  {
+    "questionText":"Fráza „ako počujete“ znamená",
+    "answers":[
+      "Aká je čitateľnosť môjho vysielania?",
+      "Rozumel ste mi správne?",
+      "Počujete dobre?"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1193",
+    "questionPosition":106
+  },
+  {
+    "questionText":"Správne skrátenie volacej značky „OM ABC“ je nasledovné",
+    "answers":[
+      "ABC",
+      "OMC",
+      "OBC"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1194",
+    "questionPosition":107
+  },
+  {
+    "questionText":"Vo volacej značke leteckej stanice približovacieho radarového stanoviska je názov",
+    "answers":[
+      "RADAR",
+      "RADIO",
+      "APPROACH"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1195",
+    "questionPosition":108
+  },
+  {
+    "questionText":"Tiesňovú prevádzku môže ukončiť",
+    "answers":[
+      "stanica v tiesni",
+      "stanica v tiesni alebo stanica riadiaca",
+      "stanica riadiaca"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1196",
+    "questionPosition":109
+  },
+  {
+    "questionText":"Slovo „vykonám“ znamená",
+    "answers":[
+      "rozumiem Vašej správe a budem podľa nej postupovať",
+      "rozumiem Vášmu vysielaniu",
+      "prijal som všetko z Vášho posledného vysielania"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1197",
+    "questionPosition":110
+  },
+  {
+    "questionText":"Stanice leteckej pohyblivej služby používajú",
+    "answers":[
+      "greenwichský čas",
+      "svetový koordinovaný čas",
+      "stredoeurópsky čas"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1198",
+    "questionPosition":111
+  },
+  {
+    "questionText":"Môže skúšobné vysielanie obsahovať frázu „Skúška vysielania“?",
+    "answers":[
+      "áno ",
+      "nie ",
+      "podľa potreby"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1199",
+    "questionPosition":112
+  },
+  {
+    "questionText":"Vyberte správnu skratku pre „Klesajte do ...“  „Klesám do ...“",
+    "answers":[
+      "MOC",
+      "DES",
+      "DEST"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1200",
+    "questionPosition":113
+  },
+  {
+    "questionText":"Pri skúšobnom vysielaní stupeň 4 označuje, že správa je ",
+    "answers":[
+      "čitateľná",
+      "dokonale čitateľná",
+      "čitateľná, ale s obtiažami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1201",
+    "questionPosition":114
+  },
+  {
+    "questionText":"Pri vykonávaní výklzovej zákruty lietadlo vytáča (pozdĺžna os smeruje)",
+    "answers":[
+      "a) do zákruty",
+      "b) von zo zákruty",
+      "c) nevytáča sa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1202",
+    "questionPosition":115
+  },
+  {
+    "questionText":"Odpor, ktorý vzniká pri obtekaní krídla konečného rozpätia delíme na",
+    "answers":[
+      "a) tvarový, trecí",
+      "b) tvarový, trecí, indukovaný",
+      "c) tvarový, indukovaný, škodlivý"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1203",
+    "questionPosition":116
+  },
+  {
+    "questionText":"Ohnutie konca krídla smerom nahor alebo dole má za účinok",
+    "answers":[
+      "a) zväčšenie vztlaku",
+      "b) zväčšenie odporu",
+      "c) zmenšenie indukovaného odporu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1204",
+    "questionPosition":117
+  },
+  {
+    "questionText":"Vodorovné chvostové plochy majú na pozdĺžnu stabilitu lietadla",
+    "answers":[
+      "a) záporný vplyv",
+      "b) kladný vplyv",
+      "c) nemajú vplyv"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1205",
+    "questionPosition":118
+  },
+  {
+    "questionText":"U staviteľnej vrtuli pri zvyšovaní rýchlosti letu sa uhol nastavenia vrtule",
+    "answers":[
+      "a) zväčšuje",
+      "b) zmenšuje",
+      "c) nemení"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1206",
+    "questionPosition":119
+  },
+  {
+    "questionText":"Aerodynamickým vyvážením docieľujeme",
+    "answers":[
+      "a) odľahčenie sily na riadiacej páke plynule v celom rozsahu výchylky kormidla",
+      "b) dosiahnutie až nulovej sily v riadení pri určitom režime letu",
+      "c) elimináciu pôsobenia hmotových síl"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1207",
+    "questionPosition":120
+  },
+  {
+    "questionText":"Aby bolo lietadlo pozdĺžne stabilné musí platiť",
+    "answers":[
+      "a)  pôsobisko vztlaku lietadla musí byť pred ťažiskom",
+      "b)  ťažisko musí byť za neutrálnym bodom lietadla",
+      "c)  ťažisko musí byť pred neutrálnym bodom lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1208",
+    "questionPosition":121
+  },
+  {
+    "questionText":"Chvostové plochy slúžia k zabezpečeniu",
+    "answers":[
+      "a) stability, riaditeľnosti, vyvážiteľnosti (z hľadiska momentovej rovnováhy k ťažisku)",
+      "b) stability kompenzácie vplyvu vertikálnych a horizontálnych poryvov",
+      "c) stability hmotového vyváženia, vytvorenia vyvažovacích síl"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1209",
+    "questionPosition":122
+  },
+  {
+    "questionText":"Výsledná rýchlosť obtekaná na danom reze listu vrtule vzniká zložením",
+    "answers":[
+      "a) obvodovej rýchlosti a doprednej rýchlosti",
+      "b) uhlovej rýchlosti a doprednej rýchlosti",
+      "c) uhlovej a obvodovej rýchlosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1210",
+    "questionPosition":123
+  },
+  {
+    "questionText":"Bod prechodu je bodom, kde dochádza k",
+    "answers":[
+      "a) odtrhnutiu medznej vrstvy",
+      "b) rozdeleniu nabiehajúceho prúdu na profil",
+      "c) zmene laminárneho prúdenia v turbulentne"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1211",
+    "questionPosition":124
+  },
+  {
+    "questionText":"Rovník zviera s poludníkmi zemepisný smerník:",
+    "answers":[
+      "a)  45°",
+      "b)  90°",
+      "c)  180°"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1212",
+    "questionPosition":125
+  },
+  {
+    "questionText":"Izogóna je:",
+    "answers":[
+      "čiara spájajúca miesta s rovnakou presnosťou",
+      "čiara spájajúca miesta s nulovou deklináciou",
+      "čiara spájajúca miesta s rovnakou deklináciou"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1213",
+    "questionPosition":126
+  },
+  {
+    "questionText":"Jeden feet (stopa) je: (prevod ft na m)",
+    "answers":[
+      "0,3048 m",
+      "3,0480 m",
+      "30,4800 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1214",
+    "questionPosition":127
+  },
+  {
+    "questionText":"Slnko pri svojej zdanlivej dráhe po oblohe opísalo uhol 27°, koľko za tú dobu ubehlo času?",
+    "answers":[
+      "90 min",
+      "108 min",
+      "405 min"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1215",
+    "questionPosition":128
+  },
+  {
+    "questionText":"Pri približnom prevode NM/h na km/h možno pri výpočtoch „spamäti“ použiť vzťah:",
+    "answers":[
+      "NM/h x 2 – 20%",
+      "NM/h  : 2 – 10%",
+      "NM/h x 2 – 10%"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1216",
+    "questionPosition":129
+  },
+  {
+    "questionText":"Vypočítajte potrebné množstvo LPH, vrátene navigačnej zásoby (45´), pre trať Prešov – Lučenec, ak je dané: Vp = 180 km/h, S = 140 km. Uvažujte so spotrebou 40 l/h, a s letom po okruhu v trvaní 2 x 5´.",
+    "answers":[
+      "33 l",
+      "40 l",
+      "68 l"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1217",
+    "questionPosition":130
+  },
+  {
+    "questionText":"1000 ft / min je približne: ( prevod ft / min  na  m / s) ",
+    "answers":[
+      "2 m / s",
+      "5 m / s",
+      "10 m / s"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1218",
+    "questionPosition":131
+  },
+  {
+    "questionText":"Na mape v mierke 1 : 500 000 ste namerali medzi bodmi: OBT 1 a OBT 2 vzdialenosť 27,3 cm. Aká je to skutočná vzdialenosť?",
+    "answers":[
+      "13,65 km",
+      "136,5 km",
+      "1365 km"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1219",
+    "questionPosition":132
+  },
+  {
+    "questionText":"Slnko zapadá podľa Tabuľky pre 15°E v čase 20:12 SEČ L. Letíte do bodu KBT (22°10´E) kurzom 090°z VBT do KBT, ktorý sa nachádza vo vzdialenosti  S= 270 km, traťovou rýchlosťou W=180 km/h. Kedy najneskôr musíte vzlietnuť, aby ste pristáli najneskôr do západu slnka? Doba letu po okruhu je 2 x 5 min. ",
+    "answers":[
+      "18:04 SEČ L",
+      "19:34 SEČ L",
+      "17:04 UTC"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1220",
+    "questionPosition":133
+  },
+  {
+    "questionText":"Čo sú to orientačné body a čiary?",
+    "answers":[
+      "sú to výrazné objekty na mape",
+      "sú to výrazné objekty v priestore letiska, podľa ktorých uskutočňujeme prílet k letisku",
+      "sú to výrazné objekty v teréne, ktoré sú z lietadlo dobre viditeľné a pilot ich pri  porovnávaní s mapou môže využiť pre vedenie lietadla po trati"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1221",
+    "questionPosition":134
+  },
+  {
+    "questionText":"(Pre túto otázku použite prílohu č.: 3) Letíte v smere šípky. Pohorie, ktoré máte preletieť má nadmorskú výšku:",
+    "answers":[
+      "3796 ft",
+      "3796 m",
+      "3602 ft, neskôr až 3934 ft"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1222",
+    "questionPosition":135
+  },
+  {
+    "questionText":"(Pre túto otázku použite prílohu č.: 4) Z výrezu mapy v merítku 1:500 000 ste  zistili, že letisko, ktoré budete za niekoľko minút prelietavať má nadmorskú výšku: ",
+    "answers":[
+      "709 ft ",
+      "600 ft",
+      "122 ft"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1223",
+    "questionPosition":136
+  },
+  {
+    "questionText":"Rozdiel zemepisných dĺžok dvoch bodov na zemi je 10°, aký je rozdiel v čase (miestnom) medzi týmito bodmi?",
+    "answers":[
+      "20 min",
+      "40 min",
+      "1 h 20 min"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1224",
+    "questionPosition":137
+  },
+  {
+    "questionText":"Praktická presnosť v určení relatívneho smerníka pomocou rádiomajáka NBD je:",
+    "answers":[
+      "1°",
+      "5°",
+      "10°"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1225",
+    "questionPosition":138
+  },
+  {
+    "questionText":"Vypočítajte a správnu odpoveď vyznačte, keď je dané: Tuz = 300°, δ/U = 150 / 5 m/s, Vp = 180 km/h, S = 108 km.",
+    "answers":[
+      "Kz = 330°,\tUS = +3°,\tW = 165 km/h,\t\tt = 40 min",
+      "Kz = 303°,\tUS = -3°, \tW = 196 km/h, \t\tt = 33 min",
+      "Kz = 297°, \tUS = +3°, \tW = 196 km/h, \t\tt = 33 min"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1226",
+    "questionPosition":139
+  },
+  {
+    "questionText":"Indikovaná vzdušná rýchlosť je:",
+    "answers":[
+      "hodnota rýchlosti, ktorú čítame na rýchlomeri lietadla",
+      "vertikálna rýchlosť, ktorú indikuje prístroj v lietadle",
+      "rýchlosť okolitého vzduchu, meraná Pitotovou trubicou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1227",
+    "questionPosition":140
+  },
+  {
+    "questionText":"Magnetický kompas lietadla indikuje hodnotu: E. Z deviačnej tabuľky zistíme, že: d = +3°, z leteckej mapy zistíme, že : D = -1°. Aký je kurz zemepisný?",
+    "answers":[
+      "Kz = 088°",
+      "Kz = 090°",
+      "Kz = 092° Keď:  Kz  - kurz zemepisný, Km – kurz magnetický, Kk – kurz kompasový, D – deklinácia, d – deviácia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1228",
+    "questionPosition":141
+  },
+  {
+    "questionText":"168 NN je: ",
+    "answers":[
+      "301,1 km",
+      "311,1 km",
+      "321,1 km"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1229",
+    "questionPosition":142
+  },
+  {
+    "questionText":"Máme dané: Kz = 080°,  Km = 086°,  Kk = 090°. Aká je deklinácia a deviácia?",
+    "answers":[
+      "D = -6°\td = -4°",
+      "D = +6°, \td = +4°",
+      "D = +6°, \td = -4°"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1230",
+    "questionPosition":143
+  },
+  {
+    "questionText":"Čas UTC je voči času SEČ posunutý o:",
+    "answers":[
+      "– 1 hod",
+      "+ 1 hod",
+      "– 2 hod"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1231",
+    "questionPosition":144
+  },
+  {
+    "questionText":"Astronomické svitanie alebo súmrak nastávajú, ak je slnko:",
+    "answers":[
+      "15° pod horizontom",
+      "16°pod horizontom",
+      "18°pod horizontom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1232",
+    "questionPosition":145
+  },
+  {
+    "questionText":"Aký je UTC na zemepisnej dĺžke 76°41´W, ak je jeho LMT = 7 hod 00 min?",
+    "answers":[
+      "10 hod 06 min 44 sek",
+      "14 hod 15 min 12 sek",
+      "12 hod 06 min 44 sek "
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1233",
+    "questionPosition":146
+  },
+  {
+    "questionText":"Aká je teplota vo výške 800 m nad letiskom pri suchoadiabatickom teplotnom zvrstvení ovzdušia, ak má dané letisko teplotu 16°C?",
+    "answers":[
+      "8°C",
+      "12°C",
+      "16°C"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1234",
+    "questionPosition":147
+  },
+  {
+    "questionText":"Inovať, ktorá sa počas pokojnej noci vytvorila na parkujúcom lietadle, je dôsledkom",
+    "answers":[
+      "prúdenia studeného a dostatočne vlhkého vzduchu ",
+      "rýchleho ochladenia vzduchu s vysokým obsahom vodnej pary",
+      "ochladenia vzduchu na teplotu rosného bodu, ktorého hodnota leží pod bodom mrazu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1235",
+    "questionPosition":148
+  },
+  {
+    "questionText":"Aký význam má skratkové slovo (indikátor) NOSIG v pristávacej predpovedi?",
+    "answers":[
+      "počas nasledujúcich dvoch hodín sa neočakávajú významnejšie zmeny poveternostných prvkov a javov",
+      "počas nasledujúcej hodiny sa počasie významnejšie nezmení",
+      "žiadna významná zmena sa do času vydania najbližšej pravidelnej správy neočakáva"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1236",
+    "questionPosition":149
+  },
+  {
+    "questionText":"Čo znamená v meteorologickej správe pre letectvo skratka BKN (broken)",
+    "answers":[
+      "obloha je úplne pokrytá oblakmi",
+      "pokrytie oblakov od 5/8 do 7/8",
+      "pokrytie oblohy kolíše od bezoblačna do úplného pokrytia oblohy"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1237",
+    "questionPosition":150
+  },
+  {
+    "questionText":"Čo sa rozumie pod označením TAF ",
+    "answers":[
+      "aktuálne počasie na letisku",
+      "pristávacia predpoveď",
+      "letisková predpoveď"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1238",
+    "questionPosition":151
+  },
+  {
+    "questionText":"Prevod rýchlosti vetra z uzlov na ms-1 vyjadruje vzťah",
+    "answers":[
+      "1 kt  = 2 ms-1",
+      "1 kt = 0,5 ms-1",
+      "1 kt = 0,75 ms-1"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1239",
+    "questionPosition":152
+  },
+  {
+    "questionText":"Výskyt alebo očakávaný výskyt silnej námrazy obsahuje",
+    "answers":[
+      "TAF",
+      "TREND",
+      "SIGMET"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1240",
+    "questionPosition":153
+  },
+  {
+    "questionText":"Zrážky na teplom fronte sú predovšetkým",
+    "answers":[
+      "dažďové alebo snehové prehánky",
+      "mrholenie alebo trvalé zrážky",
+      "búrkové zrážky a krúpy "
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1241",
+    "questionPosition":154
+  },
+  {
+    "questionText":"Snímače vetromerných prístrojov slúžiacich na zabezpečovanie letectva sa umiestňujú nad úrovňou dráhy",
+    "answers":[
+      "6 m",
+      "10 m",
+      "15 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1242",
+    "questionPosition":155
+  },
+  {
+    "questionText":"Podmienkou zaraďovania informácie o RVR do správy METAR je",
+    "answers":[
+      "pokles RVR pod 2000 m a dohľadnosti pod 5 km ",
+      "pokles RVR pod  letiskové prevádzkové minimá",
+      "pokles RVR pod 1500 m, alebo pokles VIS pod 1500 m, alebo pokles RVR i VIS pod 1500m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1243",
+    "questionPosition":156
+  },
+  {
+    "questionText":"Aké nebezpečenstvo hrozí pri lete VFR naprieč teplým frontom?",
+    "answers":[
+      "nehrozí žiadne zvláštne nebezpečenstvo ",
+      "nízka oblačnosť, zhoršená dohľadnosť a trvalé zrážky",
+      "prehánky, silný nárazový vietor"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1244",
+    "questionPosition":157
+  },
+  {
+    "questionText":"Výskyt alebo očakávaný výskyt krúp (ľadovca) a silnej turbulencie obsahuje",
+    "answers":[
+      "SIGMET",
+      "TAF",
+      "METAR-SPECI"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1245",
+    "questionPosition":158
+  },
+  {
+    "questionText":"Akú výšku indikuje tlakový výškomer v lietadle počas letu, ak sa na jeho tlakovú stanicu nastaví QNH?",
+    "answers":[
+      "výška lietadla nad MSL ",
+      "výška lietadla nad izobarickou hladinou 1012 hPa",
+      "výška lietadla nad letiskom, na ktorom sa nameral tlak"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1246",
+    "questionPosition":159
+  },
+  {
+    "questionText":"Ktoré z uvedených údajov zahrňuje definícia ICAO medzinárodnej štandardnej atmosféry?",
+    "answers":[
+      "relatívna vlhkosť 100%, gradient teploty 1°C/100 m, tlak vzduchu v MSL 760 Torr, teplota vzduchu na MSL 15°C",
+      "teplota  vzduchu na MSL 15°C,  relatívna vlhkosť 50%, gradient teploty 0,65°C/100 m, tlak vzduchu na MSL 29,92 in ",
+      "tlak vzduchu na MSL 1013,2 hPa, teplota  vzduchu na MSL 15°C, relatívna vlhkosť 0%, teplotný gradient 0,65°C/100 m "
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1247",
+    "questionPosition":160
+  },
+  {
+    "questionText":"Aké javy sú charakteristické pre studený front v lete",
+    "answers":[
+      "nárazy vetra, rýchly vzostup tlaku a mrholenie",
+      "mrholenie, hmly a prehánky",
+      "búrky a prehánky"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1248",
+    "questionPosition":161
+  },
+  {
+    "questionText":"Skratkové slovo CAVOK sa do správy METAR zaraďuje namiesto skupín o",
+    "answers":[
+      "vetre, dohľadnosti a oblačnosti  ",
+      "dohľadnosti, stave počasia a oblačnosti",
+      "dohľadnosti a oblačnosti"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1249",
+    "questionPosition":162
+  },
+  {
+    "questionText":"Čo sú izohypsy? Čiary",
+    "answers":[
+      "rovnakej výšky určitej izobarickej hladiny",
+      "rovnakej výšky izotermy 0°C",
+      "rovnakej výšky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1250",
+    "questionPosition":163
+  },
+  {
+    "questionText":"Elektromagnetické vlny, ktoré sa šíria v blízkosti zemského povrchu a ktoré sa jeho vplyvom ohýbajú nazývame",
+    "answers":[
+      "priestorová vlna ",
+      "povrchová vlna",
+      "priama vlna"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1251",
+    "questionPosition":164
+  },
+  {
+    "questionText":"Letecké rádiové a rádionavigačné zariadenia pracujú na princípe šírenia sa",
+    "answers":[
+      "Elektromagnetických vĺn",
+      "Ultrazvukových vĺn",
+      "Akustických vĺn"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1252",
+    "questionPosition":165
+  },
+  {
+    "questionText":"Statická elektrina vzniká v dôsledku",
+    "answers":[
+      "letu v blízkosti búrkových mrakov",
+      "trenia povrchu lietadla o okolitý vzduch",
+      "letu nad silnými priemyselnými zdrojmi elektromagnetického poľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1253",
+    "questionPosition":166
+  },
+  {
+    "questionText":"Prijímač komunikačnej rádiostanice pracuje na princípe",
+    "answers":[
+      "zosilnenia prijatého signálu",
+      "zosilnenia oddelenej nosnej vlny",
+      "oddelenia modulačného signálu od nosnej vlny"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1254",
+    "questionPosition":167
+  },
+  {
+    "questionText":"Rádiokomunikačné a rádionavigačné zariadenia pred spustením a pred vypnutím pohonnej jednotky",
+    "answers":[
+      "Musia byť vypnuté",
+      "Môže sa používať len rádiovýškomer",
+      "Nesmú sa používať v režime vysielania"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1255",
+    "questionPosition":168
+  },
+  {
+    "questionText":"Ak nevyhovuje letové povolenie veliteľovi lietadla môže",
+    "answers":[
+      "požiadať o jeho zmenu",
+      "postupovať podľa prevádzkových podmienok v súlade so zásadami bezpečnosti prevádzky",
+      "postupovať tak, aby neporušil platné pravidlá a predpisy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1256",
+    "questionPosition":169
+  },
+  {
+    "questionText":"Pri zvláštnych letoch VFR na okruhu letiska rozstupy zabezpečujú",
+    "answers":[
+      "sami piloti",
+      "piloti lietadiel, ak vyhlásia, že môžu rozstupy dodržať sami",
+      "príslušné stanovištia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1257",
+    "questionPosition":170
+  },
+  {
+    "questionText":"Oblastnú službu riadenia poskytuje",
+    "answers":[
+      "oblastné stredisko riadenia ",
+      "organizácia letovej prevádzky",
+      "oblastné stanovisko riadenia letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1258",
+    "questionPosition":171
+  },
+  {
+    "questionText":"Vertikálne alebo horizontálne rozostupy medzi letmi VFR a IFR sa musia zabezpečovať",
+    "answers":[
+      "v priestore letových ciest",
+      "v riadenom okrsku letiska",
+      "vo vzdušnom priestore triedy C"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1259",
+    "questionPosition":172
+  },
+  {
+    "questionText":"Vertikálne polohy lietadiel letiacich na trati sa vyjadrujú počas letu pod najnižšou použiteľnou letovou hladinou alebo v prevodnej nadmorskej výške a pod ňou",
+    "answers":[
+      "nadmorskou výškou",
+      "letovou hladinou",
+      "letovou výškou"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1260",
+    "questionPosition":173
+  },
+  {
+    "questionText":"Rolovacie svetlá alebo ich časť sa môžu vypnúť, keď",
+    "answers":[
+      "ich už lietadlo nepotrebuje",
+      "lietadlo stojí",
+      "nesvietia ich dráhové svetlá"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1261",
+    "questionPosition":174
+  },
+  {
+    "questionText":"Všetky časové údaje vo formulári letového plánu",
+    "answers":[
+      "sa vypĺňajú 2 číslicami v UTC",
+      "sa vypĺňajú 4 číslicami v GMT",
+      "sa vypĺňajú 4 číslicami v UTC"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1262",
+    "questionPosition":175
+  },
+  {
+    "questionText":"Kód 7500 je medzinárodne rezervovaný na použitie pilotom, ktorý",
+    "answers":[
+      "stratil spojenie",
+      "ktorého lietadlo je predmetom nezákonného zásahu",
+      "sa ocitol v stave núdze"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1263",
+    "questionPosition":176
+  },
+  {
+    "questionText":"Lietadlu sa môže povoliť rolovať po dráhe v používaní",
+    "answers":[
+      "pri malej hustote prevádzky",
+      "ak je tak schválené miestnymi postupmi",
+      "za predpokladu, že to nebude mať za následok nebezpečenstva alebo zdržanie iných lietadiel"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1264",
+    "questionPosition":177
+  },
+  {
+    "questionText":"Výraz „ dráha v používaní“ sa používa na označenie vzletovej a pristávacej dráhy zvolenej stanovišťom poskytujúcim letiskovú službu riadenia v určitom čase ako",
+    "answers":[
+      "najviac využívanej",
+      "najvhodnejšej na vzlety a pristátia očakávaných typov lietadiel",
+      "najviac využívanú pre IFR lety"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Ukážkový test",
+    "categoryName":"Ukážkový test",
+    "id":"1265",
+    "questionPosition":178
+  }
+]

@@ -1,0 +1,964 @@
+[
+  {
+    "questionText":"Letecké práce sú špeciálna obchodná letecká činnosť, uskutočňovaná",
+    "answers":[
+      "a) pri preprave osôb a nákladu na základe zvláštnej dohody",
+      "b) lietadlami hlavne v poľnohospodárstve, stavebníctve, pri fotografovaní, mapovaní a pod.",
+      "c) na prianie zákazníka"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"132",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Letová doba je celková doba od okamihu, kedy sa lietadlo",
+    "answers":[
+      "a) po prvýkrát začne vlastnou silou pohybovať na vzlet až do okamihu, kedy sa lietadlo zastaví po ukončení letu",
+      "b) začne pohybovať na VPD až do okamihu, kedy po pristátí na VPD zastaví",
+      "c) odpúta od VPD až po okamih, kedy sa pri pristátí dotkne VPD"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"133",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Letová príručka je dokument nadväzujúci na vydanie",
+    "answers":[
+      "a) osvedčenia o zápise do registra",
+      "b) osvedčenia o letovej spôsobilosti",
+      "c) prevádzkovej príručky"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"134",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Všeobecné letectvo zahŕňa všetku leteckú prevádzku civilných lietadiel, okrem",
+    "answers":[
+      "a) pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme a letecké práce",
+      "b) pravidelných letov a nepravidelných dopravných letov za odplatu alebo v prenájme",
+      "c) leteckých prác"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"135",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Veliteľ lietadla je zodpovedný za",
+    "answers":[
+      "a) riadenie a prevádzku lietadla a bezpečnosť všetkých osôb na palube",
+      "b) prevádzku a bezpečnosť lietadla",
+      "c) prevádzku a bezpečnosť lietadla a za bezpečnosť všetkých osôb na palube lietadla počas letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"136",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Ak si vynúti núdzová situácia, pri ktorej je ohrozená bezpečnosť lietadla alebo osôb použiť opatrenia, ktorými sa narušia pravidlá alebo postupy, upovedomí o tom veliteľ lietadla okamžite",
+    "answers":[
+      "a) príslušné stanovisko prevádzkových služieb",
+      "b) príslušný úrad alebo orgán",
+      "c) príslušný letecký úrad"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"137",
+    "questionPosition":6
+  },
+  {
+    "questionText":"V prípade nehody lietadla, pri ktorej došlo k ťažkému zraneniu alebo smrti niektorej osoby alebo k podstatnému poškodeniu lietadla alebo majetku, je veliteľ lietadla zodpovedný za podanie správy najrýchlejšou možnou cestou",
+    "answers":[
+      "a) najbližšiemu príslušnému úradu alebo orgánu",
+      "b) príslušnému leteckému úradu",
+      "c) príslušnému stanovisku prevádzkových služieb"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"138",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Veliteľ lietadla musí mať na palube k dispozícii dôležité informácie o pátracích a záchranných službách v oblastiach",
+    "answers":[
+      "a) doletu lietadla",
+      "b) riadených príslušnými prevádzkovými službami",
+      "c) nad ktorými zamýšľa letieť"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"139",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Veliteľ lietadla nesmie začať lei, pokiaľ primeranými prostriedkami nezistí, že zariadenia, ktoré sú k dispozícii a na let a bezpečnú prevádzku požadované, sú",
+    "answers":[
+      "a) na tento účel dostačujúce",
+      "b) v prevádzkyschopnom stave",
+      "c) vyhovujúce"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"140",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Veliteľ lietadla nesmie letieť na letisko alebo z letiska počas meteorologických podmienok horších, ako sú",
+    "answers":[
+      "a)VMC",
+      "b) letiskové prevádzkové minimá",
+      "c)IMC"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"141",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Veliteľ lietadla musí zabezpečiť, aby členovia posádky a cestujúci boli oboznámení s umiestnením a spôsobom použitia",
+    "answers":[
+      "a) prostriedkov na opustenie lietadla v núdzi",
+      "b) bezpečnostných pásov",
+      "c) špeciálnych zariadení"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"142",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že lietadlo je spôsobilé na let a má",
+    "answers":[
+      "a) osvedčenie o zápise do registra",
+      "b) povolenie na prevádzku rádiostanice a schválený letový plán",
+      "c) platné osvedčenie letovej spôsobilosti a príslušné doklady sú na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"143",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ sa veliteľ lietadla nepresvedčí, že prístroje a zariadenia, inštalované v lietadle sú vzhľadom na predpokladané letové podmienky",
+    "answers":[
+      "a) dostatočné",
+      "b) primerané",
+      "c) vyhovujúce"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"144",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že hmotnosť lietadla je vzhľadom na predpokladané letové podmienky",
+    "answers":[
+      "a) vyhovujúca",
+      "b) dostatočná",
+      "c) v medziach prípustných limitov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"145",
+    "questionPosition":14
+  },
+  {
+    "questionText":"Let sa nesmie začať, pokiaľ si veliteľ lietadla neoverí, že všetok dopravovaný náklad je",
+    "answers":[
+      "a) správne rozložený a bezpečne zaistený",
+      "b) zapísaný v dopravných dokladoch",
+      "c) správne vyvážený"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"146",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Počas letu každého civilného lietadla musia byť na palube, s výnimkou skúšobného letu, tieto doklady a dokumentácia",
+    "answers":[
+      "a) osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, lietadlová kniha, motorová kniha, podaný letový plán, letová a prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "b) osvedčenie o zápise do registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, rozkaz k letu, letová príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov",
+      "c) osvedčenie o zápise do leteckého registra, platné osvedčenie o letovej spôsobilosti, povolenie na zriadenie a prevádzkovanie palubnej rádiostanice, palubný denník alebo iný doklad, ktorý ho nahradzuje, podaný letový plán, letová príručka, pre dopravné lety prevádzková príručka, potvrdenie o údržbe, zoznam núdzových a záchranných prostriedkov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"147",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Príprava ku všetkým letom musí z hľadiska meteorologických podmienok obsahovať",
+    "answers":[
+      "a)\tštúdium predpovedí počasia a plánovania náhradných postupov",
+      "b)\tštúdium vhodných platných správ o počasí a predpovedí počasia a plánovania náhradných postupov pre prípad, že nebude možné plánovaný let vzhľadom na poveternostné podmienky vykonať",
+      "c)\tštúdium vhodných platných správ o počasí a predpovedí počasia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"148",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Let VFR sa nesmie začať, pokiaľ platné meteorologické správy alebo kombinácie správ a predpovedí neukazujú, že meteorologické podmienky pozdĺž trate, ktorá sa má letieť za viditeľnosti, alebo jej časti, budú v predpokladanej dobe také, aby",
+    "answers":[
+      "a) dodržanie týchto pravidiel umožnili",
+      "b) sa let mohol dokončiť",
+      "c) zodpovedali letiskovým prevádzkovým minimám"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"149",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Let VFR sa nesmie začať, pokiaľ lietadlo nemá dostatok pohonných látok a oleja",
+    "answers":[
+      "a) na letisko plánovaného pristátia plus 30 minút",
+      "b) na dolet na letisko plánovaného pristátia a potom ešte na let na náhradné letisko",
+      "c) na zaistenie bezpečného vykonania letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"150",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Veliteľ lietadla je zodpovedný za to, že let sa nezačne, ak ktorýkoľvek člen posádky je neschopný vykonať službu z akejkoľvek príčiny, ako napríklad",
+    "answers":[
+      "a) zranenie, choroba, únava, účinky alkoholu alebo drog",
+      "b) zranenie, choroba, nedostatok kyslíka, účinky alkoholu alebo liekov",
+      "c) choroba, únava, účinky alkoholu alebo drog"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"151",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Ak sa schopnosť členov posádky podstatne zníži, je veliteľ lietadla zodpovedný za to, že v lete bude pokračovať",
+    "answers":[
+      "a) podľa letového plánu",
+      "b) len na najbližšie vhodné letisko",
+      "c) na letisko s lekárskou službou"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"152",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Každý člen posádky, pokiaľ je na svojom pracovnom mieste, musí mať svoje bezpečnostné pásy",
+    "answers":[
+      "a) pripravené na použitie",
+      "b) zapnuté",
+      "c) uložené vedľa seba"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"153",
+    "questionPosition":22
+  },
+  {
+    "questionText":"U lietadiel, ktoré sú vybavené bezpečnostnými postrojmi, musia mať členovia posádky na pilotných sedadlách pásy zapnuté:",
+    "answers":[
+      "a) počas vzletu a pristátia",
+      "b) počas celého letu",
+      "c) počas cvičného letu"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"154",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Lietadlo sa musí používať v súlade",
+    "answers":[
+      "a) s príručkou na obsluhu a údržbu",
+      "b) s prevádzkovou príručkou",
+      "c) s osvedčením o letovej spôsobilosti alebo v súlade s obdobným schváleným dokumentom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"155",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "a) ľahko dostupnou skrinkou prvej pomoci",
+      "b) núdzovým majákom",
+      "c) zásobníkom kyslíka"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"156",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Všetky lietadlá, s výnimkou klzákov, musia byť pri všetkých letoch vybavené",
+    "answers":[
+      "a) prenosnými hasiacimi prístrojmi",
+      "b) zariadením na dávanie pyrotechnických tiesňových signálov",
+      "c) súpravou núdzovej rádiostanice"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"157",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Všetky lietadlá pri všetkých letoch musia byť vybavené",
+    "answers":[
+      "a) elektrickým svietidlom pre každé pracovisko",
+      "b) zoznamom vizuálnych signálov používaných zakročujúcim lietadlom a lietadlom narušiteľa",
+      "c) bezpečnostnými postrojmi na všetkých sedadlách"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"158",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR na trati musia byť vybavené",
+    "answers":[
+      "a) magnetickým kompasom, palubnými hodinami, rýchlomerom, citlivým barometrickým výškomerom",
+      "b) magnetickým kompasom, palubnými hodinami, rýchlomerom, rádiovýškomerom, variometrom",
+      "c) kompasom, hodinami, rýchlomerom, citlivým barometrickým výškomerom, variometrom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"159",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Všetky pozemné jednomotorové lietadlá, ktoré prelietavajú vodnú plochu na trati vo vzdialenosti väčšej ako je tá, z ktorej môžu dosiahnuť pobrežie kĺzavým letom, musia byť vybavené",
+    "answers":[
+      "a) záchrannými člnmi v dostatočnom počte, aby uniesli všetky osoby, ktoré sú na palube",
+      "b) súpravou vodotesnej núdzovej rádiostanice",
+      "c)\tzáchrannou vestou alebo rovnocennými individuálnymi záchrannými prostriedkami pre každú osobu na palube"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"160",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "a) obrysovými svetlami",
+      "b) nevyhnutným výstrojom na zabezpečenie svetelného vyznačenia lietadiel",
+      "c) protizrážkovým majákom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"161",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "a) pristávacím a rolovacím svetlometom",
+      "b) protizrážkovým majákom",
+      "c) osvetlením všetkých prístrojov a zariadení potrebných na zaistenie bezpečnosti lietadla"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"162",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Všetky lietadlá pri nočných letoch musia byť vybavené",
+    "answers":[
+      "a) signálnymi kódmi na spojenie medzi zemou a lietadlami",
+      "b) elektrickou lampou na každé pracovisko členov posádky",
+      "c) prístrojom udávajúcim v pilotnej kabíne teplotu vonkajšieho vzduchu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"163",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Všetky lietadlá pri riadených letoch VFR musia byť vybavené rádiovým spojovacím výstrojom, ktorý umožní obojsmerné spojenie so všetkými leteckými stanicami",
+    "answers":[
+      "a) na frekvenciách leteckého pásma",
+      "b) na frekvenciách VKV",
+      "c) na frekvenciách predpísaných príslušnými úradmi"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"164",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Rádiový spojovací výstroj musí zaistiť spojenie na leteckom tiesňovom kmitočte",
+    "answers":[
+      "a) 124,15 MHz",
+      "b) 121,5   MHz",
+      "c) 125,1    MHz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"165",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené navigačným výstrojom, ktorý im umožní let",
+    "answers":[
+      "a) podľa letového poriadku",
+      "b) podľa letového plánu",
+      "c) podľa požiadaviek prevádzkovateľa"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"166",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Navigácia letu VFR môže byť vykonávaná porovnávacou navigáciou podľa orientačných bodov na zemi, vzdialených od seba aspoň každých",
+    "answers":[
+      "a) 25 km",
+      "b) 50 km",
+      "c) 75 km"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"167",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Všetky lietadlá musia byť vybavené takým navigačným výstrojom, aby v prípade poruchy niektorej jeho časti v ktoromkoľvek okamihu letu, zvyšok výstroja zaručoval vykonávanie navigácie podľa",
+    "answers":[
+      "a) pokynov služby riadenia letovej prevádzky",
+      "b) schváleného letového poriadku",
+      "c) pravidiel letu za VFR"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"168",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný zostaviť výcvikový program a vykonávať",
+    "answers":[
+      "a) školenie a výcvik posádok",
+      "b) preškoľovanie posádok",
+      "c) preskúšania posádok"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"169",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Prevádzkovateľ lietadla je zodpovedný za to, že preukaz každého člena posádky",
+    "answers":[
+      "a) je platný",
+      "b) bol vydaný Štátnou leteckou inšpekciou",
+      "c) bol vydaný alebo uznaný za platný leteckým úradom"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"170",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Počet a zloženie členov posádky nesmie byť menšie ako je stanovené",
+    "answers":[
+      "a) v prevádzkovej príručke",
+      "b) v letovej príručke",
+      "c) v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"171",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Prevádzkovateľ je povinný stanoviť povinnosti pre každého člena posádky oddelene",
+    "answers":[
+      "a) v letovej príručke",
+      "b) v prevádzkovej príručke",
+      "c) v technickej príručke"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"172",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Na preukázanie schopností svojich pilotov musí prevádzkovateľ",
+    "answers":[
+      "a) vykonať periodické preskúšanie",
+      "b) vykonať kontrolu techniky pilotáže",
+      "c) preskúšať techniku pilotáže a schopnosť vykonávať núdzové postupy"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"173",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Piloti z povolania bez IFR kvalifikácie sa musia podrobiť preskúšaniu z techniky pilotáže a schopnosti vykonávať núdzové postupy, najmenej raz za",
+    "answers":[
+      "a)\t12 mesiacov",
+      "b) 6 mesiacov",
+      "c) 9 mesiacov"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"174",
+    "questionPosition":43
+  },
+  {
+    "questionText":"Prevádzkovateľ nesmie ustanoviť pilota do funkcie veliteľa lietadla na typ lietadla, na ktorom nevykonal najmenej tri štarty a pristátia za posledných",
+    "answers":[
+      "a) 30 dní",
+      "b) 60 dní",
+      "c) 90 dní"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"175",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná",
+    "answers":[
+      "a) trať, ktorú má preletieť a letiská, ktoré majú byť použité",
+      "b) trať letu a cieľové letisko",
+      "c) trať, ktorú má preletieť a letisko na trati"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"176",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná",
+    "answers":[
+      "a) výšku letu na trati",
+      "b) terén a minimálne bezpečné výšky",
+      "c) terén a výšku letu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"177",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Každý pilot musí preukázať prevádzkovateľovi, že pozná",
+    "answers":[
+      "a) sezónne meteorologické podmienky, spojovacie služby, postupy pri nehode",
+      "b) sezónne meteorologické podmienky, spojovacie a zabezpečovacie služby, postupy na pátranie a záchranu",
+      "c) meteorologické podmienky, zabezpečovacie služby, postupy na pátranie a záchranu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"178",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Prevádzkovateľ musí udržovať záznamy o kvalifikácii výkonných letcov a záznamy o spôsobe, akým sa táto kvalifikácia",
+    "answers":[
+      "a) predlžovala",
+      "b) udržovala",
+      "c) dosahovala"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"179",
+    "questionPosition":48
+  },
+  {
+    "questionText":"Každý člen posádky je povinný mať u seba pri každom lete",
+    "answers":[
+      "a) platný preukaz spôsobilosti",
+      "b) pilotný preukaz",
+      "c) občiansky preukaz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"180",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Lety civilných lietadiel sa z hľadiska účelu rozdeľujú na lety",
+    "answers":[
+      "a) dopravné, na zvláštne účely, školské a výcvikové, skúšobné, overovacie, športové",
+      "b) dopravné, špeciálne, športové, školské a výcvikové, skúšobné",
+      "c) dopravné, školské a výcvikové, skúšobné, overovacie, športové"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"181",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Dopravné lety sú lety vykonávané za účelom",
+    "answers":[
+      "a) pravidelnej leteckej dopravy",
+      "b) pravidelnej a nepravidelnej leteckej dopravy",
+      "c) prepravy cestujúcich, nákladu a pošty"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"182",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Lety na zvláštne účely sú lety:",
+    "answers":[
+      "a) špeciálnej leteckej činnosti",
+      "b) na objednávku",
+      "c) nepravidelnej leteckej dopravy"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"183",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Školské a výcvikové lety sú lety vykonávané výhradne na",
+    "answers":[
+      "a) základný výcvik leteckého personálu",
+      "b) školenie, výcvik a na preskúšavanie leteckého personálu",
+      "c) školenie a preskúšavanie leteckého personálu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"184",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Skúšobné lety sú lety, ktorými sa preskúšavajú lietadlá a ich príslušenstvo. Sú to",
+    "answers":[
+      "a) skúšobné lety prototypov a experimentálne upravených lietadiel, skúšobné lety sériových lietadiel a skúšobné lety prevádzkové",
+      "b) skúšobné lety prototypov a sériových lietadiel",
+      "c) skúšobné lety na získanie osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"185",
+    "questionPosition":54
+  },
+  {
+    "questionText":"Overovacie lety sú lety, konané na overovanie a zistenie parametrov",
+    "answers":[
+      "a) prostriedkov zabezpečovacej leteckej techniky z paluby lietadla a na kontrolu prevádzkyschopnosti letísk",
+      "b) sériových lietadiel na vydanie osvedčenia o letovej spôsobilosti",
+      "c) lietadiel v prevádzke na predĺženie platnosti osvedčenia o letovej spôsobilosti"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"186",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Športové lety sú lety vykonávané za účelom",
+    "answers":[
+      "a) školenia a výcviku v aerokluboch",
+      "b) športových výkonov",
+      "c) školenia a prípravy pilotov na športové výkony"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"187",
+    "questionPosition":56
+  },
+  {
+    "questionText":"Pri letoch na zvláštne účely, školských a výcvikových, skúšobných a overovacích, môžu byť na palube lietadla okrem posádky",
+    "answers":[
+      "a) osoby, ktoré sú poverené plnením úloh súvisiacich s letom",
+      "b) osoby vlastniace preukaz spôsobilosti",
+      "c) osoby s platným cestovným dokladom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"188",
+    "questionPosition":57
+  },
+  {
+    "questionText":"Lety civilných lietadiel z hľadiska priestoru, v ktorom sa vykonávajú, sú",
+    "answers":[
+      "a) letiskové lety, mimoletiskové lety a prelety",
+      "b) letiskové lety a navigačné lety",
+      "c) vnútroštátne lety a medzinárodné lety"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"189",
+    "questionPosition":58
+  },
+  {
+    "questionText":"Mimoletiskové lety a prelety sa rozdeľujú na lety",
+    "answers":[
+      "a) navigačné a oblety",
+      "b) vnútroštátne a medzinárodné",
+      "c) oblastné a medzioblastné"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"190",
+    "questionPosition":59
+  },
+  {
+    "questionText":"Lety všetkých civilných lietadiel nad územím SR sa rozdeľujú podľa poveternostných podmienok, dennej doby, výšky a podľa rozsahu, v akom sa poskytujú letové prevádzkové služby",
+    "answers":[
+      "a) na lety podľa prístrojov (IFR) a lety za viditeľnosti (VFR)",
+      "b)denné a nočné",
+      "c) prízemné, v malých, stredných a veľkých výškach"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"191",
+    "questionPosition":60
+  },
+  {
+    "questionText":"Prízemné lety sú lety vo výškach nad terénom pod",
+    "answers":[
+      "a) 300 m",
+      "b) 200 m",
+      "c) 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"192",
+    "questionPosition":61
+  },
+  {
+    "questionText":"Lety v malých výškach sú lety nad terénom od",
+    "answers":[
+      "a) 100 m do 200 m",
+      "b) 100 m do 300 m",
+      "c) 100 m do 500 m"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"193",
+    "questionPosition":62
+  },
+  {
+    "questionText":"Lety v stredných výškach sú lety nad terénom vo výškach od",
+    "answers":[
+      "a) 300 m do letovej hladiny 2 150 m",
+      "b) 100 m do letovej hladiny 6 100 m",
+      "c) 300 m do letovej hladiny 6 100 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"194",
+    "questionPosition":63
+  },
+  {
+    "questionText":"Lety vo veľkých výškach sú lety vyššie od letovej hladiny",
+    "answers":[
+      "a) 6 100 m",
+      "b)2 150m",
+      "c) 10 000 m"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"195",
+    "questionPosition":64
+  },
+  {
+    "questionText":"Lety podľa dennej doby, v ktorej sa vykonávajú, sa rozdeľujú na lety:",
+    "answers":[
+      "a) IFR a VFR",
+      "b) VMC a IMC",
+      "c) denné a nočné"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"196",
+    "questionPosition":65
+  },
+  {
+    "questionText":"Na vykonávanie iných ako dopravných letov je prevádzkovateľ povinný vydať",
+    "answers":[
+      "a) podrobné pokyny",
+      "b) metodickú príručku",
+      "c) podrobné smernice"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"197",
+    "questionPosition":66
+  },
+  {
+    "questionText":"Nad vykonávaním jednotlivých druhov letov, najmä pokiaľ ide o dodržovanie príslušných podrobných smerníc, je prevádzkovateľ povinný organizovať",
+    "answers":[
+      "a) systém dozoru",
+      "b) systém kontroly",
+      "c) náhodnú kontrolnú činnosť"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"198",
+    "questionPosition":67
+  },
+  {
+    "questionText":"Letová dohľadnosť u pátracích a záchranných letov, vrátane letov na účely leteckej záchrannej služby, musí byť u lietadiel s nepohyblivými nosnými plochami najmenej",
+    "answers":[
+      "a) 8 km",
+      "b) 5 km",
+      "c) 1,5 km"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"199",
+    "questionPosition":68
+  },
+  {
+    "questionText":"Letová dohľadnosť u pátracích a záchranných letov, vrátane letov na účely leteckej záchrannej služby, musí byť u vrtuľníkov najmenej",
+    "answers":[
+      "a) 5 km",
+      "b) 1,5 km",
+      "c) 800 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"200",
+    "questionPosition":69
+  },
+  {
+    "questionText":"Výška letu nad terénom (alebo nad umelými či prírodnými prekážkami) pri pátracích a záchranných letoch u lietadiel s nepohyblivými nosnými plochami, musí byť najmenej",
+    "answers":[
+      "a) 10 m",
+      "b) 30 m",
+      "c) "
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"201",
+    "questionPosition":70
+  },
+  {
+    "questionText":"Výška letu nad terénom (alebo nad umelými či prírodnými prekážkami) pri pátracích a záchranných letoch u vrtuľníkov musí byť najmenej",
+    "answers":[
+      "a) 50 m",
+      "b) 30 m",
+      "c) 10 m"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"202",
+    "questionPosition":71
+  },
+  {
+    "questionText":"Na všetky druhy školských a výcvikových letov je prevádzkovateľ povinný spracovať osnovy a nechať ich schváliť",
+    "answers":[
+      "a) leteckému úradu",
+      "b) Štátnej leteckej inšpekcii",
+      "c) metodickej rade"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"203",
+    "questionPosition":72
+  },
+  {
+    "questionText":"Za posudzovanie vhodnosti meteorologických podmienok na daný školský alebo výcvikový let, ako aj za spôsob vykonania letu zodpovedá",
+    "answers":[
+      "a) oprávnený inštruktor",
+      "b) pilotný žiak",
+      "c) riadiaci letovej prevádzky"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"204",
+    "questionPosition":73
+  },
+  {
+    "questionText":"Školské a výcvikové lety, konané v noci v blízkosti letiska lietadlami, ktoré nie sú vybavené na lety IFR, sa môžu vykonávať, ak je letová dohľadnosť najmenej",
+    "answers":[
+      "a) 8 km",
+      "b) 5 km",
+      "c) 3 km"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Prevádzka lietadiel",
+    "categoryName":"Prevádzka lietadiel",
+    "id":"205",
+    "questionPosition":74
+  }
+]

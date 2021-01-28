@@ -451,7 +451,7 @@
       "všetkých dopravných lietadiel",
       "všetkých civilných lietadiel"
     ],
-    "correctAnswerPosition":0,
+    "correctAnswerPosition":2,
     "testName":" Pravidlá lietania L-2 X57",
     "categoryName":"PRAVIDLÁ LIETANIA L-2",
     "id":"1216"
@@ -643,7 +643,7 @@
       "60 stupňov",
       "80 stupňov"
     ],
-    "correctAnswerPosition":1,
+    "correctAnswerPosition":0,
     "testName":" Pravidlá lietania L-2 X58",
     "categoryName":"PRAVIDLÁ LIETANIA L-2",
     "id":"1232"

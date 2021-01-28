@@ -1,0 +1,730 @@
+[
+  {
+    "questionText":"Podľa definície je elektrický prúd",
+    "answers":[
+      "a) rozdiel potenciálov medzi kladným a záporným pólom elektrického zdroja",
+      "b) usporiadaný pohyb voľných elektrónov v trvalom elektrickom poli uzavretého obvodu",
+      "c) hodnota nameraná ampérmetrom v elektrickom obvode"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"717",
+    "questionPosition":1
+  },
+  {
+    "questionText":"Elektrický odpor je",
+    "answers":[
+      "a) všeobecná vlastnosť akejkoľvek látky vzhľadom na elektrický prúd",
+      "b) reakcia protónov v kovoch pri napojení na zdroj napätia",
+      "c) vzájomná reakcia jadier a pohybujúcich sa elektrónov pri zapojení vodiča na zdroj napätia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"718",
+    "questionPosition":2
+  },
+  {
+    "questionText":"Napätie je",
+    "answers":[
+      "a) rozdiel potenciálov medzi dvoma bodmi elektrického poľa",
+      "b) to, čo je možné namerať na kladnom a zápornom póle zdroja",
+      "c) sila vo vodiči pri jeho napnutí medzi dvoma prvkami"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"719",
+    "questionPosition":3
+  },
+  {
+    "questionText":"Ohmov zákon popisuje vzťah medzi",
+    "answers":[
+      "a) napätím, odporom a vodivosťou",
+      "b) napätím, odporom a prúdom",
+      "c) napätím, vodivosťou a prúdom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"720",
+    "questionPosition":4
+  },
+  {
+    "questionText":"Odpor kovového vodiča je závislý od",
+    "answers":[
+      "a) dĺžky, prierezu vodiča, druhu materiálu (tzv. merného odporu)",
+      "b) dĺžky, tvaru a prostredia uloženia vodiča",
+      "c) len od dĺžky vodiča"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"721",
+    "questionPosition":5
+  },
+  {
+    "questionText":"Označte, ktorá z odpovedí vyjadruje správne znenie I. a II. Kirchhoffovho zákona",
+    "answers":[
+      "a) I. Prúdy v paralelných vetvách sa rozdelia v priamom pomere k napätiu  U = k . I, II.  Výsledné napätie paralelne zapojených vetiev v obvode je rovné súčtu napätí jednotlivých vetiev  U = U1 + U2",
+      "b)\tI. U = R . I, II.   1/R = 1/R1 + 1/R2",
+      "c)\tI. Súčet prúdov do uzla pritekajúcich sa rovná súčtu prúdov z uzla vytekajúcich I = I1 + I2 + . . . +In, II. V uzavretom elektrickom obvode sa algebraický súčet napätí zdrojov rovná súčtu úbytkov napätí na jednotlivých odporoch (spotrebičoch) U1 + U2 + . . . + Un = IR1 + IR2 + . . . + IRn"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"722",
+    "questionPosition":6
+  },
+  {
+    "questionText":"Elektrický výkon je",
+    "answers":[
+      "a) súčinom napätia a času",
+      "b) súčinom prúdu prechádzajúcim vodičom a napätia medzi jeho koncami",
+      "c) podielom prúdu prechádzajúcim vodičom a napätia medzi jeho koncami"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"723",
+    "questionPosition":7
+  },
+  {
+    "questionText":"Aký maximálny prúd je možné odoberať zo siete športového lietadla s generátorom jednosmerného prúdu 600 W (U = 27,5 V)",
+    "answers":[
+      "a)   5 A",
+      "b) 10 A",
+      "c) 20 A"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"724",
+    "questionPosition":8
+  },
+  {
+    "questionText":"Množstvo spotrebičov zapojených na zdroj elektrickej energie sa riadi jeho",
+    "answers":[
+      "a) napätím",
+      "b) výkonom",
+      "c) vzájomným zapojením"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"725",
+    "questionPosition":9
+  },
+  {
+    "questionText":"Jednotkou elektrického výkonu je",
+    "answers":[
+      "a) kW/h (kilowatt za hodinu)",
+      "b) W (watt)",
+      "c) kJ (kilojoule)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"726",
+    "questionPosition":10
+  },
+  {
+    "questionText":"Sériové, paralelné a môstikové zapojenia slúžia na spojovanie",
+    "answers":[
+      "a) nerovnakých vodičov, rozvádzačov a ističov",
+      "b) elektrických prvkov, zdrojov, blokov",
+      "c) prístrojov (vizuálnych) a ovládačov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"727",
+    "questionPosition":11
+  },
+  {
+    "questionText":"Pri sériovom zapojení zdrojov (batérií) je výsledné napätie",
+    "answers":[
+      "a) nezmenené",
+      "b) rovné súčtu obrátených hodnôt   Σ 1/Ui",
+      "c) väčšie (rovné súčtu napätí)   Σ Ui"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"728",
+    "questionPosition":12
+  },
+  {
+    "questionText":"Pri paralelnom zapojení rezistrov (odporov) je výsledné napätie",
+    "answers":[
+      "a) rovnaké ako napätie zdroja",
+      "b) rozdelí sa podľa jednotlivých napätí v obvode",
+      "c) je menšie ako napätie zdroja"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"729",
+    "questionPosition":13
+  },
+  {
+    "questionText":"Môstikové zapojenie je typické a výhodné na spojovanie",
+    "answers":[
+      "a) zdrojov",
+      "b) spotrebičov",
+      "c) snímačov a meracích prístrojov, napr. v skupine motorových prístrojov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"730",
+    "questionPosition":14
+  },
+  {
+    "questionText":"V ktorom zo zapojení je podstatne jednoduchšie určiť zlý prvok (spotrebič) ?",
+    "answers":[
+      "a) v sériovom",
+      "b) v paralelnom",
+      "c) v môstikovom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"731",
+    "questionPosition":15
+  },
+  {
+    "questionText":"Na zmeranie prúdu je ampérmeter zapojený do meraného obvodu",
+    "answers":[
+      "a) paralelne",
+      "b) v sérii",
+      "c) podľa možnosti a podmienok pripojenia prístrojov do obvodu (ľubovoľne)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"732",
+    "questionPosition":16
+  },
+  {
+    "questionText":"Na zníženie prúdu, pretekajúceho jednoduchým obvodom a pri U = const. je potrebné pridať ku spotrebičom rezistor (odpor) a zapojiť ho",
+    "answers":[
+      "a) do série",
+      "b) paralelne",
+      "c) priamo do svorky zdroja"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"733",
+    "questionPosition":17
+  },
+  {
+    "questionText":"Termočlánky sa na lietadle používajú na",
+    "answers":[
+      "a) pohon pohonnej jednotky (pri športových lietadlách s pomocným elektromotorom)",
+      "b) dobíjanie palubných akumulátorov",
+      "c) ako snímače napr. termoelektrických teplomerov"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"734",
+    "questionPosition":18
+  },
+  {
+    "questionText":"Magnetická indukcia je jav súvisiaci s",
+    "answers":[
+      "a) magnetickým poľom Zeme",
+      "b) všeobecným magnetickým poľom (napr. cievky)",
+      "c) len magnetickým poľom permanentného tyčového magnetu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"735",
+    "questionPosition":19
+  },
+  {
+    "questionText":"Elektromagnetická indukcia je jav, ktorý vzniká pri",
+    "answers":[
+      "a) každom elektromagnete väčšieho rozmeru vo vákuu",
+      "b) pohybe permanentného magnetu v blízkosti iného permanentného magnetu",
+      "c) zmene magnetického indukčného toku v okolí vodiča a je zdrojom indukovaného napätia"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"736",
+    "questionPosition":20
+  },
+  {
+    "questionText":"Princíp elektromagnetickej indukcie je využitý pri",
+    "answers":[
+      "a) konštrukcii elektromagnetov",
+      "b) konštrukcii elektrických strojov",
+      "c) konštrukcii akumulátorov"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"737",
+    "questionPosition":21
+  },
+  {
+    "questionText":"Kapacita súvisí s vlastnosťou materiálov",
+    "answers":[
+      "a) viesť elektrický prúd",
+      "b) klásť odpor prechádzajúcemu elektrickému prúdu",
+      "c) prijať určitý elektrický náboj"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"738",
+    "questionPosition":22
+  },
+  {
+    "questionText":"Kapacita kondenzátora je závislá od",
+    "answers":[
+      "a) účinnej plochy kondenzátora, vzdialenosťami medzi doskami a dielektrika medzi nimi",
+      "b) hrúbky dosák a ich vzájomnej polohy",
+      "c) použitých materiáloch a tvaru kondenzátora"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"739",
+    "questionPosition":23
+  },
+  {
+    "questionText":"Jednotkou kapacity je",
+    "answers":[
+      "a) farad",
+      "b) tesla ",
+      "c) henri"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"740",
+    "questionPosition":24
+  },
+  {
+    "questionText":"Jednotlivé články v akumulátorovej batérii na lietadle sú obyčajne zapojené",
+    "answers":[
+      "a) v sérii",
+      "b) paralelne",
+      "c) sériovo – paralelne"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"741",
+    "questionPosition":25
+  },
+  {
+    "questionText":"Akumulátorové batérie slúžia na lietadle ako",
+    "answers":[
+      "a) hlavný zdroj elektrickej energie",
+      "b) záložný (náhradný) zdroj",
+      "c) pomocný zdroj na spoluprácu s alternátorom"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"742",
+    "questionPosition":26
+  },
+  {
+    "questionText":"Lietadlá všeobecného letectva používajú v prevažnej miere akumulátor",
+    "answers":[
+      "a) olovený",
+      "b) niklokadmiový",
+      "c) striebrozinkový"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"743",
+    "questionPosition":27
+  },
+  {
+    "questionText":"Kapacita akumulátora je daná",
+    "answers":[
+      "a) objemom všetkých nádob článkov",
+      "b) objemom kyseliny naplnenej do článkov batérie",
+      "c) množstvom energie, ktorú môže akumulátor dodať v priebehu vybíjania"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"744",
+    "questionPosition":28
+  },
+  {
+    "questionText":"Z olovenej lietadlovej batérie s kapacitou 40 Ah (ampérhodín) môžeme odoberať",
+    "answers":[
+      "a) prúd do 2 A neobmedzenú dobu",
+      "b) prúd do 5 A maximálne 4 hodiny",
+      "c) prúd napr. 8 A po dobu najviac 5 hodín"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"745",
+    "questionPosition":29
+  },
+  {
+    "questionText":"Kapacita oloveného akumulátora je veľmi závislá od",
+    "answers":[
+      "a) nabíjacieho prúdu a doby nabíjania",
+      "b) vybíjacieho prúdu a teploty",
+      "c) čistoty a starostlivosti pri ošetrovaní"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"746",
+    "questionPosition":30
+  },
+  {
+    "questionText":"Hlavným zdrojom jednosmerného prúdu na lietadle je",
+    "answers":[
+      "a) alternátor",
+      "b) dynamo",
+      "c) termoelektrický zdroj"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"747",
+    "questionPosition":31
+  },
+  {
+    "questionText":"Zdrojom striedavého prúdu na lietadle je",
+    "answers":[
+      "a)\talternátor",
+      "b) dynamo",
+      "c) akumulátorová batéria (napr. NiCd)"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"748",
+    "questionPosition":32
+  },
+  {
+    "questionText":"Napätie mechanických zdrojov elektrickej energie je závislé od",
+    "answers":[
+      "a) konštrukcie, otáčok a zaťaženia",
+      "b) chladenia, umiestnenia na motore, rozvodu",
+      "c) počtu spotrebičov a ich spotrebe"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"749",
+    "questionPosition":33
+  },
+  {
+    "questionText":"Hlavnými parametrami charakterizujúcimi striedavý elektrický systém sú",
+    "answers":[
+      "a) striedavé napätie a frekvencia",
+      "b) striedavé napätie a prúd",
+      "c) striedavý prúd a rezistencia"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"750",
+    "questionPosition":34
+  },
+  {
+    "questionText":"Ak je uvedené, že striedavý systém má napätie 220 V, ide o",
+    "answers":[
+      "a) okamžitú hodnotu striedavého prúdu",
+      "b) amplitúdu (maximálnu hodnotu) U",
+      "c) efektívnu hodnotu napätia U"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"751",
+    "questionPosition":35
+  },
+  {
+    "questionText":"Striedavá elektrická sieť na palube lietadiel pracuje s týmito hodnotami napätia a frekvencie",
+    "answers":[
+      "a) 220 V,  50 Hz",
+      "b) 27 V,  500 Hz",
+      "c) 36, resp. 115 V,  400Hz"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"752",
+    "questionPosition":36
+  },
+  {
+    "questionText":"Trojfázové elektrické siete na lietadle majú toto napätie a frekvenciu",
+    "answers":[
+      "a) 380 V / 500 Hz",
+      "b) 36 V / 400 Hz",
+      "c) 220 V nestabilizovanej frekvencie"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"753",
+    "questionPosition":37
+  },
+  {
+    "questionText":"Jednofázové striedavé elektrické siete na lietadle majú napätie a frekvenciu",
+    "answers":[
+      "a) 220 V / 500 Hz",
+      "b) 115 V / 400 Hz",
+      "c) 36 V / 50 Hz"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"754",
+    "questionPosition":38
+  },
+  {
+    "questionText":"Trojfázové striedavé elektrické rozvody na malom lietadle (obyčajne je zdroj menič) majú toto napätie a frekvenciu",
+    "answers":[
+      "a) 3 X 36 V / 400 Hz",
+      "b) 3 X 380 V / 500 Hz",
+      "c) 3 X 24 V / 400 Hz"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"755",
+    "questionPosition":39
+  },
+  {
+    "questionText":"Regulácia napätia leteckého dynama sa vykonáva pomocou",
+    "answers":[
+      "a) pokiaľ možno stálych otáčok motora",
+      "b) vyrovnávaním kolísania z batérie",
+      "c) reguláciou budiaceho prúdu dynama"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"756",
+    "questionPosition":40
+  },
+  {
+    "questionText":"Na reguláciu napätia leteckého dynama sa používa",
+    "answers":[
+      "a) zariadenie na udržiavanie stálych otáčok",
+      "b) vibračný alebo uhlíkový regulátor",
+      "c) ručný regulátor budiaceho prúdu"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"757",
+    "questionPosition":41
+  },
+  {
+    "questionText":"Činnosť vibračného regulátora napätia elektrickej siete lietadla je založená na",
+    "answers":[
+      "a) zmene odporu uhlíkového stĺpca",
+      "b) prerušovanom ručnom spínaní budiaceho obvodu",
+      "c) spínaní a rozpínaní kontaktov regulačného systému"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"758",
+    "questionPosition":42
+  },
+  {
+    "questionText":"Meniče slúžia v lietadlovej elektrickej sieti na",
+    "answers":[
+      "a) zmenu (automatickú alebo ručnú) režimu činnosti pohonných jednotiek",
+      "b) zmenu napätia základnej elektrickej siete lietadla na inú, potrebnú na činnosť niektorých zariadení",
+      "c) zmenu mechanickej energie na energiu inú, napr. hydraulickú alebo mechanickú"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"759",
+    "questionPosition":43
+  },
+  {
+    "questionText":"Meniče elektrickej energie sa v zásade delia na",
+    "answers":[
+      "a) rotačné a stacionárne",
+      "b) mechanické",
+      "c) s transformátorom alebo usmerňovačom"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"760",
+    "questionPosition":44
+  },
+  {
+    "questionText":"Rotačný menič je z hľadiska konštrukcie",
+    "answers":[
+      "a) podobný dynamu",
+      "b) rovnaký ako trojfázový alternátor",
+      "c) spotrebič na vstupe a zdroj žiadaného napätia na výstupe"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"761",
+    "questionPosition":45
+  },
+  {
+    "questionText":"Transformátory bez ďalšieho zariadenia sú použiteľné len v sieti",
+    "answers":[
+      "a) jednosmernej",
+      "b) striedavej",
+      "c) záložnej (akumulátorovej)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"762",
+    "questionPosition":46
+  },
+  {
+    "questionText":"Elektrickou sieťou lietadla rozumieme",
+    "answers":[
+      "a) komplex vodičov slúžiacich na rozvod elektrickej energie od zdrojov k spínačom",
+      "b) rozvod, spínače, rozvádzače, poistky, meracie prístroje siete a pomocné systémy",
+      "c) komplex všetkých vodičov v lietadle"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"763",
+    "questionPosition":47
+  },
+  {
+    "questionText":"Vlastná elektrická sieť malého lietadla kovovej konštrukcie (športové, obchodné) je",
+    "answers":[
+      "a) jednovodičová",
+      "b) dvojvodičová",
+      "c) používa aj viac vodičov pre rozvod"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"764",
+    "questionPosition":48
+  },
+  {
+    "questionText":"U jednovodičovej elektrickej siete je ukostrený vždy",
+    "answers":[
+      "a) ľubovoľný pól batérie",
+      "b) kladný pól",
+      "c) záporný pól"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"765",
+    "questionPosition":49
+  },
+  {
+    "questionText":"Tzv. stykovacie alebo vodivé prepojenie z hľadiska statickej elektriny pomocou stykovacích pásikov je dôležité z dôvodu:",
+    "answers":[
+      "a) odstránenia rušenia komunikačných zariadení",
+      "b) dobrého vedenia elektrického prúdu aj do najvzdialenejších častí lietadla",
+      "c) odvedenia statickej elektriny z pohyblivých častí"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"766",
+    "questionPosition":50
+  },
+  {
+    "questionText":"Na ochranu elektrickej siete a spotrebičov pred preťažením a poruchou slúžia",
+    "answers":[
+      "a) kontrolné a meracie prístroje (A/V meter)",
+      "b) tavné alebo automatické poistky",
+      "c) systém svetelnej a zvukovej signalizácie preťaženia"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"767",
+    "questionPosition":51
+  },
+  {
+    "questionText":"Zbernice v elektrickej sieti lietadla slúžia na",
+    "answers":[
+      "a) zber informácií o stave elektrickej siete",
+      "b) spojenie viacerých elektrických vetví v hlavnom alebo skupinovom rozvádzači",
+      "c) spojenie elektrických sietí s rôznymi charakteristikami (napr. napätím)"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"768",
+    "questionPosition":52
+  },
+  {
+    "questionText":"Elektrické motory, používané v lietadlách, sú v porovnaní s pozemnými",
+    "answers":[
+      "a) principiálne a konštrukčne rozdielne",
+      "b) principiálne zhodné, ale konštrukčne rozdielne (s ohľadom na podmienky činnosti)",
+      "c) principiálne úplne rozdielne"
+    ],
+    "correctAnswerPosition":1,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"769",
+    "questionPosition":53
+  },
+  {
+    "questionText":"Na meranie parametrov elektrickej siete na lietadle sa väčšinou používajú",
+    "answers":[
+      "a) voltmetre a ampérmetre",
+      "b) watmetre alebo iný ekvivalent na meranie výkonu",
+      "c) selsyny"
+    ],
+    "correctAnswerPosition":0,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"770",
+    "questionPosition":54
+  },
+  {
+    "questionText":"V striedavej elektrickej sieti sa na lietadle okrem napätia a prúdu ešte meria",
+    "answers":[
+      "a) striedavý odpor",
+      "b) výkon zdroja napätia",
+      "c) kmitočet"
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"771",
+    "questionPosition":55
+  },
+  {
+    "questionText":"Jednosmerné elektrické siete lietadiel majú napätie základnej siete:",
+    "answers":[
+      "a) 24 V,",
+      "b) 32 V,",
+      "c) 27V."
+    ],
+    "correctAnswerPosition":2,
+    "testName":"Elektrotechnika",
+    "categoryName":"Elektrotechnika",
+    "id":"772",
+    "questionPosition":56
+  }
+]
